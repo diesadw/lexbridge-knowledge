@@ -1,0 +1,41 @@
+{
+ "كحول - رسوم الانتاج": [
+  "EGY-CRIM-11932",
+  "EGY-CRIM-11933",
+  "EGY-CRIM-11934",
+  "EGY-CRIM-11935",
+  "EGY-CRIM-11936",
+  "EGY-CRIM-11937",
+  "EGY-CRIM-11938",
+  "EGY-CRIM-11939"
+ ],
+ "كفالة الدين التجارى": [
+  "cass_civil_general_civil_1041_47_2"
+ ],
+ "كفالة الالتزامات الناشئة عن الحساب الجارى": [
+  "cass_civil_general_civil_0690_40_1"
+ ],
+ "كفالة الالتزام المستقبل": [
+  "cass_civil_general_civil_0227_37_2",
+  "cass_civil_general_civil_0031_42_3"
+ ],
+ "كتمان": [
+  "civil_consent_defect_fraud"
+ ],
+ "كسب فائت": [
+  "civil_tort_damage"
+ ],
+ "كفالة": [
+  "civil_guarantee_personal"
+ ],
+ "كفيل": [
+  "civil_guarantee_personal"
+ ],
+ "كفالة تضامنية": [
+  "civil_guarantee_personal"
+ ],
+ "كمبيالة": [
+  "COM-0002",
+  "COM-0003"
+ ]
+}

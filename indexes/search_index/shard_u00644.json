@@ -1,0 +1,248 @@
+{
+ "لوائح السجون": [
+  "EGY-CRIM-15457"
+ ],
+ "لوائح تنفيذية": [
+  "EGY-CRIM-15458"
+ ],
+ "لجنة الشئون الوقتية": [
+  "EGY-CRIM-15926"
+ ],
+ "لوائح البريد": [
+  "EGY-CRIM-15456"
+ ],
+ "لجان الفصل فى المنازعات الزراعية": [
+  "cass_civil_agriculture_0263_26_5",
+  "cass_civil_agriculture_0263_26_6",
+  "cass_civil_agriculture_0260_31_1",
+  "cass_civil_agriculture_0260_31_2",
+  "cass_civil_agriculture_0260_31_3",
+  "cass_civil_agriculture_0326_33_2",
+  "cass_civil_agriculture_0217_34_3",
+  "cass_civil_agriculture_010_35_1",
+  "cass_civil_agriculture_0599_35_2",
+  "cass_civil_agriculture_0187_36_1",
+  "cass_civil_agriculture_0303_36_3",
+  "cass_civil_agriculture_0635_39_1",
+  "cass_civil_agriculture_0148_39_2",
+  "cass_civil_agriculture_0076_40_1",
+  "cass_civil_agriculture_0224_42_2",
+  "cass_civil_agriculture_0224_42_5",
+  "cass_civil_agriculture_0273_42_2",
+  "cass_civil_agriculture_0273_42_3",
+  "cass_civil_agriculture_0289_42_1",
+  "cass_civil_agriculture_0564_39_1",
+  "cass_civil_agriculture_0564_39_2",
+  "cass_civil_agriculture_0151_42_2",
+  "cass_civil_agriculture_005_43_2",
+  "cass_civil_agriculture_0587_43_2",
+  "cass_civil_agriculture_0615_43_2",
+  "cass_civil_agriculture_0210_44_3",
+  "cass_civil_agriculture_0210_44_4",
+  "cass_civil_agriculture_0793_44_4",
+  "cass_civil_agriculture_0793_44_5",
+  "cass_civil_agriculture_080_44_1",
+  "cass_civil_agriculture_080_44_4",
+  "cass_civil_agriculture_0813_45_3",
+  "cass_civil_agriculture_1257_47_1",
+  "cass_civil_agriculture_1285_48_5",
+  "cass_civil_agriculture_0093_50_1",
+  "cass_civil_agriculture_1080_50_3",
+  "cass_civil_agriculture_1292_50_1",
+  "cass_civil_agriculture_1559_51_2"
+ ],
+ "لجنة الضباط": [
+  "cass_civil_armed_forces_0131_21_3",
+  "cass_civil_armed_forces_0131_21_1"
+ ],
+ "لفت نظر الخصوم لمقتضيات دفاعهم": [
+  "cass_civil_defense_0291_32_3",
+  "cass_civil_defense_0140_36_3",
+  "cass_civil_defense_0370_36_8",
+  "cass_civil_defense_0960_44_2",
+  "cass_civil_defense_0149_48_4",
+  "cass_civil_defense_0302_48_4",
+  "cass_civil_defense_2515_52_2",
+  "cass_civil_defense_1703_57_5",
+  "cass_civil_defense_1461_54_4"
+ ],
+ "لائحة النظام الاساسى للعمل": [
+  "cass_civil_employment_contracts_0394_33_1"
+ ],
+ "لائحه النظام الاساسى للعمل": [
+  "cass_civil_employment_contracts_0394_33_2"
+ ],
+ "للمالك اختيار احدى طرق اداء مقابل التحسين": [
+  "cass_civil_general_civil_0753_52_2"
+ ],
+ "لجنة الفصل فى المعارضات": [
+  "cass_civil_general_civil_078_20_1",
+  "cass_civil_general_civil_0239_23_1",
+  "cass_civil_general_civil_0382_23_1",
+  "cass_civil_general_civil_0382_23_2",
+  "cass_civil_general_civil_0047_24_1",
+  "cass_civil_general_civil_0079_24_2",
+  "cass_civil_general_civil_0260_27_1",
+  "cass_civil_general_civil_0214_28_1",
+  "cass_civil_general_civil_0189_29_1",
+  "cass_civil_general_civil_0210_31_3",
+  "cass_civil_general_civil_0125_32_2",
+  "cass_civil_general_civil_0249_32_2",
+  "cass_civil_general_civil_0249_32_3",
+  "cass_civil_general_civil_0003_34_2",
+  "cass_civil_general_civil_0134_34_1",
+  "cass_civil_general_civil_0134_34_3",
+  "cass_civil_general_civil_0233_35_3",
+  "cass_civil_general_civil_032_36_1",
+  "cass_civil_general_civil_032_36_3",
+  "cass_civil_general_civil_0341_36_1",
+  "cass_civil_general_civil_0186_37_1",
+  "cass_civil_general_civil_0186_37_2",
+  "cass_civil_general_civil_0357_37_2",
+  "cass_civil_general_civil_0587_39_1",
+  "cass_civil_general_civil_0071_41_1",
+  "cass_civil_general_civil_0368_43_1",
+  "cass_civil_general_civil_0508_44_1",
+  "cass_civil_general_civil_0040_51_2",
+  "cass_civil_general_civil_0232_49_1",
+  "cass_civil_general_civil_0232_49_2",
+  "cass_civil_general_civil_257_58_2"
+ ],
+ "لا ولاية للقاضى فى تعديل الحكم الصادر منه": [
+  "cass_civil_judgments_0177_41_1"
+ ],
+ "لجان تقدير الاجرة": [
+  "cass_civil_lease_0087_37_1",
+  "cass_civil_lease_0457_37_2",
+  "cass_civil_lease_0010_38_6",
+  "cass_civil_lease_0103_38_2",
+  "cass_civil_lease_0333_38_8",
+  "cass_civil_lease_0483_38_3",
+  "cass_civil_lease_0483_38_4",
+  "cass_civil_lease_0315_39_1",
+  "cass_civil_lease_0315_39_2",
+  "cass_civil_lease_0103_40_2",
+  "cass_civil_lease_0103_40_4",
+  "cass_civil_lease_0103_40_6",
+  "cass_civil_lease_0103_40_9",
+  "cass_civil_lease_0588_40_2",
+  "cass_civil_lease_0588_40_3",
+  "cass_civil_lease_0588_40_5",
+  "cass_civil_lease_0588_40_6",
+  "cass_civil_lease_0136_42_3",
+  "cass_civil_lease_0294_41_2",
+  "cass_civil_lease_0690_43_4",
+  "cass_civil_lease_0691_43_2",
+  "cass_civil_lease_0691_43_3",
+  "cass_civil_lease_138_43_2",
+  "cass_civil_lease_0269_44_1",
+  "cass_civil_lease_0959_44_1",
+  "cass_civil_lease_0461_45_1",
+  "cass_civil_lease_0461_45_2",
+  "cass_civil_lease_0034_43_1",
+  "cass_civil_lease_0034_43_2",
+  "cass_civil_lease_0170_43_1",
+  "cass_civil_lease_1323_48_1",
+  "cass_civil_lease_0595_47_1",
+  "cass_civil_lease_1247_47_1",
+  "cass_civil_lease_1263_47_3",
+  "cass_civil_lease_0083_50_1",
+  "cass_civil_lease_0193_51_3",
+  "cass_civil_lease_0284_49_3",
+  "cass_civil_lease_0621_49_2",
+  "cass_civil_lease_0878_49_4",
+  "cass_civil_lease_0622_50_2",
+  "cass_civil_lease_1655_52_1",
+  "cass_civil_lease_1597_50_1",
+  "cass_civil_lease_0749_52_1",
+  "cass_civil_lease_1072_52_1",
+  "cass_civil_lease_1231_52_1",
+  "cass_civil_lease_2164_52_2",
+  "cass_civil_lease_1390_54_4",
+  "cass_civil_lease_1327_55_3",
+  "cass_civil_lease_1327_55_4",
+  "cass_civil_lease_1327_55_5",
+  "cass_civil_lease_2847_59_2",
+  "cass_civil_lease_2847_59_3",
+  "cass_civil_lease_1626_51_2",
+  "cass_civil_lease_1626_51_3"
+ ],
+ "لجان القسمة": [
+  "cass_civil_partition_contracts_0310_49_3",
+  "cass_civil_partition_contracts_0376_43_2"
+ ],
+ "لا تضامن بين الشفعاء فيها": [
+  "cass_civil_preemption_0256_48_1"
+ ],
+ "لائحة النظام الاساسى للنقابة": [
+  "cass_civil_professional_unions_0367_33_2"
+ ],
+ "لا يجوز تملك اموال الدولة بالتقادم": [
+  "cass_civil_public_property_0184_38_2",
+  "cass_civil_public_property_1746_50_1"
+ ],
+ "لجنة الغزل و المنسوجات": [
+  "cass_civil_supply_regulatory_0098_21_1"
+ ],
+ "لا تسرى الفوائد على المبالغ التى ترد للممول": [
+  "cass_civil_taxation_0474_29_1"
+ ],
+ "لجنة الطعن الضريبى": [
+  "cass_civil_taxation_00157_18_1",
+  "cass_civil_taxation_0049_18_1",
+  "cass_civil_taxation_0049_18_2",
+  "cass_civil_taxation_0051_18_1",
+  "cass_civil_taxation_0123_18_1",
+  "cass_civil_taxation_0117_19_1",
+  "cass_civil_taxation_0147_19_1",
+  "cass_civil_taxation_0148_19_1",
+  "cass_civil_taxation_0181_19_1",
+  "cass_civil_taxation_0088_20_1",
+  "cass_civil_taxation_0273_20_1",
+  "cass_civil_taxation_0278_20_1",
+  "cass_civil_taxation_0342_20_1",
+  "cass_civil_taxation_0170_21_1",
+  "cass_civil_taxation_0359_21_1",
+  "cass_civil_taxation_0430_21_1",
+  "cass_civil_taxation_051_21_1",
+  "cass_civil_taxation_0265_22_2",
+  "cass_civil_taxation_0402_23_1",
+  "cass_civil_taxation_0046_24_1",
+  "cass_civil_taxation_0329_24_1",
+  "cass_civil_taxation_0207_29_1",
+  "cass_civil_taxation_0552_35_1",
+  "cass_civil_taxation_0167_36_1",
+  "cass_civil_taxation_0167_36_2",
+  "cass_civil_taxation_0220_36_1",
+  "cass_civil_taxation_0279_36_1",
+  "cass_civil_taxation_085_44_2",
+  "cass_civil_taxation_0757_40_1",
+  "cass_civil_taxation_0757_40_2",
+  "cass_civil_taxation_0288_50_2",
+  "cass_civil_taxation_0873_50_3",
+  "cass_civil_taxation_1084_52_2",
+  "cass_civil_taxation_2210_53_2"
+ ],
+ "لا تسقط دعوى الريع بمضى المدة": [
+  "cass_civil_usufruct_revenue_0606_43_4"
+ ],
+ "لجنة شئون الاوقاف": [
+  "cass_civil_waqf_0074_40_1",
+  "cass_civil_waqf_0172_49_1",
+  "cass_civil_waqf_0724_49_1",
+  "cass_civil_waqf_1857_52_2"
+ ],
+ "لا وصية لوارث": [
+  "cass_civil_wills_0071_32_2",
+  "cass_civil_wills_0330_34_5"
+ ],
+ "لا ضرر ولا ضرار": [
+  "civil_abuse_of_rights"
+ ],
+ "لا_ضرر": [
+  "civil_abuse_of_rights"
+ ],
+ "لا وجه": [
+  "CRIM-0010"
+ ]
+}
