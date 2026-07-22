@@ -1,0 +1,178 @@
+{
+  "generated_at": "2026-07-19T20:04:38.520566+00:00",
+  "status": "ok_with_known_warnings",
+  "counts": {
+    "total_records": 65522,
+    "unique_ids": 65487,
+    "records_scanned": 65522,
+    "per_folder": {
+      "deadlines": 67,
+      "defenses": 42,
+      "judgments": 44190,
+      "laws": 21093,
+      "principles": 49,
+      "procedures": 74,
+      "templates": 7
+    }
+  },
+  "errors": {
+    "invalid_json_files": [],
+    "unregistered_folders": [],
+    "unregistered_files_in_registered_area": [],
+    "duplicate_ids": {
+      "cass_civil_cassation_rulings_0180_18_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#1",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#117"
+      ],
+      "cass_civil_cassation_rulings_048_54_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#21",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#22"
+      ],
+      "cass_civil_cassation_rulings_2564_52_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#23",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#24"
+      ],
+      "cass_civil_cassation_rulings_1995_54_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#25",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#26"
+      ],
+      "cass_civil_cassation_rulings_0321_22_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#29",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#252"
+      ],
+      "cass_civil_cassation_rulings_0161_29_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#32",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#33"
+      ],
+      "cass_civil_cassation_rulings_0077_30_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#34",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#35"
+      ],
+      "cass_civil_cassation_rulings_0213_18_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#38",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#121"
+      ],
+      "cass_civil_cassation_rulings_0196_18_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#59",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#119"
+      ],
+      "cass_civil_cassation_rulings_0166_18_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#72",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#116"
+      ],
+      "cass_civil_cassation_rulings_1039_45_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#82",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#83"
+      ],
+      "cass_civil_cassation_rulings_1421_47_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#85",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#86"
+      ],
+      "cass_civil_cassation_rulings_0171_19_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#90",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#130"
+      ],
+      "cass_civil_cassation_rulings_0107_20_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#92",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#104",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#135"
+      ],
+      "cass_civil_cassation_rulings_003_30_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#109",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#110"
+      ],
+      "cass_civil_cassation_rulings_0098_19_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#123",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#124"
+      ],
+      "cass_civil_cassation_rulings_0168_19_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#128",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#129"
+      ],
+      "cass_civil_cassation_rulings_0330_36_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#327",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#328"
+      ],
+      "cass_civil_cassation_rulings_0573_41_1": [
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#364",
+        "knowledge/judgments/cassation/civil/cassation_rulings.json#391"
+      ],
+      "cass_civil_general_civil_0651_42_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#406",
+        "knowledge/judgments/cassation/civil/general_civil.json#640"
+      ],
+      "cass_civil_general_civil_0280_25_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#642",
+        "knowledge/judgments/cassation/civil/general_civil.json#643"
+      ],
+      "cass_civil_general_civil_0133_26_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#645",
+        "knowledge/judgments/cassation/civil/general_civil.json#646"
+      ],
+      "cass_civil_general_civil_0484_29_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#648",
+        "knowledge/judgments/cassation/civil/general_civil.json#649"
+      ],
+      "cass_civil_general_civil_0278_31_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#650",
+        "knowledge/judgments/cassation/civil/general_civil.json#651"
+      ],
+      "cass_civil_general_civil_0281_37_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#653",
+        "knowledge/judgments/cassation/civil/general_civil.json#654",
+        "knowledge/judgments/cassation/civil/general_civil.json#655"
+      ],
+      "cass_civil_general_civil_0128_40_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#657",
+        "knowledge/judgments/cassation/civil/general_civil.json#658",
+        "knowledge/judgments/cassation/civil/general_civil.json#659"
+      ],
+      "cass_civil_general_civil_0724_42_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#661",
+        "knowledge/judgments/cassation/civil/general_civil.json#662"
+      ],
+      "cass_civil_general_civil_0431_45_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#663",
+        "knowledge/judgments/cassation/civil/general_civil.json#664"
+      ],
+      "cass_civil_general_civil_0089_40_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#674",
+        "knowledge/judgments/cassation/civil/general_civil.json#675",
+        "knowledge/judgments/cassation/civil/general_civil.json#676"
+      ],
+      "cass_civil_general_civil_1489_50_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#683",
+        "knowledge/judgments/cassation/civil/general_civil.json#684"
+      ],
+      "cass_civil_general_civil_0103_48_1": [
+        "knowledge/judgments/cassation/civil/general_civil.json#688",
+        "knowledge/judgments/cassation/civil/general_civil.json#689"
+      ]
+    },
+    "duplicate_ids_count": 31,
+    "broken_relationship_links": [],
+    "broken_relationship_links_count": 0
+  },
+  "warnings": {
+    "duplicate_citations_within_record": [],
+    "duplicate_citations_count": 0,
+    "missing_required_metadata": [
+      {
+        "id": "EGY-CRIM-06919",
+        "file": "knowledge/judgments/cassation/criminal/regulatory.json",
+        "missing": [
+          "date"
+        ]
+      },
+      {
+        "id": "EGY-CRIM-06920",
+        "file": "knowledge/judgments/cassation/criminal/regulatory.json",
+        "missing": [
+          "date"
+        ]
+      }
+    ],
+    "missing_required_metadata_count": 2,
+    "orphan_records_zero_relations_and_citations": 17586
+  }
+}
