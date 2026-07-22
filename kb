@@ -1,0 +1,209 @@
+#!/usr/bin/env python3
+"""
+LEXBRIDGE Knowledge CLI (Sprint 2.6, Part 4)
+-------------------------------------------------------------------------
+Single entrypoint for every repository operation. Run from the repo root
+(or pass --root). No subcommand talks to Meilisearch or the website
+directly — this CLI only produces/validates data + indexes under this
+repo; the website's own `npx tsx scripts/knowledge-engine/reindexAll.ts`
+picks up the result (see README "Adding a new legal dataset").
+
+Commands:
+  kb add <file> --collection <name>   Import a new dataset file (Part 10)
+  kb build [--full]                   Full pipeline: derive -> index -> graph -> stats -> validate (Part 3)
+  kb validate                         Run the validation system only (Part 5)
+  kb index [--full]                   Rebuild registry_manifest.json (+ incremental diff) (Parts 2, 8)
+  kb doctor                           Human-readable health check (validate + drift, exit-code aware)
+  kb stats                            Print/refresh the statistics report (Part 6)
+  kb search <query> [--type T] [--related]  Local grep-style search over knowledge/ (offline, no Meilisearch)
+  kb migrate [--dry-run]              Apply pending migrations (Part 9)
+"""
+import argparse
+import json
+import os
+import subprocess
+import sys
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "scripts"))
+
+from lib.common import load_registry, iter_all_records, write_json, now_iso
+from lib.validate import validate as run_validate
+from lib.stats import build_stats
+from lib.graph import build_graph, save_graph, related as graph_related
+from lib.derive_defenses import derive_defenses
+from lib.incremental import diff as incremental_diff, commit as incremental_commit
+from lib.importer import import_file
+from lib import migrate as migrate_mod
+
+
+def cmd_add(args, root):
+    result = import_file(root, args.file, args.collection)
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+
+
+def cmd_index(args, root):
+    changed, deleted, unchanged, new_hashes = incremental_diff(root, full=args.full)
+    print(f"[kb index] changed={len(changed)} deleted={len(deleted)} unchanged={unchanged}")
+    if changed:
+        for f in changed[:20]:
+            print(f"  ~ {f}")
+        if len(changed) > 20:
+            print(f"  ... and {len(changed) - 20} more")
+
+    # registry_manifest.json is cheap enough to always fully rebuild (it's
+    # counts, not content) — this is what stays consistent with build_index.py
+    manifest_script = os.path.join(root, "scripts", "build_index.py")
+    subprocess.run([sys.executable, manifest_script, "--root", root], check=False)
+
+    incremental_commit(root, new_hashes)
+    print(f"[kb index] state committed -> .kb/state.json ({len(new_hashes)} files tracked)")
+    return {"changed": len(changed), "deleted": len(deleted), "unchanged": unchanged}
+
+
+def cmd_validate(args, root):
+    report = run_validate(root)
+    write_json(os.path.join(root, "indexes", "validation_report.json"), report)
+    print(json.dumps({k: v for k, v in report.items() if k != "errors"}, ensure_ascii=False, indent=2))
+    print(f"status: {report['status']}")
+    if report["status"] == "issues_found":
+        print("errors:", json.dumps({
+            "invalid_json_files": len(report["errors"]["invalid_json_files"]),
+            "duplicate_ids_count": report["errors"]["duplicate_ids_count"],
+            "broken_relationship_links_count": report["errors"]["broken_relationship_links_count"],
+            "unregistered_folders": report["errors"]["unregistered_folders"],
+        }, ensure_ascii=False, indent=2))
+    return report
+
+
+def cmd_stats(args, root):
+    stats = build_stats(root)
+    write_json(os.path.join(root, "indexes", "statistics_report.json"), stats)
+    print(json.dumps(stats["totals"], ensure_ascii=False, indent=2))
+    print("citation_coverage_pct:", stats["citation_coverage_pct"])
+    return stats
+
+
+def cmd_build(args, root):
+    print("[kb build] 1/5 deriving generated collections (defenses)...")
+    defense_result = derive_defenses(root)
+    print(f"           -> {defense_result['defense_records_generated']} defense records derived from real judgment data")
+
+    print("[kb build] 2/5 incremental index diff + manifest...")
+    index_result = cmd_index(args, root)
+
+    print("[kb build] 3/5 rebuilding relationship graph...")
+    graph = build_graph(root)
+    save_graph(root, graph, os.path.join(root, "indexes", "graph_index.json"))
+    print(f"           -> {graph['node_count']} nodes, {graph['total_edges']} edges")
+
+    print("[kb build] 4/5 rebuilding statistics...")
+    stats = cmd_stats(args, root)
+
+    print("[kb build] 5/5 validating...")
+    report = cmd_validate(args, root)
+
+    summary = {
+        "generated_at": now_iso(),
+        "defenses_derived": defense_result["defense_records_generated"],
+        "index": index_result,
+        "graph_nodes": graph["node_count"],
+        "graph_edges": graph["total_edges"],
+        "total_records": stats["totals"]["total_records"],
+        "validation_status": report["status"],
+    }
+    write_json(os.path.join(root, "indexes", "last_build.json"), summary)
+    print("\n[kb build] complete ->", json.dumps(summary, ensure_ascii=False, indent=2))
+    return summary
+
+
+def cmd_doctor(args, root):
+    print("[kb doctor] running full diagnostic...\n")
+    report = run_validate(root)
+    ok = report["status"] != "issues_found"
+    print(f"{'✅' if len(report['errors']['invalid_json_files']) == 0 else '❌'} JSON validity:        {len(report['errors']['invalid_json_files'])} invalid files")
+    print(f"{'✅' if not report['errors']['unregistered_folders'] else '❌'} Registry coverage:   {report['errors']['unregistered_folders'] or 'all folders registered'}")
+    print(f"{'✅' if report['errors']['duplicate_ids_count'] == 0 else 'ℹ️ '} Duplicate IDs:        {report['errors']['duplicate_ids_count']} (pre-existing, documented in KNOWLEDGE_BASE_REPORT.md §7)")
+    print(f"{'✅' if report['errors']['broken_relationship_links_count'] == 0 else '❌'} Broken relations:    {report['errors']['broken_relationship_links_count']}")
+    print(f"ℹ️  Orphan records:      {report['warnings']['orphan_records_zero_relations_and_citations']}")
+    print(f"ℹ️  Missing metadata:    {report['warnings']['missing_required_metadata_count']}")
+    print(f"\nOverall: {'HEALTHY' if ok else 'ISSUES FOUND (see kb validate for detail)'}")
+    return report
+
+
+def cmd_search(args, root):
+    registry = load_registry(root)
+    q = args.query.lower()
+    hits = []
+    for folder, fp, rec in iter_all_records(root, registry):
+        if args.type and rec.get("type") != args.type:
+            continue
+        haystack = " ".join(filter(None, [rec.get("title"), rec.get("content", "")[:500]])).lower()
+        if q in haystack:
+            hits.append((folder, rec))
+        if len(hits) >= args.limit:
+            break
+    for folder, rec in hits:
+        print(f"[{rec.get('type')}] {rec.get('id')} — {rec.get('title')}")
+        if args.related:
+            graph = build_graph(root)
+            rel = graph_related(graph, rec["id"], max_depth=1)
+            if rel:
+                print(f"    related: {list(rel.keys())[:8]}")
+    print(f"\n{len(hits)} result(s) for '{args.query}'" + (f" (type={args.type})" if args.type else ""))
+
+
+def cmd_migrate(args, root):
+    result = migrate_mod.run_migrations(root, dry_run=args.dry_run)
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+    return result
+
+
+def main():
+    parser = argparse.ArgumentParser(prog="kb", description="LEXBRIDGE Knowledge CLI")
+    parser.add_argument("--root", default=os.path.dirname(os.path.abspath(__file__)))
+    sub = parser.add_subparsers(dest="command", required=True)
+
+    p_add = sub.add_parser("add", help="Import a new dataset file")
+    p_add.add_argument("file")
+    p_add.add_argument("--collection", required=True)
+    p_add.set_defaults(func=cmd_add)
+
+    p_build = sub.add_parser("build", help="Full pipeline: derive, index, graph, stats, validate")
+    p_build.add_argument("--full", action="store_true", help="Force full reprocessing, ignore incremental cache")
+    p_build.set_defaults(func=cmd_build)
+
+    p_validate = sub.add_parser("validate", help="Run validation only")
+    p_validate.set_defaults(func=cmd_validate)
+
+    p_index = sub.add_parser("index", help="Rebuild manifest + incremental state")
+    p_index.add_argument("--full", action="store_true")
+    p_index.set_defaults(func=cmd_index)
+
+    p_doctor = sub.add_parser("doctor", help="Human-readable health check")
+    p_doctor.set_defaults(func=cmd_doctor)
+
+    p_stats = sub.add_parser("stats", help="Generate/refresh statistics report")
+    p_stats.set_defaults(func=cmd_stats)
+
+    p_search = sub.add_parser("search", help="Offline search over knowledge/")
+    p_search.add_argument("query")
+    p_search.add_argument("--type", default=None)
+    p_search.add_argument("--related", action="store_true")
+    p_search.add_argument("--limit", type=int, default=10)
+    p_search.set_defaults(func=cmd_search)
+
+    p_migrate = sub.add_parser("migrate", help="Apply pending migrations")
+    p_migrate.add_argument("--dry-run", action="store_true")
+    p_migrate.set_defaults(func=cmd_migrate)
+
+    args = parser.parse_args()
+    root = os.path.abspath(args.root)
+    result = args.func(args, root)
+    if args.command in ("validate",) and isinstance(result, dict) and result.get("status") == "issues_found":
+        sys.exit(1)
+    if args.command == "doctor" and isinstance(result, dict) and result.get("status") == "issues_found":
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

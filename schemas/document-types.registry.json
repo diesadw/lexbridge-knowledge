@@ -1,0 +1,120 @@
+{
+  "$schema": "https://lexbridge.internal/schemas/document-types.registry.schema.json",
+  "registry_version": 1,
+  "updated_at": "2026-07-17",
+  "description": "Single source of truth mapping knowledge/<folder> collections to raw record kb_type values to Knowledge Engine KnowledgeType values. The Knowledge Engine and all ingestion scripts read this file instead of hardcoding folder names or kb_type switch statements. Adding a new document type = add an entry here + drop files in knowledge/<folder>/ + run scripts/build_index.py. No code changes required unless a genuinely new engine_type (new search index) is needed.",
+  "document_types": [
+    {
+      "folder": "laws",
+      "kb_type": "legal_article",
+      "engine_type": "law",
+      "id_prefix": "law",
+      "label_ar": "المواد القانونية",
+      "label_en": "Legal Articles",
+      "record_count": 21093,
+      "file_count": 139,
+      "status": "active"
+    },
+    {
+      "folder": "judgments",
+      "kb_type": "judgment_principle",
+      "engine_type": "judgment",
+      "id_prefix": "judgment",
+      "label_ar": "الأحكام / مبادئ النقض",
+      "label_en": "Cassation Judgments",
+      "record_count": 44190,
+      "file_count": 137,
+      "status": "active"
+    },
+    {
+      "folder": "principles",
+      "kb_type": "doctrine_principle",
+      "engine_type": "principle",
+      "id_prefix": "principle",
+      "label_ar": "المبادئ الفقهية",
+      "label_en": "Doctrine Principles",
+      "record_count": 49,
+      "file_count": 1,
+      "status": "active"
+    },
+    {
+      "folder": "procedures",
+      "kb_type": [
+        "procedure",
+        "procedure_deep"
+      ],
+      "engine_type": "procedure",
+      "id_prefix": "procedure",
+      "label_ar": "الإجراءات",
+      "label_en": "Legal Procedures",
+      "record_count": 24,
+      "file_count": 15,
+      "status": "active"
+    },
+    {
+      "folder": "deadlines",
+      "kb_type": "deadline",
+      "engine_type": "deadline",
+      "id_prefix": "deadline",
+      "label_ar": "المواعيد",
+      "label_en": "Procedural Deadlines",
+      "record_count": 67,
+      "file_count": 10,
+      "status": "active",
+      "note": "Promoted to a first-class engine_type in Sprint 2.5. Previously folded into 'procedure' with metadata.subtype='deadline' — that record-level tag is preserved for backward compatibility but is no longer required for routing."
+    },
+    {
+      "folder": "templates",
+      "kb_type": "template",
+      "engine_type": "contract",
+      "id_prefix": "template",
+      "label_ar": "النماذج",
+      "label_en": "Document Templates",
+      "record_count": 7,
+      "file_count": 1,
+      "status": "active",
+      "note": "Kept mapped to the existing 'contract' index — these ARE ready-to-use contract/document templates, not a distinct search concept. Revisit only if a future dataset needs true contract *analysis* records distinct from templates."
+    },
+    {
+      "folder": "defenses",
+      "kb_type": "defense",
+      "engine_type": "defense",
+      "id_prefix": "defense",
+      "label_ar": "الدفوع",
+      "label_en": "Legal Defenses",
+      "record_count": 42,
+      "file_count": 1,
+      "status": "active",
+      "note": "Derived at build time from judgment_principle.source_fields.defense_args by scripts/lib/derive_defenses.py (kb build). Regenerated on every build; not hand-authored. Zero invented content — every defense string and its supporting judgments trace back to real judgment_principle records."
+    },
+    {
+      "folder": "contracts",
+      "kb_type": "contract",
+      "engine_type": "contract",
+      "id_prefix": "contract",
+      "label_ar": "العقود",
+      "label_en": "Contracts",
+      "record_count": 0,
+      "file_count": 0,
+      "status": "planned",
+      "note": "No standalone contract records exist yet. Folder intentionally not created until real data lands."
+    }
+  ],
+  "future_type_examples": [
+    "legal_opinions",
+    "fatwas",
+    "international_treaties",
+    "banking",
+    "insurance",
+    "medical_law",
+    "circulars",
+    "executive_regulations"
+  ],
+  "how_to_add_a_type": [
+    "1. Create knowledge/<new_folder>/ and add real JSON records (array or single object per file).",
+    "2. Append an entry to document_types[] above: folder, kb_type, engine_type, id_prefix, labels.",
+    "3. If engine_type is new (not one of law/judgment/principle/procedure/contract/defense/deadline), add it to KnowledgeType in the website's api/_lib/knowledge-engine/types.ts (ALL_TYPES, TYPE_PRIORITY, TYPE_INDEX) — this is the ONLY code touch point, and it's additive, not a rewrite.",
+    "4. Run: python3 scripts/build_index.py — regenerates indexes/registry_manifest.json and per-type NDJSON automatically.",
+    "5. Website's scripts/knowledge-engine/buildIndexData.ts already walks the whole knowledge/ folder generically and now reads this registry file for kb_type -> engine_type mapping instead of a hardcoded map."
+  ]
+}
