@@ -1,0 +1,242 @@
+[
+ {
+  "id": "CONST-0001",
+  "type": "deadline",
+  "category": "دستوري",
+  "title": "ميعاد الفصل في الدفع بعدم الدستورية",
+  "content": "إذا دفع أحد الخصوم أثناء نظر دعوى بعدم دستورية نص في قانون أو لائحة ولازم الفصل في النزاع تعين على المحكمة إذا رأت أن الدفع جدي أن توقف الدعوى وأن ترسل الأوراق إلى المحكمة الدستورية العليا للفصل في الدفع.",
+  "keywords": [
+   "دستورية",
+   "3 أشهر",
+   "دفع",
+   "وقف الدعوى",
+   "الدفع بعدم الدستورية",
+   "المادة 29 المحكمة الدستورية",
+   "الدستورية",
+   "المحكمة الدستورية"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد الدستورية",
+   "law_number": null,
+   "article_number": "29",
+   "date": null,
+   "court": "المحكمة الدستورية العليا",
+   "confidence": null,
+   "branch": "دستوري",
+   "duration": "3 أشهر",
+   "duration_days": 90,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "CONST-0001",
+   "title": "ميعاد الفصل في الدفع بعدم الدستورية",
+   "category": "دستوري",
+   "sub_category": "الدفع بعدم الدستورية",
+   "deadline_type": "إجرائي",
+   "trigger_event": "إحالة الدفع للمحكمة الدستورية",
+   "duration": "3 أشهر",
+   "duration_days": 90,
+   "calculation_method": "من تاريخ الإحالة",
+   "legal_text": "إذا دفع أحد الخصوم أثناء نظر دعوى بعدم دستورية نص في قانون أو لائحة ولازم الفصل في النزاع تعين على المحكمة إذا رأت أن الدفع جدي أن توقف الدعوى وأن ترسل الأوراق إلى المحكمة الدستورية العليا للفصل في الدفع.",
+   "plain_language_explanation": "الدفع بعدم الدستورية الجدي يوقف الدعوى ويُحال للمحكمة الدستورية للفصل فيه.",
+   "practical_meaning": "الدفع الجدي يوقف الدعوى الأصلية. يجب إثبات الجدية وأن النص لازم للفصل.",
+   "start_date_rule": "من تاريخ إحالة الدفع",
+   "end_condition": "3 أشهر",
+   "court_or_authority": "المحكمة الدستورية العليا",
+   "required_action": "تقديم الدفع ومتابعة قرار الإحالة",
+   "mandatory_requirements": [
+    "أن يكون الدفع جدياً",
+    "أن يكون النص لازماً للفصل"
+   ],
+   "required_documents": [
+    "مذكرة الدفع"
+   ],
+   "risk_if_missed": "رفض الدفع",
+   "legal_effect_if_missed": "استمرار الدعوى بدون وقف",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "تقديم دفع غير جدي فيُرفض"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "تحديد النص المطعون فيه",
+    "إثبات الجدية",
+    "تقديم الدفع"
+   ],
+   "automation_opportunities": [
+    "تتبع الدفوع بعدم الدستورية"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المحكمة الدستورية",
+     "article": "29"
+    },
+    {
+     "law": "الدستور المصري",
+     "article": "192"
+    }
+   ],
+   "related_procedures": [
+    "الدفع بعدم الدستورية"
+   ],
+   "related_topics": [
+    "الدستورية",
+    "المحكمة الدستورية"
+   ],
+   "ai_tags": [
+    "دستورية",
+    "3 أشهر",
+    "دفع",
+    "وقف الدعوى"
+   ],
+   "search_keywords": [
+    "الدفع بعدم الدستورية",
+    "المادة 29 المحكمة الدستورية"
+   ],
+   "ai_summary": "الدفع بعدم الدستورية الجدي يوقف الدعوى ويُحال للمحكمة الدستورية للفصل فيه.",
+   "classification": {
+    "branch": "دستوري",
+    "category": "المحكمة الدستورية",
+    "doctrine": "الدفع بعدم الدستورية",
+    "issue_type": "ميعاد الفصل"
+   },
+   "source_reference": {
+    "book": "المواعيد الدستورية",
+    "chapter": "الدفع بعدم الدستورية",
+    "page": "",
+    "article_number": "29"
+   }
+  },
+  "related_articles": [
+   "نص_دستور_جمهورية_مصر_العربية__file_0041__art_0029"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CONST-0002",
+  "type": "deadline",
+  "category": "دستوري",
+  "title": "نشر أحكام المحكمة الدستورية",
+  "content": "أحكام المحكمة الدستورية العليا في شأن عدم الدستورية ملزمة لجميع سلطات الدولة وللكافة وتنشر في الجريدة الرسمية خلال خمسة عشر يوماً من تاريخ صدورها.",
+  "keywords": [
+   "دستورية",
+   "15 يوم",
+   "نشر",
+   "ملزم",
+   "أثر حكم عدم الدستورية",
+   "المادة 49 المحكمة الدستورية",
+   "المحكمة الدستورية",
+   "أثر الأحكام"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد الدستورية",
+   "law_number": null,
+   "article_number": "49",
+   "date": null,
+   "court": "الجريدة الرسمية",
+   "confidence": null,
+   "branch": "دستوري",
+   "duration": "15 يوماً للنشر",
+   "duration_days": 15,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "CONST-0002",
+   "title": "نشر أحكام المحكمة الدستورية",
+   "category": "دستوري",
+   "sub_category": "أحكام المحكمة الدستورية",
+   "deadline_type": "أثر قانوني",
+   "trigger_event": "صدور حكم المحكمة الدستورية",
+   "duration": "15 يوماً للنشر",
+   "duration_days": 15,
+   "calculation_method": "من تاريخ صدور الحكم",
+   "legal_text": "أحكام المحكمة الدستورية العليا في شأن عدم الدستورية ملزمة لجميع سلطات الدولة وللكافة وتنشر في الجريدة الرسمية خلال خمسة عشر يوماً من تاريخ صدورها.",
+   "plain_language_explanation": "حكم عدم الدستورية: ملزم للجميع، يُنشر في الجريدة الرسمية خلال 15 يوماً.",
+   "practical_meaning": "يجب متابعة أحكام المحكمة الدستورية المؤثرة على القضايا المنظورة.",
+   "start_date_rule": "من تاريخ صدور الحكم",
+   "end_condition": "15 يوماً للنشر",
+   "court_or_authority": "الجريدة الرسمية",
+   "required_action": "مراجعة الأحكام المبنية على النص المقضي بعدم دستوريته",
+   "mandatory_requirements": [],
+   "required_documents": [],
+   "risk_if_missed": "استمرار تطبيق نص غير دستوري",
+   "legal_effect_if_missed": "ملزم من النشر",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [
+    "في الجنائي: أثر رجعي"
+   ],
+   "common_lawyer_mistakes": [
+    "عدم متابعة أحكام المحكمة الدستورية"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "متابعة أحكام المحكمة الدستورية",
+    "تقييم أثرها على القضايا"
+   ],
+   "automation_opportunities": [
+    "متابعة نشرة أحكام المحكمة الدستورية"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المحكمة الدستورية",
+     "article": "49"
+    },
+    {
+     "law": "الدستور المصري",
+     "article": "195"
+    }
+   ],
+   "related_procedures": [
+    "تطبيق حكم عدم الدستورية"
+   ],
+   "related_topics": [
+    "المحكمة الدستورية",
+    "أثر الأحكام"
+   ],
+   "ai_tags": [
+    "دستورية",
+    "15 يوم",
+    "نشر",
+    "ملزم"
+   ],
+   "search_keywords": [
+    "أثر حكم عدم الدستورية",
+    "المادة 49 المحكمة الدستورية"
+   ],
+   "ai_summary": "أحكام المحكمة الدستورية بعدم الدستورية تُنشر خلال 15 يوماً وهي ملزمة للجميع.",
+   "classification": {
+    "branch": "دستوري",
+    "category": "المحكمة الدستورية",
+    "doctrine": "أثر الأحكام",
+    "issue_type": "نشر الأحكام"
+   },
+   "source_reference": {
+    "book": "المواعيد الدستورية",
+    "chapter": "أحكام المحكمة",
+    "page": "",
+    "article_number": "49"
+   }
+  },
+  "related_articles": [
+   "نص_دستور_جمهورية_مصر_العربية__file_0041__art_0049"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

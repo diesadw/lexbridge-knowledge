@@ -1,0 +1,1158 @@
+[
+ {
+  "id": "cass_civil_custom_usage_0282_28_1",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "العرف التجارى",
+  "content": "متى كان الطاعن يدعى قيام \" العادة الإتفاقية \" بين الشركة و موظفيها على العمل فى الخارج و فى غير أوقات العمل لديها فإن عليه هو لا على الشركة إثبات وجودها و إثبات أن المتعاقدين كليهما قد قصدا الإلتزام بها",
+  "keywords": [
+   "الشركة",
+   "العرف التجارى",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0282 لسنة 28"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0445_34_2",
+   "cass_civil_custom_usage_0624_42_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-05-1962",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0282",
+   "judicial_year": "28",
+   "office_volume": "13",
+   "page": "652",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0282_28_1",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "العرف التجارى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0282",
+    "judicial_year": "28",
+    "office_volume": "13",
+    "page": "652",
+    "session_date": "23-05-1962",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الشركة",
+    "العرف التجارى",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الطاعن يدعى قيام \" العادة الإتفاقية \" بين الشركة و موظفيها على العمل فى الخارج و فى غير أوقات العمل لديها فإن عليه هو لا على الشركة إثبات وجودها و إثبات أن المتعاقدين كليهما قد قصدا الإلتزام بها",
+   "core_principles": [
+    "متى كان الطاعن يدعى قيام \" العادة الإتفاقية \" بين الشركة و موظفيها على العمل فى الخارج و فى غير أوقات العمل لديها فإن عليه هو لا على الشركة إثبات وجودها و إثبات أن المتعاقدين كليهما قد قصدا الإلتزام بها و إتباعها"
+   ],
+   "judicial_rule": {
+    "short": "متى كان الطاعن يدعى قيام \" العادة الإتفاقية \" بين الشركة و موظفيها على العمل فى الخارج و فى غير أوقات العمل لديها فإن عليه هو لا على الشركة إثبات وجودها و إثبات أن المتعاقدين كليهما قد قصدا الإلتزام بها",
+    "professional": "متى كان الطاعن يدعى قيام \" العادة الإتفاقية \" بين الشركة و موظفيها على العمل فى الخارج و فى غير أوقات العمل لديها فإن عليه هو لا على الشركة إثبات وجودها و إثبات أن المتعاقدين كليهما قد قصدا الإلتزام بها و إتباعها ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "العرف التجارى",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0445_34_2",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "العرف التجارى",
+  "content": "لا محل للرجوع إلى العرف التجارى إذا وجدت دفاتر للشركة يبين منها أن الشريكين جريا فى تعاملهما على خلاف هذا العرف .",
+  "keywords": [
+   "العرف التجارى",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0445 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0282_28_1",
+   "cass_civil_custom_usage_0624_42_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "12-12-1968",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0445",
+   "judicial_year": "34",
+   "office_volume": "19",
+   "page": "1512",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0445_34_2",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "العرف التجارى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0445",
+    "judicial_year": "34",
+    "office_volume": "19",
+    "page": "1512",
+    "session_date": "12-12-1968",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "العرف التجارى",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لا محل للرجوع إلى العرف التجارى إذا وجدت دفاتر للشركة يبين منها أن الشريكين جريا فى تعاملهما على خلاف هذا العرف .",
+   "core_principles": [
+    "لا محل للرجوع إلى العرف التجارى إذا وجدت دفاتر للشركة يبين منها أن الشريكين جريا فى تعاملهما على خلاف هذا العرف"
+   ],
+   "judicial_rule": {
+    "short": "لا محل للرجوع إلى العرف التجارى إذا وجدت دفاتر للشركة يبين منها أن الشريكين جريا فى تعاملهما على خلاف هذا العرف",
+    "professional": "لا محل للرجوع إلى العرف التجارى إذا وجدت دفاتر للشركة يبين منها أن الشريكين جريا فى تعاملهما على خلاف هذا العرف ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "العرف التجارى",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0624_42_3",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "العرف التجارى",
+  "content": "إذا كان البنك الطاعن قد تمسك بدفاعه أمام محكمة الإستئناف أن عقود التسليف بضمان توريد الأقطان هى عقود من نوع خاص يحكمها العرف التجارى دون أن يقدم الدليل على قيام هذا العرف التجارى الذى يحكم تلك العقود و مدى تأثيره",
+  "keywords": [
+   "العرف التجارى",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0624 لسنة 42"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0282_28_1",
+   "cass_civil_custom_usage_0445_34_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "14-06-1982",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0624",
+   "judicial_year": "42",
+   "office_volume": "33",
+   "page": "752",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0624_42_3",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "العرف التجارى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0624",
+    "judicial_year": "42",
+    "office_volume": "33",
+    "page": "752",
+    "session_date": "14-06-1982",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "العرف التجارى",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان البنك الطاعن قد تمسك بدفاعه أمام محكمة الإستئناف أن عقود التسليف بضمان توريد الأقطان هى عقود من نوع خاص يحكمها العرف التجارى دون أن يقدم الدليل على قيام هذا العرف التجارى الذى يحكم تلك العقود و مدى تأثيره",
+   "core_principles": [
+    "( الطعن رقم 624 لسنة 42 ق ، جلسة 1982/6/14 ) الطعن رقم 0089 لسنة 16 مجموعة عمر 5ع صفحة رقم 499 بتاريخ 04-12-1947 الموضوع : عرف الموضوع الفرعي : العرف التجارى فقرة رقم : 2 إذا كانت المحكمة قد تبينت من أقوال طرفى الخصومة و مناقشتها بالجلسة و من مختلف الفواتير و الدفاتر المقدمة أن التعامل بين الطرفين ج"
+   ],
+   "judicial_rule": {
+    "short": "( الطعن رقم 624 لسنة 42 ق ، جلسة 1982/6/14 ) الطعن رقم 0089 لسنة 16 مجموعة عمر 5ع صفحة رقم 499 بتاريخ 04-12-1947 الموضوع : عرف الموضوع الفرعي : العرف التجارى فقرة رقم : 2 إذا كانت المحكمة قد",
+    "professional": "إذا كان البنك الطاعن قد تمسك بدفاعه أمام محكمة الإستئناف أن عقود التسليف بضمان توريد الأقطان هى عقود من نوع خاص يحكمها العرف التجارى دون أن يقدم الدليل على قيام هذا العرف التجارى الذى يحكم تلك العقود و مدى تأثيره فى الفصل فى النزاع فإن النعى يكون عارياً عن الدليل . ( الطعن رقم 624 لسنة 42 ق ، جلسة 1982/6/14 ) الطعن رقم 0089 لسنة 16 مجموعة عمر 5ع صفحة رقم 499 بتاريخ 04-12-1947 الموضوع : عرف الموضوع الفرعي : العرف التجارى فقرة رقم : 2 إذا كانت المحكمة قد تبينت من أقوال طرفى الخ"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "العرف التجارى",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0259_23_2",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "سلطة محكمة الموضوع فى استخلاص العرف",
+  "content": "متى كان الحكم إذ اعتبر المنحة السنوية جزءا من أجر العامل و أجرى احتساب مكافأته على هذا الاساس قد إستند إلى ما استخلصه من شهادة الشهود و ما ثبت من هذه الشهادة من أن رب العمل اعتاد لعدة سنوات صرف",
+  "keywords": [
+   "سلطة محكمة الموضوع فى استخلاص العرف",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0259 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0283_23_7",
+   "cass_civil_custom_usage_0535_34_1",
+   "cass_civil_custom_usage_0565_35_3",
+   "cass_civil_custom_usage_0578_35_4",
+   "cass_civil_custom_usage_0421_47_1",
+   "cass_civil_custom_usage_1806_56_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-11-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0259",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "842",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0259_23_2",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "سلطة محكمة الموضوع فى استخلاص العرف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0259",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "842",
+    "session_date": "28-11-1957",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الحكم إذ اعتبر المنحة السنوية جزءا من أجر العامل و أجرى احتساب مكافأته على هذا الاساس قد إستند إلى ما استخلصه من شهادة الشهود و ما ثبت من هذه الشهادة من أن رب العمل اعتاد لعدة سنوات صرف",
+   "core_principles": [
+    "متى كان الحكم إذ اعتبر المنحة السنوية جزءا من أجر العامل و أجرى احتساب مكافأته على هذا الاساس قد إستند إلى ما استخلصه من شهادة الشهود و ما ثبت من هذه الشهادة من أن رب العمل اعتاد لعدة سنوات صرف المنحة لعماله جميعا بصفة عامة و على أساس نسبة معينة من مرتباتهم و أن هذا الاعتياد انشأ عرفا خرج بهذه المنح"
+   ],
+   "judicial_rule": {
+    "short": "متى كان الحكم إذ اعتبر المنحة السنوية جزءا من أجر العامل و أجرى احتساب مكافأته على هذا الاساس قد إستند إلى ما استخلصه من شهادة الشهود و ما ثبت من هذه الشهادة من أن رب العمل اعتاد لعدة سنوات صرف",
+    "professional": "متى كان الحكم إذ اعتبر المنحة السنوية جزءا من أجر العامل و أجرى احتساب مكافأته على هذا الاساس قد إستند إلى ما استخلصه من شهادة الشهود و ما ثبت من هذه الشهادة من أن رب العمل اعتاد لعدة سنوات صرف المنحة لعماله جميعا بصفة عامة و على أساس نسبة معينة من مرتباتهم و أن هذا الاعتياد انشأ عرفا خرج بهذه المنحه من اعتبارها تبرعا إلى جعلها إلزاما يضاف إلى اجر العامل الأصلى و يعتبر مكملا له ، و لم يدع رب العمل أمام قضاء الموضوع أنه توقف عن إعطاء عماله المنحة السنوية أو أنه أنقص من قدرها ا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0283_23_7",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "سلطة محكمة الموضوع فى استخلاص العرف",
+  "content": "تقدير قيام العرف هو من سلطة محكمة الموضوع دون رقابة لمحكمة النقض عليها .",
+  "keywords": [
+   "سلطة محكمة الموضوع فى استخلاص العرف",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0283 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0259_23_2",
+   "cass_civil_custom_usage_0535_34_1",
+   "cass_civil_custom_usage_0565_35_3",
+   "cass_civil_custom_usage_0578_35_4",
+   "cass_civil_custom_usage_0421_47_1",
+   "cass_civil_custom_usage_1806_56_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "18-04-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0283",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "426",
+   "paragraph_number": "7"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0283_23_7",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "سلطة محكمة الموضوع فى استخلاص العرف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0283",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "426",
+    "session_date": "18-04-1957",
+    "paragraph_number": "7"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقدير قيام العرف هو من سلطة محكمة الموضوع دون رقابة لمحكمة النقض عليها .",
+   "core_principles": [
+    "تقدير قيام العرف هو من سلطة محكمة الموضوع دون رقابة لمحكمة النقض عليها"
+   ],
+   "judicial_rule": {
+    "short": "تقدير قيام العرف هو من سلطة محكمة الموضوع دون رقابة لمحكمة النقض عليها",
+    "professional": "تقدير قيام العرف هو من سلطة محكمة الموضوع دون رقابة لمحكمة النقض عليها ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0535_34_1",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "سلطة محكمة الموضوع فى استخلاص العرف",
+  "content": "من المقرر - و على ما جرى به قضاء هذه المحكمة - أنه و إن كان التثبت من قيام العرف متروكا لقاضى الموضوع إلا أنه لا يعفى من بيان دليله على قيامه و المصدر الذى إستقى منه ذلك إذا نازع",
+  "keywords": [
+   "سلطة محكمة الموضوع فى استخلاص العرف",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0535 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0259_23_2",
+   "cass_civil_custom_usage_0283_23_7",
+   "cass_civil_custom_usage_0565_35_3",
+   "cass_civil_custom_usage_0578_35_4",
+   "cass_civil_custom_usage_0421_47_1",
+   "cass_civil_custom_usage_1806_56_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-12-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0535",
+   "judicial_year": "34",
+   "office_volume": "20",
+   "page": "1356",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0535_34_1",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "سلطة محكمة الموضوع فى استخلاص العرف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0535",
+    "judicial_year": "34",
+    "office_volume": "20",
+    "page": "1356",
+    "session_date": "25-12-1969",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر - و على ما جرى به قضاء هذه المحكمة - أنه و إن كان التثبت من قيام العرف متروكا لقاضى الموضوع إلا أنه لا يعفى من بيان دليله على قيامه و المصدر الذى إستقى منه ذلك إذا نازع",
+   "core_principles": [
+    "من المقرر - و على ما جرى به قضاء هذه المحكمة - أنه و إن كان التثبت من قيام العرف متروكا لقاضى الموضوع إلا أنه لا يعفى من بيان دليله على قيامه و المصدر الذى إستقى منه ذلك إذا نازع أحد الخصوم فى وجوده ، فإن الحكم المطعون فيه إذ قرر بوجود عرف يقضى بأن يكون المؤجل من أتعاب المحامين معادلا للمعجل منها دو"
+   ],
+   "judicial_rule": {
+    "short": "من المقرر - و على ما جرى به قضاء هذه المحكمة - أنه و إن كان التثبت من قيام العرف متروكا لقاضى الموضوع إلا أنه لا يعفى من بيان دليله على قيامه و المصدر الذى إستقى منه ذلك إذا نازع",
+    "professional": "من المقرر - و على ما جرى به قضاء هذه المحكمة - أنه و إن كان التثبت من قيام العرف متروكا لقاضى الموضوع إلا أنه لا يعفى من بيان دليله على قيامه و المصدر الذى إستقى منه ذلك إذا نازع أحد الخصوم فى وجوده ، فإن الحكم المطعون فيه إذ قرر بوجود عرف يقضى بأن يكون المؤجل من أتعاب المحامين معادلا للمعجل منها دون أن يذكر دليل على وجوده أو المصدر الذى إستقى منه ذلك رغم أن الطاعن قد أنكر وجود هذا العرف ، يكون قد خالف القانون ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0565_35_3",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "سلطة محكمة الموضوع فى استخلاص العرف",
+  "content": "إستخلاص المحكمة أن العرف لم يجر فى الشركة إلا على صرف مكافأة تعادل مرتب شهرين ، و هى التى إحتسبتها المحكمة ضمن الأجر الذى تحدد على أساسه مكافأة نهاية الخدمة ، هذا الإستخلاص هو مما يدخل فى حدود سلطة المحكمة",
+  "keywords": [
+   "الشركة",
+   "سلطة محكمة الموضوع فى استخلاص العرف",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0565 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0259_23_2",
+   "cass_civil_custom_usage_0283_23_7",
+   "cass_civil_custom_usage_0535_34_1",
+   "cass_civil_custom_usage_0578_35_4",
+   "cass_civil_custom_usage_0421_47_1",
+   "cass_civil_custom_usage_1806_56_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "02-02-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0565",
+   "judicial_year": "35",
+   "office_volume": "23",
+   "page": "126",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0565_35_3",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "سلطة محكمة الموضوع فى استخلاص العرف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0565",
+    "judicial_year": "35",
+    "office_volume": "23",
+    "page": "126",
+    "session_date": "02-02-1972",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الشركة",
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إستخلاص المحكمة أن العرف لم يجر فى الشركة إلا على صرف مكافأة تعادل مرتب شهرين ، و هى التى إحتسبتها المحكمة ضمن الأجر الذى تحدد على أساسه مكافأة نهاية الخدمة ، هذا الإستخلاص هو مما يدخل فى حدود سلطة المحكمة",
+   "core_principles": [
+    "إستخلاص المحكمة أن العرف لم يجر فى الشركة إلا على صرف مكافأة تعادل مرتب شهرين ، و هى التى إحتسبتها المحكمة ضمن الأجر الذى تحدد على أساسه مكافأة نهاية الخدمة ، هذا الإستخلاص هو مما يدخل فى حدود سلطة المحكمة الموضوعية للأسباب السائغة التى إستندت إليها"
+   ],
+   "judicial_rule": {
+    "short": "إستخلاص المحكمة أن العرف لم يجر فى الشركة إلا على صرف مكافأة تعادل مرتب شهرين ، و هى التى إحتسبتها المحكمة ضمن الأجر الذى تحدد على أساسه مكافأة نهاية الخدمة ، هذا الإستخلاص هو مما يدخل فى حدود سلطة المحكمة",
+    "professional": "إستخلاص المحكمة أن العرف لم يجر فى الشركة إلا على صرف مكافأة تعادل مرتب شهرين ، و هى التى إحتسبتها المحكمة ضمن الأجر الذى تحدد على أساسه مكافأة نهاية الخدمة ، هذا الإستخلاص هو مما يدخل فى حدود سلطة المحكمة الموضوعية للأسباب السائغة التى إستندت إليها ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0578_35_4",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "سلطة محكمة الموضوع فى استخلاص العرف",
+  "content": "التحقق من قيام العرف متروك لقاضى الموضوع . و إذ كان الحكم قد نفى وجوده بأسباب سائغة و تؤدى إلى النتيجة التى إنتهى إليها فإن ما يثيره الطاعن فى هذا الصدد لا يعدو أن يكون جدلاً موضوعياً مما لا يجوز",
+  "keywords": [
+   "سلطة محكمة الموضوع فى استخلاص العرف",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0578 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0259_23_2",
+   "cass_civil_custom_usage_0283_23_7",
+   "cass_civil_custom_usage_0535_34_1",
+   "cass_civil_custom_usage_0565_35_3",
+   "cass_civil_custom_usage_0421_47_1",
+   "cass_civil_custom_usage_1806_56_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-04-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0578",
+   "judicial_year": "35",
+   "office_volume": "23",
+   "page": "747",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0578_35_4",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "سلطة محكمة الموضوع فى استخلاص العرف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0578",
+    "judicial_year": "35",
+    "office_volume": "23",
+    "page": "747",
+    "session_date": "22-04-1972",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "التحقق من قيام العرف متروك لقاضى الموضوع . و إذ كان الحكم قد نفى وجوده بأسباب سائغة و تؤدى إلى النتيجة التى إنتهى إليها فإن ما يثيره الطاعن فى هذا الصدد لا يعدو أن يكون جدلاً موضوعياً مما لا يجوز",
+   "core_principles": [
+    "و إذ كان الحكم قد نفى وجوده بأسباب سائغة و تؤدى إلى النتيجة التى إنتهى إليها فإن ما يثيره الطاعن فى هذا الصدد لا يعدو أن يكون جدلاً موضوعياً مما لا يجوز إثارته أمام محكمة النقض"
+   ],
+   "judicial_rule": {
+    "short": "و إذ كان الحكم قد نفى وجوده بأسباب سائغة و تؤدى إلى النتيجة التى إنتهى إليها فإن ما يثيره الطاعن فى هذا الصدد لا يعدو أن يكون جدلاً موضوعياً مما لا يجوز إثارته أمام محكمة النقض",
+    "professional": "التحقق من قيام العرف متروك لقاضى الموضوع . و إذ كان الحكم قد نفى وجوده بأسباب سائغة و تؤدى إلى النتيجة التى إنتهى إليها فإن ما يثيره الطاعن فى هذا الصدد لا يعدو أن يكون جدلاً موضوعياً مما لا يجوز إثارته أمام محكمة النقض ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0421_47_1",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "سلطة محكمة الموضوع فى استخلاص العرف",
+  "content": "الثابت من صورة صحيفة الإستئناف رقم 3444 س 91 ق القاهرة ، المقدمة من الطاعنين ضمن أوراق الطعن - أنهم تمسكوا بالسبب الثالث من أسباب الإستئناف بخطأ حكم محكمة أول درجة فيما أورده من أن العرف جرى على أن ينوب",
+  "keywords": [
+   "سلطة محكمة الموضوع فى استخلاص العرف",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0421 لسنة 47"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0259_23_2",
+   "cass_civil_custom_usage_0283_23_7",
+   "cass_civil_custom_usage_0535_34_1",
+   "cass_civil_custom_usage_0565_35_3",
+   "cass_civil_custom_usage_0578_35_4",
+   "cass_civil_custom_usage_1806_56_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "04-06-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0421",
+   "judicial_year": "47",
+   "office_volume": "32",
+   "page": "1711",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0421_47_1",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "سلطة محكمة الموضوع فى استخلاص العرف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0421",
+    "judicial_year": "47",
+    "office_volume": "32",
+    "page": "1711",
+    "session_date": "04-06-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الثابت من صورة صحيفة الإستئناف رقم 3444 س 91 ق القاهرة ، المقدمة من الطاعنين ضمن أوراق الطعن - أنهم تمسكوا بالسبب الثالث من أسباب الإستئناف بخطأ حكم محكمة أول درجة فيما أورده من أن العرف جرى على أن ينوب",
+   "core_principles": [
+    "و لما كانت علاقة الزوجية غير كافية وحدها للقول بوجود وكالة ضمنية للزوج ، و كان الحكم المطعون فيه لم يعرض لدفاع الطاعنين فى هذا الصدد و لم يمحصه بما يقتضيه ، فإنه يكون قد عاره قصور مبطل بما يستوجب نقضه"
+   ],
+   "judicial_rule": {
+    "short": "و لما كانت علاقة الزوجية غير كافية وحدها للقول بوجود وكالة ضمنية للزوج ، و كان الحكم المطعون فيه لم يعرض لدفاع الطاعنين فى هذا الصدد و لم يمحصه بما يقتضيه ، فإنه يكون قد عاره قصور مبطل بما يستوجب",
+    "professional": "الثابت من صورة صحيفة الإستئناف رقم 3444 س 91 ق القاهرة ، المقدمة من الطاعنين ضمن أوراق الطعن - أنهم تمسكوا بالسبب الثالث من أسباب الإستئناف بخطأ حكم محكمة أول درجة فيما أورده من أن العرف جرى على أن ينوب الزوج عن زوجته فى إدارة أملاكها و أنكروا وجود هذا العرف . و لما كان من المقرر - و على ما جرى به قضاء هذه المحكمة - أنه و إن كان التثبت من قيام العرف متروكاً لقاضى الموضوع - إلا أنه لا يعفى من بيان دليله على قيامه و المصدر الذى إستقى منه إذا نازع أحد الخصوم فى وجوده . و لما كان"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_1806_56_2",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "سلطة محكمة الموضوع فى استخلاص العرف",
+  "content": "لما كان من المقرر فى قضاء هذه المحكمة - أن تحرى العرف فى ذاته و التثبت من قيامه من أمور الموضوع التى لا تخضع لرقابة محكمة النقض إلا حيث يحيد قاضى الموضوع عن تطبيق عرف ثبت لديه وجوده ، و",
+  "keywords": [
+   "سلطة محكمة الموضوع فى استخلاص العرف",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 1806 لسنة 56"
+  ],
+  "related_ids": [
+   "cass_civil_custom_usage_0259_23_2",
+   "cass_civil_custom_usage_0283_23_7",
+   "cass_civil_custom_usage_0535_34_1",
+   "cass_civil_custom_usage_0565_35_3",
+   "cass_civil_custom_usage_0578_35_4",
+   "cass_civil_custom_usage_0421_47_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-01-1990",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1806",
+   "judicial_year": "56",
+   "office_volume": "41",
+   "page": "270",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_1806_56_2",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "سلطة محكمة الموضوع فى استخلاص العرف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1806",
+    "judicial_year": "56",
+    "office_volume": "41",
+    "page": "270",
+    "session_date": "28-01-1990",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان من المقرر فى قضاء هذه المحكمة - أن تحرى العرف فى ذاته و التثبت من قيامه من أمور الموضوع التى لا تخضع لرقابة محكمة النقض إلا حيث يحيد قاضى الموضوع عن تطبيق عرف ثبت لديه وجوده ، و",
+   "core_principles": [
+    "و هذا يقتضى التمسك به أمام محكمة الموضوع حتى يمكنها التثبت من أمر قيامه ، و إذ يبين من الأوراق أن الطاعن لم يدع أمام محكمة الموضوع بوجود عرف يمنع تقاضى بائع الوحدة السكنية لفوائد عن الثمن المؤجل فإنه لا يجوز التحدى بهذا العرف لأول مرة أمام محكمة النقض"
+   ],
+   "judicial_rule": {
+    "short": "و هذا يقتضى التمسك به أمام محكمة الموضوع حتى يمكنها التثبت من أمر قيامه ، و إذ يبين من الأوراق أن الطاعن لم يدع أمام محكمة الموضوع بوجود عرف يمنع تقاضى بائع الوحدة السكنية لفوائد عن الثمن المؤجل فإنه لا",
+    "professional": "و هذا يقتضى التمسك به أمام محكمة الموضوع حتى يمكنها التثبت من أمر قيامه ، و إذ يبين من الأوراق أن الطاعن لم يدع أمام محكمة الموضوع بوجود عرف يمنع تقاضى بائع الوحدة السكنية لفوائد عن الثمن المؤجل فإنه لا يجوز التحدى بهذا العرف لأول مرة أمام محكمة النقض ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "سلطة محكمة الموضوع فى استخلاص العرف",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0482_39_8",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "عدم جواز التحدى بالعرف فى حالة وجود نص",
+  "content": "النص فى المادة الأولى من القانون المدنى على أن تسرى النصوص التشريعية على جميع المسائل التى تتناولها هذه النصوص فى لفظها أو فى فحواها . فإذا لم يوجد نص تشريعى يمكن تطبيقه حكم القاضى بمقتضى العرف مفاده أنه ، -",
+  "keywords": [
+   "عدم جواز التحدى بالعرف فى حالة وجود نص",
+   "عرف",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0482 لسنة 39"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-02-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0482",
+   "judicial_year": "39",
+   "office_volume": "28",
+   "page": "511",
+   "paragraph_number": "8"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0482_39_8",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "عدم جواز التحدى بالعرف فى حالة وجود نص",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0482",
+    "judicial_year": "39",
+    "office_volume": "28",
+    "page": "511",
+    "session_date": "23-02-1977",
+    "paragraph_number": "8"
+   },
+   "keywords": [
+    "عدم جواز التحدى بالعرف فى حالة وجود نص",
+    "عرف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "النص فى المادة الأولى من القانون المدنى على أن تسرى النصوص التشريعية على جميع المسائل التى تتناولها هذه النصوص فى لفظها أو فى فحواها . فإذا لم يوجد نص تشريعى يمكن تطبيقه حكم القاضى بمقتضى العرف مفاده أنه ، -",
+   "core_principles": [
+    "فإذا لم يوجد نص تشريعى يمكن تطبيقه حكم القاضى بمقتضى العرف مفاده أنه ، - و على ما جرى به قضاء هذه المحكمة - لا يجوز التحدى بالعرف ، الا إذا لم يوجد نص تشريعى"
+   ],
+   "judicial_rule": {
+    "short": "فإذا لم يوجد نص تشريعى يمكن تطبيقه حكم القاضى بمقتضى العرف مفاده أنه ، - و على ما جرى به قضاء هذه المحكمة - لا يجوز التحدى بالعرف ، الا إذا لم يوجد نص تشريعى",
+    "professional": "النص فى المادة الأولى من القانون المدنى على أن تسرى النصوص التشريعية على جميع المسائل التى تتناولها هذه النصوص فى لفظها أو فى فحواها . فإذا لم يوجد نص تشريعى يمكن تطبيقه حكم القاضى بمقتضى العرف مفاده أنه ، - و على ما جرى به قضاء هذه المحكمة - لا يجوز التحدى بالعرف ، الا إذا لم يوجد نص تشريعى ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "عدم جواز التحدى بالعرف فى حالة وجود نص",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_custom_usage_0837_48_2",
+  "type": "judgment_principle",
+  "category": "custom_usage",
+  "title": "مجال تطبيق العرف البحرى",
+  "content": "إذ كان المتفق عليه فى العقد موضوع النزاع أن مجال تطبيق العرف البحرى يكون فيما لم يرد بشأنه نص فى العقد و كان نص المادة السادسة من العقد واضح الدلالة على أن إرادة المتعاقدين قد إتجهت إلى تحمل المطعون ضدها",
+  "keywords": [
+   "العقد",
+   "عرف",
+   "مجال تطبيق العرف البحرى",
+   "cassation",
+   "civil",
+   "custom_usage",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0837 لسنة 48"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "27-02-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0837",
+   "judicial_year": "48",
+   "office_volume": "35",
+   "page": "568",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_custom_usage_0837_48_2",
+   "domain": "civil_law",
+   "category": "custom_usage",
+   "topic": "مجال تطبيق العرف البحرى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0837",
+    "judicial_year": "48",
+    "office_volume": "35",
+    "page": "568",
+    "session_date": "27-02-1984",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "العقد",
+    "عرف",
+    "مجال تطبيق العرف البحرى"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان المتفق عليه فى العقد موضوع النزاع أن مجال تطبيق العرف البحرى يكون فيما لم يرد بشأنه نص فى العقد و كان نص المادة السادسة من العقد واضح الدلالة على أن إرادة المتعاقدين قد إتجهت إلى تحمل المطعون ضدها",
+   "core_principles": [
+    "إذ كان المتفق عليه فى العقد موضوع النزاع أن مجال تطبيق العرف البحرى يكون فيما لم يرد بشأنه نص فى العقد و كان نص المادة السادسة من العقد واضح الدلالة على أن إرادة المتعاقدين قد إتجهت إلى تحمل المطعون ضدها لجميع الخسائر و هو إتفاق صحيح و لا يخالف النظام العام فإن الحكم المطعون فيه إذ ساير الحكم الإبتد"
+   ],
+   "judicial_rule": {
+    "short": "إذ كان المتفق عليه فى العقد موضوع النزاع أن مجال تطبيق العرف البحرى يكون فيما لم يرد بشأنه نص فى العقد و كان نص المادة السادسة من العقد واضح الدلالة على أن إرادة المتعاقدين قد إتجهت إلى تحمل المطعون ضدها",
+    "professional": "إذ كان المتفق عليه فى العقد موضوع النزاع أن مجال تطبيق العرف البحرى يكون فيما لم يرد بشأنه نص فى العقد و كان نص المادة السادسة من العقد واضح الدلالة على أن إرادة المتعاقدين قد إتجهت إلى تحمل المطعون ضدها لجميع الخسائر و هو إتفاق صحيح و لا يخالف النظام العام فإن الحكم المطعون فيه إذ ساير الحكم الإبتدائى فى أعمال العرف البحرى تطبيقاً للمادة السابعة عشر متجاهلاً ما تضمنته المادة السادسة من شروط واضحة تخالف هذا العرف إتجهت إرادة الطرفين إلى أعمالها فإنه يكون قد مسخ نصوص العقد و خ"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "custom_usage",
+    "مجال تطبيق العرف البحرى",
+    "عرف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

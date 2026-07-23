@@ -1,0 +1,1693 @@
+[
+ {
+  "id": "cass_civil_lease_contracts_0489_34_1",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "احكام العقد واجبة الاتباع",
+  "content": "إذا كان الثابت أن علاقة الطرفين يحكمها عقد إيجار مبروم بينهما فلا محل لتطبيق قواعد الإثراء بلا سبب لوجود رابطة عقدية بينهما بل تكون أحكام العقد هى المرجع فى تحديد حقوق وواجبات كل من الطرفين قبل الآخر .",
+  "keywords": [
+   "احكام العقد واجبة الاتباع",
+   "الإثراء",
+   "العقد",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0489 لسنة 34"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "14-11-1968",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0489",
+   "judicial_year": "34",
+   "office_volume": "19",
+   "page": "1371",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0489_34_1",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "احكام العقد واجبة الاتباع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0489",
+    "judicial_year": "34",
+    "office_volume": "19",
+    "page": "1371",
+    "session_date": "14-11-1968",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "احكام العقد واجبة الاتباع",
+    "الإثراء",
+    "العقد",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان الثابت أن علاقة الطرفين يحكمها عقد إيجار مبروم بينهما فلا محل لتطبيق قواعد الإثراء بلا سبب لوجود رابطة عقدية بينهما بل تكون أحكام العقد هى المرجع فى تحديد حقوق وواجبات كل من الطرفين قبل الآخر .",
+   "core_principles": [
+    "إذا كان الثابت أن علاقة الطرفين يحكمها عقد إيجار مبروم بينهما فلا محل لتطبيق قواعد الإثراء بلا سبب لوجود رابطة عقدية بينهما بل تكون أحكام العقد هى المرجع فى تحديد حقوق وواجبات كل من الطرفين قبل الآخر"
+   ],
+   "judicial_rule": {
+    "short": "إذا كان الثابت أن علاقة الطرفين يحكمها عقد إيجار مبروم بينهما فلا محل لتطبيق قواعد الإثراء بلا سبب لوجود رابطة عقدية بينهما بل تكون أحكام العقد هى المرجع فى تحديد حقوق وواجبات كل من الطرفين قبل الآخر",
+    "professional": "إذا كان الثابت أن علاقة الطرفين يحكمها عقد إيجار مبروم بينهما فلا محل لتطبيق قواعد الإثراء بلا سبب لوجود رابطة عقدية بينهما بل تكون أحكام العقد هى المرجع فى تحديد حقوق وواجبات كل من الطرفين قبل الآخر ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "احكام العقد واجبة الاتباع",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_0438_40_3",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "الالتزام بأحكام عقد الايجار",
+  "content": "تقضى القواعد العامة الواردة فى قانون المرافعات بأنه إذا كانت الدعوى قد رفعت من المؤجر بطلب فسخ عقد الإيجار و تسليم العين المؤجرة و إزالة ما عليها من مبان . فإنه يجب وفقاً لقواعد تقدير قيمة الدعوى الواردة فى المادة",
+  "keywords": [
+   "الإيجار",
+   "الالتزام بأحكام عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0438 لسنة 40"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_1537_48_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-01-1975",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0438",
+   "judicial_year": "40",
+   "office_volume": "26",
+   "page": "227",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0438_40_3",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "الالتزام بأحكام عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0438",
+    "judicial_year": "40",
+    "office_volume": "26",
+    "page": "227",
+    "session_date": "22-01-1975",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الإيجار",
+    "الالتزام بأحكام عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقضى القواعد العامة الواردة فى قانون المرافعات بأنه إذا كانت الدعوى قد رفعت من المؤجر بطلب فسخ عقد الإيجار و تسليم العين المؤجرة و إزالة ما عليها من مبان . فإنه يجب وفقاً لقواعد تقدير قيمة الدعوى الواردة فى المادة",
+   "core_principles": [
+    "فإنه يجب وفقاً لقواعد تقدير قيمة الدعوى الواردة فى المادة 30 و ما بعدها من قانون المرافعات رقم 77 لسنة 1949 - الذى صدر الحكم الإبتدائى فى ظله - إضافة قيمة المبانى إلى طلب فسخ عقد الإيجار و التسليم بإعتبار أن طلب الإزالة طلب أصلى ، و أن طلبات المؤجر و إن تعددت إلا أن منشأها جميعاً هو عقد الإيجار مما"
+   ],
+   "judicial_rule": {
+    "short": "فإنه يجب وفقاً لقواعد تقدير قيمة الدعوى الواردة فى المادة 30 و ما بعدها من قانون المرافعات رقم 77 لسنة 1949 - الذى صدر الحكم الإبتدائى فى ظله - إضافة قيمة المبانى إلى طلب فسخ عقد الإيجار و التسليم بإعتبار",
+    "professional": "تقضى القواعد العامة الواردة فى قانون المرافعات بأنه إذا كانت الدعوى قد رفعت من المؤجر بطلب فسخ عقد الإيجار و تسليم العين المؤجرة و إزالة ما عليها من مبان . فإنه يجب وفقاً لقواعد تقدير قيمة الدعوى الواردة فى المادة 30 و ما بعدها من قانون المرافعات رقم 77 لسنة 1949 - الذى صدر الحكم الإبتدائى فى ظله - إضافة قيمة المبانى إلى طلب فسخ عقد الإيجار و التسليم بإعتبار أن طلب الإزالة طلب أصلى ، و أن طلبات المؤجر و إن تعددت إلا أن منشأها جميعاً هو عقد الإيجار مما يتعين معه أن تقدر قيمة ا"
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "الالتزام بأحكام عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_1537_48_3",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "الالتزام بأحكام عقد الايجار",
+  "content": "مفاد المواد 563 ، 598 ، 599 من القانون المدنى أنه إذا إتفق العاقدان على مدة ما إنقضى الإيجار - غير الخاضع للقوانين الإستثنائية - بفواتها ما لم يشترط لإنتهائه صدور التنبيه بالإخلاء من أحدهما للآخر قبل فوات المدة بوقت",
+  "keywords": [
+   "الإيجار",
+   "الالتزام بأحكام عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 1537 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_0438_40_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "30-05-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1537",
+   "judicial_year": "48",
+   "office_volume": "34",
+   "page": "1341",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_1537_48_3",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "الالتزام بأحكام عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1537",
+    "judicial_year": "48",
+    "office_volume": "34",
+    "page": "1341",
+    "session_date": "30-05-1983",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الإيجار",
+    "الالتزام بأحكام عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد المواد 563 ، 598 ، 599 من القانون المدنى أنه إذا إتفق العاقدان على مدة ما إنقضى الإيجار - غير الخاضع للقوانين الإستثنائية - بفواتها ما لم يشترط لإنتهائه صدور التنبيه بالإخلاء من أحدهما للآخر قبل فوات المدة بوقت",
+   "core_principles": [
+    "مفاد المواد 563 ، 598 ، 599 من القانون المدنى أنه إذا إتفق العاقدان على مدة ما إنقضى الإيجار - غير الخاضع للقوانين الإستثنائية - بفواتها ما لم يشترط لإنتهائه صدور التنبيه بالإخلاء من أحدهما للآخر قبل فوات المدة بوقت معين و إلا فيمتد الإيجار إلى مدة أخرى طبقاً لإتفاقهما و متى إتفقا على جعل حق إنهاء ا"
+   ],
+   "judicial_rule": {
+    "short": "مفاد المواد 563 ، 598 ، 599 من القانون المدنى أنه إذا إتفق العاقدان على مدة ما إنقضى الإيجار - غير الخاضع للقوانين الإستثنائية - بفواتها ما لم يشترط لإنتهائه صدور التنبيه بالإخلاء من أحدهما للآخر قبل فوات المدة بوقت",
+    "professional": "مفاد المواد 563 ، 598 ، 599 من القانون المدنى أنه إذا إتفق العاقدان على مدة ما إنقضى الإيجار - غير الخاضع للقوانين الإستثنائية - بفواتها ما لم يشترط لإنتهائه صدور التنبيه بالإخلاء من أحدهما للآخر قبل فوات المدة بوقت معين و إلا فيمتد الإيجار إلى مدة أخرى طبقاً لإتفاقهما و متى إتفقا على جعل حق إنهاء الإيجار بالتنبيه مقصوراً على أحدهما دون الآخر فإن هذا الإتفاق لا مخالفة فيه للقانون و يكون ملزماً لهما ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "الالتزام بأحكام عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_0672_48_1",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "الشرط الفاسخ الصريح بعقد الايجار",
+  "content": "لما كان عقد الإيجار ينص فى بنده الرابع على أنه \" إذا تأخر الطرف الثانى فى سداد الإيجار فى موعده يصبح هذا العقد مفسوخاً من تلقاء نفسه بغير حاجة تنبيه أو إنذار أو إتخاذ إجراءات و يحق للطرف الأول رفع",
+  "keywords": [
+   "الإيجار",
+   "الشرط الفاسخ الصريح بعقد الايجار",
+   "العقد",
+   "الفسخ",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0672 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_0672_48_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "27-01-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0672",
+   "judicial_year": "48",
+   "office_volume": "34",
+   "page": "320",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0672_48_1",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "الشرط الفاسخ الصريح بعقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0672",
+    "judicial_year": "48",
+    "office_volume": "34",
+    "page": "320",
+    "session_date": "27-01-1983",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الإيجار",
+    "الشرط الفاسخ الصريح بعقد الايجار",
+    "العقد",
+    "الفسخ",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان عقد الإيجار ينص فى بنده الرابع على أنه \" إذا تأخر الطرف الثانى فى سداد الإيجار فى موعده يصبح هذا العقد مفسوخاً من تلقاء نفسه بغير حاجة تنبيه أو إنذار أو إتخاذ إجراءات و يحق للطرف الأول رفع",
+   "core_principles": [
+    "فإنه يكون قد تضمن شرطاً فاسخاً صريحاً يسلب القاضى و على ما جرى به قضاء هذه المحكمة كل سلطة تقديرية فى صدد الفسخ و لا يبقى له فى إعتبار الفسخ حاصلاً فعلاً إلا التحقق من حصول المخالفة التى بنى عليها"
+   ],
+   "judicial_rule": {
+    "short": "فإنه يكون قد تضمن شرطاً فاسخاً صريحاً يسلب القاضى و على ما جرى به قضاء هذه المحكمة كل سلطة تقديرية فى صدد الفسخ و لا يبقى له فى إعتبار الفسخ حاصلاً فعلاً إلا التحقق من حصول المخالفة التى بنى عليها",
+    "professional": "فإنه يكون قد تضمن شرطاً فاسخاً صريحاً يسلب القاضى و على ما جرى به قضاء هذه المحكمة كل سلطة تقديرية فى صدد الفسخ و لا يبقى له فى إعتبار الفسخ حاصلاً فعلاً إلا التحقق من حصول المخالفة التى بنى عليها ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "الشرط الفاسخ الصريح بعقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_0672_48_2",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "الشرط الفاسخ الصريح بعقد الايجار",
+  "content": "و لما كان الحكم المطعون فيه قد أقام قضاءه برفض الدعوى فى شقها المتعلق بتحقق هذا الشرط - الشرط الفاسخ الصريح - على القول بأن \" تأسيسه دعواه على سند من أن المستأنف عليهما - المطعون ضدهما - قد تأخرا",
+  "keywords": [
+   "الإيجار",
+   "الشرط الفاسخ الصريح بعقد الايجار",
+   "العقد",
+   "الفسخ",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0672 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_0672_48_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "27-01-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0672",
+   "judicial_year": "48",
+   "office_volume": "34",
+   "page": "320",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0672_48_2",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "الشرط الفاسخ الصريح بعقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0672",
+    "judicial_year": "48",
+    "office_volume": "34",
+    "page": "320",
+    "session_date": "27-01-1983",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الإيجار",
+    "الشرط الفاسخ الصريح بعقد الايجار",
+    "العقد",
+    "الفسخ",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "و لما كان الحكم المطعون فيه قد أقام قضاءه برفض الدعوى فى شقها المتعلق بتحقق هذا الشرط - الشرط الفاسخ الصريح - على القول بأن \" تأسيسه دعواه على سند من أن المستأنف عليهما - المطعون ضدهما - قد تأخرا",
+   "core_principles": [
+    "فإنه يكون قد أعتبر مجرد عرض الأجرة بعد إنقضاء ميعادها المحدد فى العقد موجباً لرفض الدعوى مع أن الفسخ متى وقع بمقتضى شرط العقد فإن عرض الأجرة و على ما جرى به قضاء هذه المحكمة ليس من شأنه أن يعيد العقد بعد إنفساخه و بما تدل على أن الحكم لم يتفهم شرط العقد و صرفه ذلك عن إعمال مقتضى هذا الشرط على وجهة ا"
+   ],
+   "judicial_rule": {
+    "short": "فإنه يكون قد أعتبر مجرد عرض الأجرة بعد إنقضاء ميعادها المحدد فى العقد موجباً لرفض الدعوى مع أن الفسخ متى وقع بمقتضى شرط العقد فإن عرض الأجرة و على ما جرى به قضاء هذه المحكمة ليس من شأنه أن يعيد",
+    "professional": "و لما كان الحكم المطعون فيه قد أقام قضاءه برفض الدعوى فى شقها المتعلق بتحقق هذا الشرط - الشرط الفاسخ الصريح - على القول بأن \" تأسيسه دعواه على سند من أن المستأنف عليهما - المطعون ضدهما - قد تأخرا فى سداد الإيجار و قدره ..... بواقع ..... شهرياً عن المدة من ..... إلى ..... فمردود بأن المستأجرين قد عرضا عليه أمام محكمة أول درجة .... هذا المبلغ بما يبرىء ذمتها ، و لكنه تقاعس عن إستلام المبلغ و رفض قبوله دون مبرر و من ثم فإن هذا السبب يكون على غير أساس \" . فإنه يكون قد أعتبر مجرد"
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "الشرط الفاسخ الصريح بعقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_1366_52_3",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "العقود الخاضعة لاحكام القانون المدنى",
+  "content": "المقرر فى قضاء هذه المحكمة - أن الأصل فى عقود الإيجار الخاضعه لأحكام القانون المدنى انها تنقضى بإنقضاء المدة المحددة فيها و أن التنبيه بالإخلاء فى الميعاد الصادر من أحد الطرفين للطرف الآخر يؤدى إلى إنحلال الرابطة العقدية القائمة بينهما",
+  "keywords": [
+   "الإيجار",
+   "العقد",
+   "العقود الخاضعة لاحكام القانون المدنى",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 1366 لسنة 52"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-02-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1366",
+   "judicial_year": "52",
+   "office_volume": "40",
+   "page": "534",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_1366_52_3",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "العقود الخاضعة لاحكام القانون المدنى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1366",
+    "judicial_year": "52",
+    "office_volume": "40",
+    "page": "534",
+    "session_date": "22-02-1989",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الإيجار",
+    "العقد",
+    "العقود الخاضعة لاحكام القانون المدنى",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر فى قضاء هذه المحكمة - أن الأصل فى عقود الإيجار الخاضعه لأحكام القانون المدنى انها تنقضى بإنقضاء المدة المحددة فيها و أن التنبيه بالإخلاء فى الميعاد الصادر من أحد الطرفين للطرف الآخر يؤدى إلى إنحلال الرابطة العقدية القائمة بينهما",
+   "core_principles": [
+    "المقرر فى قضاء هذه المحكمة - أن الأصل فى عقود الإيجار الخاضعه لأحكام القانون المدنى انها تنقضى بإنقضاء المدة المحددة فيها و أن التنبيه بالإخلاء فى الميعاد الصادر من أحد الطرفين للطرف الآخر يؤدى إلى إنحلال الرابطة العقدية القائمة بينهما"
+   ],
+   "judicial_rule": {
+    "short": "المقرر فى قضاء هذه المحكمة - أن الأصل فى عقود الإيجار الخاضعه لأحكام القانون المدنى انها تنقضى بإنقضاء المدة المحددة فيها و أن التنبيه بالإخلاء فى الميعاد الصادر من أحد الطرفين للطرف الآخر يؤدى إلى إنحلال الرابطة العقدية القائمة بينهما",
+    "professional": "المقرر فى قضاء هذه المحكمة - أن الأصل فى عقود الإيجار الخاضعه لأحكام القانون المدنى انها تنقضى بإنقضاء المدة المحددة فيها و أن التنبيه بالإخلاء فى الميعاد الصادر من أحد الطرفين للطرف الآخر يؤدى إلى إنحلال الرابطة العقدية القائمة بينهما ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "العقود الخاضعة لاحكام القانون المدنى",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_0474_40_2",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "انتهاء عقد الايجار",
+  "content": "طلب إخلاء العين المؤجرة إستناداً إلى إنتهاء عقد الإيجار ، لا يشكل تعرضاً للمستأجر بل هو إستعمال من المؤجر لحقه الذى خوله له القانون .",
+  "keywords": [
+   "الإيجار",
+   "انتهاء عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0474 لسنة 40"
+  ],
+  "related_ids": [
+   "cass_civil_lease_0181_21_1",
+   "cass_civil_lease_0134_22_1",
+   "cass_civil_lease_0069_23_2",
+   "cass_civil_lease_0348_29_5",
+   "cass_civil_lease_0028_34_1",
+   "cass_civil_lease_0211_34_2",
+   "cass_civil_lease_0406_38_1",
+   "cass_civil_lease_0406_38_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "12-03-1975",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0474",
+   "judicial_year": "40",
+   "office_volume": "26",
+   "page": "580",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0474_40_2",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "انتهاء عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0474",
+    "judicial_year": "40",
+    "office_volume": "26",
+    "page": "580",
+    "session_date": "12-03-1975",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الإيجار",
+    "انتهاء عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "طلب إخلاء العين المؤجرة إستناداً إلى إنتهاء عقد الإيجار ، لا يشكل تعرضاً للمستأجر بل هو إستعمال من المؤجر لحقه الذى خوله له القانون .",
+   "core_principles": [
+    "طلب إخلاء العين المؤجرة إستناداً إلى إنتهاء عقد الإيجار ، لا يشكل تعرضاً للمستأجر بل هو إستعمال من المؤجر لحقه الذى خوله له القانون"
+   ],
+   "judicial_rule": {
+    "short": "طلب إخلاء العين المؤجرة إستناداً إلى إنتهاء عقد الإيجار ، لا يشكل تعرضاً للمستأجر بل هو إستعمال من المؤجر لحقه الذى خوله له القانون",
+    "professional": "طلب إخلاء العين المؤجرة إستناداً إلى إنتهاء عقد الإيجار ، لا يشكل تعرضاً للمستأجر بل هو إستعمال من المؤجر لحقه الذى خوله له القانون ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "انتهاء عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_0474_40_5",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "تجديد عقد الايجار",
+  "content": "إذ كان الطاعنان قد نعيا على الحكم المطعون فيه - القاضى باخلائهما من العين المؤجرة لإنتهاء العقد - أن عقد الإيجار قد تجدد ببقائهما فى العين المؤجرة برضاء المطعون ضدها التى إستوفت الأجرة منهما بعد صدور ذلك الحكم ، فإن",
+  "keywords": [
+   "الإيجار",
+   "العقد",
+   "تجديد عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0474 لسنة 40"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_0382_41_1",
+   "cass_civil_lease_contracts_0382_41_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "12-03-1975",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0474",
+   "judicial_year": "40",
+   "office_volume": "26",
+   "page": "580",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0474_40_5",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "تجديد عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0474",
+    "judicial_year": "40",
+    "office_volume": "26",
+    "page": "580",
+    "session_date": "12-03-1975",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "الإيجار",
+    "العقد",
+    "تجديد عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان الطاعنان قد نعيا على الحكم المطعون فيه - القاضى باخلائهما من العين المؤجرة لإنتهاء العقد - أن عقد الإيجار قد تجدد ببقائهما فى العين المؤجرة برضاء المطعون ضدها التى إستوفت الأجرة منهما بعد صدور ذلك الحكم ، فإن",
+   "core_principles": [
+    "فإن هذا النعى يكون غير مقبول ، لأنه يتعلق بأمر لاحق على صدور الحكم ، فيخرج عن إختصاص هذه المحكمة"
+   ],
+   "judicial_rule": {
+    "short": "فإن هذا النعى يكون غير مقبول ، لأنه يتعلق بأمر لاحق على صدور الحكم ، فيخرج عن إختصاص هذه المحكمة",
+    "professional": "فإن هذا النعى يكون غير مقبول ، لأنه يتعلق بأمر لاحق على صدور الحكم ، فيخرج عن إختصاص هذه المحكمة"
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "تجديد عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_0382_41_1",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "تجديد عقد الايجار",
+  "content": "متى كان الطاعن قد تمسك بمذكرته المقدمة لمحكمة الإستئناف بأنه على الرغم من منازعته فى مقدار الأجرة التى يجب عليه دفعها و المحاسبة على أساسها فإنه قام بالوفاء للمطعون ضدها بالأجرة المسماة فى عقد الإيجار كاملة قبل قفل باب المرافعة",
+  "keywords": [
+   "الإيجار",
+   "تجديد عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0382 لسنة 41"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_0474_40_5",
+   "cass_civil_lease_contracts_0382_41_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 23 (Law 52)",
+    "Law 52/1969"
+   ],
+   "date": "28-05-1975",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0382",
+   "judicial_year": "41",
+   "office_volume": "26",
+   "page": "1096",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0382_41_1",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "تجديد عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0382",
+    "judicial_year": "41",
+    "office_volume": "26",
+    "page": "1096",
+    "session_date": "28-05-1975",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الإيجار",
+    "تجديد عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 23 (Law 52)",
+    "Law 52/1969"
+   ],
+   "facts_summary": "متى كان الطاعن قد تمسك بمذكرته المقدمة لمحكمة الإستئناف بأنه على الرغم من منازعته فى مقدار الأجرة التى يجب عليه دفعها و المحاسبة على أساسها فإنه قام بالوفاء للمطعون ضدها بالأجرة المسماة فى عقد الإيجار كاملة قبل قفل باب المرافعة",
+   "core_principles": [
+    "متى كان الطاعن قد تمسك بمذكرته المقدمة لمحكمة الإستئناف بأنه على الرغم من منازعته فى مقدار الأجرة التى يجب عليه دفعها و المحاسبة على أساسها فإنه قام بالوفاء للمطعون ضدها بالأجرة المسماة فى عقد الإيجار كاملة قبل قفل باب المرافعة فى الإستئناف ، و أنه بذلك يمتنع الحكم بالإخلاء عملاً بنص المادة 23 من ال"
+   ],
+   "judicial_rule": {
+    "short": "متى كان الطاعن قد تمسك بمذكرته المقدمة لمحكمة الإستئناف بأنه على الرغم من منازعته فى مقدار الأجرة التى يجب عليه دفعها و المحاسبة على أساسها فإنه قام بالوفاء للمطعون ضدها بالأجرة المسماة فى عقد الإيجار كاملة قبل قفل باب المرافعة",
+    "professional": "متى كان الطاعن قد تمسك بمذكرته المقدمة لمحكمة الإستئناف بأنه على الرغم من منازعته فى مقدار الأجرة التى يجب عليه دفعها و المحاسبة على أساسها فإنه قام بالوفاء للمطعون ضدها بالأجرة المسماة فى عقد الإيجار كاملة قبل قفل باب المرافعة فى الإستئناف ، و أنه بذلك يمتنع الحكم بالإخلاء عملاً بنص المادة 23 من القانون رقم 52 لسنة 1969 ، و كانت المادة 23 المذكورة تنص على أنه لا يحكم بالإخلاء إذا قام المستأجر بأداء الأجرة و فوائدها بواقع 7 % من تاريخ الإستحقاق حتى تاريخ السداد و المصاريف الر"
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "تجديد عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0025",
+   "القانون_المدني__file_0171__art_0025",
+   "القانون_الدنى__file_0215__art_0025",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0318",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0378",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0023",
+   "كود_القانون_المدنى__file_0205__art_0023",
+   "القانون_المدني__file_0110__art_0025"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_0382_41_2",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "تجديد عقد الايجار",
+  "content": "يشترط للحكم بالإخلاء بسبب التأخير فى سداد الأجرة ثبوت تخلف المستأجر عن الوفاء بالأجرة معدلة بالزيادة أو النقصان طبقاً لما تنص عليه قوانين إيجار الأماكن فإن كانت الأجرة متنازعاً عليها من جانب المستأجر منازعة جدية سواء فى مقدارها أو إستحقاقها",
+  "keywords": [
+   "تجديد عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0382 لسنة 41"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_0474_40_5",
+   "cass_civil_lease_contracts_0382_41_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-05-1975",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0382",
+   "judicial_year": "41",
+   "office_volume": "26",
+   "page": "1096",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0382_41_2",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "تجديد عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0382",
+    "judicial_year": "41",
+    "office_volume": "26",
+    "page": "1096",
+    "session_date": "28-05-1975",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "تجديد عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "يشترط للحكم بالإخلاء بسبب التأخير فى سداد الأجرة ثبوت تخلف المستأجر عن الوفاء بالأجرة معدلة بالزيادة أو النقصان طبقاً لما تنص عليه قوانين إيجار الأماكن فإن كانت الأجرة متنازعاً عليها من جانب المستأجر منازعة جدية سواء فى مقدارها أو إستحقاقها",
+   "core_principles": [
+    "يشترط للحكم بالإخلاء بسبب التأخير فى سداد الأجرة ثبوت تخلف المستأجر عن الوفاء بالأجرة معدلة بالزيادة أو النقصان طبقاً لما تنص عليه قوانين إيجار الأماكن فإن كانت الأجرة متنازعاً عليها من جانب المستأجر منازعة جدية سواء فى مقدارها أو إستحقاقها إستناداً إلى خلاف فى تفسير نص من نصوص تلك القوانين ، و كان"
+   ],
+   "judicial_rule": {
+    "short": "يشترط للحكم بالإخلاء بسبب التأخير فى سداد الأجرة ثبوت تخلف المستأجر عن الوفاء بالأجرة معدلة بالزيادة أو النقصان طبقاً لما تنص عليه قوانين إيجار الأماكن فإن كانت الأجرة متنازعاً عليها من جانب المستأجر منازعة جدية سواء فى مقدارها أو إستحقاقها",
+    "professional": "يشترط للحكم بالإخلاء بسبب التأخير فى سداد الأجرة ثبوت تخلف المستأجر عن الوفاء بالأجرة معدلة بالزيادة أو النقصان طبقاً لما تنص عليه قوانين إيجار الأماكن فإن كانت الأجرة متنازعاً عليها من جانب المستأجر منازعة جدية سواء فى مقدارها أو إستحقاقها إستناداً إلى خلاف فى تفسير نص من نصوص تلك القوانين ، و كان تفسيره على نحو أو آخر مما تحتمله عبارات النص ، فإنه يتعين على المحكمة قبل أن تفصل فى طلب الإخلاء أن تعرض لهذا الخلاف و تقول كلمتها فيه بإعتباره مسألة أولية لازمة للفصل فى طلب الإخل"
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "تجديد عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_2033_51_4",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "تفسير عقد الايجار",
+  "content": "الأصل فى بيان حدود و نطاق المكان المؤجر و هو بما يفصح عنه المتعاقدان فى عقد الإيجار ، فإذا لم يتضح ذلك من عبارة العقد فإنه يتعين وفقاً لحكم المادة 2/150 من القانون المدنى البحث عن النية المشتركة للمتعاقدين مع",
+  "keywords": [
+   "الإيجار",
+   "التنفيذ",
+   "العقد",
+   "تفسير عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 2033 لسنة 51"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_0335_53_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-12-1986",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2033",
+   "judicial_year": "51",
+   "office_volume": "37",
+   "page": "1042",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_2033_51_4",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "تفسير عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2033",
+    "judicial_year": "51",
+    "office_volume": "37",
+    "page": "1042",
+    "session_date": "25-12-1986",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "الإيجار",
+    "التنفيذ",
+    "العقد",
+    "تفسير عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الأصل فى بيان حدود و نطاق المكان المؤجر و هو بما يفصح عنه المتعاقدان فى عقد الإيجار ، فإذا لم يتضح ذلك من عبارة العقد فإنه يتعين وفقاً لحكم المادة 2/150 من القانون المدنى البحث عن النية المشتركة للمتعاقدين مع",
+   "core_principles": [
+    "الأصل فى بيان حدود و نطاق المكان المؤجر و هو بما يفصح عنه المتعاقدان فى عقد الإيجار ، فإذا لم يتضح ذلك من عبارة العقد فإنه يتعين وفقاً لحكم المادة 2/150 من القانون المدنى البحث عن النية المشتركة للمتعاقدين مع الإستهداء فى ذلك بطبيعة التعامل وفقاً للعرف الجارى فى المعاملات ، و يمكن الإستهداء فى ذلك ب"
+   ],
+   "judicial_rule": {
+    "short": "الأصل فى بيان حدود و نطاق المكان المؤجر و هو بما يفصح عنه المتعاقدان فى عقد الإيجار ، فإذا لم يتضح ذلك من عبارة العقد فإنه يتعين وفقاً لحكم المادة 2/150 من القانون المدنى البحث عن النية المشتركة للمتعاقدين مع",
+    "professional": "الأصل فى بيان حدود و نطاق المكان المؤجر و هو بما يفصح عنه المتعاقدان فى عقد الإيجار ، فإذا لم يتضح ذلك من عبارة العقد فإنه يتعين وفقاً لحكم المادة 2/150 من القانون المدنى البحث عن النية المشتركة للمتعاقدين مع الإستهداء فى ذلك بطبيعة التعامل وفقاً للعرف الجارى فى المعاملات ، و يمكن الإستهداء فى ذلك بالطريقة التى تم بها تنفيذ العقد منذ البداية ، فإذا ما قام المتعاقدان بتنفيذه على نحو معين مدة من الزمن أمكن تفسير إرادتهما المشتركة فى ضوء طريقة التنفيذ التى تراضيا عليها ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "تفسير عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_0335_53_3",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "تفسير عقد الايجار",
+  "content": "إذا كانت المادة 558 من القانون المدنى قد عرفت عقد الإيجار بأنه عقد يلتزم المؤجر بمقتضاه أن يمكن المستأجر من الإنتفاع بشىء معين مدة معينة لقاء أجر معلوم فإنه قد يلتبس بعقد بيع حق الإنتفاع بإعتبار أن كلا من المنتفع",
+  "keywords": [
+   "الإيجار",
+   "تفسير عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 0335 لسنة 53"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_2033_51_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-05-1991",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0335",
+   "judicial_year": "53",
+   "office_volume": "42",
+   "page": "1180",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_0335_53_3",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "تفسير عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0335",
+    "judicial_year": "53",
+    "office_volume": "42",
+    "page": "1180",
+    "session_date": "23-05-1991",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الإيجار",
+    "تفسير عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كانت المادة 558 من القانون المدنى قد عرفت عقد الإيجار بأنه عقد يلتزم المؤجر بمقتضاه أن يمكن المستأجر من الإنتفاع بشىء معين مدة معينة لقاء أجر معلوم فإنه قد يلتبس بعقد بيع حق الإنتفاع بإعتبار أن كلا من المنتفع",
+   "core_principles": [
+    "إذا كانت المادة 558 من القانون المدنى قد عرفت عقد الإيجار بأنه عقد يلتزم المؤجر بمقتضاه أن يمكن المستأجر من الإنتفاع بشىء معين مدة معينة لقاء أجر معلوم فإنه قد يلتبس بعقد بيع حق الإنتفاع بإعتبار أن كلا من المنتفع و المستأجر ينتفع بشىء لا يملكه مدة معينة لقاء جعل من المال إلا أن حق الإنتفاع حق عينى ي"
+   ],
+   "judicial_rule": {
+    "short": "إذا كانت المادة 558 من القانون المدنى قد عرفت عقد الإيجار بأنه عقد يلتزم المؤجر بمقتضاه أن يمكن المستأجر من الإنتفاع بشىء معين مدة معينة لقاء أجر معلوم فإنه قد يلتبس بعقد بيع حق الإنتفاع بإعتبار أن كلا من المنتفع",
+    "professional": "إذا كانت المادة 558 من القانون المدنى قد عرفت عقد الإيجار بأنه عقد يلتزم المؤجر بمقتضاه أن يمكن المستأجر من الإنتفاع بشىء معين مدة معينة لقاء أجر معلوم فإنه قد يلتبس بعقد بيع حق الإنتفاع بإعتبار أن كلا من المنتفع و المستأجر ينتفع بشىء لا يملكه مدة معينة لقاء جعل من المال إلا أن حق الإنتفاع حق عينى يلزم تسجيله فتصبح للمنتفع سلطة على المنتفع به دون وساطة مالك الرقبة ، فى حين أن حق المستأجر بطبيعته حق شخصى يجعل المستأجر دائناً للمؤجر و بالإنتفاع بالعين المؤجرة ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "تفسير عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_1145_51_2",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "دعوى صحة و نفاذ عقد الايجار",
+  "content": "المقرر أن الدعوى بصحة و نفاذ عقد الإيجار هو دعوى موضوعية تستلزم أن تبحث المحكمة فيها موضوع العقد و صحته و تتحقق من إستيفائه الشروط اللازمة لإنعقاده ، و يتسع نطاقها لبحث كافة ما يثار فيها من أسباب تتعلق بوجود",
+  "keywords": [
+   "الإيجار",
+   "العقد",
+   "دعوى صحة و نفاذ عقد الايجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 1145 لسنة 51"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-01-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1145",
+   "judicial_year": "51",
+   "office_volume": "34",
+   "page": "258",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_1145_51_2",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "دعوى صحة و نفاذ عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1145",
+    "judicial_year": "51",
+    "office_volume": "34",
+    "page": "258",
+    "session_date": "19-01-1983",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الإيجار",
+    "العقد",
+    "دعوى صحة و نفاذ عقد الايجار",
+    "عقد الإيجار",
+    "عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر أن الدعوى بصحة و نفاذ عقد الإيجار هو دعوى موضوعية تستلزم أن تبحث المحكمة فيها موضوع العقد و صحته و تتحقق من إستيفائه الشروط اللازمة لإنعقاده ، و يتسع نطاقها لبحث كافة ما يثار فيها من أسباب تتعلق بوجود",
+   "core_principles": [
+    "المقرر أن الدعوى بصحة و نفاذ عقد الإيجار هو دعوى موضوعية تستلزم أن تبحث المحكمة فيها موضوع العقد و صحته و تتحقق من إستيفائه الشروط اللازمة لإنعقاده ، و يتسع نطاقها لبحث كافة ما يثار فيها من أسباب تتعلق بوجود العقد أو إنعدامه و صحته أو بطلانه"
+   ],
+   "judicial_rule": {
+    "short": "المقرر أن الدعوى بصحة و نفاذ عقد الإيجار هو دعوى موضوعية تستلزم أن تبحث المحكمة فيها موضوع العقد و صحته و تتحقق من إستيفائه الشروط اللازمة لإنعقاده ، و يتسع نطاقها لبحث كافة ما يثار فيها من أسباب تتعلق بوجود",
+    "professional": "المقرر أن الدعوى بصحة و نفاذ عقد الإيجار هو دعوى موضوعية تستلزم أن تبحث المحكمة فيها موضوع العقد و صحته و تتحقق من إستيفائه الشروط اللازمة لإنعقاده ، و يتسع نطاقها لبحث كافة ما يثار فيها من أسباب تتعلق بوجود العقد أو إنعدامه و صحته أو بطلانه ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "دعوى صحة و نفاذ عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_1032_46_1",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "ماهية عقد الايجار",
+  "content": "عقد الإيجار عقد رضائى يخضع فى قيامه لمبدأ سلطان الإرادة فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها دون مجاوزة لنطاقها ، و الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا كان الإلتزام الناشىء",
+  "keywords": [
+   "الإرادة",
+   "الإيجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "ماهية عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 1032 لسنة 46"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_2202_52_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-03-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1032",
+   "judicial_year": "46",
+   "office_volume": "30",
+   "page": "927",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_1032_46_1",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "ماهية عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1032",
+    "judicial_year": "46",
+    "office_volume": "30",
+    "page": "927",
+    "session_date": "24-03-1979",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الإرادة",
+    "الإيجار",
+    "عقد الإيجار",
+    "عقد الايجار",
+    "ماهية عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "عقد الإيجار عقد رضائى يخضع فى قيامه لمبدأ سلطان الإرادة فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها دون مجاوزة لنطاقها ، و الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا كان الإلتزام الناشىء",
+   "core_principles": [
+    "عقد الإيجار عقد رضائى يخضع فى قيامه لمبدأ سلطان الإرادة فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها دون مجاوزة لنطاقها ، و الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا كان الإلتزام الناشىء عنها مخالفاً للنظام العام أو الآداب محلاً أو سبباً أو كان عل خلاف نص آمر أو ناه فى"
+   ],
+   "judicial_rule": {
+    "short": "عقد الإيجار عقد رضائى يخضع فى قيامه لمبدأ سلطان الإرادة فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها دون مجاوزة لنطاقها ، و الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا كان الإلتزام الناشىء",
+    "professional": "عقد الإيجار عقد رضائى يخضع فى قيامه لمبدأ سلطان الإرادة فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها دون مجاوزة لنطاقها ، و الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا كان الإلتزام الناشىء عنها مخالفاً للنظام العام أو الآداب محلاً أو سبباً أو كان عل خلاف نص آمر أو ناه فى القانون ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "ماهية عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_lease_contracts_2202_52_1",
+  "type": "judgment_principle",
+  "category": "lease_contracts",
+  "title": "ماهية عقد الايجار",
+  "content": "عقد الإيجار عقد رضائياً يخضع فى قيامه لمبدأ سلطان الإرادة - فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها و دون مجاوزة لنطاقها - و كان الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا",
+  "keywords": [
+   "الإرادة",
+   "الإيجار",
+   "عقد الإيجار",
+   "عقد الايجار",
+   "ماهية عقد الايجار",
+   "cassation",
+   "civil",
+   "lease_contracts",
+   "rental law",
+   "eviction",
+   "rent control",
+   "tenant rights"
+  ],
+  "citations": [
+   "طعن رقم 2202 لسنة 52"
+  ],
+  "related_ids": [
+   "cass_civil_lease_contracts_1032_46_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-03-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2202",
+   "judicial_year": "52",
+   "office_volume": "40",
+   "page": "909",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_lease_contracts_2202_52_1",
+   "domain": "civil_law",
+   "category": "lease_contracts",
+   "topic": "ماهية عقد الايجار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2202",
+    "judicial_year": "52",
+    "office_volume": "40",
+    "page": "909",
+    "session_date": "20-03-1989",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الإرادة",
+    "الإيجار",
+    "عقد الإيجار",
+    "عقد الايجار",
+    "ماهية عقد الايجار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "عقد الإيجار عقد رضائياً يخضع فى قيامه لمبدأ سلطان الإرادة - فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها و دون مجاوزة لنطاقها - و كان الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا",
+   "core_principles": [
+    "عقد الإيجار عقد رضائياً يخضع فى قيامه لمبدأ سلطان الإرادة - فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها و دون مجاوزة لنطاقها - و كان الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا كان الإلتزام الناشئى عنها مخالفاً للنظام العام أو الآداب محلاً أو سبباً أو على خلاف نص آمر أو"
+   ],
+   "judicial_rule": {
+    "short": "عقد الإيجار عقد رضائياً يخضع فى قيامه لمبدأ سلطان الإرادة - فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها و دون مجاوزة لنطاقها - و كان الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا",
+    "professional": "عقد الإيجار عقد رضائياً يخضع فى قيامه لمبدأ سلطان الإرادة - فيما عدا ما فرضه القانون من أحكام مقيدة لهذا المبدأ فى حدودها و دون مجاوزة لنطاقها - و كان الأصل فى الإرادة هو المشروعية فلا يلحقها بطلان إلا إذا كان الإلتزام الناشئى عنها مخالفاً للنظام العام أو الآداب محلاً أو سبباً أو على خلاف نص آمر أو ناه فى القانون ."
+   },
+   "conditions": [
+    "Valid lease contract must exist",
+    "Breach must be material to justify eviction"
+   ],
+   "exceptions": [
+    "Protected tenants under Rent Control Law have extended rights",
+    "Force majeure may suspend obligations"
+   ],
+   "effects": [
+    "Eviction order upon material breach",
+    "Rent arrears recoverable as debt"
+   ],
+   "practical_usage": [
+    "Cite to establish tenant/landlord rights under Egyptian rental law.",
+    "Use in eviction or rent dispute proceedings."
+   ],
+   "common_disputes": [
+    "Eviction for non-payment or material breach",
+    "Rent increase disputes under rent control law"
+   ],
+   "related_topics": [
+    "rental law",
+    "eviction",
+    "rent control",
+    "tenant rights"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "lease_contracts",
+    "ماهية عقد الايجار",
+    "عقد الإيجار"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

@@ -1,0 +1,2008 @@
+[
+ {
+  "id": "cass_civil_copyright_0022_38_3",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "المصنف الموسيقى",
+  "content": "متى كان الحكم المطعون فيه قد قرر فى مدوناته أنه ثبت أن مؤلف المصنف الموسيقى قد إتفق مع المنتج على أن يحتفظ الأول بحقه فى الأداء العلنى ، و مقتضى ذلك أن يكون التوكيل الصادر من المنتج إلى الشركة الموزعة",
+  "keywords": [
+   "الشركة",
+   "المصنف الموسيقى",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0022 لسنة 38"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1954"
+   ],
+   "date": "14-04-1973",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0022",
+   "judicial_year": "38",
+   "office_volume": "24",
+   "page": "608",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0022_38_3",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "المصنف الموسيقى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0022",
+    "judicial_year": "38",
+    "office_volume": "24",
+    "page": "608",
+    "session_date": "14-04-1973",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الشركة",
+    "المصنف الموسيقى",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1954"
+   ],
+   "facts_summary": "متى كان الحكم المطعون فيه قد قرر فى مدوناته أنه ثبت أن مؤلف المصنف الموسيقى قد إتفق مع المنتج على أن يحتفظ الأول بحقه فى الأداء العلنى ، و مقتضى ذلك أن يكون التوكيل الصادر من المنتج إلى الشركة الموزعة",
+   "core_principles": [
+    "و إذ خالف الحكم المطعون فيه هذا النظر و إعتبر أن التوكيل الصادر من المنتج إلى الشركة الموزعة ينصرف أثره إلى المؤلف لخلو الإتفاق الذى أبرمته الشركة الموزعة مع المطعون ضدهما بصفتها وكيلة عن المنتج من التحفظ على حق المؤلف ، و رتب على ذلك عدم أحقية الأخير فى أن يرجع مباشرة بمقابل نشر مصنفه على المطعون ض"
+   ],
+   "judicial_rule": {
+    "short": "و إذ خالف الحكم المطعون فيه هذا النظر و إعتبر أن التوكيل الصادر من المنتج إلى الشركة الموزعة ينصرف أثره إلى المؤلف لخلو الإتفاق الذى أبرمته الشركة الموزعة مع المطعون ضدهما بصفتها وكيلة عن المنتج من التحفظ على حق المؤلف",
+    "professional": "متى كان الحكم المطعون فيه قد قرر فى مدوناته أنه ثبت أن مؤلف المصنف الموسيقى قد إتفق مع المنتج على أن يحتفظ الأول بحقه فى الأداء العلنى ، و مقتضى ذلك أن يكون التوكيل الصادر من المنتج إلى الشركة الموزعة غير ذى أثر بالنسبة لمؤلف المصنف الموسيقى مما يستتبع عدم الإعتداد بأى إتفاق يبرمه المنتج مع الغير بإسم المؤلف فى هذه الحالة ، و يحق معه لهذا الأخير أن يرجع مباشرة على من نشر مصنفه بغير إذنه بمقتضى القواعد التى نظمها القانون رقم 354 لسنة 1954 . و إذ خالف الحكم المطعون فيه هذا النظ"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "المصنف الموسيقى",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0497_46_3",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "النشاط الذهنى ليس من الاعمال التجارية",
+  "content": "المهنة أو الحرفة التى تقوم أساساً على النشاط الذهنى و إستثمار الملكات الفكرية و المعلومات المكتسبة لصاحبها ، و التى لا تدر عليه ربحاً ، و إنما يحصل من جهده المبذول فيها على أجر يدخل فى تقديره ظروفه الشخصية و",
+  "keywords": [
+   "النشاط الذهنى ليس من الاعمال التجارية",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0497 لسنة 46"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "17-02-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0497",
+   "judicial_year": "46",
+   "office_volume": "30",
+   "page": "548",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0497_46_3",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "النشاط الذهنى ليس من الاعمال التجارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0497",
+    "judicial_year": "46",
+    "office_volume": "30",
+    "page": "548",
+    "session_date": "17-02-1979",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "النشاط الذهنى ليس من الاعمال التجارية",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المهنة أو الحرفة التى تقوم أساساً على النشاط الذهنى و إستثمار الملكات الفكرية و المعلومات المكتسبة لصاحبها ، و التى لا تدر عليه ربحاً ، و إنما يحصل من جهده المبذول فيها على أجر يدخل فى تقديره ظروفه الشخصية و",
+   "core_principles": [
+    "المهنة أو الحرفة التى تقوم أساساً على النشاط الذهنى و إستثمار الملكات الفكرية و المعلومات المكتسبة لصاحبها ، و التى لا تدر عليه ربحاً ، و إنما يحصل من جهده المبذول فيها على أجر يدخل فى تقديره ظروفه الشخصية و ظروف عمله و الظروف العامة التى تحيط بممارسته لأعمال المهنة أو الحرفة ، لا تعتبر من قبيل الأع"
+   ],
+   "judicial_rule": {
+    "short": "المهنة أو الحرفة التى تقوم أساساً على النشاط الذهنى و إستثمار الملكات الفكرية و المعلومات المكتسبة لصاحبها ، و التى لا تدر عليه ربحاً ، و إنما يحصل من جهده المبذول فيها على أجر يدخل فى تقديره ظروفه الشخصية و",
+    "professional": "المهنة أو الحرفة التى تقوم أساساً على النشاط الذهنى و إستثمار الملكات الفكرية و المعلومات المكتسبة لصاحبها ، و التى لا تدر عليه ربحاً ، و إنما يحصل من جهده المبذول فيها على أجر يدخل فى تقديره ظروفه الشخصية و ظروف عمله و الظروف العامة التى تحيط بممارسته لأعمال المهنة أو الحرفة ، لا تعتبر من قبيل الأعمال التجارية فى مفهوم قانون التجارة حتى لو إقتضت هذه الممارسة شراء بعض البضائع لبيعها للعملاء أو تصنيع بعض المواد لتقديمها إليهم إستكمالاً لمطالب المهنة أو الحرفة و خدمة للعملاء في"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "النشاط الذهنى ليس من الاعمال التجارية",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0555_48_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق استغلال الصوت",
+  "content": "لما كان من حق كل إنسان أن ينتفع إنتفاعاً مشروعاً بما حباه الله من ملكات و حواس و قدرات تميزه عن غيره من سائر البشر و منها صوته ، فإنه يكون له حق إستغلال هذا الصوت مالياً كما يجوز له",
+  "keywords": [
+   "التسجيل",
+   "الشركة",
+   "العقد",
+   "حق استغلال الصوت",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0555 لسنة 48"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "12-03-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0555",
+   "judicial_year": "48",
+   "office_volume": "35",
+   "page": "640",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0555_48_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق استغلال الصوت",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0555",
+    "judicial_year": "48",
+    "office_volume": "35",
+    "page": "640",
+    "session_date": "12-03-1984",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التسجيل",
+    "الشركة",
+    "العقد",
+    "حق استغلال الصوت",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان من حق كل إنسان أن ينتفع إنتفاعاً مشروعاً بما حباه الله من ملكات و حواس و قدرات تميزه عن غيره من سائر البشر و منها صوته ، فإنه يكون له حق إستغلال هذا الصوت مالياً كما يجوز له",
+   "core_principles": [
+    "فإذا نزل الشخص عن حقه فى إستغلال صوته مادياً للغير إمتنع عليه القيام بأى عمل أو تصرف من شأنه تعطيل إستعمال الغير للحق المنصرف فيه ، أو من شأنه أن يتعارض مع حق المنصرف إليه فى إستغلال هذا الصوت بالطريقة المتفق عليها فى عقد التنازل ، و لما كان ذلك و كان الثابت بالبنود الخمسة الأولى من العقد المؤرخ 964"
+   ],
+   "judicial_rule": {
+    "short": "فإذا نزل الشخص عن حقه فى إستغلال صوته مادياً للغير إمتنع عليه القيام بأى عمل أو تصرف من شأنه تعطيل إستعمال الغير للحق المنصرف فيه ، أو من شأنه أن يتعارض مع حق المنصرف إليه فى إستغلال هذا الصوت بالطريقة",
+    "professional": "فإنه يكون له حق إستغلال هذا الصوت مالياً كما يجوز له أن ينزل إلى الغير عن حقه المالى فى إستغلال صوته بما يشتمل عليه من الحق فى النشر و لو تعلق الأمر بإستغلال الصوت فى تلاوة القرآن إذ أن محل التعاقد فى هذه الحالة ليس هو القرآن الكريم فى حد ذاته أو مجرد تلاوته ، و إنما هو صوت القارىء و مدى إقبال الجمهور على سماعه . فإذا نزل الشخص عن حقه فى إستغلال صوته مادياً للغير إمتنع عليه القيام بأى عمل أو تصرف من شأنه تعطيل إستعمال الغير للحق المنصرف فيه ، أو من شأنه أن يتعارض مع حق المنصر"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق استغلال الصوت",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0022_38_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق استغلال المؤلف للمصنف الفنى",
+  "content": "إذ كانت طبيعة العمل الفنى لا تدرجه ضمن عروض التجارة ، كما يعتبر تعاقد الفنان على إستغلال عمله الفنى عملاً مديناً ، فإن قواعد الوكالة فى القانون المدنى تكون هى التى تحكم هذه الحالة . و إذ كانت المادة 34",
+  "keywords": [
+   "الوكالة",
+   "حق استغلال المؤلف للمصنف الفنى",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0022 لسنة 38"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0069_38_1",
+   "cass_civil_copyright_1352_53_1",
+   "cass_civil_copyright_01568_54_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 34 (Law 354)",
+    "Law 354/1954"
+   ],
+   "date": "14-04-1973",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0022",
+   "judicial_year": "38",
+   "office_volume": "24",
+   "page": "608",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0022_38_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق استغلال المؤلف للمصنف الفنى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0022",
+    "judicial_year": "38",
+    "office_volume": "24",
+    "page": "608",
+    "session_date": "14-04-1973",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الوكالة",
+    "حق استغلال المؤلف للمصنف الفنى",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 34 (Law 354)",
+    "Law 354/1954"
+   ],
+   "facts_summary": "إذ كانت طبيعة العمل الفنى لا تدرجه ضمن عروض التجارة ، كما يعتبر تعاقد الفنان على إستغلال عمله الفنى عملاً مديناً ، فإن قواعد الوكالة فى القانون المدنى تكون هى التى تحكم هذه الحالة . و إذ كانت المادة 34",
+   "core_principles": [
+    "و إذ كانت المادة 34 من القانون رقم 354 لسنة 1954 ، و إن أنابت المنتج عن مؤلفى المصنف السينمائى فى نشر الفيلم و إستغلاله إلا أنها فى فقرتها الأخيرة أجازت أن يتم الإتفاق على خلاف ذلك ، و مؤدى هذا النص أنه لو إحتفظ مؤلف المصنف السينمائى بحقه فى الأداء العلنى تزول تلك النيابة القانونية التى للمنتج عنه و"
+   ],
+   "judicial_rule": {
+    "short": "و إذ كانت المادة 34 من القانون رقم 354 لسنة 1954 ، و إن أنابت المنتج عن مؤلفى المصنف السينمائى فى نشر الفيلم و إستغلاله إلا أنها فى فقرتها الأخيرة أجازت أن يتم الإتفاق على خلاف ذلك ، و مؤدى",
+    "professional": "كما يعتبر تعاقد الفنان على إستغلال عمله الفنى عملاً مديناً ، فإن قواعد الوكالة فى القانون المدنى تكون هى التى تحكم هذه الحالة . و إذ كانت المادة 34 من القانون رقم 354 لسنة 1954 ، و إن أنابت المنتج عن مؤلفى المصنف السينمائى فى نشر الفيلم و إستغلاله إلا أنها فى فقرتها الأخيرة أجازت أن يتم الإتفاق على خلاف ذلك ، و مؤدى هذا النص أنه لو إحتفظ مؤلف المصنف السينمائى بحقه فى الأداء العلنى تزول تلك النيابة القانونية التى للمنتج عنه و يصبح هو صاحب الحق فى إستغلال مصنفه بنفسه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق استغلال المؤلف للمصنف الفنى",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0036",
+   "القانون_المدني__file_0171__art_0036",
+   "القانون_الدنى__file_0215__art_0036",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0324",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0383",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0501",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0033",
+   "كود_القانون_المدنى__file_0205__art_0034",
+   "القانون_المدني__file_0110__art_0036"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0069_38_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق استغلال المؤلف للمصنف الفنى",
+  "content": "إذا كان يبين من الحكم المطعون فيه أن دفاع الطاعنين قام على أنهما لم يكونا طرفاً فى الإتفاق المبرم بين المنتج و مؤلف الموسيقى - التصويرية للفيلم - و أنه علاقة أصحاب دور السينما تنحصر فقط مع المنتج و لا",
+  "keywords": [
+   "حق استغلال المؤلف للمصنف الفنى",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0069 لسنة 38"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0022_38_1",
+   "cass_civil_copyright_1352_53_1",
+   "cass_civil_copyright_01568_54_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "14-04-1973",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0069",
+   "judicial_year": "38",
+   "office_volume": "24",
+   "page": "613",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0069_38_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق استغلال المؤلف للمصنف الفنى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0069",
+    "judicial_year": "38",
+    "office_volume": "24",
+    "page": "613",
+    "session_date": "14-04-1973",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "حق استغلال المؤلف للمصنف الفنى",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان يبين من الحكم المطعون فيه أن دفاع الطاعنين قام على أنهما لم يكونا طرفاً فى الإتفاق المبرم بين المنتج و مؤلف الموسيقى - التصويرية للفيلم - و أنه علاقة أصحاب دور السينما تنحصر فقط مع المنتج و لا",
+   "core_principles": [
+    "إذا كان يبين من الحكم المطعون فيه أن دفاع الطاعنين قام على أنهما لم يكونا طرفاً فى الإتفاق المبرم بين المنتج و مؤلف الموسيقى - التصويرية للفيلم - و أنه علاقة أصحاب دور السينما تنحصر فقط مع المنتج و لا شأن لهم بأحد خلافه ، و أنه إذا كان لمؤلف الموسيقى أى حق ناشئ عن الأداء العلنى فإنه يكون قبل المنتج"
+   ],
+   "judicial_rule": {
+    "short": "إذا كان يبين من الحكم المطعون فيه أن دفاع الطاعنين قام على أنهما لم يكونا طرفاً فى الإتفاق المبرم بين المنتج و مؤلف الموسيقى - التصويرية للفيلم - و أنه علاقة أصحاب دور السينما تنحصر فقط مع المنتج و لا",
+    "professional": "إذا كان يبين من الحكم المطعون فيه أن دفاع الطاعنين قام على أنهما لم يكونا طرفاً فى الإتفاق المبرم بين المنتج و مؤلف الموسيقى - التصويرية للفيلم - و أنه علاقة أصحاب دور السينما تنحصر فقط مع المنتج و لا شأن لهم بأحد خلافه ، و أنه إذا كان لمؤلف الموسيقى أى حق ناشئ عن الأداء العلنى فإنه يكون قبل المنتج لا قبل صاحب دار العرض فإن مؤدى هذا الدفاع هو أنه لا شأن للطاعنين - مدير و مستغل السينما - بالنزاع مما لا يصح معه رفع الدعوى ضدهما ، و إذ قضى الحكم المطعون فيه بعدم قبول الدعوى المر"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق استغلال المؤلف للمصنف الفنى",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_1352_53_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق استغلال المؤلف للمصنف الفنى",
+  "content": "النص فى الفقرة الأولى من المادة التاسعة من القانون رقم 354 لسنة 1954 بإصدار قانون حماية حق المؤلف على أن \" للمؤلف وحده الحق فى أن ينسب إلى مصنفه و فى أن يدفع أى إعتداء على هذا الحق ... \"",
+  "keywords": [
+   "حق استغلال المؤلف للمصنف الفنى",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 1352 لسنة 53"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0022_38_1",
+   "cass_civil_copyright_0069_38_1",
+   "cass_civil_copyright_01568_54_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1954"
+   ],
+   "date": "07-01-1987",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1352",
+   "judicial_year": "53",
+   "office_volume": "38",
+   "page": "78",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_1352_53_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق استغلال المؤلف للمصنف الفنى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1352",
+    "judicial_year": "53",
+    "office_volume": "38",
+    "page": "78",
+    "session_date": "07-01-1987",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "حق استغلال المؤلف للمصنف الفنى",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1954"
+   ],
+   "facts_summary": "النص فى الفقرة الأولى من المادة التاسعة من القانون رقم 354 لسنة 1954 بإصدار قانون حماية حق المؤلف على أن \" للمؤلف وحده الحق فى أن ينسب إلى مصنفه و فى أن يدفع أى إعتداء على هذا الحق ... \"",
+   "core_principles": [
+    "لما كان ذلك و كان الحكم المطعون فيه قد خالف هذا النظر و ذهب إلى أن هذا النص لا يدل على وجوب ذكر أسم المؤلف كلما ذكر المصنف الذى قام بتأليفه و أن المطعون عليه بصفته المشرف الفنى على المسرحية موضوع النزاع لا يكون مخطئاً بعدم كتابته أسمى الطاعنين فى مواد الدعاية و الإعلانات عنها لإنتفاء الظروف التى توح"
+   ],
+   "judicial_rule": {
+    "short": "لما كان ذلك و كان الحكم المطعون فيه قد خالف هذا النظر و ذهب إلى أن هذا النص لا يدل على وجوب ذكر أسم المؤلف كلما ذكر المصنف الذى قام بتأليفه و أن المطعون عليه بصفته المشرف الفنى على المسرحية",
+    "professional": "النص فى الفقرة الأولى من المادة التاسعة من القانون رقم 354 لسنة 1954 بإصدار قانون حماية حق المؤلف على أن \" للمؤلف وحده الحق فى أن ينسب إلى مصنفه و فى أن يدفع أى إعتداء على هذا الحق ... \" يدل على أن للمؤلف الحق دائماً فى أن يكتب أسمه على كل نسخة من نسخ المصنف الذى ينشره بنفسه أو بواسطة غيره و فى جميع الإعلانات عن هذا المصنف بغير حاجة إلى إبرام إتفاق مع الغير على ذلك . لما كان ذلك و كان الحكم المطعون فيه قد خالف هذا النظر و ذهب إلى أن هذا النص لا يدل على وجوب ذكر أسم المؤلف كلم"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق استغلال المؤلف للمصنف الفنى",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_01568_54_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق استغلال المؤلف للمصنف الفنى",
+  "content": "للمؤلف وحده وفقاً لأحكام القانون رقم 354 لسنة 1954 فى شأن حماية حق المؤلف - الحق فى أن ينسب إليه مصنفه ، و له حق إستغلاله مالياً و لا يجوز لغيره مباشرة هذا الحق دون إذن سابق منه أو ممن",
+  "keywords": [
+   "حق استغلال المؤلف للمصنف الفنى",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 01568 لسنة 54"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0022_38_1",
+   "cass_civil_copyright_0069_38_1",
+   "cass_civil_copyright_1352_53_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1954"
+   ],
+   "date": "03-11-1988",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "01568",
+   "judicial_year": "54",
+   "office_volume": "39",
+   "page": "1140",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_01568_54_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق استغلال المؤلف للمصنف الفنى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "01568",
+    "judicial_year": "54",
+    "office_volume": "39",
+    "page": "1140",
+    "session_date": "03-11-1988",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "حق استغلال المؤلف للمصنف الفنى",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1954"
+   ],
+   "facts_summary": "للمؤلف وحده وفقاً لأحكام القانون رقم 354 لسنة 1954 فى شأن حماية حق المؤلف - الحق فى أن ينسب إليه مصنفه ، و له حق إستغلاله مالياً و لا يجوز لغيره مباشرة هذا الحق دون إذن سابق منه أو ممن",
+   "core_principles": [
+    "للمؤلف وحده وفقاً لأحكام القانون رقم 354 لسنة 1954 فى شأن حماية حق المؤلف - الحق فى أن ينسب إليه مصنفه ، و له حق إستغلاله مالياً و لا يجوز لغيره مباشرة هذا الحق دون إذن سابق منه أو ممن يخلفه ، و له أن ينزل عن حق الإستغلال هذا بما يشمله مضمونه من الحق فى النشر و فى الإشتقاق من المصنف الأصلى 0"
+   ],
+   "judicial_rule": {
+    "short": "للمؤلف وحده وفقاً لأحكام القانون رقم 354 لسنة 1954 فى شأن حماية حق المؤلف - الحق فى أن ينسب إليه مصنفه ، و له حق إستغلاله مالياً و لا يجوز لغيره مباشرة هذا الحق دون إذن سابق منه أو ممن",
+    "professional": "للمؤلف وحده وفقاً لأحكام القانون رقم 354 لسنة 1954 فى شأن حماية حق المؤلف - الحق فى أن ينسب إليه مصنفه ، و له حق إستغلاله مالياً و لا يجوز لغيره مباشرة هذا الحق دون إذن سابق منه أو ممن يخلفه ، و له أن ينزل عن حق الإستغلال هذا بما يشمله مضمونه من الحق فى النشر و فى الإشتقاق من المصنف الأصلى 0"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق استغلال المؤلف للمصنف الفنى",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_01568_54_2",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق التعديل فى المصنف الفنى",
+  "content": "للمؤلف وحده إدخال ما يرى من تعديل أو تحوير على مصنفه و لا يجوز لغيره أن يباشر شيئاً بغير إذن كتابى منه أو ممن يخلفه إلا أنه إذا أذن هو أو خلفه بتحويل المصنف من لون إلى آخر فإن سلطتهما",
+  "keywords": [
+   "حق التعديل فى المصنف الفنى",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 01568 لسنة 54"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "03-11-1988",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "01568",
+   "judicial_year": "54",
+   "office_volume": "39",
+   "page": "1140",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_01568_54_2",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق التعديل فى المصنف الفنى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "01568",
+    "judicial_year": "54",
+    "office_volume": "39",
+    "page": "1140",
+    "session_date": "03-11-1988",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "حق التعديل فى المصنف الفنى",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "للمؤلف وحده إدخال ما يرى من تعديل أو تحوير على مصنفه و لا يجوز لغيره أن يباشر شيئاً بغير إذن كتابى منه أو ممن يخلفه إلا أنه إذا أذن هو أو خلفه بتحويل المصنف من لون إلى آخر فإن سلطتهما",
+   "core_principles": [
+    "للمؤلف وحده إدخال ما يرى من تعديل أو تحوير على مصنفه و لا يجوز لغيره أن يباشر شيئاً بغير إذن كتابى منه أو ممن يخلفه إلا أنه إذا أذن هو أو خلفه بتحويل المصنف من لون إلى آخر فإن سلطتهما فى هذا الصدد تكون - و على ما هو مقرر فى قضاء هذه المحكمة - مقيدة فليس لأيهما أن يعترض على ما يقتضيه التحويل من تحوير"
+   ],
+   "judicial_rule": {
+    "short": "للمؤلف وحده إدخال ما يرى من تعديل أو تحوير على مصنفه و لا يجوز لغيره أن يباشر شيئاً بغير إذن كتابى منه أو ممن يخلفه إلا أنه إذا أذن هو أو خلفه بتحويل المصنف من لون إلى آخر فإن سلطتهما",
+    "professional": "للمؤلف وحده إدخال ما يرى من تعديل أو تحوير على مصنفه و لا يجوز لغيره أن يباشر شيئاً بغير إذن كتابى منه أو ممن يخلفه إلا أنه إذا أذن هو أو خلفه بتحويل المصنف من لون إلى آخر فإن سلطتهما فى هذا الصدد تكون - و على ما هو مقرر فى قضاء هذه المحكمة - مقيدة فليس لأيهما أن يعترض على ما يقتضيه التحويل من تحوير و تغيير فى المصنف الأصلى مما تستوجبه أصول الفن فى اللون الذى حول إليه المصنف و يفترض رضاءهما مقدماً بهذا التحوير 0"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق التعديل فى المصنف الفنى",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0134_26_3",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "تقدير المشاركة الذهنية فى التأليف من مسائل الواقع التى يستقل بها قاضى الموضوع ما دام حكمه يقوم على أسباب سائغة . فإذا كان الحكم المطعون فيه قد نفى عن الطاعن إشتراكه فى تأليف الكتاب - محل النزاع - استناداً إلى",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0134 لسنة 26"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3",
+   "cass_civil_copyright_0356_32_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "04-01-1962",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0134",
+   "judicial_year": "26",
+   "office_volume": "13",
+   "page": "34",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0134_26_3",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0134",
+    "judicial_year": "26",
+    "office_volume": "13",
+    "page": "34",
+    "session_date": "04-01-1962",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقدير المشاركة الذهنية فى التأليف من مسائل الواقع التى يستقل بها قاضى الموضوع ما دام حكمه يقوم على أسباب سائغة . فإذا كان الحكم المطعون فيه قد نفى عن الطاعن إشتراكه فى تأليف الكتاب - محل النزاع - استناداً إلى",
+   "core_principles": [
+    "فإذا كان الحكم المطعون فيه قد نفى عن الطاعن إشتراكه فى تأليف الكتاب - محل النزاع - استناداً إلى أن الأدلة التى تقوم بها أنما هى تعليقات بخطه على أصل الكتاب أثبت الخبير المنتدب أنها لا تتجاوز إستبدال كلمة بأخرى أو مثلاً بأخر و هى فى مجموعها لا تدل على مشاركة ذهنية و تبادلا فى الرأى جاء الكتاب نتيجته"
+   ],
+   "judicial_rule": {
+    "short": "فإذا كان الحكم المطعون فيه قد نفى عن الطاعن إشتراكه فى تأليف الكتاب - محل النزاع - استناداً إلى أن الأدلة التى تقوم بها أنما هى تعليقات بخطه على أصل الكتاب أثبت الخبير المنتدب أنها لا تتجاوز إستبدال كلمة بأخرى",
+    "professional": "تقدير المشاركة الذهنية فى التأليف من مسائل الواقع التى يستقل بها قاضى الموضوع ما دام حكمه يقوم على أسباب سائغة . فإذا كان الحكم المطعون فيه قد نفى عن الطاعن إشتراكه فى تأليف الكتاب - محل النزاع - استناداً إلى أن الأدلة التى تقوم بها أنما هى تعليقات بخطه على أصل الكتاب أثبت الخبير المنتدب أنها لا تتجاوز إستبدال كلمة بأخرى أو مثلاً بأخر و هى فى مجموعها لا تدل على مشاركة ذهنية و تبادلا فى الرأى جاء الكتاب نتيجته فإن هذا الذى أورده الحكم يؤدى الى النتيجة التى إنتهى اليها."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0134_26_4",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "متى كانت الخصومة بين الطرفين قد قامت - بحسب الثابت من الحكم المطعون فيه - حول حق المؤلف فى الكتاب موضوع النزاع ولم يقدم الطاعن مايدل على أنه تمسك أمام محكمة الإستئناف بأن له حقاً مالياً فى إستغلاله مستقلاً عن",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0134 لسنة 26"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3",
+   "cass_civil_copyright_0356_32_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "04-01-1962",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0134",
+   "judicial_year": "26",
+   "office_volume": "13",
+   "page": "34",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0134_26_4",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0134",
+    "judicial_year": "26",
+    "office_volume": "13",
+    "page": "34",
+    "session_date": "04-01-1962",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كانت الخصومة بين الطرفين قد قامت - بحسب الثابت من الحكم المطعون فيه - حول حق المؤلف فى الكتاب موضوع النزاع ولم يقدم الطاعن مايدل على أنه تمسك أمام محكمة الإستئناف بأن له حقاً مالياً فى إستغلاله مستقلاً عن",
+   "core_principles": [
+    "متى كانت الخصومة بين الطرفين قد قامت - بحسب الثابت من الحكم المطعون فيه - حول حق المؤلف فى الكتاب موضوع النزاع ولم يقدم الطاعن مايدل على أنه تمسك أمام محكمة الإستئناف بأن له حقاً مالياً فى إستغلاله مستقلاً عن حقه فيه كمؤلف فليس له أن يعيب على الحكم إغفاله التحدث عن حقه فى إستغلال الكتاب بإعتباره حقا"
+   ],
+   "judicial_rule": {
+    "short": "متى كانت الخصومة بين الطرفين قد قامت - بحسب الثابت من الحكم المطعون فيه - حول حق المؤلف فى الكتاب موضوع النزاع ولم يقدم الطاعن مايدل على أنه تمسك أمام محكمة الإستئناف بأن له حقاً مالياً فى إستغلاله مستقلاً عن",
+    "professional": "متى كانت الخصومة بين الطرفين قد قامت - بحسب الثابت من الحكم المطعون فيه - حول حق المؤلف فى الكتاب موضوع النزاع ولم يقدم الطاعن مايدل على أنه تمسك أمام محكمة الإستئناف بأن له حقاً مالياً فى إستغلاله مستقلاً عن حقه فيه كمؤلف فليس له أن يعيب على الحكم إغفاله التحدث عن حقه فى إستغلال الكتاب بإعتباره حقا قائماً بذاته ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0013_29_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "إنه و إن كان الأصل أن مجموعات المصنفات القديمة التى آلت إلى الملك العام بانقضاء مدة حمايتها إذ أعيد طبعها و نشرها لا يكون لصاحب الطبعة الجديدة حق المؤلف عليها ، إلا أنه إذا تميزت هذه الطبعة عن الطبعة الأصلية",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0013 لسنة 29"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3",
+   "cass_civil_copyright_0356_32_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1945"
+   ],
+   "date": "07-07-1964",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0013",
+   "judicial_year": "29",
+   "office_volume": "15",
+   "page": "920",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0013_29_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0013",
+    "judicial_year": "29",
+    "office_volume": "15",
+    "page": "920",
+    "session_date": "07-07-1964",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1945"
+   ],
+   "facts_summary": "إنه و إن كان الأصل أن مجموعات المصنفات القديمة التى آلت إلى الملك العام بانقضاء مدة حمايتها إذ أعيد طبعها و نشرها لا يكون لصاحب الطبعة الجديدة حق المؤلف عليها ، إلا أنه إذا تميزت هذه الطبعة عن الطبعة الأصلية",
+   "core_principles": [
+    "فإذا كانت محكمة الموضوع قد سجلت - و فى حدود سلطتها التقديرية - أن المطعون ضده مهد لكتابه بمقدمة بقلمه تتضمن تراجم للمؤلف الأصلى للكتاب و للشارح له استقى عناصرها من أمهات الكتب القديمة و لم يكن لها نظير فى الطبعة الأصلية التى نقل عنها ، و أن كتاب المطعون ضده يتميز عن هذه الطبعة بترتيب خاص فريد فى نوع"
+   ],
+   "judicial_rule": {
+    "short": "فإذا كانت محكمة الموضوع قد سجلت - و فى حدود سلطتها التقديرية - أن المطعون ضده مهد لكتابه بمقدمة بقلمه تتضمن تراجم للمؤلف الأصلى للكتاب و للشارح له استقى عناصرها من أمهات الكتب القديمة و لم يكن لها نظير فى",
+    "professional": "إنه و إن كان الأصل أن مجموعات المصنفات القديمة التى آلت إلى الملك العام بانقضاء مدة حمايتها إذ أعيد طبعها و نشرها لا يكون لصاحب الطبعة الجديدة حق المؤلف عليها ، إلا أنه إذا تميزت هذه الطبعة عن الطبعة الأصلية المنقول عنها بسبب يرجع إلى الابتكار أو الترتيب فى التنسيق أو بأى مجهود آخر ذهنى يتسم بالطابع الشخصى فإن صاحب الطبعة الجديدة يكون له عليها حق المؤلف ، و يتمتع بالحماية المقررة لهذا الحق ، إذ لا يلزم لإضفاء هذه الحماية أن يكون المصنف من تأليف صاحبة و إنما يكفى أن يكون عمل و"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0013_29_2",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "إنه و إن لم يوجد نص قبل صدور القانون رقم 354 لسنة 1954 يحدد مدة حماية حق الاستغلال المالى المقرر للمؤلف ، إلا أن الرأى كان مستقرا على أن هذه الحماية تظل للمؤلف طيلة حياته على الأقل .",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0013 لسنة 29"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3",
+   "cass_civil_copyright_0356_32_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1954"
+   ],
+   "date": "07-07-1964",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0013",
+   "judicial_year": "29",
+   "office_volume": "15",
+   "page": "920",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0013_29_2",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0013",
+    "judicial_year": "29",
+    "office_volume": "15",
+    "page": "920",
+    "session_date": "07-07-1964",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1954"
+   ],
+   "facts_summary": "إنه و إن لم يوجد نص قبل صدور القانون رقم 354 لسنة 1954 يحدد مدة حماية حق الاستغلال المالى المقرر للمؤلف ، إلا أن الرأى كان مستقرا على أن هذه الحماية تظل للمؤلف طيلة حياته على الأقل .",
+   "core_principles": [
+    "إنه و إن لم يوجد نص قبل صدور القانون رقم 354 لسنة 1954 يحدد مدة حماية حق الاستغلال المالى المقرر للمؤلف ، إلا أن الرأى كان مستقرا على أن هذه الحماية تظل للمؤلف طيلة حياته على الأقل"
+   ],
+   "judicial_rule": {
+    "short": "إنه و إن لم يوجد نص قبل صدور القانون رقم 354 لسنة 1954 يحدد مدة حماية حق الاستغلال المالى المقرر للمؤلف ، إلا أن الرأى كان مستقرا على أن هذه الحماية تظل للمؤلف طيلة حياته على الأقل",
+    "professional": "إنه و إن لم يوجد نص قبل صدور القانون رقم 354 لسنة 1954 يحدد مدة حماية حق الاستغلال المالى المقرر للمؤلف ، إلا أن الرأى كان مستقرا على أن هذه الحماية تظل للمؤلف طيلة حياته على الأقل ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0013_29_3",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "حق استغلال المصنف ماليا هو للمؤلف وحده و لا يجوز لغيره مباشرة هذا الحق دون إذن سابق منه أو ممن يخلفه ، و للمؤلف وحده أن ينقل إلى الغير الحق فى مباشرة حقوق الاستغلال المقررة له كلها أو بعضها و",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0013 لسنة 29"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3",
+   "cass_civil_copyright_0356_32_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-07-1964",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0013",
+   "judicial_year": "29",
+   "office_volume": "15",
+   "page": "920",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0013_29_3",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0013",
+    "judicial_year": "29",
+    "office_volume": "15",
+    "page": "920",
+    "session_date": "07-07-1964",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "حق استغلال المصنف ماليا هو للمؤلف وحده و لا يجوز لغيره مباشرة هذا الحق دون إذن سابق منه أو ممن يخلفه ، و للمؤلف وحده أن ينقل إلى الغير الحق فى مباشرة حقوق الاستغلال المقررة له كلها أو بعضها و",
+   "core_principles": [
+    "و مقتضى ذلك أن المؤلف حر فى أن يجيز لمن يشاء نشر مؤلفه و أن يمنعه عمن يشاء و فى أن يسكت على الاعتداء على حقه إذا وقع من شخص ، و لا يسكت عليه إذا تكرر من نفس المعتدى أو وقع من غيره و ذلك دون أن يعتبر سكوته فى المرة الأولى مانعا له من مباشرة حقه فى دفع الاعتداء فى المرة الثانية ما دام هذا الحق قائما و"
+   ],
+   "judicial_rule": {
+    "short": "و مقتضى ذلك أن المؤلف حر فى أن يجيز لمن يشاء نشر مؤلفه و أن يمنعه عمن يشاء و فى أن يسكت على الاعتداء على حقه إذا وقع من شخص ، و لا يسكت عليه إذا تكرر من نفس المعتدى",
+    "professional": "حق استغلال المصنف ماليا هو للمؤلف وحده و لا يجوز لغيره مباشرة هذا الحق دون إذن سابق منه أو ممن يخلفه ، و للمؤلف وحده أن ينقل إلى الغير الحق فى مباشرة حقوق الاستغلال المقررة له كلها أو بعضها و أن يحدد فى هذه الحالة مدة استغلال الغير لما تلقاه منه من هذه الحقوق . و مقتضى ذلك أن المؤلف حر فى أن يجيز لمن يشاء نشر مؤلفه و أن يمنعه عمن يشاء و فى أن يسكت على الاعتداء على حقه إذا وقع من شخص ، و لا يسكت عليه إذا تكرر من نفس المعتدى أو وقع من غيره و ذلك دون أن يعتبر سكوته فى المرة الأو"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0014_29_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "متى كان الحكم المطعون فيه قد انتهى إلى أن الطبعة التى أخرجها الطاعن مقلدة عن الطبعة التى أخرجها المطعون ضده تقليدا تاما و هو أمر لا يقره القانون ، فإن من شأن نشر الطاعن لطبعته و طرحها للبيع فى السوق",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0014 لسنة 29"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3",
+   "cass_civil_copyright_0356_32_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-07-1964",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0014",
+   "judicial_year": "29",
+   "office_volume": "15",
+   "page": "937",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0014_29_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0014",
+    "judicial_year": "29",
+    "office_volume": "15",
+    "page": "937",
+    "session_date": "07-07-1964",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الحكم المطعون فيه قد انتهى إلى أن الطبعة التى أخرجها الطاعن مقلدة عن الطبعة التى أخرجها المطعون ضده تقليدا تاما و هو أمر لا يقره القانون ، فإن من شأن نشر الطاعن لطبعته و طرحها للبيع فى السوق",
+   "core_principles": [
+    "متى كان الحكم المطعون فيه قد انتهى إلى أن الطبعة التى أخرجها الطاعن مقلدة عن الطبعة التى أخرجها المطعون ضده تقليدا تاما و هو أمر لا يقره القانون ، فإن من شأن نشر الطاعن لطبعته و طرحها للبيع فى السوق منافسة كتاب المطعون ضده و هى منافسة لا شك فى عدم شرعيتها ، و لا ينفى قيام هذه المنافسة غير المشروعة أ"
+   ],
+   "judicial_rule": {
+    "short": "متى كان الحكم المطعون فيه قد انتهى إلى أن الطبعة التى أخرجها الطاعن مقلدة عن الطبعة التى أخرجها المطعون ضده تقليدا تاما و هو أمر لا يقره القانون ، فإن من شأن نشر الطاعن لطبعته و طرحها للبيع فى السوق",
+    "professional": "متى كان الحكم المطعون فيه قد انتهى إلى أن الطبعة التى أخرجها الطاعن مقلدة عن الطبعة التى أخرجها المطعون ضده تقليدا تاما و هو أمر لا يقره القانون ، فإن من شأن نشر الطاعن لطبعته و طرحها للبيع فى السوق منافسة كتاب المطعون ضده و هى منافسة لا شك فى عدم شرعيتها ، و لا ينفى قيام هذه المنافسة غير المشروعة أن يكون المطعون ضده قد اعتزل مهنة الطباعة و النشر وصفى أعماله فيهما ما دام كتابه ما زال مطروحا للبيع فى السوق ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0244_30_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "العبرة فى علانية الأداء المتعلق بإيقاع أو تمثيل أو إلقاء مصنف من المصنفات المشمولة بالحماية ليست بنوع أو صفة المكان المقام فيه الإجتماع أو الحفل الذى يحصل فيه هذا الأداء وإنما بالصفات الذاتيه لذلك الإجتماع أو الحفل ، فإذا توافرت",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0244 لسنة 30"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_3",
+   "cass_civil_copyright_0356_32_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-02-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0244",
+   "judicial_year": "30",
+   "office_volume": "16",
+   "page": "227",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0244_30_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0244",
+    "judicial_year": "30",
+    "office_volume": "16",
+    "page": "227",
+    "session_date": "25-02-1965",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "العبرة فى علانية الأداء المتعلق بإيقاع أو تمثيل أو إلقاء مصنف من المصنفات المشمولة بالحماية ليست بنوع أو صفة المكان المقام فيه الإجتماع أو الحفل الذى يحصل فيه هذا الأداء وإنما بالصفات الذاتيه لذلك الإجتماع أو الحفل ، فإذا توافرت",
+   "core_principles": [
+    "فإذا كان الحكم المطعون فيه قد إعتبر مناط الفصل فىعلانية وعدم علانية الأداء موضوع المطالبة هو ما إذا كان النادى الذى بوشر فيه الأداء المطالب بمقابل حق المؤلف عنه يعتبر نادياً خاصاً أو عاماً ورتب إنتفاء العلانية عن ذلك الأداء على مجرد كون هذا النادى يعتبر نادياً خاصاً طبقاً لقانون إنشائه وتنظيمه وخضوع"
+   ],
+   "judicial_rule": {
+    "short": "فإذا كان الحكم المطعون فيه قد إعتبر مناط الفصل فىعلانية وعدم علانية الأداء موضوع المطالبة هو ما إذا كان النادى الذى بوشر فيه الأداء المطالب بمقابل حق المؤلف عنه يعتبر نادياً خاصاً أو عاماً ورتب إنتفاء العلانية عن ذلك الأداء",
+    "professional": "العبرة فى علانية الأداء المتعلق بإيقاع أو تمثيل أو إلقاء مصنف من المصنفات المشمولة بالحماية ليست بنوع أو صفة المكان المقام فيه الإجتماع أو الحفل الذى يحصل فيه هذا الأداء وإنما بالصفات الذاتيه لذلك الإجتماع أو الحفل ، فإذا توافرت فيه صفة العمومية كان الأداء علنياً ولو كان المكان الذى إنعقد فيه الإجتماع يعتبر خاصاً بطبيعته أو بحسب قانون إنشائه . ولا تلازم بين صفة المكان وصفة الإجتماع من حيث الخصوصية والعمومية ، إذ قد يقام حفل عام فى مكان خاص لمناسبة ما تستدعى السماح للجمهور بحض"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0244_30_3",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "يشترط القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف فىالمادة الحادية عشر منه لإسباغ صفة الخصوصية على الإجتماعات التى تعقدها الأسر والجمعيات والمنتديات الخاصة والمدارس وبالتالى لإعفائها من دفع أى تعويض للمؤلف عن مصنفاته التى تؤدىفيها بطريق الإيقاع والتمثيل",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0244 لسنة 30"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0356_32_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1954"
+   ],
+   "date": "25-02-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0244",
+   "judicial_year": "30",
+   "office_volume": "16",
+   "page": "227",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0244_30_3",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0244",
+    "judicial_year": "30",
+    "office_volume": "16",
+    "page": "227",
+    "session_date": "25-02-1965",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1954"
+   ],
+   "facts_summary": "يشترط القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف فىالمادة الحادية عشر منه لإسباغ صفة الخصوصية على الإجتماعات التى تعقدها الأسر والجمعيات والمنتديات الخاصة والمدارس وبالتالى لإعفائها من دفع أى تعويض للمؤلف عن مصنفاته التى تؤدىفيها بطريق الإيقاع والتمثيل",
+   "core_principles": [
+    "وهو شرط كان مقرراً من قبل صدور القانون المشار إليه"
+   ],
+   "judicial_rule": {
+    "short": "وهو شرط كان مقرراً من قبل صدور القانون المشار إليه",
+    "professional": "يشترط القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف فىالمادة الحادية عشر منه لإسباغ صفة الخصوصية على الإجتماعات التى تعقدها الأسر والجمعيات والمنتديات الخاصة والمدارس وبالتالى لإعفائها من دفع أى تعويض للمؤلف عن مصنفاته التى تؤدىفيها بطريق الإيقاع والتمثيل أو الإلقاءأان لا يحصل نظير هذا الأداء رسم أو مقابل مالى . وهو شرط كان مقرراً من قبل صدور القانون المشار إليه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0356_32_2",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "حق إستغلال الكتاب مالياً وهو حق مادى يجوز للمؤلف أن ينقله إلى الغير ومتى كان النزاع خارجاً عن نطاق الحق الأدبى للمؤلف الذى تنظمه أحكام القانون رقم 354 سنه 1954 ويتعلق بإستغلال عدد معين من نسخ الكتاب مالياً بإذن من",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0356 لسنة 32"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "12-05-1966",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0356",
+   "judicial_year": "32",
+   "office_volume": "17",
+   "page": "1114",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0356_32_2",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0356",
+    "judicial_year": "32",
+    "office_volume": "17",
+    "page": "1114",
+    "session_date": "12-05-1966",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [],
+   "facts_summary": "حق إستغلال الكتاب مالياً وهو حق مادى يجوز للمؤلف أن ينقله إلى الغير ومتى كان النزاع خارجاً عن نطاق الحق الأدبى للمؤلف الذى تنظمه أحكام القانون رقم 354 سنه 1954 ويتعلق بإستغلال عدد معين من نسخ الكتاب مالياً بإذن من",
+   "core_principles": [
+    "حق إستغلال الكتاب مالياً وهو حق مادى يجوز للمؤلف أن ينقله إلى الغير ومتى كان النزاع خارجاً عن نطاق الحق الأدبى للمؤلف الذى تنظمه أحكام القانون رقم 354 سنه 1954 ويتعلق بإستغلال عدد معين من نسخ الكتاب مالياً بإذن من صاحبه وهو أمر أباحته المادة 37 من القانون المذكور فإن النعى على الحكم بمخالفة المادتين"
+   ],
+   "judicial_rule": {
+    "short": "حق إستغلال الكتاب مالياً وهو حق مادى يجوز للمؤلف أن ينقله إلى الغير ومتى كان النزاع خارجاً عن نطاق الحق الأدبى للمؤلف الذى تنظمه أحكام القانون رقم 354 سنه 1954 ويتعلق بإستغلال عدد معين من نسخ الكتاب مالياً بإذن من",
+    "professional": "حق إستغلال الكتاب مالياً وهو حق مادى يجوز للمؤلف أن ينقله إلى الغير ومتى كان النزاع خارجاً عن نطاق الحق الأدبى للمؤلف الذى تنظمه أحكام القانون رقم 354 سنه 1954 ويتعلق بإستغلال عدد معين من نسخ الكتاب مالياً بإذن من صاحبه وهو أمر أباحته المادة 37 من القانون المذكور فإن النعى على الحكم بمخالفة المادتين 5/1و38 من هذا القانون يكون على غير أساس ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0495_35_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "الحق فى استغلال المصنف الأدبى او الفنى أو العلمى المبتكر ، وإن كان مقررا أصلا للمؤلف وحده بالمادتين الخامسة والسادسة من القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف ، إلا ان المشرع فى الفصل الثانى من الباب الثانى",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0495 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1954"
+   ],
+   "date": "08-11-1966",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0495",
+   "judicial_year": "35",
+   "office_volume": "17",
+   "page": "1638",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0495_35_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0495",
+    "judicial_year": "35",
+    "office_volume": "17",
+    "page": "1638",
+    "session_date": "08-11-1966",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1954"
+   ],
+   "facts_summary": "الحق فى استغلال المصنف الأدبى او الفنى أو العلمى المبتكر ، وإن كان مقررا أصلا للمؤلف وحده بالمادتين الخامسة والسادسة من القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف ، إلا ان المشرع فى الفصل الثانى من الباب الثانى",
+   "core_principles": [
+    "وإذ لم يشترك هؤلاء فى المصنف السينمائى بالمعنى الذى قصده المشرع فى المادة 31 - التى تضمنت اعتبار مؤلف الموسيقى الذى يقوم بوضعها خصيصا للمصنف السينمائى مشتركا فيه - فإن مفاد ذلك أن يبقى حكم المادة 34 قائما باعتبار المنتج نائبا عن مؤلف الموسيقى التى وضعت خصيصا للمصنف واندمجت فيه فى عرض الشريط واستغلال"
+   ],
+   "judicial_rule": {
+    "short": "وإذ لم يشترك هؤلاء فى المصنف السينمائى بالمعنى الذى قصده المشرع فى المادة 31 - التى تضمنت اعتبار مؤلف الموسيقى الذى يقوم بوضعها خصيصا للمصنف السينمائى مشتركا فيه - فإن مفاد ذلك أن يبقى حكم المادة 34 قائما باعتبار المنتج",
+    "professional": "الحق فى استغلال المصنف الأدبى او الفنى أو العلمى المبتكر ، وإن كان مقررا أصلا للمؤلف وحده بالمادتين الخامسة والسادسة من القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف ، إلا ان المشرع فى الفصل الثانى من الباب الثانى لهذا القانون عرض لبعض المصنفات التى يتعذر تطبيق بعض القواعد العامة بشأنها فوضع لها أحكام خاصة ضمنها المواد من 25 إلى 36 منه ، وهذه المصنفات هى المصنفات المشتركة والمصنفات الجماعية والمصنفات التى تنشر غفلا من أسماء مؤلفيها أو بأسماء مستعارة والمصنفات الموسيقية والمص"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_0533_46_2",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "إنه و إن كانت المادة السابعة من القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف تعطى للمؤلف وحده الحق فى إدخال ما يرى من تعديل أو تحوير على مصنفه و لا تجيز لغيره أن يباشر شيئاً من ذلك إلا",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0533 لسنة 46"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1954"
+   ],
+   "date": "16-01-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0533",
+   "judicial_year": "46",
+   "office_volume": "30",
+   "page": "224",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_0533_46_2",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0533",
+    "judicial_year": "46",
+    "office_volume": "30",
+    "page": "224",
+    "session_date": "16-01-1979",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1954"
+   ],
+   "facts_summary": "إنه و إن كانت المادة السابعة من القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف تعطى للمؤلف وحده الحق فى إدخال ما يرى من تعديل أو تحوير على مصنفه و لا تجيز لغيره أن يباشر شيئاً من ذلك إلا",
+   "core_principles": [
+    "إنه و إن كانت المادة السابعة من القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف تعطى للمؤلف وحده الحق فى إدخال ما يرى من تعديل أو تحوير على مصنفه و لا تجيز لغيره أن يباشر شيئاً من ذلك إلا بإذن كتابى منه أو ممن يخلفه إلا أن سلطة المؤلف فى ذلك و خلفه من بعده مقيدة فى حالة تحويل المصنف من لون إلى آخر بح"
+   ],
+   "judicial_rule": {
+    "short": "إنه و إن كانت المادة السابعة من القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف تعطى للمؤلف وحده الحق فى إدخال ما يرى من تعديل أو تحوير على مصنفه و لا تجيز لغيره أن يباشر شيئاً من ذلك إلا",
+    "professional": "إنه و إن كانت المادة السابعة من القانون رقم 354 لسنة 1954 بشأن حماية حق المؤلف تعطى للمؤلف وحده الحق فى إدخال ما يرى من تعديل أو تحوير على مصنفه و لا تجيز لغيره أن يباشر شيئاً من ذلك إلا بإذن كتابى منه أو ممن يخلفه إلا أن سلطة المؤلف فى ذلك و خلفه من بعده مقيدة فى حالة تحويل المصنف من لون إلى آخر بحسب ما يقتضيه هذا التحويل فإذا أذن المؤلف أو خلفه بتحويل المصنف من لون إلى آخر من عمل مسرحى إلى عمل إذاعى فليس لأيهما أن يعترض على ما يقتضيه التحويل من تحوير و تغيير فى المصنف الأصل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_copyright_2362_57_1",
+  "type": "judgment_principle",
+  "category": "copyright",
+  "title": "حق المؤلف",
+  "content": "النص فى المادة 13 من قانون حماية حق المؤلف الصادرة بالقانون 354 لسنة 1954 على إنه \" لا يجوز للمؤلف بعد نشر المصنف حظر التحليلات و الإقتباسات القصيرة إذا قصد بها النقد أو المناقشة أو الأخبار ما دامت تشير إلى",
+  "keywords": [
+   "حق المؤلف",
+   "مؤلف",
+   "cassation",
+   "civil",
+   "copyright",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 2362 لسنة 57"
+  ],
+  "related_ids": [
+   "cass_civil_copyright_0134_26_3",
+   "cass_civil_copyright_0134_26_4",
+   "cass_civil_copyright_0013_29_1",
+   "cass_civil_copyright_0013_29_2",
+   "cass_civil_copyright_0013_29_3",
+   "cass_civil_copyright_0014_29_1",
+   "cass_civil_copyright_0244_30_1",
+   "cass_civil_copyright_0244_30_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 354/1954"
+   ],
+   "date": "22-11-1988",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2362",
+   "judicial_year": "57",
+   "office_volume": "39",
+   "page": "1183",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_copyright_2362_57_1",
+   "domain": "civil_law",
+   "category": "copyright",
+   "topic": "حق المؤلف",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2362",
+    "judicial_year": "57",
+    "office_volume": "39",
+    "page": "1183",
+    "session_date": "22-11-1988",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "legal_articles": [
+    "Law 354/1954"
+   ],
+   "facts_summary": "النص فى المادة 13 من قانون حماية حق المؤلف الصادرة بالقانون 354 لسنة 1954 على إنه \" لا يجوز للمؤلف بعد نشر المصنف حظر التحليلات و الإقتباسات القصيرة إذا قصد بها النقد أو المناقشة أو الأخبار ما دامت تشير إلى",
+   "core_principles": [
+    "لما كان ذلك و كان الحكم المطعون فيه قد خالف هذا النظر - و أقام قضائه على أن الطاعن - بما أعده من دراسة تحليلية - قد إشترك مع المطعون ضدهما الأخيرين فى نشر المصنف سالف البيان بغير إذن من الورثة فإنه يكون قد خالف القانون و أخطأ فى تطبيقة و شابه فساد فى الإستدلال"
+   ],
+   "judicial_rule": {
+    "short": "لما كان ذلك و كان الحكم المطعون فيه قد خالف هذا النظر - و أقام قضائه على أن الطاعن - بما أعده من دراسة تحليلية - قد إشترك مع المطعون ضدهما الأخيرين فى نشر المصنف سالف البيان بغير إذن من",
+    "professional": "النص فى المادة 13 من قانون حماية حق المؤلف الصادرة بالقانون 354 لسنة 1954 على إنه \" لا يجوز للمؤلف بعد نشر المصنف حظر التحليلات و الإقتباسات القصيرة إذا قصد بها النقد أو المناقشة أو الأخبار ما دامت تشير إلى المصنف و أسم المؤلف إذا كان معروفاً \" و ما ورد فى المذكرة الإيضاحية لمشروع هذا القانون من إنه \" جاء بقيود على حق المؤلف يمليها الصالح العام لأن للهيئة الإجتماعية حقاً فى تيسير سبل الثقافة و التزود من ثمار العقل البشرى فلا تحول دون بلوغ هذه الغاية حقوق مطلقه للمؤلفين ، ذلك"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "copyright",
+    "حق المؤلف",
+    "مؤلف"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

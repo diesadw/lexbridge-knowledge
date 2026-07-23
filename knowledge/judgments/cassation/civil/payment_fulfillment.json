@@ -1,0 +1,3664 @@
+[
+ {
+  "id": "cass_civil_payment_fulfillment_0138_19_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "اثر الوفاء الجزئى للدين",
+  "content": "متى كان الواقع فى الدعوى هو ان المطعون عليه تعاقد مع الطاعنة على استغلال فيلم فى الخارج لقاء مبلغ معين - 7500 جنيه - يدفعه المطعون عليه ، دفع منه وقت العقد جزءا 1000 جنيه - وتعهد بدفع جزء آخر",
+  "keywords": [
+   "اثر الوفاء الجزئى للدين",
+   "التعويض",
+   "العقد",
+   "الفسخ",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0138 لسنة 19"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "14-06-1951",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0138",
+   "judicial_year": "19",
+   "office_volume": "02",
+   "page": "1026",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0138_19_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "اثر الوفاء الجزئى للدين",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0138",
+    "judicial_year": "19",
+    "office_volume": "02",
+    "page": "1026",
+    "session_date": "14-06-1951",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اثر الوفاء الجزئى للدين",
+    "التعويض",
+    "العقد",
+    "الفسخ",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الواقع فى الدعوى هو ان المطعون عليه تعاقد مع الطاعنة على استغلال فيلم فى الخارج لقاء مبلغ معين - 7500 جنيه - يدفعه المطعون عليه ، دفع منه وقت العقد جزءا 1000 جنيه - وتعهد بدفع جزء آخر",
+   "core_principles": [
+    "فإذا قضى حكم لمشتر على بائع ، ضمن خلو العين المبيعة من جميع الموانع و المحظورات ، بإستحقاق الفوائد التعويضية عليه و سريانها إلى حين قيام هذا البائع بإزالة حق عينى عليها ، و جعل مبدأ إستحقاق هذه الفوائد من تاريخ عقد بيع صدر من هذا المشترى إلى مشتر آخر إبتاع منه هذه العين و إستبقى جزءاً من ثمنها تحت ي"
+   ],
+   "judicial_rule": {
+    "short": "فإذا قضى حكم لمشتر على بائع ، ضمن خلو العين المبيعة من جميع الموانع و المحظورات ، بإستحقاق الفوائد التعويضية عليه و سريانها إلى حين قيام هذا البائع بإزالة حق عينى عليها ، و جعل مبدأ إستحقاق هذه الفوائد من",
+    "professional": "متى كان الواقع فى الدعوى هو ان المطعون عليه تعاقد مع الطاعنة على استغلال فيلم فى الخارج لقاء مبلغ معين - 7500 جنيه - يدفعه المطعون عليه ، دفع منه وقت العقد جزءا 1000 جنيه - وتعهد بدفع جزء آخر - 3000 جنيه - فى مدى شهر من التوقيع على العقد بحيث اذا تأخر عن دفع هذا الجزء فى ميعاده يصبح المبلغ الذى دفع أولا حقا للطاعنة بصفة تعويض ويعتبر العقد لاغيا وباقى المبلغ يدفع عند تسليم الفيلم فى الخارج ، وتعهدت الطاعنة بأن يتم ارسال الفيلم الى الخارج فى خلال أربعة شهور من تاريخ التعاقد - أ"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "اثر الوفاء الجزئى للدين",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0094_37_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "اثر الوفاء بكل الدين",
+  "content": "إنه و إن كانت المادة 342 /2 من القانون المدنى تنص على أنه ليس للمدين أن يرفض الوفاء بالجزء المعترف به من الدين إذا قبل الدائن إستيفاءه إلا أن المادة 349 من ذات القانون تخوله إذا و فى الدين كله",
+  "keywords": [
+   "اثر الوفاء بكل الدين",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0094 لسنة 37"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "17-02-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0094",
+   "judicial_year": "37",
+   "office_volume": "23",
+   "page": "211",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0094_37_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "اثر الوفاء بكل الدين",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0094",
+    "judicial_year": "37",
+    "office_volume": "23",
+    "page": "211",
+    "session_date": "17-02-1972",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "اثر الوفاء بكل الدين",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إنه و إن كانت المادة 342 /2 من القانون المدنى تنص على أنه ليس للمدين أن يرفض الوفاء بالجزء المعترف به من الدين إذا قبل الدائن إستيفاءه إلا أن المادة 349 من ذات القانون تخوله إذا و فى الدين كله",
+   "core_principles": [
+    "إنه و إن كانت المادة 342 /2 من القانون المدنى تنص على أنه ليس للمدين أن يرفض الوفاء بالجزء المعترف به من الدين إذا قبل الدائن إستيفاءه إلا أن المادة 349 من ذات القانون تخوله إذا و فى الدين كله حق المطالبة برد سند الدين أو إلغائه فإذا رفض الدائن ذلك جاز أن يودع الشىء المستحق إيداعا قضائيا"
+   ],
+   "judicial_rule": {
+    "short": "إنه و إن كانت المادة 342 /2 من القانون المدنى تنص على أنه ليس للمدين أن يرفض الوفاء بالجزء المعترف به من الدين إذا قبل الدائن إستيفاءه إلا أن المادة 349 من ذات القانون تخوله إذا و فى الدين كله",
+    "professional": "إنه و إن كانت المادة 342 /2 من القانون المدنى تنص على أنه ليس للمدين أن يرفض الوفاء بالجزء المعترف به من الدين إذا قبل الدائن إستيفاءه إلا أن المادة 349 من ذات القانون تخوله إذا و فى الدين كله حق المطالبة برد سند الدين أو إلغائه فإذا رفض الدائن ذلك جاز أن يودع الشىء المستحق إيداعا قضائيا ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "اثر الوفاء بكل الدين",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0147_23_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "اثر فوات مدة المهلة الممنوحة للمدين",
+  "content": "إذا كان الحكم قد رأى أن فوات المهلة التى منحتها المحكمة للمشترى دون و فائه بباقى فوائد الثمن المستحقة هو مما يترتب عليه فسخ عقد البيع فلا مخالفة فى ذلك للمادتين 332 و 333 مدنى قديم .",
+  "keywords": [
+   "اثر فوات مدة المهلة الممنوحة للمدين",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0147 لسنة 23"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-05-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0147",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "510",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0147_23_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "اثر فوات مدة المهلة الممنوحة للمدين",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0147",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "510",
+    "session_date": "23-05-1957",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "اثر فوات مدة المهلة الممنوحة للمدين",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان الحكم قد رأى أن فوات المهلة التى منحتها المحكمة للمشترى دون و فائه بباقى فوائد الثمن المستحقة هو مما يترتب عليه فسخ عقد البيع فلا مخالفة فى ذلك للمادتين 332 و 333 مدنى قديم .",
+   "core_principles": [
+    "إذا كان الحكم قد رأى أن فوات المهلة التى منحتها المحكمة للمشترى دون و فائه بباقى فوائد الثمن المستحقة هو مما يترتب عليه فسخ عقد البيع فلا مخالفة فى ذلك للمادتين 332 و 333 مدنى قديم"
+   ],
+   "judicial_rule": {
+    "short": "إذا كان الحكم قد رأى أن فوات المهلة التى منحتها المحكمة للمشترى دون و فائه بباقى فوائد الثمن المستحقة هو مما يترتب عليه فسخ عقد البيع فلا مخالفة فى ذلك للمادتين 332 و 333 مدنى قديم",
+    "professional": "إذا كان الحكم قد رأى أن فوات المهلة التى منحتها المحكمة للمشترى دون و فائه بباقى فوائد الثمن المستحقة هو مما يترتب عليه فسخ عقد البيع فلا مخالفة فى ذلك للمادتين 332 و 333 مدنى قديم ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "اثر فوات مدة المهلة الممنوحة للمدين",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0123_21_2",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "اجراءات العرض و الايداع",
+  "content": "متى كان المشترى وفائيا قد رفض قبول عرض الثمن و الملحقات بغير مسوغ قانونى فان قيام ورثه البائع بخصم رسم الإيداع من المبلغ المعروض لا يؤثر على صحة العرض و الإيداع .",
+  "keywords": [
+   "اجراءات العرض و الايداع",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0123 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_civil_procedure_0026_23_1",
+   "cass_civil_civil_procedure_0337_30_5",
+   "cass_civil_civil_procedure_0015_33_4",
+   "cass_civil_civil_procedure_0624_39_2",
+   "cass_civil_civil_procedure_0460_42_9",
+   "cass_civil_civil_procedure_0654_45_3",
+   "cass_civil_civil_procedure_1386_51_2",
+   "cass_civil_civil_procedure_1083_50_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "02-12-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0123",
+   "judicial_year": "21",
+   "office_volume": "06",
+   "page": "199",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0123_21_2",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "اجراءات العرض و الايداع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0123",
+    "judicial_year": "21",
+    "office_volume": "06",
+    "page": "199",
+    "session_date": "02-12-1954",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اجراءات العرض و الايداع",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان المشترى وفائيا قد رفض قبول عرض الثمن و الملحقات بغير مسوغ قانونى فان قيام ورثه البائع بخصم رسم الإيداع من المبلغ المعروض لا يؤثر على صحة العرض و الإيداع .",
+   "core_principles": [
+    "متى كان المشترى وفائيا قد رفض قبول عرض الثمن و الملحقات بغير مسوغ قانونى فان قيام ورثه البائع بخصم رسم الإيداع من المبلغ المعروض لا يؤثر على صحة العرض و الإيداع"
+   ],
+   "judicial_rule": {
+    "short": "متى كان المشترى وفائيا قد رفض قبول عرض الثمن و الملحقات بغير مسوغ قانونى فان قيام ورثه البائع بخصم رسم الإيداع من المبلغ المعروض لا يؤثر على صحة العرض و الإيداع",
+    "professional": "متى كان المشترى وفائيا قد رفض قبول عرض الثمن و الملحقات بغير مسوغ قانونى فان قيام ورثه البائع بخصم رسم الإيداع من المبلغ المعروض لا يؤثر على صحة العرض و الإيداع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "اجراءات العرض و الايداع",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0246_23_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "اجراءات العرض و الايداع",
+  "content": "مفاد نصوص المادتين 786 و 792 من قانون المرافعات أنه إذا كان الدين الثابت فى ذمة المدين مبلغاً من المال وأراد أن يبرىء ذمته من هذا الدين بعرضه على دائنه حال المرافعة فإنه يجب أن يكون هذا العرض نقوداً دون",
+  "keywords": [
+   "اجراءات العرض و الايداع",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0246 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_civil_procedure_0026_23_1",
+   "cass_civil_civil_procedure_0337_30_5",
+   "cass_civil_civil_procedure_0015_33_4",
+   "cass_civil_civil_procedure_0624_39_2",
+   "cass_civil_civil_procedure_0460_42_9",
+   "cass_civil_civil_procedure_0654_45_3",
+   "cass_civil_civil_procedure_1386_51_2",
+   "cass_civil_civil_procedure_1083_50_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-06-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0246",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "576",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0246_23_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "اجراءات العرض و الايداع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0246",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "576",
+    "session_date": "13-06-1957",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اجراءات العرض و الايداع",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نصوص المادتين 786 و 792 من قانون المرافعات أنه إذا كان الدين الثابت فى ذمة المدين مبلغاً من المال وأراد أن يبرىء ذمته من هذا الدين بعرضه على دائنه حال المرافعة فإنه يجب أن يكون هذا العرض نقوداً دون",
+   "core_principles": [
+    "فإذا كان المشترى قد أودع حال المرافعة شيكاً لأمر البائع و إعتبر الحكم هذا الإيداع وفاء بالثمن مبرئاً لذمة المشترى من الدين فإنه يكون قد خالف القانون ، ذلك لأن الشيك وإن كان يعتبر أداة وفاء إلا أن الإلتزام المترتب فى ذمة الساحب لاينقضى بمجرد سحب الشيك بل بقيام المسحوب عليه بصرف قيمته للمستفيد"
+   ],
+   "judicial_rule": {
+    "short": "فإذا كان المشترى قد أودع حال المرافعة شيكاً لأمر البائع و إعتبر الحكم هذا الإيداع وفاء بالثمن مبرئاً لذمة المشترى من الدين فإنه يكون قد خالف القانون ، ذلك لأن الشيك وإن كان يعتبر أداة وفاء إلا أن الإلتزام المترتب",
+    "professional": "مفاد نصوص المادتين 786 و 792 من قانون المرافعات أنه إذا كان الدين الثابت فى ذمة المدين مبلغاً من المال وأراد أن يبرىء ذمته من هذا الدين بعرضه على دائنه حال المرافعة فإنه يجب أن يكون هذا العرض نقوداً دون غيرها . فإذا كان المشترى قد أودع حال المرافعة شيكاً لأمر البائع و إعتبر الحكم هذا الإيداع وفاء بالثمن مبرئاً لذمة المشترى من الدين فإنه يكون قد خالف القانون ، ذلك لأن الشيك وإن كان يعتبر أداة وفاء إلا أن الإلتزام المترتب فى ذمة الساحب لاينقضى بمجرد سحب الشيك بل بقيام المسحوب ع"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "اجراءات العرض و الايداع",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0923_51_6",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "اجراءات العرض و الايداع",
+  "content": "من المقرر أنه لكى ينتج العرض و الإيداع أثرهما كسبيل للوفاء أن يتما وفقاً لأحكام قانون المرافعات ، و أن محضر الإيداع الذى يعقب رفض الدائن للمبلغ المعروض عليه هو إجراء يقوم به المحضر و يلتزم فيه بشروط العرض التى",
+  "keywords": [
+   "اجراءات العرض و الايداع",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0923 لسنة 51"
+  ],
+  "related_ids": [
+   "cass_civil_civil_procedure_0026_23_1",
+   "cass_civil_civil_procedure_0337_30_5",
+   "cass_civil_civil_procedure_0015_33_4",
+   "cass_civil_civil_procedure_0624_39_2",
+   "cass_civil_civil_procedure_0460_42_9",
+   "cass_civil_civil_procedure_0654_45_3",
+   "cass_civil_civil_procedure_1386_51_2",
+   "cass_civil_civil_procedure_1083_50_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-05-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0923",
+   "judicial_year": "51",
+   "office_volume": "34",
+   "page": "1292",
+   "paragraph_number": "6"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0923_51_6",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "اجراءات العرض و الايداع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0923",
+    "judicial_year": "51",
+    "office_volume": "34",
+    "page": "1292",
+    "session_date": "24-05-1983",
+    "paragraph_number": "6"
+   },
+   "keywords": [
+    "اجراءات العرض و الايداع",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر أنه لكى ينتج العرض و الإيداع أثرهما كسبيل للوفاء أن يتما وفقاً لأحكام قانون المرافعات ، و أن محضر الإيداع الذى يعقب رفض الدائن للمبلغ المعروض عليه هو إجراء يقوم به المحضر و يلتزم فيه بشروط العرض التى",
+   "core_principles": [
+    "و كان من الواجب على المدين لكى تبرأ ذمته أن يعرض الدين عرضاً حقيقياً"
+   ],
+   "judicial_rule": {
+    "short": "و كان من الواجب على المدين لكى تبرأ ذمته أن يعرض الدين عرضاً حقيقياً",
+    "professional": "من المقرر أنه لكى ينتج العرض و الإيداع أثرهما كسبيل للوفاء أن يتما وفقاً لأحكام قانون المرافعات ، و أن محضر الإيداع الذى يعقب رفض الدائن للمبلغ المعروض عليه هو إجراء يقوم به المحضر و يلتزم فيه بشروط العرض التى إشترطها العارض بإنذاره ، و إذ كان الثابت بمحضر الإيداع المؤرخ ... و الذى تم بناء على إنذار العرض الموجه من المطعون ضده الخامس إلى المطعون ضدهم الأربعة الأول فى ... أن المحضر أحال فيه إلى ما ورد بإنذار العرض المذكور ، و مفاده إشتراط العارض - أحد المشترين - لصرف المبلغ ال"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "اجراءات العرض و الايداع",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0403_48_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "اعطاء المشترى اجلا للوفاء",
+  "content": "إعطاء المشترى المتأخر فى دفع الثمن أجلاً للوفاء به طبقاً للمادة 2/157 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الرخص التى أطلق فيها الشارع لقاضى الموضوع الخيار فى أن يأخذ منها بأحد",
+  "keywords": [
+   "اعطاء المشترى اجلا للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0403 لسنة 48"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "02-06-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0403",
+   "judicial_year": "48",
+   "office_volume": "32",
+   "page": "1683",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0403_48_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "اعطاء المشترى اجلا للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0403",
+    "judicial_year": "48",
+    "office_volume": "32",
+    "page": "1683",
+    "session_date": "02-06-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اعطاء المشترى اجلا للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إعطاء المشترى المتأخر فى دفع الثمن أجلاً للوفاء به طبقاً للمادة 2/157 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الرخص التى أطلق فيها الشارع لقاضى الموضوع الخيار فى أن يأخذ منها بأحد",
+   "core_principles": [
+    "إعطاء المشترى المتأخر فى دفع الثمن أجلاً للوفاء به طبقاً للمادة 2/157 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الرخص التى أطلق فيها الشارع لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه هو من ظروف كل دعوى بغير معقب عليه ، فلا يلزم بتسبيب قضائه بمنح الم"
+   ],
+   "judicial_rule": {
+    "short": "إعطاء المشترى المتأخر فى دفع الثمن أجلاً للوفاء به طبقاً للمادة 2/157 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الرخص التى أطلق فيها الشارع لقاضى الموضوع الخيار فى أن يأخذ منها بأحد",
+    "professional": "إعطاء المشترى المتأخر فى دفع الثمن أجلاً للوفاء به طبقاً للمادة 2/157 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الرخص التى أطلق فيها الشارع لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه هو من ظروف كل دعوى بغير معقب عليه ، فلا يلزم بتسبيب قضائه بمنح المشترى نظرة الميسرة أو برفض هذا الطلب ، مما لا يقبل معه النعى على الحكم المطعون فيه إقراره للمبررات التى أوردها الحكم المستأنف و عول فى قضائه بالمهلة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "اعطاء المشترى اجلا للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0019_43_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "القضاء بالوفاء بعملة اجنبية",
+  "content": "مؤدى ما تقضى به المادة 167 من قانون المرافعات من أنه لا يجوز أن يشترك فى المداولة غير القضاة الذين سمعوا المرافعة و إلا كان الحكم باطلاً ، أنه إذا تغير أحد القضاة الذين سمعوا المرافعة لأى سبب قبل إجراء",
+  "keywords": [
+   "القضاء بالوفاء بعملة اجنبية",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0019 لسنة 43"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0263_58_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-11-1975",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0019",
+   "judicial_year": "43",
+   "office_volume": "26",
+   "page": "1453",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0019_43_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "القضاء بالوفاء بعملة اجنبية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0019",
+    "judicial_year": "43",
+    "office_volume": "26",
+    "page": "1453",
+    "session_date": "19-11-1975",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "القضاء بالوفاء بعملة اجنبية",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مؤدى ما تقضى به المادة 167 من قانون المرافعات من أنه لا يجوز أن يشترك فى المداولة غير القضاة الذين سمعوا المرافعة و إلا كان الحكم باطلاً ، أنه إذا تغير أحد القضاة الذين سمعوا المرافعة لأى سبب قبل إجراء",
+   "core_principles": [
+    "مؤدى ما تقضى به المادة 167 من قانون المرافعات من أنه لا يجوز أن يشترك فى المداولة غير القضاة الذين سمعوا المرافعة و إلا كان الحكم باطلاً ، أنه إذا تغير أحد القضاة الذين سمعوا المرافعة لأى سبب قبل إجراء المداولة كان من المتعين فتح باب المرافعة و إعادة الإجراءات أمام المحكمة بهيئتها الجديدة و يكون الح"
+   ],
+   "judicial_rule": {
+    "short": "مؤدى ما تقضى به المادة 167 من قانون المرافعات من أنه لا يجوز أن يشترك فى المداولة غير القضاة الذين سمعوا المرافعة و إلا كان الحكم باطلاً ، أنه إذا تغير أحد القضاة الذين سمعوا المرافعة لأى سبب قبل إجراء",
+    "professional": "مؤدى ما تقضى به المادة 167 من قانون المرافعات من أنه لا يجوز أن يشترك فى المداولة غير القضاة الذين سمعوا المرافعة و إلا كان الحكم باطلاً ، أنه إذا تغير أحد القضاة الذين سمعوا المرافعة لأى سبب قبل إجراء المداولة كان من المتعين فتح باب المرافعة و إعادة الإجراءات أمام المحكمة بهيئتها الجديدة و يكون الحكم الذى تصدره هذه الهيئة صحيحاً إذا حدد الخصوم طلباتهم أمامها ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "القضاء بالوفاء بعملة اجنبية",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0263_58_5",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "القضاء بالوفاء بعملة اجنبية",
+  "content": "لئن كان الأصل فى الإلزام قضاء بأداء مبلغ من النقود أن يكون بالعملة الوطنية ، إلا أنه متى أجاز المشرع الوفاء بالإلتزام بغيرها من العملات فلا على محكمة الموضوع إن قضت بإلزام المحكوم عليه بالوفاء بإلتزامه بعملة أجنبية فى الحالات",
+  "keywords": [
+   "القضاء بالوفاء بعملة اجنبية",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0263 لسنة 58"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0019_43_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-09-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0263",
+   "judicial_year": "58",
+   "office_volume": "40",
+   "page": "829",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0263_58_5",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "القضاء بالوفاء بعملة اجنبية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0263",
+    "judicial_year": "58",
+    "office_volume": "40",
+    "page": "829",
+    "session_date": "25-09-1989",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "القضاء بالوفاء بعملة اجنبية",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لئن كان الأصل فى الإلزام قضاء بأداء مبلغ من النقود أن يكون بالعملة الوطنية ، إلا أنه متى أجاز المشرع الوفاء بالإلتزام بغيرها من العملات فلا على محكمة الموضوع إن قضت بإلزام المحكوم عليه بالوفاء بإلتزامه بعملة أجنبية فى الحالات",
+   "core_principles": [
+    "لئن كان الأصل فى الإلزام قضاء بأداء مبلغ من النقود أن يكون بالعملة الوطنية ، إلا أنه متى أجاز المشرع الوفاء بالإلتزام بغيرها من العملات فلا على محكمة الموضوع إن قضت بإلزام المحكوم عليه بالوفاء بإلتزامه بعملة أجنبية فى الحالات التى نصت عليها القوانين الخاصة متى توافرت شروط إعمالها و طلب الخصم الحكم ب"
+   ],
+   "judicial_rule": {
+    "short": "لئن كان الأصل فى الإلزام قضاء بأداء مبلغ من النقود أن يكون بالعملة الوطنية ، إلا أنه متى أجاز المشرع الوفاء بالإلتزام بغيرها من العملات فلا على محكمة الموضوع إن قضت بإلزام المحكوم عليه بالوفاء بإلتزامه بعملة أجنبية فى الحالات",
+    "professional": "لئن كان الأصل فى الإلزام قضاء بأداء مبلغ من النقود أن يكون بالعملة الوطنية ، إلا أنه متى أجاز المشرع الوفاء بالإلتزام بغيرها من العملات فلا على محكمة الموضوع إن قضت بإلزام المحكوم عليه بالوفاء بإلتزامه بعملة أجنبية فى الحالات التى نصت عليها القوانين الخاصة متى توافرت شروط إعمالها و طلب الخصم الحكم بها 0"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "القضاء بالوفاء بعملة اجنبية",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0762_48_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء المبرئ للذمة",
+  "content": "الوفاء بالدين عن الغير - و على ما يبين من نصوص المواد 323 و ما بعدها من القانون المدنى - لا تبرأ ذمة المدين منه إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين هذا الغير ، أما إذا ظن أنه",
+  "keywords": [
+   "الشركة",
+   "الوفاء المبرئ للذمة",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0762 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_1395_49_1",
+   "cass_civil_payment_fulfillment_1894_49_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-03-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0762",
+   "judicial_year": "48",
+   "office_volume": "32",
+   "page": "828",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0762_48_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء المبرئ للذمة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0762",
+    "judicial_year": "48",
+    "office_volume": "32",
+    "page": "828",
+    "session_date": "16-03-1981",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الشركة",
+    "الوفاء المبرئ للذمة",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الوفاء بالدين عن الغير - و على ما يبين من نصوص المواد 323 و ما بعدها من القانون المدنى - لا تبرأ ذمة المدين منه إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين هذا الغير ، أما إذا ظن أنه",
+   "core_principles": [
+    "الوفاء بالدين عن الغير - و على ما يبين من نصوص المواد 323 و ما بعدها من القانون المدنى - لا تبرأ ذمة المدين منه إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين هذا الغير ، أما إذا ظن أنه يدفع ديناً على نفسه ، فلا يعتبر وفاء لدين غيره بل وفاء لدين غير مستحق فيجوز للموفى المطالبة بإسترداده إعمالاً لقاعدة د"
+   ],
+   "judicial_rule": {
+    "short": "الوفاء بالدين عن الغير - و على ما يبين من نصوص المواد 323 و ما بعدها من القانون المدنى - لا تبرأ ذمة المدين منه إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين هذا الغير ، أما إذا ظن أنه",
+    "professional": "الوفاء بالدين عن الغير - و على ما يبين من نصوص المواد 323 و ما بعدها من القانون المدنى - لا تبرأ ذمة المدين منه إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين هذا الغير ، أما إذا ظن أنه يدفع ديناً على نفسه ، فلا يعتبر وفاء لدين غيره بل وفاء لدين غير مستحق فيجوز للموفى المطالبة بإسترداده إعمالاً لقاعدة دفع غير المستحق ، و إذا خلت الأوراق مما يدل على أن المرسل إليه قد إتجهت إرادته عند السداد إلى الوفاء عن الشركة - المطعون ضدها الناقلة - بالرسوم الجمركية المستحقة عن العجز فى الرسالة"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء المبرئ للذمة",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_1395_49_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء المبرئ للذمة",
+  "content": "مفاد نص المادتين 332 ، 333 من القانون المدنى أن الأصل فى الوفاء حتى يكون مبرئاً لذمة المدين أو لنائبه ، أما الوفاء لشخص غير هذين فلا يبرىء ذمة المدين إلا إذا أقر الدائن الوفاء له أو عادت على الدائن",
+  "keywords": [
+   "العقد",
+   "الوفاء المبرئ للذمة",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 1395 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0762_48_3",
+   "cass_civil_payment_fulfillment_1894_49_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-01-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1395",
+   "judicial_year": "49",
+   "office_volume": "32",
+   "page": "189",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_1395_49_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء المبرئ للذمة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1395",
+    "judicial_year": "49",
+    "office_volume": "32",
+    "page": "189",
+    "session_date": "13-01-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "العقد",
+    "الوفاء المبرئ للذمة",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نص المادتين 332 ، 333 من القانون المدنى أن الأصل فى الوفاء حتى يكون مبرئاً لذمة المدين أو لنائبه ، أما الوفاء لشخص غير هذين فلا يبرىء ذمة المدين إلا إذا أقر الدائن الوفاء له أو عادت على الدائن",
+   "core_principles": [
+    "و إذا كانت وكاله الزوجة عن زوجها لا تستخلص ضمناً من مجرد قيام رابطة الزوجية ، و كان الحكم المطعون فيه قد أيد الحكم المستأنف لأسبابه و الذى إعتبر الإيداع الحاصل من المطعون عليه الأول لدى المطعون عليها الثانية وفاء لزوجها الطاعن بجزء من الثمن المستحق على المطعون عليه الأول إستناداً إلى ورقة تقدم بها م"
+   ],
+   "judicial_rule": {
+    "short": "و إذا كانت وكاله الزوجة عن زوجها لا تستخلص ضمناً من مجرد قيام رابطة الزوجية ، و كان الحكم المطعون فيه قد أيد الحكم المستأنف لأسبابه و الذى إعتبر الإيداع الحاصل من المطعون عليه الأول لدى المطعون عليها الثانية وفاء",
+    "professional": "مفاد نص المادتين 332 ، 333 من القانون المدنى أن الأصل فى الوفاء حتى يكون مبرئاً لذمة المدين أو لنائبه ، أما الوفاء لشخص غير هذين فلا يبرىء ذمة المدين إلا إذا أقر الدائن الوفاء له أو عادت على الدائن من هذا الوفاة منفعة و بقدر تلك المنفعة أو كان هذا الشخص يحوز الدين و وفى له المدين بحسن نية معتقداً أنه الدائن الحقيقى . و إذا كانت وكاله الزوجة عن زوجها لا تستخلص ضمناً من مجرد قيام رابطة الزوجية ، و كان الحكم المطعون فيه قد أيد الحكم المستأنف لأسبابه و الذى إعتبر الإيداع الحاصل م"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء المبرئ للذمة",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_1894_49_2",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء المبرئ للذمة",
+  "content": "المقرر فى قضاء هذه المحكمة أن مجرد قبول الدائن شيكاً من المدين إستيفاء لدينه لا يعتبر وفاء مبرئاً لذمة المدين لأن الإلتزام المترتب فى ذمته لاينقضى إلا بتحصيل قيمة الشيك الطعن رقم 0083 لسنة 03 مجموعة عمر 1ع صفحة رقم",
+  "keywords": [
+   "الوفاء المبرئ للذمة",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 1894 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0762_48_3",
+   "cass_civil_payment_fulfillment_1395_49_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-03-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1894",
+   "judicial_year": "49",
+   "office_volume": "35",
+   "page": "752",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_1894_49_2",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء المبرئ للذمة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1894",
+    "judicial_year": "49",
+    "office_volume": "35",
+    "page": "752",
+    "session_date": "20-03-1984",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الوفاء المبرئ للذمة",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر فى قضاء هذه المحكمة أن مجرد قبول الدائن شيكاً من المدين إستيفاء لدينه لا يعتبر وفاء مبرئاً لذمة المدين لأن الإلتزام المترتب فى ذمته لاينقضى إلا بتحصيل قيمة الشيك الطعن رقم 0083 لسنة 03 مجموعة عمر 1ع صفحة رقم",
+   "core_principles": [
+    "الطعن رقم 0083 لسنة 03 مجموعة عمر 1ع صفحة رقم 438 بتاريخ 14-06-1934 الموضوع : وفاء الموضوع الفرعي : الوفاء المبرئ للذمة فقرة رقم : 2 من صدر عليه حكم نهائى قاض بدفع ثمن عقار إلى شخص معين و أوفى بهذا الثمن بعد صدور الحكم للمحكوم له فقد برئت ذمته لأنه لا يستطيع عدم الوفاء لهذا الشخص المعين بعد صدور هذا"
+   ],
+   "judicial_rule": {
+    "short": "الطعن رقم 0083 لسنة 03 مجموعة عمر 1ع صفحة رقم 438 بتاريخ 14-06-1934 الموضوع : وفاء الموضوع الفرعي : الوفاء المبرئ للذمة فقرة رقم : 2 من صدر عليه حكم نهائى قاض بدفع ثمن عقار إلى شخص معين و أوفى",
+    "professional": "المقرر فى قضاء هذه المحكمة أن مجرد قبول الدائن شيكاً من المدين إستيفاء لدينه لا يعتبر وفاء مبرئاً لذمة المدين لأن الإلتزام المترتب فى ذمته لاينقضى إلا بتحصيل قيمة الشيك الطعن رقم 0083 لسنة 03 مجموعة عمر 1ع صفحة رقم 438 بتاريخ 14-06-1934 الموضوع : وفاء الموضوع الفرعي : الوفاء المبرئ للذمة فقرة رقم : 1 المراد بحسن النية فى الدفع المبرئ للذمة هو إعتقاد من وجب عليه الحق وقت أدائه أنه يؤديه إلى صاحبه ، سواء أكان هذا الإعتقاد مطابقاً للواقع و نفس الأمر أم كان غير مطابق . الطعن رقم"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء المبرئ للذمة",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0228_21_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء بالدين من الغير",
+  "content": "مناط تطبيق نص المادة 161 من القانون المدنى القديم هو أن يكون الموفى قد قام بوفاء الدين من ماله الخاص .",
+  "keywords": [
+   "الوفاء بالدين من الغير",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0228 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0283_41_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-10-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0228",
+   "judicial_year": "21",
+   "office_volume": "06",
+   "page": "45",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0228_21_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء بالدين من الغير",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0228",
+    "judicial_year": "21",
+    "office_volume": "06",
+    "page": "45",
+    "session_date": "28-10-1954",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الوفاء بالدين من الغير",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مناط تطبيق نص المادة 161 من القانون المدنى القديم هو أن يكون الموفى قد قام بوفاء الدين من ماله الخاص .",
+   "core_principles": [
+    "مناط تطبيق نص المادة 161 من القانون المدنى القديم هو أن يكون الموفى قد قام بوفاء الدين من ماله الخاص"
+   ],
+   "judicial_rule": {
+    "short": "مناط تطبيق نص المادة 161 من القانون المدنى القديم هو أن يكون الموفى قد قام بوفاء الدين من ماله الخاص",
+    "professional": "مناط تطبيق نص المادة 161 من القانون المدنى القديم هو أن يكون الموفى قد قام بوفاء الدين من ماله الخاص ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء بالدين من الغير",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0283_41_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء بالدين من الغير",
+  "content": "الوفاء بالدين من الغير لا يبرىء ذمة المدين إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين غيره أما إذا ظن الموفى وقت الوفاء أنه ديناً عل نفسه فلا يعتبر هذا وفاء لدين غير مستحق يجيز للموفى المطالبة بإسترداد ما وفاه",
+  "keywords": [
+   "الوفاء بالدين من الغير",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0283 لسنة 41"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0228_21_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-04-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0283",
+   "judicial_year": "41",
+   "office_volume": "28",
+   "page": "1032",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0283_41_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء بالدين من الغير",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0283",
+    "judicial_year": "41",
+    "office_volume": "28",
+    "page": "1032",
+    "session_date": "25-04-1977",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الوفاء بالدين من الغير",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الوفاء بالدين من الغير لا يبرىء ذمة المدين إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين غيره أما إذا ظن الموفى وقت الوفاء أنه ديناً عل نفسه فلا يعتبر هذا وفاء لدين غير مستحق يجيز للموفى المطالبة بإسترداد ما وفاه",
+   "core_principles": [
+    "الوفاء بالدين من الغير لا يبرىء ذمة المدين إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين غيره أما إذا ظن الموفى وقت الوفاء أنه ديناً عل نفسه فلا يعتبر هذا وفاء لدين غير مستحق يجيز للموفى المطالبة بإسترداد ما وفاه على أساس قاعدة دفع غير المستحق"
+   ],
+   "judicial_rule": {
+    "short": "الوفاء بالدين من الغير لا يبرىء ذمة المدين إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين غيره أما إذا ظن الموفى وقت الوفاء أنه ديناً عل نفسه فلا يعتبر هذا وفاء لدين غير مستحق يجيز للموفى المطالبة بإسترداد ما وفاه",
+    "professional": "الوفاء بالدين من الغير لا يبرىء ذمة المدين إلا إذا إتجهت إرادة الموفى إلى الوفاء بدين غيره أما إذا ظن الموفى وقت الوفاء أنه ديناً عل نفسه فلا يعتبر هذا وفاء لدين غير مستحق يجيز للموفى المطالبة بإسترداد ما وفاه على أساس قاعدة دفع غير المستحق ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء بالدين من الغير",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0475_39_6",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء بالدين و فوائده",
+  "content": "تقضى المادة 343 من القانون المدنى بإنه إذا كان المدين ملزماً بأن يوفى مع الدين مصروفات و فوائد و كان أداه لا يفى بالدين مع هذه الملحقات ، خصم ما أدى من حساب المصروفات ثم من الفوائد ثم من أصل",
+  "keywords": [
+   "التعويض",
+   "الوفاء بالدين و فوائده",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0475 لسنة 39"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "30-12-1976",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0475",
+   "judicial_year": "39",
+   "office_volume": "27",
+   "page": "1857",
+   "paragraph_number": "6"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0475_39_6",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء بالدين و فوائده",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0475",
+    "judicial_year": "39",
+    "office_volume": "27",
+    "page": "1857",
+    "session_date": "30-12-1976",
+    "paragraph_number": "6"
+   },
+   "keywords": [
+    "التعويض",
+    "الوفاء بالدين و فوائده",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقضى المادة 343 من القانون المدنى بإنه إذا كان المدين ملزماً بأن يوفى مع الدين مصروفات و فوائد و كان أداه لا يفى بالدين مع هذه الملحقات ، خصم ما أدى من حساب المصروفات ثم من الفوائد ثم من أصل",
+   "core_principles": [
+    "و إذ كان يتضح من تقرير الخبير الحسابى الذى ندبته المحكمة أن جملة الفوائد التى أضافها الخبير إلى التعويض المستحق للمطعون عليهم تقل عن المبلغ الذى سدده لهم الطاعن ، و كان الطعن لم يدع وجود إتفاق على كيفية خصم المبالغ المسددة منه للمطعون عليهم ، فإن الطاعن يكون قد أدى جميع الفوائد التى إستحقت للمطعون ع"
+   ],
+   "judicial_rule": {
+    "short": "و إذ كان يتضح من تقرير الخبير الحسابى الذى ندبته المحكمة أن جملة الفوائد التى أضافها الخبير إلى التعويض المستحق للمطعون عليهم تقل عن المبلغ الذى سدده لهم الطاعن ، و كان الطعن لم يدع وجود إتفاق على كيفية خصم",
+    "professional": "تقضى المادة 343 من القانون المدنى بإنه إذا كان المدين ملزماً بأن يوفى مع الدين مصروفات و فوائد و كان أداه لا يفى بالدين مع هذه الملحقات ، خصم ما أدى من حساب المصروفات ثم من الفوائد ثم من أصل الدين ، كل هذا ما لم يتفق على غيره . و إذ كان يتضح من تقرير الخبير الحسابى الذى ندبته المحكمة أن جملة الفوائد التى أضافها الخبير إلى التعويض المستحق للمطعون عليهم تقل عن المبلغ الذى سدده لهم الطاعن ، و كان الطعن لم يدع وجود إتفاق على كيفية خصم المبالغ المسددة منه للمطعون عليهم ، فإن الطاع"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء بالدين و فوائده",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0354_23_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء بالمقاصة",
+  "content": "المقاصة طبقا لنص المادة 192 من القانون المدنى القديم هى نوع من وفاء الدين تحصل بقدر الأقل من الدينين كنص المادة 193 من ذلك القانون . و هذا الوفاء الذى يحصل بالمقاصة يستلزم قانونا تحديد الدين الذى تجرى به المقاصة",
+  "keywords": [
+   "الوفاء بالمقاصة",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0354 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_009_44_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "02-01-1958",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0354",
+   "judicial_year": "23",
+   "office_volume": "09",
+   "page": "43",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0354_23_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء بالمقاصة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0354",
+    "judicial_year": "23",
+    "office_volume": "09",
+    "page": "43",
+    "session_date": "02-01-1958",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الوفاء بالمقاصة",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقاصة طبقا لنص المادة 192 من القانون المدنى القديم هى نوع من وفاء الدين تحصل بقدر الأقل من الدينين كنص المادة 193 من ذلك القانون . و هذا الوفاء الذى يحصل بالمقاصة يستلزم قانونا تحديد الدين الذى تجرى به المقاصة",
+   "core_principles": [
+    "و هذا الوفاء الذى يحصل بالمقاصة يستلزم قانونا تحديد الدين الذى تجرى به المقاصة فى التاريخ المعتبر مبدأ لتنفيذها مضافا إليه فوائده السابقة على هذا التاريخ فإذا كان الحكم قد أضاف فوائد لاحقة للتاريخ المذكور فانه يكون قد أخطأ"
+   ],
+   "judicial_rule": {
+    "short": "و هذا الوفاء الذى يحصل بالمقاصة يستلزم قانونا تحديد الدين الذى تجرى به المقاصة فى التاريخ المعتبر مبدأ لتنفيذها مضافا إليه فوائده السابقة على هذا التاريخ فإذا كان الحكم قد أضاف فوائد لاحقة للتاريخ المذكور فانه يكون قد أخطأ",
+    "professional": "المقاصة طبقا لنص المادة 192 من القانون المدنى القديم هى نوع من وفاء الدين تحصل بقدر الأقل من الدينين كنص المادة 193 من ذلك القانون . و هذا الوفاء الذى يحصل بالمقاصة يستلزم قانونا تحديد الدين الذى تجرى به المقاصة فى التاريخ المعتبر مبدأ لتنفيذها مضافا إليه فوائده السابقة على هذا التاريخ فإذا كان الحكم قد أضاف فوائد لاحقة للتاريخ المذكور فانه يكون قد أخطأ ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء بالمقاصة",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_009_44_2",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء بالمقاصة",
+  "content": "المقاصة القانونية وفق المادة 365 من القانون المدنى تقع بقوة القانون متى توافرت شرائطها ، و أنها كالوفاء ينقضى بها الدينان بقدر الأقل منهما إذ يستوفى كل دائن حقه من الدين الذى فى ذمته ، و أن هذا الإنقضاء ينصرف",
+  "keywords": [
+   "الوفاء بالمقاصة",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 009 لسنة 44"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0354_23_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 23 (Law 52)",
+    "Law 52/1969"
+   ],
+   "date": "09-11-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "009",
+   "judicial_year": "44",
+   "office_volume": "28",
+   "page": "1632",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_009_44_2",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء بالمقاصة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "009",
+    "judicial_year": "44",
+    "office_volume": "28",
+    "page": "1632",
+    "session_date": "09-11-1977",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الوفاء بالمقاصة",
+    "وفاء"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 23 (Law 52)",
+    "Law 52/1969"
+   ],
+   "facts_summary": "المقاصة القانونية وفق المادة 365 من القانون المدنى تقع بقوة القانون متى توافرت شرائطها ، و أنها كالوفاء ينقضى بها الدينان بقدر الأقل منهما إذ يستوفى كل دائن حقه من الدين الذى فى ذمته ، و أن هذا الإنقضاء ينصرف",
+   "core_principles": [
+    "المقاصة القانونية وفق المادة 365 من القانون المدنى تقع بقوة القانون متى توافرت شرائطها ، و أنها كالوفاء ينقضى بها الدينان بقدر الأقل منهما إذ يستوفى كل دائن حقه من الدين الذى فى ذمته ، و أن هذا الإنقضاء ينصرف إلى الوقت الذى يتلاقى فيه الدينان متوافرة فيهما شروطها ، و لما كانت المقاصة لا تتعلق بالنظا"
+   ],
+   "judicial_rule": {
+    "short": "المقاصة القانونية وفق المادة 365 من القانون المدنى تقع بقوة القانون متى توافرت شرائطها ، و أنها كالوفاء ينقضى بها الدينان بقدر الأقل منهما إذ يستوفى كل دائن حقه من الدين الذى فى ذمته ، و أن هذا الإنقضاء ينصرف",
+    "professional": "المقاصة القانونية وفق المادة 365 من القانون المدنى تقع بقوة القانون متى توافرت شرائطها ، و أنها كالوفاء ينقضى بها الدينان بقدر الأقل منهما إذ يستوفى كل دائن حقه من الدين الذى فى ذمته ، و أن هذا الإنقضاء ينصرف إلى الوقت الذى يتلاقى فيه الدينان متوافرة فيهما شروطها ، و لما كانت المقاصة لا تتعلق بالنظام العام و يجوز النزول عنها صراحة أو ضمناً بعد ثبوت الحق فيها ، و أوجب القانون على ذى المصلحة التمسك بها ، فإنه لا يكون من شأن إجراء هذه المقاصة عند التمسك بها فى الدعوى أى تأثير عل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء بالمقاصة",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0025",
+   "القانون_المدني__file_0171__art_0025",
+   "القانون_الدنى__file_0215__art_0025",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0318",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0378",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0023",
+   "كود_القانون_المدنى__file_0205__art_0023",
+   "القانون_المدني__file_0110__art_0025"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0522_43_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء بمقابل التحسين",
+  "content": "مفاد نصوص المواد 10 و11 و12 و13 من القانون رقم 222 لسنة 1955 بشأن فرض مقابل تحسين على العقارات التى يطرأ عليها تحسين بسبب أعمال المنفعة العامة ، أنه فى حالة إمتناع المالك عن إختيار إحدى الطرق الثلاث المنصوص عليها",
+  "keywords": [
+   "الوفاء بمقابل التحسين",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0522 لسنة 43"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 222/1955"
+   ],
+   "date": "14-06-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0522",
+   "judicial_year": "43",
+   "office_volume": "28",
+   "page": "1437",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0522_43_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء بمقابل التحسين",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0522",
+    "judicial_year": "43",
+    "office_volume": "28",
+    "page": "1437",
+    "session_date": "14-06-1977",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الوفاء بمقابل التحسين",
+    "وفاء"
+   ],
+   "legal_articles": [
+    "Law 222/1955"
+   ],
+   "facts_summary": "مفاد نصوص المواد 10 و11 و12 و13 من القانون رقم 222 لسنة 1955 بشأن فرض مقابل تحسين على العقارات التى يطرأ عليها تحسين بسبب أعمال المنفعة العامة ، أنه فى حالة إمتناع المالك عن إختيار إحدى الطرق الثلاث المنصوص عليها",
+   "core_principles": [
+    "مفاد نصوص المواد 10 و11 و12 و13 من القانون رقم 222 لسنة 1955 بشأن فرض مقابل تحسين على العقارات التى يطرأ عليها تحسين بسبب أعمال المنفعة العامة ، أنه فى حالة إمتناع المالك عن إختيار إحدى الطرق الثلاث المنصوص عليها فى المادة 11 من القانون للوفاء بمقابل التحسين فى خلال ستين يوماً من تاريخ إعلانه بالتقد"
+   ],
+   "judicial_rule": {
+    "short": "مفاد نصوص المواد 10 و11 و12 و13 من القانون رقم 222 لسنة 1955 بشأن فرض مقابل تحسين على العقارات التى يطرأ عليها تحسين بسبب أعمال المنفعة العامة ، أنه فى حالة إمتناع المالك عن إختيار إحدى الطرق الثلاث المنصوص عليها",
+    "professional": "مفاد نصوص المواد 10 و11 و12 و13 من القانون رقم 222 لسنة 1955 بشأن فرض مقابل تحسين على العقارات التى يطرأ عليها تحسين بسبب أعمال المنفعة العامة ، أنه فى حالة إمتناع المالك عن إختيار إحدى الطرق الثلاث المنصوص عليها فى المادة 11 من القانون للوفاء بمقابل التحسين فى خلال ستين يوماً من تاريخ إعلانه بالتقدير النهائى لقيمة العقار ، فقد رأى المشرع أنه فى حالة التصرفات الناقلة لملكية العقار أن يكون مقابل التحسين هو نصف الفرق بين تقدير اللجنة لقيمة العقار قبل التحسين و بين ثمن بيعه ، إل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء بمقابل التحسين",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0171_33_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء غير المبرئ للذمة",
+  "content": "متى كان الإيداع الحاصل من الطاعن مشروطا بعدم صرف المبلغ المودع إلى المطعون ضدهم قبل الفصل فى جميع المنازعات القائمة بينهم و بينه بشأن الوصية فإن الإيداع لا يبرئ ذمته من المبلغ المودع و لا يحول دون سريان الفوائد من",
+  "keywords": [
+   "الوصية",
+   "الوفاء غير المبرئ للذمة",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0171 لسنة 33"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-02-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0171",
+   "judicial_year": "33",
+   "office_volume": "18",
+   "page": "406",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0171_33_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء غير المبرئ للذمة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0171",
+    "judicial_year": "33",
+    "office_volume": "18",
+    "page": "406",
+    "session_date": "16-02-1967",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الوصية",
+    "الوفاء غير المبرئ للذمة",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الإيداع الحاصل من الطاعن مشروطا بعدم صرف المبلغ المودع إلى المطعون ضدهم قبل الفصل فى جميع المنازعات القائمة بينهم و بينه بشأن الوصية فإن الإيداع لا يبرئ ذمته من المبلغ المودع و لا يحول دون سريان الفوائد من",
+   "core_principles": [
+    "الطعن رقم 0063 لسنة 07 مجموعة عمر 2ع صفحة رقم 333 بتاريخ 28-04-1938 الموضوع : وفاء الموضوع الفرعي : الوفاء غير المبرئ للذمة فقرة رقم : 2 إن الإيداع الحاصل على ذمة أحد دائنى المدين لا يخرج به المبلغ المودع عن ملكية المودع إلا بقبول الدائن له ، فقبل ذلك يستطيع المدين أن يوجه المبلغ الذى أودعه أية وجهة"
+   ],
+   "judicial_rule": {
+    "short": "الطعن رقم 0063 لسنة 07 مجموعة عمر 2ع صفحة رقم 333 بتاريخ 28-04-1938 الموضوع : وفاء الموضوع الفرعي : الوفاء غير المبرئ للذمة فقرة رقم : 2 إن الإيداع الحاصل على ذمة أحد دائنى المدين لا يخرج به المبلغ المودع",
+    "professional": "متى كان الإيداع الحاصل من الطاعن مشروطا بعدم صرف المبلغ المودع إلى المطعون ضدهم قبل الفصل فى جميع المنازعات القائمة بينهم و بينه بشأن الوصية فإن الإيداع لا يبرئ ذمته من المبلغ المودع و لا يحول دون سريان الفوائد من تاريخ إستحقاقها قانوناً إذ من شأن الشرط الذى اقترن به هذا الإيداع إستحالة حصول المطعون ضدهم على ما يخصهم فى المبلغ المودع قبل الحكم نهائيا فى الدعوى التى رفعوها بطلب الموصى لهم به وبالتالى حرمانهم من الإنتفاع به طوال نظرها أمام المحكمة ومن ثم يحق لهم طلب الفوائد عن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء غير المبرئ للذمة",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0379_30_2",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء مع الحلول",
+  "content": "لا يترتب على الوفاء الباطل حلول الموفى محل الموفى له فى تأميناته لأن هذا الحلول إنما ترتب علي الوفاء الصحيح .",
+  "keywords": [
+   "الوفاء مع الحلول",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0379 لسنة 30"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0388_43_1",
+   "cass_civil_payment_fulfillment_0388_43_2",
+   "cass_civil_payment_fulfillment_0388_43_3",
+   "cass_civil_payment_fulfillment_0447_42_8"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-05-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0379",
+   "judicial_year": "30",
+   "office_volume": "16",
+   "page": "602",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0379_30_2",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء مع الحلول",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0379",
+    "judicial_year": "30",
+    "office_volume": "16",
+    "page": "602",
+    "session_date": "20-05-1965",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لا يترتب على الوفاء الباطل حلول الموفى محل الموفى له فى تأميناته لأن هذا الحلول إنما ترتب علي الوفاء الصحيح .",
+   "core_principles": [
+    "لا يترتب على الوفاء الباطل حلول الموفى محل الموفى له فى تأميناته لأن هذا الحلول إنما ترتب علي الوفاء الصحيح"
+   ],
+   "judicial_rule": {
+    "short": "لا يترتب على الوفاء الباطل حلول الموفى محل الموفى له فى تأميناته لأن هذا الحلول إنما ترتب علي الوفاء الصحيح",
+    "professional": "لا يترتب على الوفاء الباطل حلول الموفى محل الموفى له فى تأميناته لأن هذا الحلول إنما ترتب علي الوفاء الصحيح ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0388_43_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء مع الحلول",
+  "content": "تنص المادة 327 من القانون المدنى على أن \" للدائن الذى إستوفى حقه من غير المدين أن يتفق مع هذا الغير على أن يحل محله و لو لم يقبل المدين ذلك و لا يصح أن يتأخر هذا الإتفاق عن وقت",
+  "keywords": [
+   "الوفاء مع الحلول",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0388 لسنة 43"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0379_30_2",
+   "cass_civil_payment_fulfillment_0388_43_2",
+   "cass_civil_payment_fulfillment_0388_43_3",
+   "cass_civil_payment_fulfillment_0447_42_8"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-03-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0388",
+   "judicial_year": "43",
+   "office_volume": "28",
+   "page": "745",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0388_43_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء مع الحلول",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0388",
+    "judicial_year": "43",
+    "office_volume": "28",
+    "page": "745",
+    "session_date": "22-03-1977",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تنص المادة 327 من القانون المدنى على أن \" للدائن الذى إستوفى حقه من غير المدين أن يتفق مع هذا الغير على أن يحل محله و لو لم يقبل المدين ذلك و لا يصح أن يتأخر هذا الإتفاق عن وقت",
+   "core_principles": [
+    "تنص المادة 327 من القانون المدنى على أن \" للدائن الذى إستوفى حقه من غير المدين أن يتفق مع هذا الغير على أن يحل محله و لو لم يقبل المدين ذلك و لا يصح أن يتأخر هذا الإتفاق عن وقت الوفاء \" و مفاد ذلك أنه يشترط للحلول فى هذه الحالة و على ما ورد بالأعمال التحضيرية للقانون المدنى أن يتفق الموفى و الدائن ع"
+   ],
+   "judicial_rule": {
+    "short": "تنص المادة 327 من القانون المدنى على أن \" للدائن الذى إستوفى حقه من غير المدين أن يتفق مع هذا الغير على أن يحل محله و لو لم يقبل المدين ذلك و لا يصح أن يتأخر هذا الإتفاق عن وقت",
+    "professional": "تنص المادة 327 من القانون المدنى على أن \" للدائن الذى إستوفى حقه من غير المدين أن يتفق مع هذا الغير على أن يحل محله و لو لم يقبل المدين ذلك و لا يصح أن يتأخر هذا الإتفاق عن وقت الوفاء \" و مفاد ذلك أنه يشترط للحلول فى هذه الحالة و على ما ورد بالأعمال التحضيرية للقانون المدنى أن يتفق الموفى و الدائن على الحلول ، و لا ضرورة لرضاء المدين به ، و أن يتم الإتفاق على الحلول وقت الوفاء على الأكثر و قد قصد من هذا الشرط الأخير إلى درء التحايل فقد يتواطأ الدائن مع المدين بعد أن يكون هذا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0388_43_2",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء مع الحلول",
+  "content": "لا يشترط فى الإتفاق على الحلول شكل خاص ، و يخضع فى إثباته للقواعد العامة ، و الموفى يحل محل الدائن فى حقه بما لهذا الحق من خصائص و ما يلحقه من توابع و ما يكفله من تأمينات عينية أو",
+  "keywords": [
+   "الرهن",
+   "الوفاء مع الحلول",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0388 لسنة 43"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0379_30_2",
+   "cass_civil_payment_fulfillment_0388_43_1",
+   "cass_civil_payment_fulfillment_0388_43_3",
+   "cass_civil_payment_fulfillment_0447_42_8"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-03-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0388",
+   "judicial_year": "43",
+   "office_volume": "28",
+   "page": "745",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0388_43_2",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء مع الحلول",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0388",
+    "judicial_year": "43",
+    "office_volume": "28",
+    "page": "745",
+    "session_date": "22-03-1977",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الرهن",
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لا يشترط فى الإتفاق على الحلول شكل خاص ، و يخضع فى إثباته للقواعد العامة ، و الموفى يحل محل الدائن فى حقه بما لهذا الحق من خصائص و ما يلحقه من توابع و ما يكفله من تأمينات عينية أو",
+   "core_principles": [
+    "لا يشترط فى الإتفاق على الحلول شكل خاص ، و يخضع فى إثباته للقواعد العامة ، و الموفى يحل محل الدائن فى حقه بما لهذا الحق من خصائص و ما يلحقه من توابع و ما يكفله من تأمينات عينية أو شخصية و ما يرد عليه من دفوع ، و هو ما تقضى به المادة 329 من القانون المدنى و يقع الحلول فى التأمينات بحكم القانون دون حا"
+   ],
+   "judicial_rule": {
+    "short": "لا يشترط فى الإتفاق على الحلول شكل خاص ، و يخضع فى إثباته للقواعد العامة ، و الموفى يحل محل الدائن فى حقه بما لهذا الحق من خصائص و ما يلحقه من توابع و ما يكفله من تأمينات عينية أو",
+    "professional": "لا يشترط فى الإتفاق على الحلول شكل خاص ، و يخضع فى إثباته للقواعد العامة ، و الموفى يحل محل الدائن فى حقه بما لهذا الحق من خصائص و ما يلحقه من توابع و ما يكفله من تأمينات عينية أو شخصية و ما يرد عليه من دفوع ، و هو ما تقضى به المادة 329 من القانون المدنى و يقع الحلول فى التأمينات بحكم القانون دون حاجة لإتفاق الموفى مع الدائن على إحلاله محله فى الرهن أو فى أى تأمين آخر ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0388_43_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء مع الحلول",
+  "content": "تنص المادة 2/1053 من القانون المدنى على أنه لا يصح التمسك قبل الغير بتحويل حق مضمون بقيد ، و لا التمسك بالحق الناشىء عن حلول شخص محل الدائن فى هذا الحكم بحكم القانون او بالإتفاق و لا التمسك كذلك بالتنازل",
+  "keywords": [
+   "الرهن",
+   "الوفاء مع الحلول",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0388 لسنة 43"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0379_30_2",
+   "cass_civil_payment_fulfillment_0388_43_1",
+   "cass_civil_payment_fulfillment_0388_43_2",
+   "cass_civil_payment_fulfillment_0447_42_8"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-03-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0388",
+   "judicial_year": "43",
+   "office_volume": "28",
+   "page": "745",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0388_43_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء مع الحلول",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0388",
+    "judicial_year": "43",
+    "office_volume": "28",
+    "page": "745",
+    "session_date": "22-03-1977",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الرهن",
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تنص المادة 2/1053 من القانون المدنى على أنه لا يصح التمسك قبل الغير بتحويل حق مضمون بقيد ، و لا التمسك بالحق الناشىء عن حلول شخص محل الدائن فى هذا الحكم بحكم القانون او بالإتفاق و لا التمسك كذلك بالتنازل",
+   "core_principles": [
+    "تنص المادة 2/1053 من القانون المدنى على أنه لا يصح التمسك قبل الغير بتحويل حق مضمون بقيد ، و لا التمسك بالحق الناشىء عن حلول شخص محل الدائن فى هذا الحكم بحكم القانون او بالإتفاق و لا التمسك كذلك بالتنازل عن مرتبة القيد لمصلحة دائن آخر إلا إذ حصل التأشير بذلك فى هامش القيد الأصلى ، و هو نفس المعنى ال"
+   ],
+   "judicial_rule": {
+    "short": "تنص المادة 2/1053 من القانون المدنى على أنه لا يصح التمسك قبل الغير بتحويل حق مضمون بقيد ، و لا التمسك بالحق الناشىء عن حلول شخص محل الدائن فى هذا الحكم بحكم القانون او بالإتفاق و لا التمسك كذلك بالتنازل",
+    "professional": "تنص المادة 2/1053 من القانون المدنى على أنه لا يصح التمسك قبل الغير بتحويل حق مضمون بقيد ، و لا التمسك بالحق الناشىء عن حلول شخص محل الدائن فى هذا الحكم بحكم القانون او بالإتفاق و لا التمسك كذلك بالتنازل عن مرتبة القيد لمصلحة دائن آخر إلا إذ حصل التأشير بذلك فى هامش القيد الأصلى ، و هو نفس المعنى الذى تنص عليه المادة 19 من قانون تنظيم الشهر العقارى رقم 114 لسنة 1946 ، و مفاد هذا النص أن من يحل محل الدائن المرتهن فى الحق المضمون بالرهن لا يجوز له أن يتمسك بالرهن فى مواجهة الغي"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0447_42_8",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "الوفاء مع الحلول",
+  "content": "القاعدة الأساسية فى الوفاء مع الحلول سواء فى ظل القانون المدنى السابق - م 106/505 - أو الحالى م 329 منه - و على ما جرى به قضاء هذه المحكمة - أن الدين فى الحلول يظل قائماً بعد الوفاء دون",
+  "keywords": [
+   "الوفاء مع الحلول",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0447 لسنة 42"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0379_30_2",
+   "cass_civil_payment_fulfillment_0388_43_1",
+   "cass_civil_payment_fulfillment_0388_43_2",
+   "cass_civil_payment_fulfillment_0388_43_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "31-03-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0447",
+   "judicial_year": "42",
+   "office_volume": "34",
+   "page": "873",
+   "paragraph_number": "8"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0447_42_8",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "الوفاء مع الحلول",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0447",
+    "judicial_year": "42",
+    "office_volume": "34",
+    "page": "873",
+    "session_date": "31-03-1983",
+    "paragraph_number": "8"
+   },
+   "keywords": [
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "القاعدة الأساسية فى الوفاء مع الحلول سواء فى ظل القانون المدنى السابق - م 106/505 - أو الحالى م 329 منه - و على ما جرى به قضاء هذه المحكمة - أن الدين فى الحلول يظل قائماً بعد الوفاء دون",
+   "core_principles": [
+    "القاعدة الأساسية فى الوفاء مع الحلول سواء فى ظل القانون المدنى السابق - م 106/505 - أو الحالى م 329 منه - و على ما جرى به قضاء هذه المحكمة - أن الدين فى الحلول يظل قائماً بعد الوفاء دون أن يستبدل به دين جديد أى أن الموفى يحل محل الدائن فى حقه ذاته بما له من خصائص فإذا كان تجارياً إنتقل إلى الموفى به"
+   ],
+   "judicial_rule": {
+    "short": "القاعدة الأساسية فى الوفاء مع الحلول سواء فى ظل القانون المدنى السابق - م 106/505 - أو الحالى م 329 منه - و على ما جرى به قضاء هذه المحكمة - أن الدين فى الحلول يظل قائماً بعد الوفاء دون",
+    "professional": "القاعدة الأساسية فى الوفاء مع الحلول سواء فى ظل القانون المدنى السابق - م 106/505 - أو الحالى م 329 منه - و على ما جرى به قضاء هذه المحكمة - أن الدين فى الحلول يظل قائماً بعد الوفاء دون أن يستبدل به دين جديد أى أن الموفى يحل محل الدائن فى حقه ذاته بما له من خصائص فإذا كان تجارياً إنتقل إلى الموفى بهذه الصفة بغض النظر عن طبيعة علاقة الأخير بمن اتفق معه على الحلول ، و يعتبر من توابع الحق الفوائد فتنتقل إلى الموفى بسعرها المعين ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "الوفاء مع الحلول",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0269_34_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "دعوى الحلول",
+  "content": "إن المتوفى حين يرجع إلى المدين بدعوى الحلول إنما يرجع بنفس الحق الذى إنتقل إليه من الدائن فإذا كان هذا الحق هو الرسم المستحق لصندوق دعم صناعة الغزل و المنسوجات القطنية فإنه يتقادم بخمس سنوات عملا بالمادة الأولى من القانون",
+  "keywords": [
+   "دعوى الحلول",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0269 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0540_34_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 646/1953"
+   ],
+   "date": "29-02-1968",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0269",
+   "judicial_year": "34",
+   "office_volume": "19",
+   "page": "443",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0269_34_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "دعوى الحلول",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0269",
+    "judicial_year": "34",
+    "office_volume": "19",
+    "page": "443",
+    "session_date": "29-02-1968",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "دعوى الحلول",
+    "وفاء"
+   ],
+   "legal_articles": [
+    "Law 646/1953"
+   ],
+   "facts_summary": "إن المتوفى حين يرجع إلى المدين بدعوى الحلول إنما يرجع بنفس الحق الذى إنتقل إليه من الدائن فإذا كان هذا الحق هو الرسم المستحق لصندوق دعم صناعة الغزل و المنسوجات القطنية فإنه يتقادم بخمس سنوات عملا بالمادة الأولى من القانون",
+   "core_principles": [
+    "إن المتوفى حين يرجع إلى المدين بدعوى الحلول إنما يرجع بنفس الحق الذى إنتقل إليه من الدائن فإذا كان هذا الحق هو الرسم المستحق لصندوق دعم صناعة الغزل و المنسوجات القطنية فإنه يتقادم بخمس سنوات عملا بالمادة الأولى من القانون رقم 646 لسنة 1953 الذى عدل المادة 377 من القانون المدنى"
+   ],
+   "judicial_rule": {
+    "short": "إن المتوفى حين يرجع إلى المدين بدعوى الحلول إنما يرجع بنفس الحق الذى إنتقل إليه من الدائن فإذا كان هذا الحق هو الرسم المستحق لصندوق دعم صناعة الغزل و المنسوجات القطنية فإنه يتقادم بخمس سنوات عملا بالمادة الأولى من القانون",
+    "professional": "إن المتوفى حين يرجع إلى المدين بدعوى الحلول إنما يرجع بنفس الحق الذى إنتقل إليه من الدائن فإذا كان هذا الحق هو الرسم المستحق لصندوق دعم صناعة الغزل و المنسوجات القطنية فإنه يتقادم بخمس سنوات عملا بالمادة الأولى من القانون رقم 646 لسنة 1953 الذى عدل المادة 377 من القانون المدنى ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "دعوى الحلول",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0540_34_5",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "دعوى الحلول",
+  "content": "دعوى الحلول التى يستطيع المتبوع - و هو فى حكم الكفيل المتضامن - الرجوع بها على تابعه عند وفائه بالتعويض للدائن المضرور هى الدعوى المنصوص عليها فى المادة 799 من القانون المدنى و التى ليست إلا تطبيقا للقاعدة العامة فى",
+  "keywords": [
+   "التعويض",
+   "التقادم",
+   "دعوى الحلول",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0540 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0269_34_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "30-01-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0540",
+   "judicial_year": "34",
+   "office_volume": "20",
+   "page": "199",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0540_34_5",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "دعوى الحلول",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0540",
+    "judicial_year": "34",
+    "office_volume": "20",
+    "page": "199",
+    "session_date": "30-01-1969",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "التعويض",
+    "التقادم",
+    "دعوى الحلول",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "دعوى الحلول التى يستطيع المتبوع - و هو فى حكم الكفيل المتضامن - الرجوع بها على تابعه عند وفائه بالتعويض للدائن المضرور هى الدعوى المنصوص عليها فى المادة 799 من القانون المدنى و التى ليست إلا تطبيقا للقاعدة العامة فى",
+   "core_principles": [
+    "و التقادم هنا لا يرد على حق المتبوع فى الرجوع على التابع و إنما على حق الدائن الأصلى الذى إنتقل إلى المتبوع بحلوله محل الدائن \" المضرور \" فيه و الذى يطالب به المتبوع تابعه ذلك بأن المتبوع حين يؤدى التعويض للدائن المضرور فإنه يحل محل هذا الدائن فى نفس حقه و ينتقل إليه هذا الحق بما يرد عليه من دفوع"
+   ],
+   "judicial_rule": {
+    "short": "و التقادم هنا لا يرد على حق المتبوع فى الرجوع على التابع و إنما على حق الدائن الأصلى الذى إنتقل إلى المتبوع بحلوله محل الدائن \" المضرور \" فيه و الذى يطالب به المتبوع تابعه ذلك بأن المتبوع حين يؤدى",
+    "professional": "دعوى الحلول التى يستطيع المتبوع - و هو فى حكم الكفيل المتضامن - الرجوع بها على تابعه عند وفائه بالتعويض للدائن المضرور هى الدعوى المنصوص عليها فى المادة 799 من القانون المدنى و التى ليست إلا تطبيقا للقاعدة العامة فى الحلول القانونى المنصوص عليها فى المادة 326 من القانون المذكور و التى تقضى بأن الموفى يحل محل الدائن الذى إستوفى حقه إذا كان الموفى ملزما بوفاء الدين عن المدين . و إذا كان للمدين فى حالة الرجوع عليه بهذه الدعوى أن يتمسك فى مواجهة الكفيل بالدفوع التى له أن يتمسك به"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "دعوى الحلول",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0269_34_5",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "رجوع الغير الموفى على المدين",
+  "content": "رجوع الغير المتوفى - الذى ليس ملزما بالوفاء - بما أوفاه على المدين يكون بالدعوى الشخصية عملاً بالمادة 324 من القانون المدنى . و لا ينشأ حق المتوفى فى هذا الرجوع إلا من تاريخ وفائه بالدين و لا يتقادم إلا",
+  "keywords": [
+   "رجوع الغير الموفى على المدين",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0269 لسنة 34"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "29-02-1968",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0269",
+   "judicial_year": "34",
+   "office_volume": "19",
+   "page": "443",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0269_34_5",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "رجوع الغير الموفى على المدين",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0269",
+    "judicial_year": "34",
+    "office_volume": "19",
+    "page": "443",
+    "session_date": "29-02-1968",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "رجوع الغير الموفى على المدين",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "رجوع الغير المتوفى - الذى ليس ملزما بالوفاء - بما أوفاه على المدين يكون بالدعوى الشخصية عملاً بالمادة 324 من القانون المدنى . و لا ينشأ حق المتوفى فى هذا الرجوع إلا من تاريخ وفائه بالدين و لا يتقادم إلا",
+   "core_principles": [
+    "و لا ينشأ حق المتوفى فى هذا الرجوع إلا من تاريخ وفائه بالدين و لا يتقادم إلا بإنقضاء ثلاث سنوات تبدأ من هذا التاريخ"
+   ],
+   "judicial_rule": {
+    "short": "و لا ينشأ حق المتوفى فى هذا الرجوع إلا من تاريخ وفائه بالدين و لا يتقادم إلا بإنقضاء ثلاث سنوات تبدأ من هذا التاريخ",
+    "professional": "رجوع الغير المتوفى - الذى ليس ملزما بالوفاء - بما أوفاه على المدين يكون بالدعوى الشخصية عملاً بالمادة 324 من القانون المدنى . و لا ينشأ حق المتوفى فى هذا الرجوع إلا من تاريخ وفائه بالدين و لا يتقادم إلا بإنقضاء ثلاث سنوات تبدأ من هذا التاريخ ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "رجوع الغير الموفى على المدين",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0428_22_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى فهم و تحصيل الواقع",
+  "content": "متى كان الحكم الابتدائى المؤيد لأسبابه بالحكم المطعون فيه إذ اعتمد الوفاء الحاصل من المطعون عليه الأول إلى المطعون عليه الثانى قد قرر أن الخطاب الذى يعتمد عليه الطاعن فى إثبات علم المطعون عليه الأول بملكيته للبصل المبيع صريح فى",
+  "keywords": [
+   "سلطة محكمة الموضوع فى فهم و تحصيل الواقع",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0428 لسنة 22"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "05-03-1953",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0428",
+   "judicial_year": "22",
+   "office_volume": "04",
+   "page": "596",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0428_22_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى فهم و تحصيل الواقع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0428",
+    "judicial_year": "22",
+    "office_volume": "04",
+    "page": "596",
+    "session_date": "05-03-1953",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى فهم و تحصيل الواقع",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الحكم الابتدائى المؤيد لأسبابه بالحكم المطعون فيه إذ اعتمد الوفاء الحاصل من المطعون عليه الأول إلى المطعون عليه الثانى قد قرر أن الخطاب الذى يعتمد عليه الطاعن فى إثبات علم المطعون عليه الأول بملكيته للبصل المبيع صريح فى",
+   "core_principles": [
+    "متى كان الحكم الابتدائى المؤيد لأسبابه بالحكم المطعون فيه إذ اعتمد الوفاء الحاصل من المطعون عليه الأول إلى المطعون عليه الثانى قد قرر أن الخطاب الذى يعتمد عليه الطاعن فى إثبات علم المطعون عليه الأول بملكيته للبصل المبيع صريح فى أن المطعون عليه الأول يعلم من بواليص الشحن المرسلة اليه باسم المطعون علي"
+   ],
+   "judicial_rule": {
+    "short": "متى كان الحكم الابتدائى المؤيد لأسبابه بالحكم المطعون فيه إذ اعتمد الوفاء الحاصل من المطعون عليه الأول إلى المطعون عليه الثانى قد قرر أن الخطاب الذى يعتمد عليه الطاعن فى إثبات علم المطعون عليه الأول بملكيته للبصل المبيع صريح فى",
+    "professional": "متى كان الحكم الابتدائى المؤيد لأسبابه بالحكم المطعون فيه إذ اعتمد الوفاء الحاصل من المطعون عليه الأول إلى المطعون عليه الثانى قد قرر أن الخطاب الذى يعتمد عليه الطاعن فى إثبات علم المطعون عليه الأول بملكيته للبصل المبيع صريح فى أن المطعون عليه الأول يعلم من بواليص الشحن المرسلة اليه باسم المطعون عليه الثانى أن هذا البصل مملوك لشاحنه ولما لم يفده الطاعن عما يجب اتباعه فى شأن تخزين البصل سلم ثمنه للمطعون عليه الثانى على اعتبار أنه هو المالك الظاهر له ثم أخذ عليه وصولا بقبض الثم"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى فهم و تحصيل الواقع",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0154_18_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+  "content": "إن إعطاء المشترى المتأخر فى دفع الثمن ميعاداً للوفاء بدلاً من الحكم بالفسخ إعمالاً للمادة 333 من القانون المدنى القديم من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى الأخذ بأحد وجهى الحكم فى القانون حسبما يراه هو فى",
+  "keywords": [
+   "الفسخ",
+   "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0154 لسنة 18"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0155_18_3",
+   "cass_civil_payment_fulfillment_0155_18_4",
+   "cass_civil_payment_fulfillment_0147_23_1",
+   "cass_civil_payment_fulfillment_0147_23_4",
+   "cass_civil_payment_fulfillment_0408_34_3",
+   "cass_civil_payment_fulfillment_0023_35_3",
+   "cass_civil_payment_fulfillment_0317_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-05-1950",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0154",
+   "judicial_year": "18",
+   "office_volume": "01",
+   "page": "534",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0154_18_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0154",
+    "judicial_year": "18",
+    "office_volume": "01",
+    "page": "534",
+    "session_date": "25-05-1950",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الفسخ",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إن إعطاء المشترى المتأخر فى دفع الثمن ميعاداً للوفاء بدلاً من الحكم بالفسخ إعمالاً للمادة 333 من القانون المدنى القديم من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى الأخذ بأحد وجهى الحكم فى القانون حسبما يراه هو فى",
+   "core_principles": [
+    "فلا يقبل النعى على الحكم بقصور أسبابه عن بيان الإعتبارات التى إعتمد عليها فى منح المهلة للوفاء بمتأخر الثمن"
+   ],
+   "judicial_rule": {
+    "short": "فلا يقبل النعى على الحكم بقصور أسبابه عن بيان الإعتبارات التى إعتمد عليها فى منح المهلة للوفاء بمتأخر الثمن",
+    "professional": "إن إعطاء المشترى المتأخر فى دفع الثمن ميعاداً للوفاء بدلاً من الحكم بالفسخ إعمالاً للمادة 333 من القانون المدنى القديم من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى الأخذ بأحد وجهى الحكم فى القانون حسبما يراه هو فى ظروف كل دعوى بغير معقب عليه . فلا يقبل النعى على الحكم بقصور أسبابه عن بيان الإعتبارات التى إعتمد عليها فى منح المهلة للوفاء بمتأخر الثمن ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0155_18_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+  "content": "إن إعطاء المشترى المتأخر فى دفع الثمن ميعاداً للوفاء بدلاً من الحكم بالفسخ وفق المادة 333 من القانون المدنى القديم من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه",
+  "keywords": [
+   "الفسخ",
+   "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0155 لسنة 18"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0154_18_1",
+   "cass_civil_payment_fulfillment_0155_18_4",
+   "cass_civil_payment_fulfillment_0147_23_1",
+   "cass_civil_payment_fulfillment_0147_23_4",
+   "cass_civil_payment_fulfillment_0408_34_3",
+   "cass_civil_payment_fulfillment_0023_35_3",
+   "cass_civil_payment_fulfillment_0317_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-03-1950",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0155",
+   "judicial_year": "18",
+   "office_volume": "01",
+   "page": "373",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0155_18_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0155",
+    "judicial_year": "18",
+    "office_volume": "01",
+    "page": "373",
+    "session_date": "23-03-1950",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الفسخ",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إن إعطاء المشترى المتأخر فى دفع الثمن ميعاداً للوفاء بدلاً من الحكم بالفسخ وفق المادة 333 من القانون المدنى القديم من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه",
+   "core_principles": [
+    "و لذلك لا يقبل النعى على الحكم بقصور أسبابه عن بيان الإعتبارات التى إعتمد عليها فى منح المهلة للوفاء بمتأخر الثمن"
+   ],
+   "judicial_rule": {
+    "short": "و لذلك لا يقبل النعى على الحكم بقصور أسبابه عن بيان الإعتبارات التى إعتمد عليها فى منح المهلة للوفاء بمتأخر الثمن",
+    "professional": "إن إعطاء المشترى المتأخر فى دفع الثمن ميعاداً للوفاء بدلاً من الحكم بالفسخ وفق المادة 333 من القانون المدنى القديم من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه من ظروف كل دعوى بغير معقب عليه . و لذلك لا يقبل النعى على الحكم بقصور أسبابه عن بيان الإعتبارات التى إعتمد عليها فى منح المهلة للوفاء بمتأخر الثمن ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0155_18_4",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+  "content": "إنه لما كان نقض الحكم يقتضى زواله و إعتباره كأنه لم يكن و يعيد الخصوم إلى مراكزهم الأولى قبل صدور الحكم المنقوض ، كان للمدين بعد نقض الحكم القاضى بثبوت تقصيره فى الوفاء إلى حين صدوره - أن يتجنب الفسخ",
+  "keywords": [
+   "العقد",
+   "الفسخ",
+   "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0155 لسنة 18"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0154_18_1",
+   "cass_civil_payment_fulfillment_0155_18_3",
+   "cass_civil_payment_fulfillment_0147_23_1",
+   "cass_civil_payment_fulfillment_0147_23_4",
+   "cass_civil_payment_fulfillment_0408_34_3",
+   "cass_civil_payment_fulfillment_0023_35_3",
+   "cass_civil_payment_fulfillment_0317_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-03-1950",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0155",
+   "judicial_year": "18",
+   "office_volume": "01",
+   "page": "373",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0155_18_4",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0155",
+    "judicial_year": "18",
+    "office_volume": "01",
+    "page": "373",
+    "session_date": "23-03-1950",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "العقد",
+    "الفسخ",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إنه لما كان نقض الحكم يقتضى زواله و إعتباره كأنه لم يكن و يعيد الخصوم إلى مراكزهم الأولى قبل صدور الحكم المنقوض ، كان للمدين بعد نقض الحكم القاضى بثبوت تقصيره فى الوفاء إلى حين صدوره - أن يتجنب الفسخ",
+   "core_principles": [
+    "و لما كان القانون لا يوجب على القاضى فى خصوص الشرط الفاسخ الضمنى أن يقضى به و إنما خوله سلطة تقديرية يحكم به أو يعطى المدين مهلة للقيام بتنفيذ الإلتزام فى غضونها و إلا إعتبر العقد مفسوخاً من تلقاء نفسه - فإن الحكم لا يكون مخطئاً إذا قضى بإلزام المدين بدفع الباقى من الثمن فى ظرف معين و إلا إعتبر التع"
+   ],
+   "judicial_rule": {
+    "short": "و لما كان القانون لا يوجب على القاضى فى خصوص الشرط الفاسخ الضمنى أن يقضى به و إنما خوله سلطة تقديرية يحكم به أو يعطى المدين مهلة للقيام بتنفيذ الإلتزام فى غضونها و إلا إعتبر العقد مفسوخاً من تلقاء نفسه",
+    "professional": "إنه لما كان نقض الحكم يقتضى زواله و إعتباره كأنه لم يكن و يعيد الخصوم إلى مراكزهم الأولى قبل صدور الحكم المنقوض ، كان للمدين بعد نقض الحكم القاضى بثبوت تقصيره فى الوفاء إلى حين صدوره - أن يتجنب الفسخ بالوفاء . و لما كان القانون لا يوجب على القاضى فى خصوص الشرط الفاسخ الضمنى أن يقضى به و إنما خوله سلطة تقديرية يحكم به أو يعطى المدين مهلة للقيام بتنفيذ الإلتزام فى غضونها و إلا إعتبر العقد مفسوخاً من تلقاء نفسه - فإن الحكم لا يكون مخطئاً إذا قضى بإلزام المدين بدفع الباقى من الثم"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0147_23_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+  "content": "متى كان أصل الثمن وسعر فائدته مبينين فى عقد البيع و كان البائع حين أقام دعواه قصرها على طلب فسخ العقد إستعمالا لحقه المخوّل له بمقتضى المادة 332 من القانون المدنى الملغى و طلبه طلباً واحداً أصلياً و لم يطالب",
+  "keywords": [
+   "العقد",
+   "الفسخ",
+   "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0147 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0154_18_1",
+   "cass_civil_payment_fulfillment_0155_18_3",
+   "cass_civil_payment_fulfillment_0155_18_4",
+   "cass_civil_payment_fulfillment_0147_23_4",
+   "cass_civil_payment_fulfillment_0408_34_3",
+   "cass_civil_payment_fulfillment_0023_35_3",
+   "cass_civil_payment_fulfillment_0317_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-05-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0147",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "510",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0147_23_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0147",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "510",
+    "session_date": "23-05-1957",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "العقد",
+    "الفسخ",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان أصل الثمن وسعر فائدته مبينين فى عقد البيع و كان البائع حين أقام دعواه قصرها على طلب فسخ العقد إستعمالا لحقه المخوّل له بمقتضى المادة 332 من القانون المدنى الملغى و طلبه طلباً واحداً أصلياً و لم يطالب",
+   "core_principles": [
+    "و على ذلك فلا محل للنعى على الحكم إذ قضى بالفسخ بأنه لم يحدد مقدار الباقى فى ذمة المشترى"
+   ],
+   "judicial_rule": {
+    "short": "و على ذلك فلا محل للنعى على الحكم إذ قضى بالفسخ بأنه لم يحدد مقدار الباقى فى ذمة المشترى",
+    "professional": "متى كان أصل الثمن وسعر فائدته مبينين فى عقد البيع و كان البائع حين أقام دعواه قصرها على طلب فسخ العقد إستعمالا لحقه المخوّل له بمقتضى المادة 332 من القانون المدنى الملغى و طلبه طلباً واحداً أصلياً و لم يطالب بالباقى له من الثمن و فوائده حتى كانت المحكمة تلتزم تصفية الحساب بين الطرفين ثم تحكم بما يتحقق لديها فى هذا الشأن و مع ذلك فقد إستعملت المحكمة بدورها حقها المخوّل لها بمقتضى المادة 333 مدنى قديم و أمهلت المشترى للوفاء بما بقى فى ذمته مما هو محدد فى عقد البيع فلم يفعل فإن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0147_23_4",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+  "content": "متى تبين أن منح المهلة للمشترى للوفاء بما فى ذمته إنما صدر لمصلحته بقرار من المحكمة إستعمالا لحقها المخوّل لها بمقتضى المادة 333 مدنى قديم من جواز منح المهلة أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية و",
+  "keywords": [
+   "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0147 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0154_18_1",
+   "cass_civil_payment_fulfillment_0155_18_3",
+   "cass_civil_payment_fulfillment_0155_18_4",
+   "cass_civil_payment_fulfillment_0147_23_1",
+   "cass_civil_payment_fulfillment_0408_34_3",
+   "cass_civil_payment_fulfillment_0023_35_3",
+   "cass_civil_payment_fulfillment_0317_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-05-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0147",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "510",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0147_23_4",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0147",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "510",
+    "session_date": "23-05-1957",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى تبين أن منح المهلة للمشترى للوفاء بما فى ذمته إنما صدر لمصلحته بقرار من المحكمة إستعمالا لحقها المخوّل لها بمقتضى المادة 333 مدنى قديم من جواز منح المهلة أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية و",
+   "core_principles": [
+    "متى تبين أن منح المهلة للمشترى للوفاء بما فى ذمته إنما صدر لمصلحته بقرار من المحكمة إستعمالا لحقها المخوّل لها بمقتضى المادة 333 مدنى قديم من جواز منح المهلة أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية و هو من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم"
+   ],
+   "judicial_rule": {
+    "short": "متى تبين أن منح المهلة للمشترى للوفاء بما فى ذمته إنما صدر لمصلحته بقرار من المحكمة إستعمالا لحقها المخوّل لها بمقتضى المادة 333 مدنى قديم من جواز منح المهلة أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية و",
+    "professional": "متى تبين أن منح المهلة للمشترى للوفاء بما فى ذمته إنما صدر لمصلحته بقرار من المحكمة إستعمالا لحقها المخوّل لها بمقتضى المادة 333 مدنى قديم من جواز منح المهلة أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية و هو من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه هو من ظروف كل دعوى بغير معقب عليه فلا يقبل من المشترى القول بأن منح المهلة يجب أن يصدر به حكم لا قرار حتى يترتب على فوات المهلة فسخ عقد البيع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0408_34_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+  "content": "إعطاء المشترى المتأخر فى دفع الثمن أجلا للوفاء به طبقا للمادتين 2/157 و 2/346 من القانون المدنى هو من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه هو من",
+  "keywords": [
+   "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0408 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0154_18_1",
+   "cass_civil_payment_fulfillment_0155_18_3",
+   "cass_civil_payment_fulfillment_0155_18_4",
+   "cass_civil_payment_fulfillment_0147_23_1",
+   "cass_civil_payment_fulfillment_0147_23_4",
+   "cass_civil_payment_fulfillment_0023_35_3",
+   "cass_civil_payment_fulfillment_0317_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-05-1968",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0408",
+   "judicial_year": "34",
+   "office_volume": "19",
+   "page": "962",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0408_34_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0408",
+    "judicial_year": "34",
+    "office_volume": "19",
+    "page": "962",
+    "session_date": "16-05-1968",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إعطاء المشترى المتأخر فى دفع الثمن أجلا للوفاء به طبقا للمادتين 2/157 و 2/346 من القانون المدنى هو من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه هو من",
+   "core_principles": [
+    "إعطاء المشترى المتأخر فى دفع الثمن أجلا للوفاء به طبقا للمادتين 2/157 و 2/346 من القانون المدنى هو من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه هو من ظروف كل دعوى بغير معقب عليه"
+   ],
+   "judicial_rule": {
+    "short": "إعطاء المشترى المتأخر فى دفع الثمن أجلا للوفاء به طبقا للمادتين 2/157 و 2/346 من القانون المدنى هو من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه هو من",
+    "professional": "إعطاء المشترى المتأخر فى دفع الثمن أجلا للوفاء به طبقا للمادتين 2/157 و 2/346 من القانون المدنى هو من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ منها بأحد وجهى الحكم فى القانون حسبما يراه هو من ظروف كل دعوى بغير معقب عليه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0023_35_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+  "content": "منح المشترى مهلة للوفاء بثمن المبيع إتقاء للفسخ ، أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية لأنه من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ فيها بأحد وجهى الحكم فى القانون حسبما يراه",
+  "keywords": [
+   "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0023 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0154_18_1",
+   "cass_civil_payment_fulfillment_0155_18_3",
+   "cass_civil_payment_fulfillment_0155_18_4",
+   "cass_civil_payment_fulfillment_0147_23_1",
+   "cass_civil_payment_fulfillment_0147_23_4",
+   "cass_civil_payment_fulfillment_0408_34_3",
+   "cass_civil_payment_fulfillment_0317_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-02-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0023",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "325",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0023_35_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0023",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "325",
+    "session_date": "13-02-1969",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "منح المشترى مهلة للوفاء بثمن المبيع إتقاء للفسخ ، أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية لأنه من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ فيها بأحد وجهى الحكم فى القانون حسبما يراه",
+   "core_principles": [
+    "منح المشترى مهلة للوفاء بثمن المبيع إتقاء للفسخ ، أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية لأنه من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ فيها بأحد وجهى الحكم فى القانون حسبما يراه هو من ظروف كل دعوى بغير معقب عليه"
+   ],
+   "judicial_rule": {
+    "short": "منح المشترى مهلة للوفاء بثمن المبيع إتقاء للفسخ ، أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية لأنه من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ فيها بأحد وجهى الحكم فى القانون حسبما يراه",
+    "professional": "منح المشترى مهلة للوفاء بثمن المبيع إتقاء للفسخ ، أو رفض طلبها مما يدخل فى سلطة محكمة الموضوع التقديرية لأنه من الرخص التى أطلق الشارع فيها لقاضى الموضوع الخيار فى أن يأخذ فيها بأحد وجهى الحكم فى القانون حسبما يراه هو من ظروف كل دعوى بغير معقب عليه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0317_35_3",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+  "content": "المهلة التى يجوز للمحكمة أن تمنحها للمدين لتنفيذ إلتزامه متى إستدعت حالته ذلك و لم يلحق الدائن من وراء منحها ضرر جسيم ، إنما هى - و على ما جرى به قضاء محكمة النقض - من الرخص التى خولها المشرع",
+  "keywords": [
+   "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0317 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_payment_fulfillment_0154_18_1",
+   "cass_civil_payment_fulfillment_0155_18_3",
+   "cass_civil_payment_fulfillment_0155_18_4",
+   "cass_civil_payment_fulfillment_0147_23_1",
+   "cass_civil_payment_fulfillment_0147_23_4",
+   "cass_civil_payment_fulfillment_0408_34_3",
+   "cass_civil_payment_fulfillment_0023_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "11-11-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0317",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "1193",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0317_35_3",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0317",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "1193",
+    "session_date": "11-11-1969",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المهلة التى يجوز للمحكمة أن تمنحها للمدين لتنفيذ إلتزامه متى إستدعت حالته ذلك و لم يلحق الدائن من وراء منحها ضرر جسيم ، إنما هى - و على ما جرى به قضاء محكمة النقض - من الرخص التى خولها المشرع",
+   "core_principles": [
+    "و يكون النعى على الحكم بالقصور فى هذا الخصوص على غير أساس"
+   ],
+   "judicial_rule": {
+    "short": "و يكون النعى على الحكم بالقصور فى هذا الخصوص على غير أساس",
+    "professional": "المهلة التى يجوز للمحكمة أن تمنحها للمدين لتنفيذ إلتزامه متى إستدعت حالته ذلك و لم يلحق الدائن من وراء منحها ضرر جسيم ، إنما هى - و على ما جرى به قضاء محكمة النقض - من الرخص التى خولها المشرع لقاضى الموضوع بالفقرة الثانية من المادة 2/346 من القانون المدنى إن شاء أعملها و أنظر المدين إلى ميسرة و إن شاء حبسها عنه بغير حاجة منه إلى أن يسوق من الأسباب ما يبرر به ما إستخلصه من ظروف الدعوى و ملابساتها . و يكون النعى على الحكم بالقصور فى هذا الخصوص على غير أساس ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "سلطة محكمة الموضوع فى منح مهلة للوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0241_21_2",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "مكان الوفاء",
+  "content": "لما كان الأصل فى تنفيذ الإلتزام أن يكون دفع الدين فى محل المدين إلا إذا اتفق على خلاف ذلك ، و كان الطرفان قد إتفقا على أن يكون الدفع فى محل الدائن بمصر ، و كان قد تعذر على المدين",
+  "keywords": [
+   "العقد",
+   "مكان الوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0241 لسنة 21"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "09-12-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0241",
+   "judicial_year": "21",
+   "office_volume": "06",
+   "page": "244",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0241_21_2",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "مكان الوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0241",
+    "judicial_year": "21",
+    "office_volume": "06",
+    "page": "244",
+    "session_date": "09-12-1954",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "العقد",
+    "مكان الوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان الأصل فى تنفيذ الإلتزام أن يكون دفع الدين فى محل المدين إلا إذا اتفق على خلاف ذلك ، و كان الطرفان قد إتفقا على أن يكون الدفع فى محل الدائن بمصر ، و كان قد تعذر على المدين",
+   "core_principles": [
+    "و كان الطرفان قد إتفقا على أن يكون الدفع فى محل الدائن بمصر ، و كان قد تعذر على المدين أن يقوم بالوفاء بسبب قطع العلاقات بين مصر و ايطاليا و لم يكن كذلك من المجدى أن يقدم الدائن سند الدين إلى الحارس العام فى ذلك الوقت إذ لم يكن فى مقدور هذا الحارس المطالبة به لأن الدين لم يكن ثابتا بالفرع الذى يملكه"
+   ],
+   "judicial_rule": {
+    "short": "و كان الطرفان قد إتفقا على أن يكون الدفع فى محل الدائن بمصر ، و كان قد تعذر على المدين أن يقوم بالوفاء بسبب قطع العلاقات بين مصر و ايطاليا و لم يكن كذلك من المجدى أن يقدم الدائن سند",
+    "professional": "و كان الطرفان قد إتفقا على أن يكون الدفع فى محل الدائن بمصر ، و كان قد تعذر على المدين أن يقوم بالوفاء بسبب قطع العلاقات بين مصر و ايطاليا و لم يكن كذلك من المجدى أن يقدم الدائن سند الدين إلى الحارس العام فى ذلك الوقت إذ لم يكن فى مقدور هذا الحارس المطالبة به لأن الدين لم يكن ثابتا بالفرع الذى يملكه المدين فى مصر لما كان ذلك فإنه لا يمكن نسبة أى خطأ إلى الدائن فى عدم المطالبة بالدين أثناء قطع العلاقات ، أما بعد عودةالعلاقات فإن من واجب المدين أن يقوم بالدفع فى محل الدائن وفقا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "مكان الوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_fulfillment_0241_21_1",
+  "type": "judgment_principle",
+  "category": "payment_fulfillment",
+  "title": "ميعاد الوفاء",
+  "content": "إذا إتفق فى العقد على وفاء الدين فى تاريخ معين \" نهاية شهر مارس سنة 1940 \" بالجنيه المصرى طبقا لسعر الليرة الرسمى فى بورصة روما يوم الوفاء و كان الحكم إذ قضى للدائن بقيمة الدين قد حدده بحسب سعر",
+  "keywords": [
+   "الاستحقاق",
+   "العقد",
+   "ميعاد الوفاء",
+   "وفاء",
+   "cassation",
+   "civil",
+   "payment_fulfillment",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0241 لسنة 21"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "09-12-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0241",
+   "judicial_year": "21",
+   "office_volume": "06",
+   "page": "244",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_fulfillment_0241_21_1",
+   "domain": "civil_law",
+   "category": "payment_fulfillment",
+   "topic": "ميعاد الوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0241",
+    "judicial_year": "21",
+    "office_volume": "06",
+    "page": "244",
+    "session_date": "09-12-1954",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الاستحقاق",
+    "العقد",
+    "ميعاد الوفاء",
+    "وفاء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا إتفق فى العقد على وفاء الدين فى تاريخ معين \" نهاية شهر مارس سنة 1940 \" بالجنيه المصرى طبقا لسعر الليرة الرسمى فى بورصة روما يوم الوفاء و كان الحكم إذ قضى للدائن بقيمة الدين قد حدده بحسب سعر",
+   "core_principles": [
+    "إذا إتفق فى العقد على وفاء الدين فى تاريخ معين \" نهاية شهر مارس سنة 1940 \" بالجنيه المصرى طبقا لسعر الليرة الرسمى فى بورصة روما يوم الوفاء و كان الحكم إذ قضى للدائن بقيمة الدين قد حدده بحسب سعر الصرف فى تاريخ الاستحقاق لا فى تاريخ المطالبة \" 1948/8/31 \" كما أراد المدين ، فإنه يكون غير صحيح النعى على"
+   ],
+   "judicial_rule": {
+    "short": "إذا إتفق فى العقد على وفاء الدين فى تاريخ معين \" نهاية شهر مارس سنة 1940 \" بالجنيه المصرى طبقا لسعر الليرة الرسمى فى بورصة روما يوم الوفاء و كان الحكم إذ قضى للدائن بقيمة الدين قد حدده بحسب سعر",
+    "professional": "إذا إتفق فى العقد على وفاء الدين فى تاريخ معين \" نهاية شهر مارس سنة 1940 \" بالجنيه المصرى طبقا لسعر الليرة الرسمى فى بورصة روما يوم الوفاء و كان الحكم إذ قضى للدائن بقيمة الدين قد حدده بحسب سعر الصرف فى تاريخ الاستحقاق لا فى تاريخ المطالبة \" 1948/8/31 \" كما أراد المدين ، فإنه يكون غير صحيح النعى على هذا الحكم بأنه أغفل إرادة الطرفين الظاهرة إذ ليس فى تفسير الحكم لميعاد الدفع بأنه ميعاد الاستحقاق مخالفه لنية الطرفين بل هو التفسير الصحيح لها لأن جعل ميعاد الوفاء غير خاضع لإرادة"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_fulfillment",
+    "ميعاد الوفاء",
+    "وفاء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

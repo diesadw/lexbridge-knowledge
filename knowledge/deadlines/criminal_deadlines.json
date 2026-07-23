@@ -1,0 +1,1422 @@
+[
+ {
+  "id": "CRIM-0001",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "ميعاد تقديم الشكوى الجنائية",
+  "content": "لا تقبل الشكوى بعد ثلاثة أشهر من يوم علم المجني عليه بالجريمة وبمرتكبها ما لم ينص القانون على خلاف ذلك.",
+  "keywords": [
+   "شكوى",
+   "3 أشهر",
+   "جنائي",
+   "ميعاد الشكوى الجنائية",
+   "المادة 3 إجراءات جنائية",
+   "الشكوى",
+   "تحريك الدعوى"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "3",
+   "date": null,
+   "court": "النيابة العامة",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "3 أشهر",
+   "duration_days": 90,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "CRIM-0001",
+   "title": "ميعاد تقديم الشكوى الجنائية",
+   "category": "جنائي",
+   "sub_category": "الشكوى",
+   "deadline_type": "سقوط",
+   "trigger_event": "علم المجني عليه بالجريمة وبمرتكبها",
+   "duration": "3 أشهر",
+   "duration_days": 90,
+   "calculation_method": "من يوم علم المجني عليه",
+   "legal_text": "لا تقبل الشكوى بعد ثلاثة أشهر من يوم علم المجني عليه بالجريمة وبمرتكبها ما لم ينص القانون على خلاف ذلك.",
+   "plain_language_explanation": "الشكوى الجنائية يجب تقديمها خلال 3 أشهر من علم المجني عليه بالجريمة وبمرتكبها.",
+   "practical_meaning": "تأخير الشكوى يسقط حق المجني عليه في تحريك الدعوى. يجب إثبات تاريخ العلم.",
+   "start_date_rule": "من يوم علم المجني عليه بالجريمة وبمرتكبها",
+   "end_condition": "مضي 3 أشهر",
+   "court_or_authority": "النيابة العامة",
+   "required_action": "تقديم الشكوى",
+   "mandatory_requirements": [
+    "من المجني عليه أو وكيله الخاص"
+   ],
+   "required_documents": [
+    "شكوى مكتوبة أو شفهية"
+   ],
+   "risk_if_missed": "عدم قبول الشكوى",
+   "legal_effect_if_missed": "سقوط الحق في تحريك الدعوى",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [
+    "وفاة المجني عليه: ينقضي حق الشكوى"
+   ],
+   "exceptions": [
+    "الجرائم المحددة في مواد 185 و274 و277 و292 و303 و306 عقوبات"
+   ],
+   "common_lawyer_mistakes": [
+    "احتساب الميعاد من الجريمة لا من العلم"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "تحديد تاريخ العلم",
+    "تقديم الشكوى خلال 3 أشهر"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد الشكوى"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "3"
+    }
+   ],
+   "related_procedures": [
+    "تقديم الشكوى الجنائية"
+   ],
+   "related_topics": [
+    "الشكوى",
+    "تحريك الدعوى"
+   ],
+   "ai_tags": [
+    "شكوى",
+    "3 أشهر",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "ميعاد الشكوى الجنائية",
+    "المادة 3 إجراءات جنائية"
+   ],
+   "ai_summary": "الشكوى الجنائية تسقط بعد 3 أشهر من علم المجني عليه بالجريمة وبمرتكبها.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "تحريك الدعوى",
+    "issue_type": "ميعاد الشكوى"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "الشكوى",
+    "page": "",
+    "article_number": "3"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0003",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0003",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0003",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0003"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0002",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "تقادم الدعوى الجنائية",
+  "content": "تنقضي الدعوى الجنائية في مواد الجنايات بمضي عشر سنين من يوم وقوع الجريمة وفي مواد الجنح بمضي ثلاث سنين وفي مواد المخالفات بمضي سنة ما لم ينص القانون على خلاف ذلك.",
+  "keywords": [
+   "تقادم جنائي",
+   "جناية",
+   "جنحة",
+   "مخالفة",
+   "تقادم الدعوى الجنائية",
+   "المادة 15 إجراءات جنائية",
+   "التقادم الجنائي",
+   "انقضاء الدعوى"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "15",
+   "date": null,
+   "court": "النيابة العامة",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "10 سنوات (جناية) / 3 سنوات (جنحة) / سنة (مخالفة)",
+   "duration_days": 3650,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "CRIM-0002",
+   "title": "تقادم الدعوى الجنائية",
+   "category": "جنائي",
+   "sub_category": "التقادم الجنائي",
+   "deadline_type": "تقادم",
+   "trigger_event": "يوم وقوع الجريمة",
+   "duration": "10 سنوات (جناية) / 3 سنوات (جنحة) / سنة (مخالفة)",
+   "duration_days": 3650,
+   "calculation_method": "من يوم وقوع الجريمة",
+   "legal_text": "تنقضي الدعوى الجنائية في مواد الجنايات بمضي عشر سنين من يوم وقوع الجريمة وفي مواد الجنح بمضي ثلاث سنين وفي مواد المخالفات بمضي سنة ما لم ينص القانون على خلاف ذلك.",
+   "plain_language_explanation": "الدعوى الجنائية تسقط: 10 سنوات (جناية) / 3 سنوات (جنحة) / سنة (مخالفة).",
+   "practical_meaning": "التقادم يحول دون محاكمة المتهم. يجب احتسابه مع مراعاة أسباب الانقطاع.",
+   "start_date_rule": "من يوم وقوع الجريمة",
+   "end_condition": "10 سنوات جناية / 3 سنوات جنحة / سنة مخالفة",
+   "court_or_authority": "النيابة العامة",
+   "required_action": "الدفع بانقضاء الدعوى الجنائية",
+   "mandatory_requirements": [],
+   "required_documents": [],
+   "risk_if_missed": "استمرار الملاحقة الجنائية",
+   "legal_effect_if_missed": "انقضاء الدعوى وعدم المحاكمة",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "رفع الدعوى",
+    "أعمال التحقيق"
+   ],
+   "suspension_causes": [
+    "التعليق على فصل في مسألة أخرى"
+   ],
+   "exceptions": [
+    "جرائم الفساد: لا تتقادم",
+    "جرائم الاعتداء على الحرية: لا تتقادم"
+   ],
+   "common_lawyer_mistakes": [
+    "إغفال الدفع بالتقادم في وقته"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "تحديد نوع الجريمة",
+    "احتساب التقادم",
+    "الدفع في أول جلسة"
+   ],
+   "automation_opportunities": [
+    "احتساب مدد التقادم الجنائي"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "15"
+    }
+   ],
+   "related_procedures": [
+    "الدفع بالتقادم الجنائي"
+   ],
+   "related_topics": [
+    "التقادم الجنائي",
+    "انقضاء الدعوى"
+   ],
+   "ai_tags": [
+    "تقادم جنائي",
+    "جناية",
+    "جنحة",
+    "مخالفة"
+   ],
+   "search_keywords": [
+    "تقادم الدعوى الجنائية",
+    "المادة 15 إجراءات جنائية"
+   ],
+   "ai_summary": "الدعوى الجنائية: 10 سنوات جناية / 3 سنوات جنحة / سنة مخالفة من يوم الجريمة.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "انقضاء الدعوى",
+    "issue_type": "التقادم الجنائي"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "انقضاء الدعوى",
+    "page": "",
+    "article_number": "15"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0015",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0015",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0015",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0015"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0003",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "ميعاد إرسال المضبوط للنيابة",
+  "content": "يجب على مأمور الضبط القضائي أن يسمع فوراً أقوال المتهم المضبوط وإذا لم يأت بما يبرئه يرسله في مدى أربعة وعشرين ساعة إلى النيابة العامة المختصة.",
+  "keywords": [
+   "قبض",
+   "24 ساعة",
+   "نيابة",
+   "جنائي",
+   "ميعاد إرسال المتهم للنيابة",
+   "المادة 36 إجراءات جنائية",
+   "القبض",
+   "ضمانات المتهم"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "36",
+   "date": null,
+   "court": "النيابة العامة",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "24 ساعة",
+   "duration_days": 1,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "CRIM-0003",
+   "title": "ميعاد إرسال المضبوط للنيابة",
+   "category": "جنائي",
+   "sub_category": "القبض",
+   "deadline_type": "ضمانة دستورية",
+   "trigger_event": "ضبط المتهم",
+   "duration": "24 ساعة",
+   "duration_days": 1,
+   "calculation_method": "من لحظة الضبط",
+   "legal_text": "يجب على مأمور الضبط القضائي أن يسمع فوراً أقوال المتهم المضبوط وإذا لم يأت بما يبرئه يرسله في مدى أربعة وعشرين ساعة إلى النيابة العامة المختصة.",
+   "plain_language_explanation": "المتهم المضبوط يُرسَل للنيابة خلال 24 ساعة.",
+   "practical_meaning": "ضمانة دستورية. الاحتجاز تجاوز 24 ساعة دون إحالة للنيابة يُعد احتجازاً غير مشروع.",
+   "start_date_rule": "من لحظة الضبط",
+   "end_condition": "24 ساعة",
+   "court_or_authority": "النيابة العامة",
+   "required_action": "إرسال المتهم للنيابة خلال 24 ساعة",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "محضر الضبط"
+   ],
+   "risk_if_missed": "الاحتجاز غير المشروع",
+   "legal_effect_if_missed": "حق المتهم في طلب الإفراج",
+   "subsequent_deadline": "استجواب النيابة: 24 ساعة إضافية",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "عدم متابعة ميعاد الـ24 ساعة"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "رصد وقت الضبط",
+    "المطالبة بالإحالة خلال 24 ساعة"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد الاحتجاز"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "36"
+    }
+   ],
+   "related_procedures": [
+    "القبض",
+    "الاستجواب"
+   ],
+   "related_topics": [
+    "القبض",
+    "ضمانات المتهم"
+   ],
+   "ai_tags": [
+    "قبض",
+    "24 ساعة",
+    "نيابة",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "ميعاد إرسال المتهم للنيابة",
+    "المادة 36 إجراءات جنائية"
+   ],
+   "ai_summary": "المتهم المضبوط يُرسَل للنيابة خلال 24 ساعة وإلا كان الاحتجاز غير مشروع.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "القبض",
+    "issue_type": "الإحالة للنيابة"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "القبض",
+    "page": "",
+    "article_number": "36"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0039",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0039",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0039",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0037"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0004",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "مدة نفاذ أمر الحبس الاحتياطي من النيابة",
+  "content": "الأمر بالحبس الصادر من النيابة العامة لا يكون نافذ المفعول إلا لمدة الأربعة أيام التالية للقبض على المتهم أو تسليمه للنيابة العامة إذا كان مقبوضاً عليه من قبل.",
+  "keywords": [
+   "حبس احتياطي",
+   "4 أيام",
+   "نيابة",
+   "جنائي",
+   "مدة نفاذ أمر الحبس",
+   "المادة 201 إجراءات جنائية",
+   "الحبس",
+   "ضمانات المتهم"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "201",
+   "date": null,
+   "court": "القاضي الجزئي",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "4 أيام",
+   "duration_days": 4,
+   "risk_level": "مرتفع جداً"
+  },
+  "source_fields": {
+   "id": "CRIM-0004",
+   "title": "مدة نفاذ أمر الحبس الاحتياطي من النيابة",
+   "category": "جنائي",
+   "sub_category": "الحبس الاحتياطي",
+   "deadline_type": "ضمانة قانونية",
+   "trigger_event": "صدور أمر الحبس من النيابة",
+   "duration": "4 أيام",
+   "duration_days": 4,
+   "calculation_method": "من تاريخ القبض",
+   "legal_text": "الأمر بالحبس الصادر من النيابة العامة لا يكون نافذ المفعول إلا لمدة الأربعة أيام التالية للقبض على المتهم أو تسليمه للنيابة العامة إذا كان مقبوضاً عليه من قبل.",
+   "plain_language_explanation": "أمر الحبس من النيابة لا يسري إلا لـ4 أيام. بعدها يجب العرض على القاضي.",
+   "practical_meaning": "بعد 4 أيام يجب عرض الأوراق على القاضي الجزئي وإلا كان الحبس غير مشروع.",
+   "start_date_rule": "من تاريخ القبض",
+   "end_condition": "مضي 4 أيام",
+   "court_or_authority": "القاضي الجزئي",
+   "required_action": "عرض الأوراق على القاضي قبل انقضاء 4 أيام",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "أمر الحبس",
+    "أوراق القضية"
+   ],
+   "risk_if_missed": "الحبس غير مشروع",
+   "legal_effect_if_missed": "وجوب الإفراج",
+   "subsequent_deadline": "تجديد القاضي الجزئي: لا يزيد مجموعه على 45 يوماً",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "عدم متابعة انتهاء الـ4 أيام"
+   ],
+   "risk_level": "مرتفع جداً",
+   "lawyer_workflow": [
+    "رصد تاريخ القبض",
+    "المطالبة بالعرض على القاضي قبل 4 أيام"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد أوامر الحبس"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "201"
+    }
+   ],
+   "related_procedures": [
+    "الحبس الاحتياطي"
+   ],
+   "related_topics": [
+    "الحبس",
+    "ضمانات المتهم"
+   ],
+   "ai_tags": [
+    "حبس احتياطي",
+    "4 أيام",
+    "نيابة",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "مدة نفاذ أمر الحبس",
+    "المادة 201 إجراءات جنائية"
+   ],
+   "ai_summary": "أمر الحبس من النيابة لا يسري إلا لـ4 أيام. بعدها يجب العرض على القاضي.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "الحبس الاحتياطي",
+    "issue_type": "مدة نفاذ أمر الحبس"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "الحبس",
+    "page": "",
+    "article_number": "201"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0180",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0180",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0180",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0174"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0005",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "الحد الأقصى للحبس الاحتياطي",
+  "content": "لا يجوز أن تزيد مدة الحبس الاحتياطي في مرحلة التحقيق على ستة أشهر في مواد الجنح وثمانية عشر شهراً في مواد الجنايات وعلى المحكمة المختصة في مواد الجنايات ألا تبقي المتهم محبوساً أكثر من أربعة وعشرين شهراً.",
+  "keywords": [
+   "حبس احتياطي",
+   "6 أشهر",
+   "18 شهر",
+   "24 شهر",
+   "جنائي",
+   "الحد الأقصى للحبس",
+   "المادة 143 إجراءات جنائية",
+   "الحبس",
+   "ضمانات المتهم"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "143",
+   "date": null,
+   "court": "المحاكم الجنائية",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "6 أشهر (جنح) / 18 شهراً (جنايات تحقيق) / 24 شهراً (حد أقصى)",
+   "duration_days": 180,
+   "risk_level": "مرتفع جداً"
+  },
+  "source_fields": {
+   "id": "CRIM-0005",
+   "title": "الحد الأقصى للحبس الاحتياطي",
+   "category": "جنائي",
+   "sub_category": "الحبس الاحتياطي",
+   "deadline_type": "ضمانة قانونية",
+   "trigger_event": "أمر الحبس الاحتياطي",
+   "duration": "6 أشهر (جنح) / 18 شهراً (جنايات تحقيق) / 24 شهراً (حد أقصى)",
+   "duration_days": 180,
+   "calculation_method": "من تاريخ القبض",
+   "legal_text": "لا يجوز أن تزيد مدة الحبس الاحتياطي في مرحلة التحقيق على ستة أشهر في مواد الجنح وثمانية عشر شهراً في مواد الجنايات وعلى المحكمة المختصة في مواد الجنايات ألا تبقي المتهم محبوساً أكثر من أربعة وعشرين شهراً.",
+   "plain_language_explanation": "الحد الأقصى للحبس: 6 أشهر جنح / 18 شهراً جنايات تحقيق / 24 شهراً مطلق.",
+   "practical_meaning": "انتهاء المدة القصوى يوجب الإفراج. المحامي يجب أن يتابع هذه المدد بدقة.",
+   "start_date_rule": "من تاريخ القبض",
+   "end_condition": "6 أشهر جنح / 18 شهراً جنايات / 24 شهراً أقصى مطلق",
+   "court_or_authority": "المحاكم الجنائية",
+   "required_action": "طلب الإفراج عند انتهاء المدة القصوى",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "أمر الحبس"
+   ],
+   "risk_if_missed": "استمرار الحبس غير المشروع",
+   "legal_effect_if_missed": "وجوب الإفراج فوراً",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "عدم متابعة مدد الحبس الاحتياطي"
+   ],
+   "risk_level": "مرتفع جداً",
+   "lawyer_workflow": [
+    "رصد تاريخ بدء الحبس",
+    "احتساب المدة القصوى",
+    "طلب الإفراج عند الانتهاء"
+   ],
+   "automation_opportunities": [
+    "تتبع مدد الحبس الاحتياطي"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "143"
+    }
+   ],
+   "related_procedures": [
+    "الحبس الاحتياطي",
+    "طلب الإفراج"
+   ],
+   "related_topics": [
+    "الحبس",
+    "ضمانات المتهم"
+   ],
+   "ai_tags": [
+    "حبس احتياطي",
+    "6 أشهر",
+    "18 شهر",
+    "24 شهر",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "الحد الأقصى للحبس",
+    "المادة 143 إجراءات جنائية"
+   ],
+   "ai_summary": "الحبس الاحتياطي: 6 أشهر جنح / 18 شهراً جنايات تحقيق / 24 شهراً حد أقصى مطلق.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "الحبس الاحتياطي",
+    "issue_type": "المدد القصوى"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "الحبس",
+    "page": "",
+    "article_number": "143"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0147",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0147",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0147",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0143"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0006",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "ميعاد المعارضة في الأحكام الجنائية الغيابية",
+  "content": "ميعاد المعارضة في الأحكام الغيابية عشرة أيام من تاريخ إعلان الحكم للمحكوم عليه.",
+  "keywords": [
+   "معارضة",
+   "10 أيام",
+   "جنائي",
+   "ميعاد المعارضة الجنائية",
+   "المادة 398 إجراءات جنائية",
+   "المعارضة",
+   "الأحكام الغيابية"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "398",
+   "date": null,
+   "court": "المحكمة التي أصدرت الحكم",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "CRIM-0006",
+   "title": "ميعاد المعارضة في الأحكام الجنائية الغيابية",
+   "category": "جنائي",
+   "sub_category": "طرق الطعن الجنائي",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "إعلان الحكم الغيابي",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "calculation_method": "من تاريخ إعلان الحكم",
+   "legal_text": "ميعاد المعارضة في الأحكام الغيابية عشرة أيام من تاريخ إعلان الحكم للمحكوم عليه.",
+   "plain_language_explanation": "المعارضة في الأحكام الجنائية الغيابية: 10 أيام من إعلان الحكم.",
+   "practical_meaning": "يجب الانتباه لتاريخ الإعلان لا تاريخ صدور الحكم.",
+   "start_date_rule": "من تاريخ إعلان الحكم الغيابي",
+   "end_condition": "10 أيام",
+   "court_or_authority": "المحكمة التي أصدرت الحكم",
+   "required_action": "تقديم المعارضة خلال 10 أيام",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "ورقة إعلان الحكم",
+    "صحيفة المعارضة"
+   ],
+   "risk_if_missed": "سقوط حق المعارضة",
+   "legal_effect_if_missed": "الحكم نهائي",
+   "subsequent_deadline": "الاستئناف",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "احتساب الميعاد من صدور الحكم لا من إعلانه"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "استلام إعلان الحكم",
+    "احتساب 10 أيام",
+    "تقديم المعارضة"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد المعارضة"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "398"
+    }
+   ],
+   "related_procedures": [
+    "المعارضة الجنائية"
+   ],
+   "related_topics": [
+    "المعارضة",
+    "الأحكام الغيابية"
+   ],
+   "ai_tags": [
+    "معارضة",
+    "10 أيام",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "ميعاد المعارضة الجنائية",
+    "المادة 398 إجراءات جنائية"
+   ],
+   "ai_summary": "المعارضة في الأحكام الجنائية الغيابية: 10 أيام من إعلان الحكم.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "طرق الطعن",
+    "issue_type": "ميعاد المعارضة"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "طرق الطعن",
+    "page": "",
+    "article_number": "398"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0368",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0368",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0368",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0349"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0007",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "ميعاد الاستئناف الجنائي في الجنح",
+  "content": "ميعاد الاستئناف في مواد الجنح عشرة أيام من تاريخ صدور الحكم إذا كان حضورياً أو من تاريخ إعلانه إذا كان غيابياً.",
+  "keywords": [
+   "استئناف جنائي",
+   "10 أيام",
+   "جنح",
+   "جنائي",
+   "ميعاد الاستئناف الجنائي",
+   "المادة 406 إجراءات جنائية",
+   "الاستئناف",
+   "طرق الطعن الجنائي"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "406",
+   "date": null,
+   "court": "محكمة الاستئناف",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "risk_level": "مرتفع جداً"
+  },
+  "source_fields": {
+   "id": "CRIM-0007",
+   "title": "ميعاد الاستئناف الجنائي في الجنح",
+   "category": "جنائي",
+   "sub_category": "طرق الطعن الجنائي",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "صدور الحكم الجنائي الحضوري",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "calculation_method": "من تاريخ صدور الحكم الحضوري",
+   "legal_text": "ميعاد الاستئناف في مواد الجنح عشرة أيام من تاريخ صدور الحكم إذا كان حضورياً أو من تاريخ إعلانه إذا كان غيابياً.",
+   "plain_language_explanation": "الاستئناف الجنائي في الجنح: 10 أيام من صدور الحكم الحضوري.",
+   "practical_meaning": "ميعاد قصير جداً في الجنح. يجب الاستئناف فور صدور الحكم.",
+   "start_date_rule": "من صدور الحكم الحضوري أو إعلان الغيابي",
+   "end_condition": "10 أيام",
+   "court_or_authority": "محكمة الاستئناف",
+   "required_action": "تقديم الاستئناف",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "صحيفة الاستئناف",
+    "صورة الحكم"
+   ],
+   "risk_if_missed": "سقوط الاستئناف",
+   "legal_effect_if_missed": "الحكم نهائي",
+   "subsequent_deadline": "النقض الجنائي",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "الانتظار أكثر من 10 أيام"
+   ],
+   "risk_level": "مرتفع جداً",
+   "lawyer_workflow": [
+    "تحديد نوع الحكم",
+    "احتساب 10 أيام",
+    "تقديم الاستئناف"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد الاستئناف"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "406"
+    }
+   ],
+   "related_procedures": [
+    "الاستئناف الجنائي"
+   ],
+   "related_topics": [
+    "الاستئناف",
+    "طرق الطعن الجنائي"
+   ],
+   "ai_tags": [
+    "استئناف جنائي",
+    "10 أيام",
+    "جنح",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "ميعاد الاستئناف الجنائي",
+    "المادة 406 إجراءات جنائية"
+   ],
+   "ai_summary": "الاستئناف الجنائي في الجنح: 10 أيام من صدور الحكم الحضوري.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "طرق الطعن",
+    "issue_type": "ميعاد الاستئناف الجنائي"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "طرق الطعن",
+    "page": "",
+    "article_number": "406"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0376",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0376",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0376",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0357"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0008",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "ميعاد الطعن بالنقض الجنائي",
+  "content": "ميعاد الطعن بطريق النقض في المواد الجنائية ثلاثون يوماً من تاريخ صدور الحكم.",
+  "keywords": [
+   "نقض جنائي",
+   "30 يوم",
+   "جنائي",
+   "ميعاد النقض الجنائي",
+   "المادة 434 إجراءات جنائية",
+   "النقض",
+   "طرق الطعن"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "434",
+   "date": null,
+   "court": "محكمة النقض - الدوائر الجنائية",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "30 يوماً",
+   "duration_days": 30,
+   "risk_level": "مرتفع جداً"
+  },
+  "source_fields": {
+   "id": "CRIM-0008",
+   "title": "ميعاد الطعن بالنقض الجنائي",
+   "category": "جنائي",
+   "sub_category": "طرق الطعن الجنائي",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "صدور حكم الاستئناف",
+   "duration": "30 يوماً",
+   "duration_days": 30,
+   "calculation_method": "من تاريخ صدور الحكم",
+   "legal_text": "ميعاد الطعن بطريق النقض في المواد الجنائية ثلاثون يوماً من تاريخ صدور الحكم.",
+   "plain_language_explanation": "النقض الجنائي: 30 يوماً من صدور الحكم.",
+   "practical_meaning": "أقصر من النقض المدني (30 بدل 60 يوم). يجب الإسراع في التحضير.",
+   "start_date_rule": "من تاريخ صدور الحكم",
+   "end_condition": "مضي 30 يوماً",
+   "court_or_authority": "محكمة النقض - الدوائر الجنائية",
+   "required_action": "تقديم تقرير الطعن في قلم الكتاب",
+   "mandatory_requirements": [
+    "التقرير في قلم كتاب المحكمة التي أصدرت الحكم"
+   ],
+   "required_documents": [
+    "تقرير الطعن",
+    "أسباب الطعن"
+   ],
+   "risk_if_missed": "سقوط النقض",
+   "legal_effect_if_missed": "الحكم باتٌ",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "الخلط مع مدة 60 يوماً في المدني"
+   ],
+   "risk_level": "مرتفع جداً",
+   "lawyer_workflow": [
+    "صدور الحكم",
+    "تقديم تقرير الطعن خلال 30 يوماً"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد النقض الجنائي"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "434"
+    }
+   ],
+   "related_procedures": [
+    "النقض الجنائي"
+   ],
+   "related_topics": [
+    "النقض",
+    "طرق الطعن"
+   ],
+   "ai_tags": [
+    "نقض جنائي",
+    "30 يوم",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "ميعاد النقض الجنائي",
+    "المادة 434 إجراءات جنائية"
+   ],
+   "ai_summary": "الطعن بالنقض الجنائي: 30 يوماً من صدور الحكم.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "طرق الطعن",
+    "issue_type": "ميعاد النقض الجنائي"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "النقض",
+    "page": "",
+    "article_number": "434"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0009",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "تقادم العقوبة الجنائية",
+  "content": "تتقادم العقوبات في مواد الجنايات بمضي عشرين سنة في حالتي الإعدام والأشغال الشاقة المؤبدة وبمضي عشر سنوات في سائر العقوبات المقيدة للحرية والغرامة المحكوم بها في جناية. وتتقادم العقوبات في مواد الجنح بمضي ثلاث سنوات وفي مواد المخالفات بمضي سنة.",
+  "keywords": [
+   "تقادم عقوبة",
+   "20 سنة",
+   "10 سنوات",
+   "جنائي",
+   "تقادم العقوبة",
+   "المادة 528 إجراءات جنائية",
+   "التنفيذ الجنائي"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "528",
+   "date": null,
+   "court": "النيابة العامة",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "20 سنة (إعدام/مؤبد) / 10 سنوات (جناية) / 3 سنوات (جنحة) / سنة (مخالفة)",
+   "duration_days": 7300,
+   "risk_level": "منخفض"
+  },
+  "source_fields": {
+   "id": "CRIM-0009",
+   "title": "تقادم العقوبة الجنائية",
+   "category": "جنائي",
+   "sub_category": "تقادم العقوبة",
+   "deadline_type": "تقادم",
+   "trigger_event": "صيرورة الحكم نهائياً",
+   "duration": "20 سنة (إعدام/مؤبد) / 10 سنوات (جناية) / 3 سنوات (جنحة) / سنة (مخالفة)",
+   "duration_days": 7300,
+   "calculation_method": "من اليوم الذي يصبح فيه الحكم نهائياً",
+   "legal_text": "تتقادم العقوبات في مواد الجنايات بمضي عشرين سنة في حالتي الإعدام والأشغال الشاقة المؤبدة وبمضي عشر سنوات في سائر العقوبات المقيدة للحرية والغرامة المحكوم بها في جناية. وتتقادم العقوبات في مواد الجنح بمضي ثلاث سنوات وفي مواد المخالفات بمضي سنة.",
+   "plain_language_explanation": "العقوبات تتقادم: إعدام/مؤبد 20 سنة / جنايات 10 سنوات / جنح 3 سنوات / مخالفات سنة.",
+   "practical_meaning": "بعد انقضاء المدة لا يجوز تنفيذ العقوبة.",
+   "start_date_rule": "من يوم صيرورة الحكم نهائياً",
+   "end_condition": "حسب نوع العقوبة",
+   "court_or_authority": "النيابة العامة",
+   "required_action": "التمسك بتقادم العقوبة",
+   "mandatory_requirements": [],
+   "required_documents": [],
+   "risk_if_missed": "تنفيذ العقوبة",
+   "legal_effect_if_missed": "انقضاء حق الدولة في التنفيذ",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "الإمساك بالمحكوم عليه"
+   ],
+   "suspension_causes": [],
+   "exceptions": [
+    "جرائم الإرهاب: قد لا تتقادم"
+   ],
+   "common_lawyer_mistakes": [],
+   "risk_level": "منخفض",
+   "lawyer_workflow": [
+    "احتساب مدة التقادم",
+    "التمسك بها"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد تقادم العقوبات"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "528"
+    }
+   ],
+   "related_procedures": [
+    "تقادم العقوبة"
+   ],
+   "related_topics": [
+    "تقادم العقوبة",
+    "التنفيذ الجنائي"
+   ],
+   "ai_tags": [
+    "تقادم عقوبة",
+    "20 سنة",
+    "10 سنوات",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "تقادم العقوبة",
+    "المادة 528 إجراءات جنائية"
+   ],
+   "ai_summary": "العقوبات تتقادم: إعدام/مؤبد 20 سنة / جنايات 10 سنوات / جنح 3 سنوات / مخالفات سنة.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "تقادم العقوبة",
+    "issue_type": "مدد التقادم"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "تقادم العقوبة",
+    "page": "",
+    "article_number": "528"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0462",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0462",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0462",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0444"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0010",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "ميعاد الطعن في قرار لا وجه لإقامة الدعوى",
+  "content": "يحصل الطعن بتقرير في قلم الكتاب في ميعاد عشرة أيام من تاريخ إعلان المدعي بالحق المدني بالأمر.",
+  "keywords": [
+   "لا وجه",
+   "10 أيام",
+   "جنائي",
+   "ميعاد الطعن في قرار لا وجه",
+   "المادة 210 إجراءات جنائية",
+   "قرار لا وجه",
+   "النيابة العامة"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "210",
+   "date": null,
+   "court": "محكمة الجنايات غرفة المشورة",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "CRIM-0010",
+   "title": "ميعاد الطعن في قرار لا وجه لإقامة الدعوى",
+   "category": "جنائي",
+   "sub_category": "الطعن في قرارات النيابة",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "إعلان المدعي بالحقوق المدنية بقرار لا وجه",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "calculation_method": "من تاريخ الإعلان",
+   "legal_text": "يحصل الطعن بتقرير في قلم الكتاب في ميعاد عشرة أيام من تاريخ إعلان المدعي بالحق المدني بالأمر.",
+   "plain_language_explanation": "الطعن في قرار لا وجه: 10 أيام من إعلان المدعي بالحقوق المدنية.",
+   "practical_meaning": "ميعاد قصير. يجب متابعة الإعلان والتصرف فوراً.",
+   "start_date_rule": "من تاريخ الإعلان",
+   "end_condition": "10 أيام",
+   "court_or_authority": "محكمة الجنايات غرفة المشورة",
+   "required_action": "تقديم تقرير طعن في قلم الكتاب",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "تقرير الطعن"
+   ],
+   "risk_if_missed": "سقوط حق الطعن",
+   "legal_effect_if_missed": "قرار لا وجه نهائي",
+   "subsequent_deadline": "للنائب العام الإلغاء: 3 أشهر",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "التأخر في إبلاغ الموكل بالقرار"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "استلام إعلان القرار",
+    "إبلاغ الموكل",
+    "تقديم الطعن خلال 10 أيام"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد الطعن"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "210"
+    }
+   ],
+   "related_procedures": [
+    "الطعن في قرار لا وجه"
+   ],
+   "related_topics": [
+    "قرار لا وجه",
+    "النيابة العامة"
+   ],
+   "ai_tags": [
+    "لا وجه",
+    "10 أيام",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "ميعاد الطعن في قرار لا وجه",
+    "المادة 210 إجراءات جنائية"
+   ],
+   "ai_summary": "الطعن في قرار لا وجه: 10 أيام من إعلان المدعي بالحقوق المدنية.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "الطعن في قرارات النيابة",
+    "issue_type": "ميعاد الطعن"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "قرار لا وجه",
+    "page": "",
+    "article_number": "210"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0195",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0195",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0195",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0183"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0011",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "ميعاد تحرير الحكم الجنائي - خطر البطلان",
+  "content": "يحرر الحكم بأسبابه كاملاً خلال ثمانية أيام من تاريخ صدوره بقدر الإمكان. ولا يجوز تأخير توقيع الحكم على الثمانية أيام المقررة إلا لأسباب قوية وعلى كل حال يبطل الحكم إذا مضي ثلاثون يوماً دون حصول التوقيع ما لم يكن صادراً بالبراءة.",
+  "keywords": [
+   "حكم جنائي",
+   "8 أيام",
+   "30 يوم",
+   "بطلان",
+   "تحرير الحكم الجنائي",
+   "المادة 312 إجراءات جنائية",
+   "بطلان الحكم",
+   "الأحكام"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "312",
+   "date": null,
+   "court": "المحكمة التي أصدرت الحكم",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "8 أيام مثالي / 30 يوماً أقصى تحت طائلة البطلان",
+   "duration_days": 8,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "CRIM-0011",
+   "title": "ميعاد تحرير الحكم الجنائي - خطر البطلان",
+   "category": "جنائي",
+   "sub_category": "الأحكام الجنائية",
+   "deadline_type": "إجرائي",
+   "trigger_event": "صدور الحكم الجنائي",
+   "duration": "8 أيام مثالي / 30 يوماً أقصى تحت طائلة البطلان",
+   "duration_days": 8,
+   "calculation_method": "من تاريخ صدور الحكم",
+   "legal_text": "يحرر الحكم بأسبابه كاملاً خلال ثمانية أيام من تاريخ صدوره بقدر الإمكان. ولا يجوز تأخير توقيع الحكم على الثمانية أيام المقررة إلا لأسباب قوية وعلى كل حال يبطل الحكم إذا مضي ثلاثون يوماً دون حصول التوقيع ما لم يكن صادراً بالبراءة.",
+   "plain_language_explanation": "الحكم الجنائي: 8 أيام للتحرير. يبطل إذا لم يوقَّع خلال 30 يوماً (إلا البراءة).",
+   "practical_meaning": "أداة دفاعية: إذا تجاوز 30 يوماً دون توقيع يُطعن ببطلانه.",
+   "start_date_rule": "من تاريخ صدور الحكم",
+   "end_condition": "8 أيام مثالي / 30 يوماً حد البطلان",
+   "court_or_authority": "المحكمة التي أصدرت الحكم",
+   "required_action": "طلب شهادة بعدم التوقيع إذا مرت 30 يوماً",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "شهادة بعدم التوقيع من قلم الكتاب"
+   ],
+   "risk_if_missed": "بطلان الحكم",
+   "legal_effect_if_missed": "يجوز الطعن ببطلان الحكم",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [
+    "أحكام البراءة لا تبطل بالتأخير"
+   ],
+   "common_lawyer_mistakes": [
+    "عدم متابعة توقيع الحكم"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "متابعة تاريخ الحكم",
+    "إذا تجاوز 30 يوماً: طلب شهادة وطعن بالبطلان"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد تحرير الأحكام الجنائية"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "312"
+    }
+   ],
+   "related_procedures": [
+    "الأحكام الجنائية"
+   ],
+   "related_topics": [
+    "الأحكام",
+    "بطلان الحكم"
+   ],
+   "ai_tags": [
+    "حكم جنائي",
+    "8 أيام",
+    "30 يوم",
+    "بطلان"
+   ],
+   "search_keywords": [
+    "تحرير الحكم الجنائي",
+    "المادة 312 إجراءات جنائية",
+    "بطلان الحكم"
+   ],
+   "ai_summary": "الحكم الجنائي يُحرَّر خلال 8 أيام. يبطل إذا مرت 30 يوماً بدون توقيع (إلا البراءة).",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "الأحكام",
+    "issue_type": "ميعاد تحرير الحكم"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "الأحكام",
+    "page": "",
+    "article_number": "312"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0302",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0302",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0302",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0285"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "CRIM-0012",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "ميعاد الطعن في أوامر قاضي التحقيق",
+  "content": "يكون ميعاد الاستئناف أربعاً وعشرين ساعة في الحالة المنصوص عليها في الفقرة الثانية من المادة 164 وعشرة أيام في الأحوال الأخرى ويبتدئ الميعاد من تاريخ صدور الأمر بالنسبة إلى النيابة العامة ومن تاريخ إعلانه بالنسبة لباقي الخصوم.",
+  "keywords": [
+   "أوامر التحقيق",
+   "24 ساعة",
+   "10 أيام",
+   "جنائي",
+   "استئناف أوامر التحقيق",
+   "المادة 166 إجراءات جنائية",
+   "قاضي التحقيق",
+   "الاستئناف"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "166",
+   "date": null,
+   "court": "محكمة الجنح المستأنفة غرفة المشورة",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "24 ساعة (إفراج/حبس) / 10 أيام (غيرها)",
+   "duration_days": 1,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "CRIM-0012",
+   "title": "ميعاد الطعن في أوامر قاضي التحقيق",
+   "category": "جنائي",
+   "sub_category": "التحقيق",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "صدور أمر قاضي التحقيق",
+   "duration": "24 ساعة (إفراج/حبس) / 10 أيام (غيرها)",
+   "duration_days": 1,
+   "calculation_method": "من صدور الأمر للنيابة / من الإعلان للخصوم",
+   "legal_text": "يكون ميعاد الاستئناف أربعاً وعشرين ساعة في الحالة المنصوص عليها في الفقرة الثانية من المادة 164 وعشرة أيام في الأحوال الأخرى ويبتدئ الميعاد من تاريخ صدور الأمر بالنسبة إلى النيابة العامة ومن تاريخ إعلانه بالنسبة لباقي الخصوم.",
+   "plain_language_explanation": "استئناف أوامر قاضي التحقيق: 24 ساعة (إفراج/حبس) / 10 أيام (غيرها).",
+   "practical_meaning": "ميعاد الـ24 ساعة بالغ القصر. يجب التصرف الفوري.",
+   "start_date_rule": "من صدور الأمر للنيابة / من الإعلان للخصوم",
+   "end_condition": "24 ساعة أو 10 أيام",
+   "court_or_authority": "محكمة الجنح المستأنفة غرفة المشورة",
+   "required_action": "تقديم الاستئناف في الميعاد",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "تقرير الاستئناف"
+   ],
+   "risk_if_missed": "سقوط حق الاستئناف",
+   "legal_effect_if_missed": "أمر التحقيق نهائي",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "التأخر في استئناف أوامر الإفراج"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "متابعة أوامر قاضي التحقيق",
+    "الاستئناف الفوري"
+   ],
+   "automation_opportunities": [
+    "تنبيه عاجل بأوامر التحقيق"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "166"
+    }
+   ],
+   "related_procedures": [
+    "استئناف أوامر التحقيق"
+   ],
+   "related_topics": [
+    "قاضي التحقيق",
+    "الاستئناف"
+   ],
+   "ai_tags": [
+    "أوامر التحقيق",
+    "24 ساعة",
+    "10 أيام",
+    "جنائي"
+   ],
+   "search_keywords": [
+    "استئناف أوامر التحقيق",
+    "المادة 166 إجراءات جنائية"
+   ],
+   "ai_summary": "استئناف أوامر قاضي التحقيق: 24 ساعة (الإفراج/الحبس) / 10 أيام للأوامر الأخرى.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "التحقيق",
+    "issue_type": "استئناف أوامر التحقيق"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "التحقيق",
+    "page": "",
+    "article_number": "166"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0171",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0171",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0171",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0166"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

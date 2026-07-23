@@ -1,0 +1,355 @@
+[
+ {
+  "id": "LIM-0001",
+  "type": "deadline",
+  "category": "جنائي",
+  "title": "تقادم العقوبة الجنائية",
+  "content": "تتقادم العقوبات في مواد الجنايات بمضي عشرين سنة في حالتي الإعدام والأشغال الشاقة المؤبدة وبمضي عشر سنوات في سائر العقوبات المقيدة للحرية وتتقادم العقوبات في مواد الجنح بمضي ثلاث سنوات وفي مواد المخالفات بمضي سنة.",
+  "keywords": [
+   "تقادم عقوبة",
+   "20 سنة",
+   "10 سنوات",
+   "تقادم العقوبة",
+   "المادة 528 إجراءات جنائية"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الإجراءات الجنائية",
+   "law_number": null,
+   "article_number": "528",
+   "date": null,
+   "court": "النيابة العامة",
+   "confidence": null,
+   "branch": "جنائي",
+   "duration": "20 سنة إعدام/مؤبد / 10 سنوات جناية / 3 سنوات جنحة / سنة مخالفة",
+   "duration_days": 7300,
+   "risk_level": "منخفض"
+  },
+  "source_fields": {
+   "id": "LIM-0001",
+   "title": "تقادم العقوبة الجنائية",
+   "category": "جنائي",
+   "sub_category": "تقادم العقوبة",
+   "deadline_type": "تقادم",
+   "trigger_event": "صيرورة الحكم نهائياً",
+   "duration": "20 سنة إعدام/مؤبد / 10 سنوات جناية / 3 سنوات جنحة / سنة مخالفة",
+   "duration_days": 7300,
+   "calculation_method": "من اليوم الذي يصبح الحكم نهائياً",
+   "legal_text": "تتقادم العقوبات في مواد الجنايات بمضي عشرين سنة في حالتي الإعدام والأشغال الشاقة المؤبدة وبمضي عشر سنوات في سائر العقوبات المقيدة للحرية وتتقادم العقوبات في مواد الجنح بمضي ثلاث سنوات وفي مواد المخالفات بمضي سنة.",
+   "plain_language_explanation": "مدد تقادم تنفيذ العقوبات: إعدام/مؤبد 20 سنة / جنايات 10 سنوات / جنح 3 سنوات / مخالفات سنة.",
+   "practical_meaning": "بعد انقضاء المدة لا يجوز تنفيذ العقوبة.",
+   "start_date_rule": "من يوم صيرورة الحكم نهائياً",
+   "end_condition": "حسب نوع العقوبة",
+   "court_or_authority": "النيابة العامة",
+   "required_action": "التمسك بتقادم العقوبة",
+   "mandatory_requirements": [],
+   "required_documents": [],
+   "risk_if_missed": "تنفيذ العقوبة",
+   "legal_effect_if_missed": "انقضاء حق الدولة في التنفيذ",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "الإمساك بالمحكوم عليه"
+   ],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [],
+   "risk_level": "منخفض",
+   "lawyer_workflow": [
+    "احتساب المدة",
+    "التمسك بالتقادم"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد تقادم العقوبات"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الإجراءات الجنائية",
+     "article": "528"
+    }
+   ],
+   "related_procedures": [
+    "تقادم العقوبة"
+   ],
+   "related_topics": [
+    "تقادم العقوبة"
+   ],
+   "ai_tags": [
+    "تقادم عقوبة",
+    "20 سنة",
+    "10 سنوات"
+   ],
+   "search_keywords": [
+    "تقادم العقوبة",
+    "المادة 528 إجراءات جنائية"
+   ],
+   "ai_summary": "مدد تقادم العقوبات: إعدام/مؤبد 20 سنة / جنايات 10 سنوات / جنح 3 سنوات / مخالفات سنة.",
+   "classification": {
+    "branch": "جنائي",
+    "category": "الإجراءات الجنائية",
+    "doctrine": "تقادم العقوبة",
+    "issue_type": "مدد التقادم"
+   },
+   "source_reference": {
+    "book": "المواعيد في الإجراءات الجنائية",
+    "chapter": "تقادم العقوبة",
+    "page": "",
+    "article_number": "528"
+   }
+  },
+  "related_articles": [
+   "قانون_الإجراءات_الجنائية__file_0098__art_0462",
+   "قانون_الأجراءات_الجنائية__file_0139__art_0462",
+   "قانون_الإجراءات_الجنائية__file_0192__art_0462",
+   "كود_قانون_الأجراءات_الجنائية__file_0210__art_0444"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "LIM-0002",
+  "type": "deadline",
+  "category": "مدني",
+  "title": "التقادم المكسب للملكية (33 سنة للإرث)",
+  "content": "في جميع الأحوال لا تُكسب حقوق الإرث بالتقادم إلا إذا دامت الحيازة مدة ثلاث وثلاثين سنة.",
+  "keywords": [
+   "تقادم مكسب",
+   "33 سنة",
+   "إرث",
+   "قانون مدني",
+   "تقادم الإرث",
+   "المادة 970 مدني",
+   "التقادم المكسب",
+   "الإرث"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في القانون المدني",
+   "law_number": null,
+   "article_number": "970",
+   "date": null,
+   "court": "المحكمة الابتدائية",
+   "confidence": null,
+   "branch": "مدني",
+   "duration": "15 سنة (عام) / 33 سنة (حقوق الإرث)",
+   "duration_days": 5475,
+   "risk_level": "منخفض"
+  },
+  "source_fields": {
+   "id": "LIM-0002",
+   "title": "التقادم المكسب للملكية (33 سنة للإرث)",
+   "category": "مدني",
+   "sub_category": "التقادم المكسب",
+   "deadline_type": "تقادم مكسب",
+   "trigger_event": "بدء الحيازة",
+   "duration": "15 سنة (عام) / 33 سنة (حقوق الإرث)",
+   "duration_days": 5475,
+   "calculation_method": "من بدء الحيازة",
+   "legal_text": "في جميع الأحوال لا تُكسب حقوق الإرث بالتقادم إلا إذا دامت الحيازة مدة ثلاث وثلاثين سنة.",
+   "plain_language_explanation": "حقوق الإرث لا تُكتسب بالتقادم إلا بعد 33 سنة.",
+   "practical_meaning": "الورثة الشرعيون محميون بتقادم مطوّل 33 سنة.",
+   "start_date_rule": "من بدء الحيازة",
+   "end_condition": "33 سنة لحقوق الإرث / 15 سنة للعام",
+   "court_or_authority": "المحكمة الابتدائية",
+   "required_action": "إثبات الحيازة الطويلة",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "مستندات الحيازة"
+   ],
+   "risk_if_missed": "عدم اكتساب حق الإرث",
+   "legal_effect_if_missed": "بقاء حقوق الإرث للورثة",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "دعوى استحقاق"
+   ],
+   "suspension_causes": [],
+   "exceptions": [
+    "أموال الدولة لا تكتسب"
+   ],
+   "common_lawyer_mistakes": [
+    "الاعتقاد بكفاية 15 سنة لإرث"
+   ],
+   "risk_level": "منخفض",
+   "lawyer_workflow": [
+    "إثبات الحيازة لـ33 سنة",
+    "رفع دعوى الملكية"
+   ],
+   "automation_opportunities": [
+    "احتساب مدد التقادم"
+   ],
+   "related_articles": [
+    {
+     "law": "القانون المدني",
+     "article": "970"
+    }
+   ],
+   "related_procedures": [
+    "دعوى تثبيت الملكية"
+   ],
+   "related_topics": [
+    "التقادم المكسب",
+    "الإرث"
+   ],
+   "ai_tags": [
+    "تقادم مكسب",
+    "33 سنة",
+    "إرث",
+    "قانون مدني"
+   ],
+   "search_keywords": [
+    "تقادم الإرث",
+    "المادة 970 مدني"
+   ],
+   "ai_summary": "حقوق الإرث لا تُكتسب بالتقادم إلا بعد 33 سنة من الحيازة.",
+   "classification": {
+    "branch": "مدني",
+    "category": "القانون المدني",
+    "doctrine": "التقادم المكسب",
+    "issue_type": "تقادم حقوق الإرث"
+   },
+   "source_reference": {
+    "book": "المواعيد في القانون المدني",
+    "chapter": "التقادم المكسب",
+    "page": "",
+    "article_number": "970"
+   }
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0916",
+   "القانون_المدني__file_0171__art_0916",
+   "القانون_الدنى__file_0215__art_0916",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0046",
+   "كود_القانون_المدنى__file_0205__art_0914",
+   "القانون_المدني__file_0110__art_0972"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "LIM-0003",
+  "type": "deadline",
+  "category": "مدني",
+  "title": "تقادم حق الارتفاق بعدم الاستعمال",
+  "content": "ينقضي حق الارتفاق بعدم الاستعمال مدة خمس عشرة سنة.",
+  "keywords": [
+   "ارتفاق",
+   "15 سنة",
+   "تقادم",
+   "قانون مدني",
+   "تقادم حق الارتفاق",
+   "المادة 1026 مدني",
+   "الارتفاق",
+   "التقادم"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في القانون المدني",
+   "law_number": null,
+   "article_number": "1026",
+   "date": null,
+   "court": "المحكمة الابتدائية",
+   "confidence": null,
+   "branch": "مدني",
+   "duration": "15 سنة",
+   "duration_days": 5475,
+   "risk_level": "منخفض"
+  },
+  "source_fields": {
+   "id": "LIM-0003",
+   "title": "تقادم حق الارتفاق بعدم الاستعمال",
+   "category": "مدني",
+   "sub_category": "حق الارتفاق",
+   "deadline_type": "تقادم",
+   "trigger_event": "آخر استعمال لحق الارتفاق",
+   "duration": "15 سنة",
+   "duration_days": 5475,
+   "calculation_method": "من آخر استعمال",
+   "legal_text": "ينقضي حق الارتفاق بعدم الاستعمال مدة خمس عشرة سنة.",
+   "plain_language_explanation": "حق الارتفاق ينقضي بعدم استعماله لـ15 سنة.",
+   "practical_meaning": "أصحاب حقوق الارتفاق يجب ممارستها بانتظام.",
+   "start_date_rule": "من آخر استعمال",
+   "end_condition": "15 سنة دون استعمال",
+   "court_or_authority": "المحكمة الابتدائية",
+   "required_action": "ممارسة الحق بانتظام",
+   "mandatory_requirements": [],
+   "required_documents": [],
+   "risk_if_missed": "انقضاء حق الارتفاق",
+   "legal_effect_if_missed": "لا يجوز ممارسة الحق",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "أي استعمال"
+   ],
+   "suspension_causes": [
+    "العائق المادي"
+   ],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال نصيحة الموكل بالممارسة"
+   ],
+   "risk_level": "منخفض",
+   "lawyer_workflow": [
+    "تنبيه الموكل بالممارسة",
+    "توثيق الاستعمال"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد الارتفاقات"
+   ],
+   "related_articles": [
+    {
+     "law": "القانون المدني",
+     "article": "1026"
+    }
+   ],
+   "related_procedures": [
+    "انقضاء الارتفاق"
+   ],
+   "related_topics": [
+    "الارتفاق",
+    "التقادم"
+   ],
+   "ai_tags": [
+    "ارتفاق",
+    "15 سنة",
+    "تقادم",
+    "قانون مدني"
+   ],
+   "search_keywords": [
+    "تقادم حق الارتفاق",
+    "المادة 1026 مدني"
+   ],
+   "ai_summary": "حق الارتفاق ينقضي بعدم استعماله لمدة 15 سنة.",
+   "classification": {
+    "branch": "مدني",
+    "category": "القانون المدني",
+    "doctrine": "الارتفاق",
+    "issue_type": "انقضاء الارتفاق"
+   },
+   "source_reference": {
+    "book": "المواعيد في القانون المدني",
+    "chapter": "الارتفاق",
+    "page": "",
+    "article_number": "1026"
+   }
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0971",
+   "القانون_المدني__file_0171__art_0971",
+   "القانون_الدنى__file_0215__art_0971",
+   "كود_القانون_المدنى__file_0205__art_0970",
+   "القانون_المدني__file_0110__art_1028"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

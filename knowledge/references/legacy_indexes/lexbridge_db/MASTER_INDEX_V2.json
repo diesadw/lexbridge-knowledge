@@ -1,0 +1,258 @@
+{
+  "database_id": "LEXBRIDGE_V2_MASTER_INDEX",
+  "title": "الفهرس الرئيسي الموحَّد — قاعدة البيانات العميقة V2",
+  "version": "2.0",
+  "description": "نقطة الدخول الموحَّدة لقاعدة البيانات الإجرائية العميقة — هندسة ذكاء قانوني إجرائي كاملة",
+
+  "procedures_registry": [
+    {
+      "id": "CIVIL-DEEP-001",
+      "title": "رفع الدعوى المدنية — الطريق الأصلي",
+      "file": "procedures/CIVIL-DEEP-001-filing.json",
+      "branch": "مدني",
+      "difficulty": "متوسط",
+      "critical_deadlines": ["30 يوم إعلان", "15 يوم حضور ابتدائي", "60 يوم تجديد شطب"],
+      "ai_tags": ["صحيفة دعوى", "قيد الدعوى", "إعلان", "مرافعات"]
+    },
+    {
+      "id": "CIVIL-DEEP-002",
+      "title": "أمر الأداء",
+      "file": "procedures/CIVIL-DEEP-002-order-to-pay.json",
+      "branch": "مدني",
+      "difficulty": "بسيط",
+      "critical_deadlines": ["5 أيام تكليف", "3 أشهر إعلان الأمر", "10 أيام تظلم"],
+      "ai_tags": ["أمر أداء", "دين", "سند", "شيك", "كمبيالة"]
+    },
+    {
+      "id": "ADMIN-DEEP-001",
+      "title": "التظلم الإداري + دعوى الإلغاء",
+      "file": "procedures/ADMIN-DEEP-001-complaint-annulment.json",
+      "branch": "إداري",
+      "difficulty": "معقد",
+      "critical_deadlines": ["60+60+60 يوم", "60 يوم الطعن بالعليا"],
+      "ai_tags": ["تظلم إداري", "إلغاء قرار", "مجلس الدولة", "وقف تنفيذ"]
+    },
+    {
+      "id": "CRIM-DEEP-001",
+      "title": "رفع الدعوى الجنائية",
+      "file": "procedures/CRIM-DEEP-001-criminal-procedure.json",
+      "branch": "جنائي",
+      "difficulty": "معقد",
+      "critical_deadlines": ["3 أشهر شكوى", "10 أيام معارضة", "10 أيام استئناف"],
+      "ai_tags": ["دعوى جنائية", "شكوى", "جنايات", "معارضة", "استئناف جنائي"]
+    },
+    {
+      "id": "FAMILY-DEEP-001",
+      "title": "دعاوى محكمة الأسرة",
+      "file": "procedures/FAMILY-DEEP-001-family-court.json",
+      "branch": "أسرة",
+      "difficulty": "متوسط",
+      "critical_deadlines": ["15 يوم تسوية", "30 يوم استئناف أسرة"],
+      "ai_tags": ["خلع", "نفقة", "حضانة", "رؤية", "تطليق", "مؤخر صداق"]
+    }
+  ],
+
+  "deadlines_master": {
+    "title": "قاعدة المواعيد الحاسمة الموحَّدة",
+    "sorted_by_risk": [
+      {
+        "rank": 1, "deadline": "أمر الأداء — إعلان المدين", "duration": "3 أشهر",
+        "trigger": "صدور الأمر", "consequence": "اعتبار العريضة والأمر كأن لم يكنا",
+        "branch": "مدني", "procedure_id": "CIVIL-DEEP-002", "recoverable": false
+      },
+      {
+        "rank": 2, "deadline": "الاستئناف المدني", "duration": "40 يوماً",
+        "trigger": "صدور / إعلان حكم الدرجة الأولى", "consequence": "سقوط حق الاستئناف",
+        "branch": "مدني", "procedure_id": "CIVIL-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 3, "deadline": "دعوى الإلغاء بعد التظلم", "duration": "60 يوماً",
+        "trigger": "انقضاء مدة البت أو الرفض الصريح", "consequence": "سقوط الحق في الإلغاء",
+        "branch": "إداري", "procedure_id": "ADMIN-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 4, "deadline": "التظلم الإداري الوجوبي", "duration": "60 يوماً",
+        "trigger": "النشر / الإعلان / العلم اليقيني", "consequence": "عدم قبول دعوى الإلغاء",
+        "branch": "إداري", "procedure_id": "ADMIN-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 5, "deadline": "الشكوى الجنائية", "duration": "3 أشهر",
+        "trigger": "علم المجني عليه بالجريمة وبمرتكبها", "consequence": "سقوط حق الشكوى",
+        "branch": "جنائي", "procedure_id": "CRIM-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 6, "deadline": "المعارضة الجنائية", "duration": "10 أيام",
+        "trigger": "إعلان الحكم الغيابي", "consequence": "تأييد الحكم الغيابي",
+        "branch": "جنائي", "procedure_id": "CRIM-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 7, "deadline": "الاستئناف الجنائي", "duration": "10 أيام",
+        "trigger": "النطق بالحكم أو إعلانه", "consequence": "سقوط الاستئناف",
+        "branch": "جنائي", "procedure_id": "CRIM-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 8, "deadline": "الدعوى الموضوعية بعد الحجز التحفظي", "duration": "8 أيام",
+        "trigger": "توقيع الحجز", "consequence": "اعتبار الحجز كأن لم يكن",
+        "branch": "مدني/تنفيذ", "procedure_id": "EXEC-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 9, "deadline": "تجديد الدعوى من الشطب", "duration": "60 يوماً",
+        "trigger": "قرار الشطب", "consequence": "اعتبار الدعوى كأن لم تكن",
+        "branch": "مدني", "procedure_id": "CIVIL-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 10, "deadline": "تعجيل من الوقف الاتفاقي", "duration": "8 أيام",
+        "trigger": "انقضاء مدة الوقف", "consequence": "اعتبار المدعي تاركاً دعواه",
+        "branch": "مدني", "procedure_id": "CIVIL-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 11, "deadline": "الدعوى الدستورية بعد الإذن", "duration": "3 أشهر",
+        "trigger": "صدور الإذن من المحكمة الموضوعية", "consequence": "سقوط الدفع",
+        "branch": "دستوري", "procedure_id": "CONST-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 12, "deadline": "التظلم من أمر الأداء", "duration": "10 أيام",
+        "trigger": "إعلان المدين بالأمر", "consequence": "الأمر نهائي واجب النفاذ",
+        "branch": "مدني", "procedure_id": "CIVIL-DEEP-002", "recoverable": false
+      },
+      {
+        "rank": 13, "deadline": "استئناف أحكام الأسرة", "duration": "30 يوماً",
+        "trigger": "إعلان الحكم", "consequence": "الحكم نهائي",
+        "branch": "أسرة", "procedure_id": "FAMILY-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 14, "deadline": "الطعن أمام المحكمة الإدارية العليا", "duration": "60 يوماً",
+        "trigger": "إعلان الحكم الإداري", "consequence": "الحكم نهائي بات",
+        "branch": "إداري", "procedure_id": "ADMIN-DEEP-001", "recoverable": false
+      },
+      {
+        "rank": 15, "deadline": "الطعن بالنقض المدني", "duration": "60 يوماً",
+        "trigger": "إعلان الحكم الاستئنافي", "consequence": "الحكم بات",
+        "branch": "مدني", "procedure_id": "CIVIL-DEEP-001", "recoverable": false
+      }
+    ]
+  },
+
+  "documents_master": {
+    "title": "فهرس المستندات الموحَّد",
+    "by_category": {
+      "هوية_وتمثيل": [
+        "بطاقة الرقم القومي",
+        "توكيل رسمي خاص",
+        "توكيل رسمي عام",
+        "كارنيه المحاماة"
+      ],
+      "وثائق_دعوى": [
+        "صحيفة الدعوى",
+        "المذكرة الشارحة",
+        "حافظة المستندات",
+        "مذكرة دفاع",
+        "صحيفة استئناف",
+        "صحيفة الطعن بالنقض"
+      ],
+      "وثائق_أحوال_شخصية": [
+        "وثيقة الزواج",
+        "شهادة ميلاد",
+        "إشهاد طلاق",
+        "حكم طلاق نهائي",
+        "إعلام وراثة"
+      ],
+      "وثائق_تنفيذ": [
+        "صورة حكم بالصيغة التنفيذية",
+        "أمر حجز تحفظي",
+        "محضر توقيع الحجز"
+      ],
+      "وثائق_إدارية": [
+        "صورة القرار الإداري",
+        "إيصال تقديم التظلم",
+        "شهادة عدم المقدرة",
+        "دمغة قانونية"
+      ],
+      "وثائق_جنائية": [
+        "محاضر الاستدلالات",
+        "ورقة التكليف بالحضور",
+        "أمر الإحالة للجنايات",
+        "شكوى جنائية"
+      ],
+      "وثائق_تجارية": [
+        "عقد تأسيس شركة",
+        "شهادة حجز اسم تجاري",
+        "شيك / كمبيالة / سند إذني"
+      ]
+    }
+  },
+
+  "workflow_index": {
+    "title": "فهرس سير العمل بحسب السؤال",
+    "by_question": [
+      {"question": "كيف أرفع دعوى مدنية؟", "procedures": ["CIVIL-DEEP-001"]},
+      {"question": "كيف أحصّل دين ثابت بالكتابة؟", "procedures": ["CIVIL-DEEP-002"]},
+      {"question": "كيف أطعن في قرار إداري؟", "procedures": ["ADMIN-DEEP-001"]},
+      {"question": "كيف أرفع بلاغاً / دعوى جنائية؟", "procedures": ["CRIM-DEEP-001"]},
+      {"question": "كيف أرفع دعوى خلع؟", "procedures": ["FAMILY-DEEP-001"]},
+      {"question": "كيف أطلب نفقة؟", "procedures": ["FAMILY-DEEP-001"]},
+      {"question": "كيف أنفذ حكماً قضائياً؟", "procedures": ["EXEC-DEEP-001", "EXEC-DEEP-002"]},
+      {"question": "كيف أوقف تنفيذ قرار إداري؟", "procedures": ["ADMIN-DEEP-001"]},
+      {"question": "كيف أطعن في حكم جنائي غيابي؟", "procedures": ["CRIM-DEEP-001"]},
+      {"question": "كيف أؤسس شركة؟", "procedures": ["COMM-DEEP-001"]}
+    ]
+  },
+
+  "risk_index": {
+    "title": "فهرس المخاطر الأكثر شيوعاً",
+    "top_risks": [
+      {"risk": "فوات ميعاد الطعن", "procedures": ["CIVIL-DEEP-001", "ADMIN-DEEP-001", "CRIM-DEEP-001", "FAMILY-DEEP-001"], "prevention": "تشغيل عداد المواعيد فور صدور الحكم"},
+      {"risk": "بطلان الإعلان", "procedures": ["CIVIL-DEEP-001", "CRIM-DEEP-001"], "prevention": "التحقق من العنوان + استيفاء بيانات المادة 9"},
+      {"risk": "عدم استيفاء قيود تحريك الدعوى", "procedures": ["CRIM-DEEP-001", "ADMIN-DEEP-001"], "prevention": "فحص القيود قبل أي إجراء"},
+      {"risk": "رفع دعوى قبل استيفاء التظلم أو التسوية", "procedures": ["ADMIN-DEEP-001", "FAMILY-DEEP-001"], "prevention": "التزام بالتسلسل الإجرائي"},
+      {"risk": "نقص المستندات عند القيد", "procedures": ["جميع الإجراءات"], "prevention": "استخدام قائمة التحقق قبل كل تقديم"},
+      {"risk": "انقضاء الخصومة", "procedures": ["CIVIL-DEEP-001"], "prevention": "متابعة الدعوى ومنع الشطب"}
+    ]
+  },
+
+  "automation_index": {
+    "title": "فهرس فرص الأتمتة الكاملة",
+    "auto_generatable_documents": [
+      "صحيفة الدعوى المدنية",
+      "صحيفة الاستئناف",
+      "عريضة أمر الأداء",
+      "عريضة التظلم الإداري",
+      "صحيفة دعوى الإلغاء",
+      "عريضة دعوى الخلع",
+      "عريضة دعوى النفقة",
+      "عريضة الأمر الوقتي",
+      "مذكرة الدفاع",
+      "خطاب التكليف بالوفاء"
+    ],
+    "auto_calculatable_deadlines": [
+      "مواعيد الاستئناف المدني والجنائي والإداري والأسرة",
+      "مواعيد الطعن بالنقض",
+      "مواعيد التظلم الإداري (60+60+60)",
+      "مواعيد شكوى الجرائم المقيَّدة",
+      "مواعيد المعارضة الجنائية",
+      "مواعيد أمر الأداء",
+      "مواعيد تجديد الدعوى من الشطب",
+      "مواعيد الحجز التحفظي"
+    ],
+    "auto_checkable_conditions": [
+      "توافر شروط قبول الدعوى",
+      "استيفاء قيود تحريك الدعوى الجنائية",
+      "فحص اكتمال المستندات",
+      "تحديد المحكمة المختصة",
+      "التحقق من توافر شروط أمر الأداء"
+    ]
+  },
+
+  "statistics": {
+    "total_procedures_deep": 5,
+    "total_deadlines_indexed": 15,
+    "total_document_types": 42,
+    "total_common_mistakes": 48,
+    "total_cassation_references": 25,
+    "total_legal_articles": 52,
+    "total_automation_opportunities": 40,
+    "total_workflow_steps": 38,
+    "branches_covered": 5,
+    "depth_level": "enterprise_grade"
+  }
+}

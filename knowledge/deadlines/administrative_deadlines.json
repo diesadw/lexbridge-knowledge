@@ -1,0 +1,355 @@
+[
+ {
+  "id": "ADM-0001",
+  "type": "deadline",
+  "category": "إداري",
+  "title": "ميعاد دعوى الإلغاء الإداري",
+  "content": "ميعاد رفع دعوى الإلغاء ستون يوماً من تاريخ نشر القرار الإداري المطعون فيه في الجريدة الرسمية أو من تاريخ إعلان صاحب الشأن به أو من تاريخ علمه به علماً يقينياً.",
+  "keywords": [
+   "إلغاء إداري",
+   "60 يوم",
+   "قرار إداري",
+   "مجلس الدولة",
+   "ميعاد دعوى الإلغاء",
+   "المادة 24 مجلس الدولة",
+   "الإلغاء الإداري"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد الإدارية",
+   "law_number": null,
+   "article_number": "24",
+   "date": null,
+   "court": "محكمة القضاء الإداري",
+   "confidence": null,
+   "branch": "إداري",
+   "duration": "60 يوماً",
+   "duration_days": 60,
+   "risk_level": "مرتفع جداً"
+  },
+  "source_fields": {
+   "id": "ADM-0001",
+   "title": "ميعاد دعوى الإلغاء الإداري",
+   "category": "إداري",
+   "sub_category": "دعوى الإلغاء",
+   "deadline_type": "سقوط",
+   "trigger_event": "علم ذوي الشأن بالقرار الإداري أو نشره",
+   "duration": "60 يوماً",
+   "duration_days": 60,
+   "calculation_method": "من نشر القرار أو إعلانه أو العلم اليقيني",
+   "legal_text": "ميعاد رفع دعوى الإلغاء ستون يوماً من تاريخ نشر القرار الإداري المطعون فيه في الجريدة الرسمية أو من تاريخ إعلان صاحب الشأن به أو من تاريخ علمه به علماً يقينياً.",
+   "plain_language_explanation": "دعوى إلغاء القرار الإداري: 60 يوماً من النشر أو الإعلان أو العلم اليقيني.",
+   "practical_meaning": "أشد مواعيد القانون الإداري خطورة. الفوات يُسقط حق الطعن نهائياً.",
+   "start_date_rule": "من النشر أو الإعلان أو العلم اليقيني",
+   "end_condition": "مضي 60 يوماً",
+   "court_or_authority": "محكمة القضاء الإداري",
+   "required_action": "رفع دعوى الإلغاء",
+   "mandatory_requirements": [
+    "إثبات تاريخ العلم",
+    "التظلم الإداري أولاً في بعض الحالات"
+   ],
+   "required_documents": [
+    "صورة القرار",
+    "ما يثبت تاريخ العلم"
+   ],
+   "risk_if_missed": "سقوط حق الطعن نهائياً",
+   "legal_effect_if_missed": "رد الدعوى لرفعها بعد الميعاد",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "التظلم الإداري يوقف الميعاد"
+   ],
+   "suspension_causes": [],
+   "exceptions": [
+    "التظلم يوقف الميعاد حتى الرد أو مضي 60 يوماً",
+    "القرارات السلبية: من انقضاء 60 يوماً على الطلب بدون رد"
+   ],
+   "common_lawyer_mistakes": [
+    "احتساب الميعاد من تاريخ خاطئ",
+    "إغفال أثر التظلم على الميعاد"
+   ],
+   "risk_level": "مرتفع جداً",
+   "lawyer_workflow": [
+    "تحديد تاريخ العلم",
+    "النظر في التظلم",
+    "رفع الدعوى قبل 60 يوماً"
+   ],
+   "automation_opportunities": [
+    "احتساب ميعاد الإلغاء",
+    "تنبيه بالانتهاء"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون مجلس الدولة",
+     "article": "24"
+    }
+   ],
+   "related_procedures": [
+    "دعوى الإلغاء",
+    "التظلم الإداري"
+   ],
+   "related_topics": [
+    "الإلغاء الإداري",
+    "مجلس الدولة"
+   ],
+   "ai_tags": [
+    "إلغاء إداري",
+    "60 يوم",
+    "قرار إداري",
+    "مجلس الدولة"
+   ],
+   "search_keywords": [
+    "ميعاد دعوى الإلغاء",
+    "المادة 24 مجلس الدولة"
+   ],
+   "ai_summary": "دعوى إلغاء القرار الإداري: 60 يوماً من النشر أو الإعلان أو العلم اليقيني.",
+   "classification": {
+    "branch": "إداري",
+    "category": "قانون مجلس الدولة",
+    "doctrine": "دعوى الإلغاء",
+    "issue_type": "ميعاد الطعن بالإلغاء"
+   },
+   "source_reference": {
+    "book": "المواعيد الإدارية",
+    "chapter": "دعوى الإلغاء",
+    "page": "",
+    "article_number": "24"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "ADM-0002",
+  "type": "deadline",
+  "category": "إداري",
+  "title": "ميعاد التظلم الإداري وأثره على ميعاد الطعن",
+  "content": "التظلم الإداري يوقف ميعاد الطعن. إذا مضى 60 يوماً على التظلم بدون رد جاز اعتباره رفضاً ورفع دعوى الإلغاء.",
+  "keywords": [
+   "تظلم إداري",
+   "60 يوم",
+   "إلغاء",
+   "التظلم الإداري وأثره",
+   "60 يوم تظلم",
+   "التظلم",
+   "مجلس الدولة"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد الإدارية",
+   "law_number": null,
+   "article_number": "24",
+   "date": null,
+   "court": "الجهة الإدارية صاحبة القرار",
+   "confidence": null,
+   "branch": "إداري",
+   "duration": "60 يوماً للتظلم + 60 يوماً انتظار الرد",
+   "duration_days": 60,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "ADM-0002",
+   "title": "ميعاد التظلم الإداري وأثره على ميعاد الطعن",
+   "category": "إداري",
+   "sub_category": "التظلم الإداري",
+   "deadline_type": "إجرائي",
+   "trigger_event": "علم ذوي الشأن بالقرار",
+   "duration": "60 يوماً للتظلم + 60 يوماً انتظار الرد",
+   "duration_days": 60,
+   "calculation_method": "من تاريخ العلم بالقرار",
+   "legal_text": "التظلم الإداري يوقف ميعاد الطعن. إذا مضى 60 يوماً على التظلم بدون رد جاز اعتباره رفضاً ورفع دعوى الإلغاء.",
+   "plain_language_explanation": "التظلم يوقف ميعاد الطعن. الصمت 60 يوماً = رفض ضمني، يجوز بعده رفع الدعوى.",
+   "practical_meaning": "أداة مزدوجة: توقف الميعاد وتتيح تسوية ودية.",
+   "start_date_rule": "من تاريخ العلم بالقرار",
+   "end_condition": "60 يوماً للتظلم + انتظار رد أو 60 يوماً",
+   "court_or_authority": "الجهة الإدارية صاحبة القرار",
+   "required_action": "تقديم التظلم ثم رفع الدعوى",
+   "mandatory_requirements": [
+    "تقديم التظلم كتابةً"
+   ],
+   "required_documents": [
+    "مذكرة التظلم",
+    "ما يثبت تسليمها"
+   ],
+   "risk_if_missed": "انقضاء ميعاد الطعن",
+   "legal_effect_if_missed": "رد الدعوى",
+   "subsequent_deadline": "ميعاد الإلغاء بعد رفض التظلم: 60 يوماً",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "عدم احتساب ميعاد الدعوى بعد رفض التظلم"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "تقديم التظلم",
+    "انتظار 60 يوماً",
+    "رفع دعوى الإلغاء"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد التظلم والطعن"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون مجلس الدولة",
+     "article": "24"
+    }
+   ],
+   "related_procedures": [
+    "التظلم الإداري",
+    "دعوى الإلغاء"
+   ],
+   "related_topics": [
+    "التظلم",
+    "مجلس الدولة"
+   ],
+   "ai_tags": [
+    "تظلم إداري",
+    "60 يوم",
+    "إلغاء"
+   ],
+   "search_keywords": [
+    "التظلم الإداري وأثره",
+    "60 يوم تظلم"
+   ],
+   "ai_summary": "التظلم يوقف ميعاد الطعن. الصمت 60 يوماً = رفض ضمني يجوز بعده رفع دعوى الإلغاء.",
+   "classification": {
+    "branch": "إداري",
+    "category": "قانون مجلس الدولة",
+    "doctrine": "التظلم",
+    "issue_type": "أثر التظلم على ميعاد الطعن"
+   },
+   "source_reference": {
+    "book": "المواعيد الإدارية",
+    "chapter": "التظلم",
+    "page": "",
+    "article_number": "24"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "ADM-0003",
+  "type": "deadline",
+  "category": "إداري",
+  "title": "تقادم دعوى التعويض الإداري",
+  "content": "تتقادم دعاوى التعويض الإدارية بمضي ثلاث سنوات من تاريخ علم المضرور بوقوع الضرر.",
+  "keywords": [
+   "تعويض إداري",
+   "3 سنوات",
+   "مجلس الدولة",
+   "تقادم التعويض الإداري",
+   "3 سنوات إداري",
+   "التعويض الإداري"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد الإدارية",
+   "law_number": null,
+   "article_number": "24",
+   "date": null,
+   "court": "محكمة القضاء الإداري",
+   "confidence": null,
+   "branch": "إداري",
+   "duration": "3 سنوات",
+   "duration_days": 1095,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "ADM-0003",
+   "title": "تقادم دعوى التعويض الإداري",
+   "category": "إداري",
+   "sub_category": "دعوى التعويض الإداري",
+   "deadline_type": "تقادم",
+   "trigger_event": "علم المضرور بالضرر",
+   "duration": "3 سنوات",
+   "duration_days": 1095,
+   "calculation_method": "من تاريخ العلم بالضرر",
+   "legal_text": "تتقادم دعاوى التعويض الإدارية بمضي ثلاث سنوات من تاريخ علم المضرور بوقوع الضرر.",
+   "plain_language_explanation": "دعوى التعويض الإداري تتقادم بـ3 سنوات من العلم بالضرر.",
+   "practical_meaning": "3 سنوات للمطالبة بالتعويض عن القرارات الإدارية الضارة.",
+   "start_date_rule": "من تاريخ العلم بالضرر",
+   "end_condition": "مضي 3 سنوات",
+   "court_or_authority": "محكمة القضاء الإداري",
+   "required_action": "رفع دعوى التعويض",
+   "mandatory_requirements": [
+    "إثبات تاريخ العلم بالضرر"
+   ],
+   "required_documents": [
+    "القرار الضار",
+    "مستندات الضرر"
+   ],
+   "risk_if_missed": "سقوط الدعوى",
+   "legal_effect_if_missed": "رد الدعوى",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "رفع الدعوى"
+   ],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "الخلط مع ميعاد 60 يوماً لدعوى الإلغاء"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "تحديد تاريخ العلم",
+    "رفع الدعوى خلال 3 سنوات"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد التقادم الإداري"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون مجلس الدولة",
+     "article": "24"
+    }
+   ],
+   "related_procedures": [
+    "دعوى التعويض الإداري"
+   ],
+   "related_topics": [
+    "التعويض الإداري",
+    "مجلس الدولة"
+   ],
+   "ai_tags": [
+    "تعويض إداري",
+    "3 سنوات",
+    "مجلس الدولة"
+   ],
+   "search_keywords": [
+    "تقادم التعويض الإداري",
+    "3 سنوات إداري"
+   ],
+   "ai_summary": "دعوى التعويض الإداري تتقادم بـ3 سنوات من العلم بالضرر.",
+   "classification": {
+    "branch": "إداري",
+    "category": "قانون مجلس الدولة",
+    "doctrine": "دعوى التعويض",
+    "issue_type": "تقادم التعويض"
+   },
+   "source_reference": {
+    "book": "المواعيد الإدارية",
+    "chapter": "التعويض",
+    "page": "",
+    "article_number": "24"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

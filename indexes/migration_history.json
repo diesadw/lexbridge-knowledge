@@ -1,0 +1,21 @@
+[
+  {
+    "file": "001_sprint_2_6_defenses_and_indexes.py",
+    "version": "2.6.0",
+    "description": "Derive defenses collection from judgment defense_args; add graph/stats/validation indexes; promote defenses registry entry from planned to active.",
+    "applied_at": "2026-07-19T15:58:45.005578+00:00",
+    "dry_run": false,
+    "result": {
+      "defenses": {
+        "generated_at": "2026-07-19T15:58:46.664822+00:00",
+        "defense_records_generated": 42,
+        "branches": {
+          "جنائي": 42
+        },
+        "source": "judgment_principle.source_fields.defense_args (real data, zero invented content)"
+      },
+      "graph_nodes": 65395,
+      "stats_total": 65430
+    }
+  }
+]

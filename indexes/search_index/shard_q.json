@@ -1,0 +1,14 @@
+{
+ "quasi_contracts": [
+  "civil_unjust_enrichment",
+  "civil_undue_payment",
+  "civil_negotiorum_gestio"
+ ],
+ "quasi-contracts": [
+  "civil_unjust_enrichment",
+  "civil_undue_payment",
+  "civil_negotiorum_gestio",
+  "civil_legal_obligation_source",
+  "civil_unilateral_will_obligation"
+ ]
+}

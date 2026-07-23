@@ -1,0 +1,275 @@
+{
+  "database_id": "LEXBRIDGE_DEADLINES_INDEX",
+  "title": "فهرس المواعيد الإجرائية الحاسمة — LexBridge",
+  "description": "قاعدة بيانات شاملة بجميع المواعيد القانونية الإجرائية المصرية مرتبةً حسب الفرع والأهمية",
+  "version": "1.0",
+  "deadlines_by_branch": {
+    "مدني": [
+      {
+        "deadline_id": "MDN-001",
+        "title": "ميعاد الاستئناف المدني",
+        "duration": "40 يوماً",
+        "starts_from": "تاريخ إعلان الحكم الابتدائي للمحكوم عليه",
+        "legal_effect_if_missed": "سقوط الحق في الاستئناف — الحكم يصبح نهائياً",
+        "legal_basis": "المادة 227 مرافعات",
+        "risk_level": "حاسم",
+        "procedure_id": "CIVIL-002",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "MDN-002",
+        "title": "ميعاد الاستئناف في الأحوال الشخصية",
+        "duration": "30 يوماً",
+        "starts_from": "تاريخ إعلان الحكم",
+        "legal_effect_if_missed": "سقوط الحق في الاستئناف",
+        "legal_basis": "قانون الأحوال الشخصية",
+        "risk_level": "حاسم",
+        "procedure_id": "FAMILY-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "MDN-003",
+        "title": "ميعاد الطعن بالنقض المدني",
+        "duration": "60 يوماً",
+        "starts_from": "تاريخ إعلان الحكم الاستئنافي",
+        "legal_effect_if_missed": "سقوط الحق في الطعن — الحكم يصبح باتاً",
+        "legal_basis": "المادة 255 مرافعات",
+        "risk_level": "حاسم",
+        "procedure_id": "CIVIL-003",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "MDN-004",
+        "title": "ميعاد المعارضة المدنية",
+        "duration": "15 يوماً",
+        "starts_from": "تاريخ إعلان الحكم الغيابي",
+        "legal_effect_if_missed": "تأييد الحكم الغيابي وصيرورته نهائياً",
+        "legal_basis": "المادة 241 مرافعات",
+        "risk_level": "حاسم",
+        "procedure_id": "CIVIL-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "MDN-005",
+        "title": "إعلان صحيفة الدعوى بعد القيد",
+        "duration": "30 يوماً (على الأكثر)",
+        "starts_from": "تاريخ تسليم الأوراق لقلم المحضرين",
+        "legal_effect_if_missed": "غرامة على المحضر/الكاتب (10–100 جنيه)",
+        "legal_basis": "المادة 68 مرافعات",
+        "risk_level": "متوسط",
+        "procedure_id": "CIVIL-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "MDN-006",
+        "title": "رفع الدعوى الموضوعية بعد الحجز التحفظي",
+        "duration": "8 أيام",
+        "starts_from": "تاريخ توقيع الحجز التحفظي",
+        "legal_effect_if_missed": "اعتبار الحجز كأن لم يكن — انتهاء أثره",
+        "legal_basis": "المادة 321 مرافعات",
+        "risk_level": "حاسم",
+        "procedure_id": "EXEC-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "MDN-007",
+        "title": "تقادم تنفيذ الأحكام",
+        "duration": "15 سنة",
+        "starts_from": "تاريخ صدور الحكم النهائي",
+        "legal_effect_if_missed": "سقوط الحق في التنفيذ",
+        "legal_basis": "قواعد التقادم العام",
+        "risk_level": "عالٍ",
+        "procedure_id": "EXEC-002",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "MDN-008",
+        "title": "مذكرة دفاع المدعى عليه",
+        "duration": "3 أيام قبل الجلسة على الأقل",
+        "starts_from": "قبل الجلسة المحددة",
+        "legal_effect_if_missed": "يُعلَم به دون إلزام بقبوله",
+        "legal_basis": "المادة 63 مرافعات",
+        "risk_level": "منخفض",
+        "procedure_id": "CIVIL-001",
+        "automation_alert": false
+      },
+      {
+        "deadline_id": "MDN-009",
+        "title": "ميعاد الحضور (المحكمة الابتدائية والاستئناف)",
+        "duration": "15 يوماً",
+        "starts_from": "تاريخ إعلان الصحيفة",
+        "legal_effect_if_missed": "الإعلان غير صحيح",
+        "legal_basis": "المادة 71 مرافعات",
+        "risk_level": "عالٍ",
+        "procedure_id": "CIVIL-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "MDN-010",
+        "title": "ميعاد الحضور (المحاكم الجزئية)",
+        "duration": "8 أيام",
+        "starts_from": "تاريخ إعلان الصحيفة",
+        "legal_effect_if_missed": "الإعلان غير صحيح",
+        "legal_basis": "المادة 71 مرافعات",
+        "risk_level": "عالٍ",
+        "procedure_id": "CIVIL-001",
+        "automation_alert": true
+      }
+    ],
+    "جنائي": [
+      {
+        "deadline_id": "JN-001",
+        "title": "ميعاد الشكوى في الجرائم المقيدة",
+        "duration": "3 أشهر",
+        "starts_from": "يوم علم المجني عليه بالجريمة وبمرتكبها",
+        "legal_effect_if_missed": "سقوط الحق في الشكوى — عدم قبول الدعوى",
+        "legal_basis": "المادة 3 إجراءات جنائية",
+        "risk_level": "حاسم",
+        "procedure_id": "CRIM-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "JN-002",
+        "title": "ميعاد المعارضة الجنائية",
+        "duration": "10 أيام",
+        "starts_from": "تاريخ إعلان الحكم الغيابي",
+        "legal_effect_if_missed": "تأييد الحكم الغيابي وتنفيذه",
+        "legal_basis": "المادة 398 إجراءات جنائية",
+        "risk_level": "حاسم",
+        "procedure_id": "CRIM-002",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "JN-003",
+        "title": "ميعاد الاستئناف الجنائي",
+        "duration": "10 أيام",
+        "starts_from": "تاريخ صدور الحكم",
+        "legal_effect_if_missed": "سقوط الحق في الاستئناف",
+        "legal_basis": "قانون الإجراءات الجنائية",
+        "risk_level": "حاسم",
+        "procedure_id": "CRIM-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "JN-004",
+        "title": "ميعاد الطعن بالنقض الجنائي",
+        "duration": "60 يوماً",
+        "starts_from": "تاريخ إعلان الحكم الاستئنافي",
+        "legal_effect_if_missed": "سقوط الحق في الطعن",
+        "legal_basis": "قانون الإجراءات الجنائية",
+        "risk_level": "حاسم",
+        "procedure_id": "CRIM-001",
+        "automation_alert": true
+      }
+    ],
+    "إداري": [
+      {
+        "deadline_id": "ADM-001",
+        "title": "ميعاد تقديم التظلم الإداري",
+        "duration": "60 يوماً",
+        "starts_from": "تاريخ نشر القرار أو إعلانه أو العلم اليقيني به",
+        "legal_effect_if_missed": "سقوط الحق في التظلم — عدم قبول دعوى الإلغاء",
+        "legal_basis": "المادة 12/ل قانون 47 لسنة 1972",
+        "risk_level": "حاسم",
+        "procedure_id": "ADMIN-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "ADM-002",
+        "title": "ميعاد بت الجهة في التظلم",
+        "duration": "60 يوماً",
+        "starts_from": "تاريخ تقديم التظلم",
+        "legal_effect_if_missed": "الصمت = رفض ضمني يُجيز رفع دعوى الإلغاء",
+        "legal_basis": "المادة 24 قانون 47 لسنة 1972",
+        "risk_level": "عالٍ",
+        "procedure_id": "ADMIN-001",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "ADM-003",
+        "title": "ميعاد دعوى الإلغاء بعد التظلم",
+        "duration": "60 يوماً",
+        "starts_from": "انقضاء ميعاد البت أو تاريخ الرفض الصريح",
+        "legal_effect_if_missed": "سقوط الحق في الإلغاء",
+        "legal_basis": "المادة 24 قانون 47 لسنة 1972",
+        "risk_level": "حاسم",
+        "procedure_id": "ADMIN-002",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "ADM-004",
+        "title": "ميعاد دعوى الإلغاء العام (بلا تظلم)",
+        "duration": "60 يوماً",
+        "starts_from": "تاريخ نشر القرار في الجريدة الرسمية أو المصلحية أو الإعلان أو العلم اليقيني",
+        "legal_effect_if_missed": "عدم قبول الدعوى شكلاً",
+        "legal_basis": "المادة 24 قانون 47 لسنة 1972",
+        "risk_level": "حاسم",
+        "procedure_id": "ADMIN-002",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "ADM-005",
+        "title": "ميعاد الطعن أمام المحكمة الإدارية العليا",
+        "duration": "60 يوماً",
+        "starts_from": "تاريخ إعلان الحكم",
+        "legal_effect_if_missed": "الحكم يصبح نهائياً باتاً",
+        "legal_basis": "قانون مجلس الدولة",
+        "risk_level": "حاسم",
+        "procedure_id": "ADMIN-002",
+        "automation_alert": true
+      },
+      {
+        "deadline_id": "ADM-006",
+        "title": "طلب وقف التنفيذ — إبداؤه في صحيفة الدعوى",
+        "duration": "لحظة إيداع الصحيفة (شرط شكلي لا ميعاد لاحق له)",
+        "starts_from": "وقت إيداع صحيفة الدعوى",
+        "legal_effect_if_missed": "عدم قبول طلب وقف التنفيذ شكلاً",
+        "legal_basis": "المادة 49 قانون 47 لسنة 1972",
+        "risk_level": "حاسم",
+        "procedure_id": "ADMIN-003",
+        "automation_alert": true
+      }
+    ],
+    "دستوري": [
+      {
+        "deadline_id": "DST-001",
+        "title": "ميعاد رفع الدعوى الدستورية بعد الإذن",
+        "duration": "3 أشهر",
+        "starts_from": "تاريخ صدور الإذن من المحكمة الموضوعية",
+        "legal_effect_if_missed": "سقوط الدفع — استمرار الدعوى الموضوعية",
+        "legal_basis": "المادة 29 قانون 48 لسنة 1979",
+        "risk_level": "حاسم",
+        "procedure_id": "CONST-001",
+        "automation_alert": true
+      }
+    ],
+    "تجاري": [
+      {
+        "deadline_id": "TJR-001",
+        "title": "نشر عقد التأسيس في الوقائع المصرية",
+        "duration": "30 يوماً",
+        "starts_from": "تاريخ التسجيل في السجل التجاري",
+        "legal_effect_if_missed": "غرامة قانونية",
+        "legal_basis": "قانون 159 لسنة 1981",
+        "risk_level": "متوسط",
+        "procedure_id": "COMM-001",
+        "automation_alert": true
+      }
+    ]
+  },
+  "critical_deadlines_summary": {
+    "title": "المواعيد الحاسمة الأكثر أهمية للمحامي",
+    "deadlines": [
+      {"rank": 1, "deadline": "الاستئناف المدني", "duration": "40 يوماً", "consequence": "سقوط الاستئناف نهائياً"},
+      {"rank": 2, "deadline": "النقض المدني والجنائي", "duration": "60 يوماً", "consequence": "سقوط الطعن نهائياً"},
+      {"rank": 3, "deadline": "دعوى الإلغاء الإداري", "duration": "60 يوماً", "consequence": "سقوط حق الإلغاء"},
+      {"rank": 4, "deadline": "التظلم الإداري", "duration": "60 يوماً", "consequence": "عدم قبول دعوى الإلغاء"},
+      {"rank": 5, "deadline": "المعارضة الجنائية", "duration": "10 أيام", "consequence": "تنفيذ الحكم الغيابي"},
+      {"rank": 6, "deadline": "الدعوى بعد الحجز التحفظي", "duration": "8 أيام", "consequence": "سقوط الحجز"},
+      {"rank": 7, "deadline": "الشكوى الجنائية", "duration": "3 أشهر", "consequence": "عدم قبول الدعوى"},
+      {"rank": 8, "deadline": "الدعوى الدستورية بعد الإذن", "duration": "3 أشهر", "consequence": "سقوط الدفع"},
+      {"rank": 9, "deadline": "المعارضة المدنية", "duration": "15 يوماً", "consequence": "تأييد الحكم الغيابي"},
+      {"rank": 10, "deadline": "الاستئناف الجنائي", "duration": "10 أيام", "consequence": "سقوط الاستئناف"}
+    ]
+  }
+}

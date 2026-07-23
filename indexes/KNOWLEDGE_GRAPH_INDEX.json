@@ -1,0 +1,78 @@
+{
+ "graph_name": "LEXBRIDGE Legal Knowledge Graph",
+ "version": "v1",
+ "purpose": "Merged, cross-referenced legal knowledge base (Knowledge Base + Legal Codes) ready for future RAG/embedding conversion. Not itself a RAG or embeddings artifact.",
+ "entity_counts": {
+  "articles (المواد القانونية)": 21093,
+  "judgments (الأحكام / مبادئ النقض)": 44155,
+  "defenses (الدفوع)": 0,
+  "procedures (الإجراءات)": 24,
+  "principles (المبادئ الفقهية)": 49,
+  "contracts (العقود)": 0,
+  "deadlines (المواعيد)": 67,
+  "templates (النماذج)": 7
+ },
+ "total_entities": 65395,
+ "relation_counts_article_side": {
+  "article <-> judgment": 25941,
+  "article <-> defense": 0,
+  "article <-> procedure": 282,
+  "article <-> contract": 0,
+  "article <-> principle": 1081
+ },
+ "forward_edges_by_citing_type": {
+  "judgment_principle": 25919,
+  "doctrine_principle": 1081,
+  "deadline": 254,
+  "procedure": 112,
+  "procedure_deep": 170
+ },
+ "citation_linking_summary": {
+  "total_citation_candidates_scanned": 7018,
+  "linked_high_confidence_ge_0_9": 1,
+  "linked_medium_confidence_0_75_to_0_9": 6157,
+  "skipped_no_article_number": 0,
+  "skipped_unidentified_or_unmatched": 860,
+  "by_source_kind": {
+   "judgment": {
+    "candidates": 6686,
+    "linked": 5838,
+    "skipped": 848
+   },
+   "principle": {
+    "candidates": 187,
+    "linked": 187,
+    "skipped": 0
+   },
+   "procedure": {
+    "candidates": 90,
+    "linked": 79,
+    "skipped": 11
+   },
+   "deadline": {
+    "candidates": 55,
+    "linked": 54,
+    "skipped": 1
+   }
+  }
+ },
+ "validation_summary": {
+  "total_records": 65430,
+  "unique_ids": 65395,
+  "duplicate_ids_count": 31,
+  "duplicate_ids_note": "Pre-existing duplicates from the original civil_all.json source (documented in KNOWLEDGE_BASE_REPORT.md phase 2) — not introduced by the graph merge.",
+  "broken_links_count": 0,
+  "records_with_zero_relations_count": 56783,
+  "records_with_zero_relations_by_type": {
+   "judgment_principle": 39197,
+   "deadline": 13,
+   "procedure": 3,
+   "procedure_deep": 2,
+   "template": 7,
+   "legal_article": 17561
+  },
+  "unused_articles_count": 17561,
+  "total_legal_articles": 21093
+ },
+ "schema_note": "Original per-record schema is UNCHANGED. Every record now additionally carries: related_articles, related_judgments, related_defenses, related_procedures, related_contracts, related_principles (all lists of record IDs, no embedded copies of data). All relations are bidirectional where a confident link was created."
+}

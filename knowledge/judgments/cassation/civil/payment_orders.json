@@ -1,0 +1,5018 @@
+[
+ {
+  "id": "cass_civil_payment_orders_0235_35_3",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "اثر بطلان امر الاداء",
+  "content": "إذا كان بطلان أمر الأداء - الذى قضت به محكمة المعارضة - يرجع إلى عدم توافر الشروط التى يتطلبها القانون فى الدين المطالب بإصدار الأمر بأدائه ، فإن هذا البطلان لا يمتد لطلب أمر الأداء الذى هو بديل ورقة التكليف",
+  "keywords": [
+   "أمر آداء",
+   "اثر بطلان امر الاداء",
+   "البطلان",
+   "التقادم",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0235 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0888_52_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-10-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0235",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "1138",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0235_35_3",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "اثر بطلان امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0235",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "1138",
+    "session_date": "21-10-1969",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "أمر آداء",
+    "اثر بطلان امر الاداء",
+    "البطلان",
+    "التقادم",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان بطلان أمر الأداء - الذى قضت به محكمة المعارضة - يرجع إلى عدم توافر الشروط التى يتطلبها القانون فى الدين المطالب بإصدار الأمر بأدائه ، فإن هذا البطلان لا يمتد لطلب أمر الأداء الذى هو بديل ورقة التكليف",
+   "core_principles": [
+    "إذا كان بطلان أمر الأداء - الذى قضت به محكمة المعارضة - يرجع إلى عدم توافر الشروط التى يتطلبها القانون فى الدين المطالب بإصدار الأمر بأدائه ، فإن هذا البطلان لا يمتد لطلب أمر الأداء الذى هو بديل ورقة التكليف بالحضور و يبقى لتقديم هذا الطلب أثره فى قطع التقادم"
+   ],
+   "judicial_rule": {
+    "short": "إذا كان بطلان أمر الأداء - الذى قضت به محكمة المعارضة - يرجع إلى عدم توافر الشروط التى يتطلبها القانون فى الدين المطالب بإصدار الأمر بأدائه ، فإن هذا البطلان لا يمتد لطلب أمر الأداء الذى هو بديل ورقة التكليف",
+    "professional": "إذا كان بطلان أمر الأداء - الذى قضت به محكمة المعارضة - يرجع إلى عدم توافر الشروط التى يتطلبها القانون فى الدين المطالب بإصدار الأمر بأدائه ، فإن هذا البطلان لا يمتد لطلب أمر الأداء الذى هو بديل ورقة التكليف بالحضور و يبقى لتقديم هذا الطلب أثره فى قطع التقادم ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "اثر بطلان امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0888_52_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "اثر بطلان امر الاداء",
+  "content": "سقوط أمر الأداء لعدم إعلانه للمدين خلال ثلاثة أشهر من تاريخ صدوره وفق ما نصت عليه المادة 2/205 من قانون المرافعات هو جزاء مقرر لمصلحة المدين وحده و لابد لإعماله من التمسك به ممن شرع الجزاء لمصلحته ، و يسقط",
+  "keywords": [
+   "أمر آداء",
+   "اثر بطلان امر الاداء",
+   "التنفيذ",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0888 لسنة 52"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0235_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "10-11-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0888",
+   "judicial_year": "52",
+   "office_volume": "34",
+   "page": "1574",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0888_52_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "اثر بطلان امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0888",
+    "judicial_year": "52",
+    "office_volume": "34",
+    "page": "1574",
+    "session_date": "10-11-1983",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "اثر بطلان امر الاداء",
+    "التنفيذ",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "سقوط أمر الأداء لعدم إعلانه للمدين خلال ثلاثة أشهر من تاريخ صدوره وفق ما نصت عليه المادة 2/205 من قانون المرافعات هو جزاء مقرر لمصلحة المدين وحده و لابد لإعماله من التمسك به ممن شرع الجزاء لمصلحته ، و يسقط",
+   "core_principles": [
+    "لخلو الصورة المعلنة إليه من الصيغة التنفيذية فى الأشكال المرفوع منه لوقف تنفيذه إعتبار ذلك الأمر كأن لم يكن دون أن يثبت له تمسك الطاعن بهذا الدفاع ذلك إن التمسك ببطلان إعلان أمر الأداء ، لا يفيد فى حد ذاته التمسك بسقوط ذلك الأمر ، و إذ إنتهى الحكم المطعون فيه إلى رفضه الدفع بعدم جواز نظر الدعوى لساب"
+   ],
+   "judicial_rule": {
+    "short": "لخلو الصورة المعلنة إليه من الصيغة التنفيذية فى الأشكال المرفوع منه لوقف تنفيذه إعتبار ذلك الأمر كأن لم يكن دون أن يثبت له تمسك الطاعن بهذا الدفاع ذلك إن التمسك ببطلان إعلان أمر الأداء ، لا يفيد فى حد ذاته",
+    "professional": "سقوط أمر الأداء لعدم إعلانه للمدين خلال ثلاثة أشهر من تاريخ صدوره وفق ما نصت عليه المادة 2/205 من قانون المرافعات هو جزاء مقرر لمصلحة المدين وحده و لابد لإعماله من التمسك به ممن شرع الجزاء لمصلحته ، و يسقط الحق فى توقيع الجزاء متى نزل عنه صاحبه صراحة و ضمناً ، و أنه بإعتباره دفعاً شكلياً لابد من التمسك به فى صحيفة التظلم قبل التكلم فى الموضوع أو فى صورة دفع فى الأشكال المقام لوقف إجراءات تنفيذه ، و هذا السقوط لا يتعلق بالنظام العام فلا يجوز للمحكمة أن تقضى به من تلقاء نفسها ،"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "اثر بطلان امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0053_35_3",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "اثر صدور الحكم بالاداء",
+  "content": "من مقتضى صدور أمر الأداء - و هو بمثابة حكم - ضد الطاعن هو إلزامه بالدين الثابت بالسندين ، مما مفاده صحة هذا الدين و ثبوته بذمته قبل الصادر لصالحه امر الأداء بما يتناقض مع طلب الطاعن بطلان هذين السندين",
+  "keywords": [
+   "أمر آداء",
+   "اثر صدور الحكم بالاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0053 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0888_52_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "11-03-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0053",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "391",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0053_35_3",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "اثر صدور الحكم بالاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0053",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "391",
+    "session_date": "11-03-1969",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "أمر آداء",
+    "اثر صدور الحكم بالاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من مقتضى صدور أمر الأداء - و هو بمثابة حكم - ضد الطاعن هو إلزامه بالدين الثابت بالسندين ، مما مفاده صحة هذا الدين و ثبوته بذمته قبل الصادر لصالحه امر الأداء بما يتناقض مع طلب الطاعن بطلان هذين السندين",
+   "core_principles": [
+    "ذلك أن صحة الدين و طلب بطلانه - على ما جرى به قضاء محكمة النقض - و جهان متقابلان لشىء واحد و القضاء بصحة الدين يتضمن حتما القضاء بأنه غير باطل"
+   ],
+   "judicial_rule": {
+    "short": "ذلك أن صحة الدين و طلب بطلانه - على ما جرى به قضاء محكمة النقض - و جهان متقابلان لشىء واحد و القضاء بصحة الدين يتضمن حتما القضاء بأنه غير باطل",
+    "professional": "من مقتضى صدور أمر الأداء - و هو بمثابة حكم - ضد الطاعن هو إلزامه بالدين الثابت بالسندين ، مما مفاده صحة هذا الدين و ثبوته بذمته قبل الصادر لصالحه امر الأداء بما يتناقض مع طلب الطاعن بطلان هذين السندين . ذلك أن صحة الدين و طلب بطلانه - على ما جرى به قضاء محكمة النقض - و جهان متقابلان لشىء واحد و القضاء بصحة الدين يتضمن حتما القضاء بأنه غير باطل ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "اثر صدور الحكم بالاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0888_52_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "اثر صدور الحكم بالاداء",
+  "content": "أوامر الأداء و إن كانت تصدر بطريقة تختلف عن الإجراءات المعتادة لرفع الدعوى و تشتبه بطريقة إستصدار الأوامر على العرائض - إلا أنها تصدر بموجب السلطة القضائية للقاضى لا الولائية و لها ما للأحكام من قوة .",
+  "keywords": [
+   "أمر آداء",
+   "اثر صدور الحكم بالاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0888 لسنة 52"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0053_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "10-11-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0888",
+   "judicial_year": "52",
+   "office_volume": "34",
+   "page": "1574",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0888_52_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "اثر صدور الحكم بالاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0888",
+    "judicial_year": "52",
+    "office_volume": "34",
+    "page": "1574",
+    "session_date": "10-11-1983",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "اثر صدور الحكم بالاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "أوامر الأداء و إن كانت تصدر بطريقة تختلف عن الإجراءات المعتادة لرفع الدعوى و تشتبه بطريقة إستصدار الأوامر على العرائض - إلا أنها تصدر بموجب السلطة القضائية للقاضى لا الولائية و لها ما للأحكام من قوة .",
+   "core_principles": [
+    "أوامر الأداء و إن كانت تصدر بطريقة تختلف عن الإجراءات المعتادة لرفع الدعوى و تشتبه بطريقة إستصدار الأوامر على العرائض - إلا أنها تصدر بموجب السلطة القضائية للقاضى لا الولائية و لها ما للأحكام من قوة"
+   ],
+   "judicial_rule": {
+    "short": "أوامر الأداء و إن كانت تصدر بطريقة تختلف عن الإجراءات المعتادة لرفع الدعوى و تشتبه بطريقة إستصدار الأوامر على العرائض - إلا أنها تصدر بموجب السلطة القضائية للقاضى لا الولائية و لها ما للأحكام من قوة",
+    "professional": "أوامر الأداء و إن كانت تصدر بطريقة تختلف عن الإجراءات المعتادة لرفع الدعوى و تشتبه بطريقة إستصدار الأوامر على العرائض - إلا أنها تصدر بموجب السلطة القضائية للقاضى لا الولائية و لها ما للأحكام من قوة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "اثر صدور الحكم بالاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0211_44_5",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "التظلم من امر الاداء",
+  "content": "أجازت المادة 26 من قانون المرافعات للمدين الطعن فى أمر الأداء الصادر عليه فى صورة تظلم تراعى فيه الأوضاع المقررة لصحيفة إفتتاح الدعوى ، ولئن أعتبرت المادة 1/207 منه المتظلم فى حكم المدعى و أوجبت أن يراعى عند نظر التظلم",
+  "keywords": [
+   "أمر آداء",
+   "التظلم من امر الاداء",
+   "التقادم",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0211 لسنة 44"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0415_46_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "04-01-1978",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0211",
+   "judicial_year": "44",
+   "office_volume": "29",
+   "page": "87",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0211_44_5",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "التظلم من امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0211",
+    "judicial_year": "44",
+    "office_volume": "29",
+    "page": "87",
+    "session_date": "04-01-1978",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "أمر آداء",
+    "التظلم من امر الاداء",
+    "التقادم",
+    "امر اداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "أجازت المادة 26 من قانون المرافعات للمدين الطعن فى أمر الأداء الصادر عليه فى صورة تظلم تراعى فيه الأوضاع المقررة لصحيفة إفتتاح الدعوى ، ولئن أعتبرت المادة 1/207 منه المتظلم فى حكم المدعى و أوجبت أن يراعى عند نظر التظلم",
+   "core_principles": [
+    "و إذ كان البين من مدونات الحكم المطعون فيه أن المطعون عليه الأول الذى إستصدر أمر الأداء قد أخل بإلتزام فرضه عليه القانون هو بيان موطنه الأصلى فى عريضة طلب أمر الأداء التى تعد بديلاً عن ورقة التكليف بالحضور على ما سلف بيانه فإنه يحق للطاعن أن يعلنه بصحيفة الإستئناف فى المحل المختار المبين بطلب الأمر"
+   ],
+   "judicial_rule": {
+    "short": "و إذ كان البين من مدونات الحكم المطعون فيه أن المطعون عليه الأول الذى إستصدر أمر الأداء قد أخل بإلتزام فرضه عليه القانون هو بيان موطنه الأصلى فى عريضة طلب أمر الأداء التى تعد بديلاً عن ورقة التكليف بالحضور على",
+    "professional": "أجازت المادة 26 من قانون المرافعات للمدين الطعن فى أمر الأداء الصادر عليه فى صورة تظلم تراعى فيه الأوضاع المقررة لصحيفة إفتتاح الدعوى ، ولئن أعتبرت المادة 1/207 منه المتظلم فى حكم المدعى و أوجبت أن يراعى عند نظر التظلم القواعد و الأجراءات المتبعة أمام محكمة الدرجة الأولى و ذلك إتجاها من المشرع - و على ما أوردته المذكرة الإيضاحية للمادة 855 المقابلة من قانون المرافعات السابق معدلة بالقانون رقم 100 لسنة 1962 - الى أن يكون الطعن فى هذه الأوامر فى صورة تظلم تراعى فيه الأوضاع المق"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "التظلم من امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0415_46_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "التظلم من امر الاداء",
+  "content": "إذ ألغت محكمة التظلم أمر الأداء لسبب لا يتعلق بعيب فى هذه العريضة فإنها تقتصر على الإلغاء بل عليها أن تفصل فى موضوع النزاع . لما كان ذلك ، و كان الحكم المطعون فيه قد قضى بإلغاء أمر الأداء المتظلم",
+  "keywords": [
+   "أمر آداء",
+   "التظلم من امر الاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0415 لسنة 46"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0211_44_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-02-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0415",
+   "judicial_year": "46",
+   "office_volume": "31",
+   "page": "508",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0415_46_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "التظلم من امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0415",
+    "judicial_year": "46",
+    "office_volume": "31",
+    "page": "508",
+    "session_date": "13-02-1980",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "التظلم من امر الاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ ألغت محكمة التظلم أمر الأداء لسبب لا يتعلق بعيب فى هذه العريضة فإنها تقتصر على الإلغاء بل عليها أن تفصل فى موضوع النزاع . لما كان ذلك ، و كان الحكم المطعون فيه قد قضى بإلغاء أمر الأداء المتظلم",
+   "core_principles": [
+    "لما كان ذلك ، و كان الحكم المطعون فيه قد قضى بإلغاء أمر الأداء المتظلم منه لتخلف شرط تعيين المقدار فى الدين المطالب به و لم ينع الطاعن بأى عيب على عريضة طلب إستصدار الأمر فإن قضاء محكمة الإستئناف بإلغاء الأمر لا يحجبها - و قد إتصلت الخصومة بالقضاء إتصالاً صحيحاً - عن الفصل فى موضوع النزاع"
+   ],
+   "judicial_rule": {
+    "short": "لما كان ذلك ، و كان الحكم المطعون فيه قد قضى بإلغاء أمر الأداء المتظلم منه لتخلف شرط تعيين المقدار فى الدين المطالب به و لم ينع الطاعن بأى عيب على عريضة طلب إستصدار الأمر فإن قضاء محكمة الإستئناف بإلغاء",
+    "professional": "إذ ألغت محكمة التظلم أمر الأداء لسبب لا يتعلق بعيب فى هذه العريضة فإنها تقتصر على الإلغاء بل عليها أن تفصل فى موضوع النزاع . لما كان ذلك ، و كان الحكم المطعون فيه قد قضى بإلغاء أمر الأداء المتظلم منه لتخلف شرط تعيين المقدار فى الدين المطالب به و لم ينع الطاعن بأى عيب على عريضة طلب إستصدار الأمر فإن قضاء محكمة الإستئناف بإلغاء الأمر لا يحجبها - و قد إتصلت الخصومة بالقضاء إتصالاً صحيحاً - عن الفصل فى موضوع النزاع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "التظلم من امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0081_34_4",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "الدائن بورقة تجارية لا يلتزم باتباع طريق الامر",
+  "content": "البين من الفقرة الثانية من المادة 851 من قانون المرافعات أن الدائن بورقة تجارية لا يلتزم يإتباع طريق الأمر بالأداء إذا أراد الرجوع فقط على ساحب الورقة التجارية أو المحرر لها أو القابل لها أما إذا أراد الرجوع على غير",
+  "keywords": [
+   "أمر آداء",
+   "التضامن",
+   "الدائن بورقة تجارية لا يلتزم باتباع طريق الامر",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0081 لسنة 34"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "15-06-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0081",
+   "judicial_year": "34",
+   "office_volume": "18",
+   "page": "1275",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0081_34_4",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "الدائن بورقة تجارية لا يلتزم باتباع طريق الامر",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0081",
+    "judicial_year": "34",
+    "office_volume": "18",
+    "page": "1275",
+    "session_date": "15-06-1967",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "أمر آداء",
+    "التضامن",
+    "الدائن بورقة تجارية لا يلتزم باتباع طريق الامر",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "البين من الفقرة الثانية من المادة 851 من قانون المرافعات أن الدائن بورقة تجارية لا يلتزم يإتباع طريق الأمر بالأداء إذا أراد الرجوع فقط على ساحب الورقة التجارية أو المحرر لها أو القابل لها أما إذا أراد الرجوع على غير",
+   "core_principles": [
+    "فإذا كان الثابت من الأوراق أن المطعون ضده أقام دعواه بتكليف بالحضور على الطاعن باعتباره محرر السندات وعلى المظهر فإنه يكون قد سلك الطريق القانونى فى رفعها ولا يؤثر فى ذلك تنازله عن مخاصمة المظهر أثناء سير الدعوى إذ متى رفعت الدعوى بالطريق الصحيح فإنه لا يؤثر فى صحتها ما يطرأ عليها من تغيير فى الخصوم"
+   ],
+   "judicial_rule": {
+    "short": "فإذا كان الثابت من الأوراق أن المطعون ضده أقام دعواه بتكليف بالحضور على الطاعن باعتباره محرر السندات وعلى المظهر فإنه يكون قد سلك الطريق القانونى فى رفعها ولا يؤثر فى ذلك تنازله عن مخاصمة المظهر أثناء سير الدعوى إذ متى",
+    "professional": "البين من الفقرة الثانية من المادة 851 من قانون المرافعات أن الدائن بورقة تجارية لا يلتزم يإتباع طريق الأمر بالأداء إذا أراد الرجوع فقط على ساحب الورقة التجارية أو المحرر لها أو القابل لها أما إذا أراد الرجوع على غير هؤلاء كالمظهرين أو أراد أن يجمع بين الساحب أو المحرر أو القابل وبين غيرهم باعتبارهم جميعا ملتزمين بالتضامن فإنه ينبغى عليه أن يسلك الطريق العادى لرفع الدعاوى ولا تكون طلباته الموجهة إليهم جائزة الاقتضاء بطريق أمر الأداء . فإذا كان الثابت من الأوراق أن المطعون ضده"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "الدائن بورقة تجارية لا يلتزم باتباع طريق الامر",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0230_37_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "القاضى الامر",
+  "content": "متى كان يبين من الأوراق أن أمر الأداء و إن وجه طلبه إلى قاضى الأمور الوقتية ، إلا أنه يبين من الصورة الرسمية لهذا الأمر أن الذى أصدره هو ........ بوصفه رئيساً للمحكمة ، و ليس بصفته قاضياً للأمور الوقتية",
+  "keywords": [
+   "أمر آداء",
+   "القاضى الامر",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0230 لسنة 37"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "11-05-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0230",
+   "judicial_year": "37",
+   "office_volume": "23",
+   "page": "872",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0230_37_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "القاضى الامر",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0230",
+    "judicial_year": "37",
+    "office_volume": "23",
+    "page": "872",
+    "session_date": "11-05-1972",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "القاضى الامر",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان يبين من الأوراق أن أمر الأداء و إن وجه طلبه إلى قاضى الأمور الوقتية ، إلا أنه يبين من الصورة الرسمية لهذا الأمر أن الذى أصدره هو ........ بوصفه رئيساً للمحكمة ، و ليس بصفته قاضياً للأمور الوقتية",
+   "core_principles": [
+    "بوصفه رئيساً للمحكمة ، و ليس بصفته قاضياً للأمور الوقتية ، و مؤدى ذلك أنه أصدر هذا الأمر بمقتضى سلطته القضائية لا سلطته الولائية ، و من ثم فإن النعى على الحكم المطعون فيه - بمقولة إنه قضى بتأييد أمر الأداء رغم بطلانه لصدوره ممن لا ولاية له و هو قاضى الأمور الوقتية - يكون فى غير محله"
+   ],
+   "judicial_rule": {
+    "short": "بوصفه رئيساً للمحكمة ، و ليس بصفته قاضياً للأمور الوقتية ، و مؤدى ذلك أنه أصدر هذا الأمر بمقتضى سلطته القضائية لا سلطته الولائية ، و من ثم فإن النعى على الحكم المطعون فيه - بمقولة إنه قضى بتأييد أمر",
+    "professional": "متى كان يبين من الأوراق أن أمر الأداء و إن وجه طلبه إلى قاضى الأمور الوقتية ، إلا أنه يبين من الصورة الرسمية لهذا الأمر أن الذى أصدره هو ........ بوصفه رئيساً للمحكمة ، و ليس بصفته قاضياً للأمور الوقتية ، و مؤدى ذلك أنه أصدر هذا الأمر بمقتضى سلطته القضائية لا سلطته الولائية ، و من ثم فإن النعى على الحكم المطعون فيه - بمقولة إنه قضى بتأييد أمر الأداء رغم بطلانه لصدوره ممن لا ولاية له و هو قاضى الأمور الوقتية - يكون فى غير محله ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "القاضى الامر",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0106_25_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "المعارضة فى امر الاداء",
+  "content": "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقا لم تنص عليه المادة 855 مرافعات فيسرى على أى حكم يصدر فيها وبغض النظر عن الطلبات فيها ما يسرى على الدعاوى المبينة فى المادة 118 مرافعات من وجوب رفع الاستئناف",
+  "keywords": [
+   "أمر آداء",
+   "المعارضة فى امر الاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0106 لسنة 25"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0281_25_2",
+   "cass_civil_payment_orders_0527_26_1",
+   "cass_civil_payment_orders_0295_27_1",
+   "cass_civil_payment_orders_0264_27_3",
+   "cass_civil_payment_orders_0527_29_1",
+   "cass_civil_payment_orders_0488_30_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "30-04-1959",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0106",
+   "judicial_year": "25",
+   "office_volume": "10",
+   "page": "381",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0106_25_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "المعارضة فى امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0106",
+    "judicial_year": "25",
+    "office_volume": "10",
+    "page": "381",
+    "session_date": "30-04-1959",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "المعارضة فى امر الاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقا لم تنص عليه المادة 855 مرافعات فيسرى على أى حكم يصدر فيها وبغض النظر عن الطلبات فيها ما يسرى على الدعاوى المبينة فى المادة 118 مرافعات من وجوب رفع الاستئناف",
+   "core_principles": [
+    "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقا لم تنص عليه المادة 855 مرافعات فيسرى على أى حكم يصدر فيها وبغض النظر عن الطلبات فيها ما يسرى على الدعاوى المبينة فى المادة 118 مرافعات من وجوب رفع الاستئناف عن الحكم الصادر فيها بطريق التكليف بالحضور عملا بحكم الفقرتين الثانية والرابعة من المادة 4"
+   ],
+   "judicial_rule": {
+    "short": "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقا لم تنص عليه المادة 855 مرافعات فيسرى على أى حكم يصدر فيها وبغض النظر عن الطلبات فيها ما يسرى على الدعاوى المبينة فى المادة 118 مرافعات من وجوب رفع الاستئناف",
+    "professional": "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقا لم تنص عليه المادة 855 مرافعات فيسرى على أى حكم يصدر فيها وبغض النظر عن الطلبات فيها ما يسرى على الدعاوى المبينة فى المادة 118 مرافعات من وجوب رفع الاستئناف عن الحكم الصادر فيها بطريق التكليف بالحضور عملا بحكم الفقرتين الثانية والرابعة من المادة 405 معدلة من قانون المرافعات - ومن ثم يكون إستئناف الحكم الصادر فى المعارضة فى أمر الاداء وقد رفع بتكليف بالحضور مستكملا لأوضاعه فى هذا الخصوص - ويكون الحكم المطعون فيه اذ قضى ببطلا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "المعارضة فى امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0281_25_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "المعارضة فى امر الاداء",
+  "content": "يبين من مجموع نصوص المواد 851 ، 853 ، 855 من قانون المرافعات المعدلة أن المشرع قد إستحدث نظام أوامر الأداء إستثناء من القواعد العامة فى رفع الدعوى و خرج بالإجراءات و المنازعات المتعلقة بها عن نطاق القواعد العادية فى",
+  "keywords": [
+   "أمر آداء",
+   "المعارضة فى امر الاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0281 لسنة 25"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0106_25_1",
+   "cass_civil_payment_orders_0527_26_1",
+   "cass_civil_payment_orders_0295_27_1",
+   "cass_civil_payment_orders_0264_27_3",
+   "cass_civil_payment_orders_0527_29_1",
+   "cass_civil_payment_orders_0488_30_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "11-02-1960",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0281",
+   "judicial_year": "25",
+   "office_volume": "11",
+   "page": "152",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0281_25_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "المعارضة فى امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0281",
+    "judicial_year": "25",
+    "office_volume": "11",
+    "page": "152",
+    "session_date": "11-02-1960",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "المعارضة فى امر الاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "يبين من مجموع نصوص المواد 851 ، 853 ، 855 من قانون المرافعات المعدلة أن المشرع قد إستحدث نظام أوامر الأداء إستثناء من القواعد العامة فى رفع الدعوى و خرج بالإجراءات و المنازعات المتعلقة بها عن نطاق القواعد العادية فى",
+   "core_principles": [
+    "فأوجب ألا يتأخر إصدار الامر عن ثلاثة أيام من تاريخ تقديم عريضته و اعتبره بمجرد صدوره بمثابة حكم غيابى أجاز المعارضة فيه و نص على وجوب الحكم فيها على وجه السرعة و على أنه إذا لم يعارض فيه أعتبر الامر بمثابة حكم حضورى ، مما يضفى على أوامر الاداء سواء فى إجراءات إستصدارها أو المنازعة فيها طابع السرعة ا"
+   ],
+   "judicial_rule": {
+    "short": "فأوجب ألا يتأخر إصدار الامر عن ثلاثة أيام من تاريخ تقديم عريضته و اعتبره بمجرد صدوره بمثابة حكم غيابى أجاز المعارضة فيه و نص على وجوب الحكم فيها على وجه السرعة و على أنه إذا لم يعارض فيه أعتبر الامر",
+    "professional": "يبين من مجموع نصوص المواد 851 ، 853 ، 855 من قانون المرافعات المعدلة أن المشرع قد إستحدث نظام أوامر الأداء إستثناء من القواعد العامة فى رفع الدعوى و خرج بالإجراءات و المنازعات المتعلقة بها عن نطاق القواعد العادية فى قانون المرافعات للتداعى أمام المحاكم توخيا لما هدف إليه من إيجاد وسيلة سهلة مبسطه و سريعة يتوصل بها الدائنون بديون النقود الثابتة بالكتابة و المعينة المقدار و الحالة الأداء إلى حقوقهم دون التقيد بإجراءات التقاضى فى الدعاوى العادية . فأوجب ألا يتأخر إصدار الامر عن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "المعارضة فى امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0527_26_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "المعارضة فى امر الاداء",
+  "content": "المعارضه فى أمر الأداء يحكم فيها على وجه السرعة طبقا للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب استئنافه بطريق التكليف",
+  "keywords": [
+   "أمر آداء",
+   "المعارضة فى امر الاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0527 لسنة 26"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0106_25_1",
+   "cass_civil_payment_orders_0281_25_2",
+   "cass_civil_payment_orders_0295_27_1",
+   "cass_civil_payment_orders_0264_27_3",
+   "cass_civil_payment_orders_0527_29_1",
+   "cass_civil_payment_orders_0488_30_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-11-1961",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0527",
+   "judicial_year": "26",
+   "office_volume": "12",
+   "page": "700",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0527_26_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "المعارضة فى امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0527",
+    "judicial_year": "26",
+    "office_volume": "12",
+    "page": "700",
+    "session_date": "22-11-1961",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "المعارضة فى امر الاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المعارضه فى أمر الأداء يحكم فيها على وجه السرعة طبقا للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب استئنافه بطريق التكليف",
+   "core_principles": [
+    "المعارضه فى أمر الأداء يحكم فيها على وجه السرعة طبقا للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب استئنافه بطريق التكليف بالحضور عملا بالفقرتين الثانية و الرابعة من المادة 405 من قانون المرافعات و من ثم فإن"
+   ],
+   "judicial_rule": {
+    "short": "المعارضه فى أمر الأداء يحكم فيها على وجه السرعة طبقا للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب استئنافه بطريق التكليف",
+    "professional": "المعارضه فى أمر الأداء يحكم فيها على وجه السرعة طبقا للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب استئنافه بطريق التكليف بالحضور عملا بالفقرتين الثانية و الرابعة من المادة 405 من قانون المرافعات و من ثم فإن استئناف الحكم الصادر فى المعارضة فى أمر الأداء وقد رفع بتكليف بالحضور يكون مستكملا لأوضاعه القانونية و بالتالى فإن الحكم المطعون فيه و قد قضى ببطلان الاستئناف يكون مخالفا للقانون"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "المعارضة فى امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0295_27_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "المعارضة فى امر الاداء",
+  "content": "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب إستئناف الحكم الصادر",
+  "keywords": [
+   "أمر آداء",
+   "المعارضة فى امر الاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0295 لسنة 27"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0106_25_1",
+   "cass_civil_payment_orders_0281_25_2",
+   "cass_civil_payment_orders_0527_26_1",
+   "cass_civil_payment_orders_0264_27_3",
+   "cass_civil_payment_orders_0527_29_1",
+   "cass_civil_payment_orders_0488_30_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "31-01-1962",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0295",
+   "judicial_year": "27",
+   "office_volume": "13",
+   "page": "145",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0295_27_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "المعارضة فى امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0295",
+    "judicial_year": "27",
+    "office_volume": "13",
+    "page": "145",
+    "session_date": "31-01-1962",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "المعارضة فى امر الاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب إستئناف الحكم الصادر",
+   "core_principles": [
+    "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب إستئناف الحكم الصادر فيها بطريق التكليف بالحضور عملا بالفقرتين الثانية والرابعة من المادة 405 معدلة من قانو"
+   ],
+   "judicial_rule": {
+    "short": "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب إستئناف الحكم الصادر",
+    "professional": "المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً للمادة 855 من قانون المرافعات و من ثم فإنه يسرى على الحكم الصادر فيها ما يسرى على الدعاوى المبينة فى المادة 118 من قانون المرافعات من وجوب إستئناف الحكم الصادر فيها بطريق التكليف بالحضور عملا بالفقرتين الثانية والرابعة من المادة 405 معدلة من قانون المرافعات ،وإذ كان ذلك وكان إستئناف الحكم الصادر فى المعارضة فى أمر الأداء قد رفع بتكليف بالحضور مستكملاً لأوضاعه القانونية فإن الحكم المطعون فيه وقد قضى ببطلانه يكون مخالفاً للق"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "المعارضة فى امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0264_27_3",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "المعارضة فى امر الاداء",
+  "content": "أنزل المشرع أوامر الأداء منزلة الأحكام ، فنص فى المادة 853 مرافعات على أن يعتبر أمر الأداء بمثابة حكم غيابى ، كما صرحت المذكرة الايضاحية لكل من القانونين 1953/265 و 1953/485 على نفى الرأى القائل باعتبار أمر الأداء بمثابة أمر",
+  "keywords": [
+   "أمر آداء",
+   "المعارضة فى امر الاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0264 لسنة 27"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0106_25_1",
+   "cass_civil_payment_orders_0281_25_2",
+   "cass_civil_payment_orders_0527_26_1",
+   "cass_civil_payment_orders_0295_27_1",
+   "cass_civil_payment_orders_0527_29_1",
+   "cass_civil_payment_orders_0488_30_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "04-04-1963",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0264",
+   "judicial_year": "27",
+   "office_volume": "14",
+   "page": "475",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0264_27_3",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "المعارضة فى امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0264",
+    "judicial_year": "27",
+    "office_volume": "14",
+    "page": "475",
+    "session_date": "04-04-1963",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "أمر آداء",
+    "المعارضة فى امر الاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "أنزل المشرع أوامر الأداء منزلة الأحكام ، فنص فى المادة 853 مرافعات على أن يعتبر أمر الأداء بمثابة حكم غيابى ، كما صرحت المذكرة الايضاحية لكل من القانونين 1953/265 و 1953/485 على نفى الرأى القائل باعتبار أمر الأداء بمثابة أمر",
+   "core_principles": [
+    "أنزل المشرع أوامر الأداء منزلة الأحكام ، فنص فى المادة 853 مرافعات على أن يعتبر أمر الأداء بمثابة حكم غيابى ، كما صرحت المذكرة الايضاحية لكل من القانونين 1953/265 و 1953/485 على نفى الرأى القائل باعتبار أمر الأداء بمثابة أمر على عريضة ، و قد اكد المشرع ذلك بمعاملة أوامر الاداء معاملة الأحكام فى مواط"
+   ],
+   "judicial_rule": {
+    "short": "أنزل المشرع أوامر الأداء منزلة الأحكام ، فنص فى المادة 853 مرافعات على أن يعتبر أمر الأداء بمثابة حكم غيابى ، كما صرحت المذكرة الايضاحية لكل من القانونين 1953/265 و 1953/485 على نفى الرأى القائل باعتبار أمر الأداء بمثابة أمر",
+    "professional": "أنزل المشرع أوامر الأداء منزلة الأحكام ، فنص فى المادة 853 مرافعات على أن يعتبر أمر الأداء بمثابة حكم غيابى ، كما صرحت المذكرة الايضاحية لكل من القانونين 1953/265 و 1953/485 على نفى الرأى القائل باعتبار أمر الأداء بمثابة أمر على عريضة ، و قد اكد المشرع ذلك بمعاملة أوامر الاداء معاملة الأحكام فى مواطن كثيرة ، منها ما نصت عليه المواد 855 و 856 و 857 مكرر مرافعات ، مما يتأدى معه أن أوامر الأداء و إن كانت تصدر بطريقة تختلف عن الإجراءات المعتادة لرفع الدعوى و تشتبه بطريقة استصدار"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "المعارضة فى امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0527_29_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "المعارضة فى امر الاداء",
+  "content": "مفاد ما نصت عليه المادتان 853 و 855 من قانون المرافعات - قبل تعديلها بالقانون رقم 100 لسنة 1962 - من أن أمر الأداء يعتبر بمثابة حكم غيابى و أنه يجوز للمدين المعارضة فى الأمر خلال خمسة عشر يوما من",
+  "keywords": [
+   "أمر آداء",
+   "المعارضة فى امر الاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0527 لسنة 29"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0106_25_1",
+   "cass_civil_payment_orders_0281_25_2",
+   "cass_civil_payment_orders_0527_26_1",
+   "cass_civil_payment_orders_0295_27_1",
+   "cass_civil_payment_orders_0264_27_3",
+   "cass_civil_payment_orders_0488_30_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "07-07-1964",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0527",
+   "judicial_year": "29",
+   "office_volume": "15",
+   "page": "963",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0527_29_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "المعارضة فى امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0527",
+    "judicial_year": "29",
+    "office_volume": "15",
+    "page": "963",
+    "session_date": "07-07-1964",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "المعارضة فى امر الاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "مفاد ما نصت عليه المادتان 853 و 855 من قانون المرافعات - قبل تعديلها بالقانون رقم 100 لسنة 1962 - من أن أمر الأداء يعتبر بمثابة حكم غيابى و أنه يجوز للمدين المعارضة فى الأمر خلال خمسة عشر يوما من",
+   "core_principles": [
+    "مفاد ما نصت عليه المادتان 853 و 855 من قانون المرافعات - قبل تعديلها بالقانون رقم 100 لسنة 1962 - من أن أمر الأداء يعتبر بمثابة حكم غيابى و أنه يجوز للمدين المعارضة فى الأمر خلال خمسة عشر يوما من تاريخ إعلانه إليه ، أن المشرع قد أنزل أوامر الأداء منزلة الأحكام الغيابية و أنزل المعارضة فيها منزلة الم"
+   ],
+   "judicial_rule": {
+    "short": "مفاد ما نصت عليه المادتان 853 و 855 من قانون المرافعات - قبل تعديلها بالقانون رقم 100 لسنة 1962 - من أن أمر الأداء يعتبر بمثابة حكم غيابى و أنه يجوز للمدين المعارضة فى الأمر خلال خمسة عشر يوما من",
+    "professional": "مفاد ما نصت عليه المادتان 853 و 855 من قانون المرافعات - قبل تعديلها بالقانون رقم 100 لسنة 1962 - من أن أمر الأداء يعتبر بمثابة حكم غيابى و أنه يجوز للمدين المعارضة فى الأمر خلال خمسة عشر يوما من تاريخ إعلانه إليه ، أن المشرع قد أنزل أوامر الأداء منزلة الأحكام الغيابية و أنزل المعارضة فيها منزلة المعارضة فى هذه الأحكام مما يتأدى منه أن تخضع المعارضة فى أمر الأداء لأحكام المعارضة فى الحكم الغيابى ، و إذ كان يترتب على المعارضة فى الحكم الغيابى طرح النزاع على المحكمة التى أصدرت"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "المعارضة فى امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0488_30_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "المعارضة فى امر الاداء",
+  "content": "لما كانت المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً لما تنص عليه المادة 855 من قانون المرافعات فان الحكم الذى يصدر فيها يسرى عليه على ماجرى به قضاء محكمة النقض وبغض النظر عن الطلبات الموجهة فيها مايسرى",
+  "keywords": [
+   "أمر آداء",
+   "المعارضة فى امر الاداء",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0488 لسنة 30"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0106_25_1",
+   "cass_civil_payment_orders_0281_25_2",
+   "cass_civil_payment_orders_0527_26_1",
+   "cass_civil_payment_orders_0295_27_1",
+   "cass_civil_payment_orders_0264_27_3",
+   "cass_civil_payment_orders_0527_29_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "11-01-1966",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0488",
+   "judicial_year": "30",
+   "office_volume": "17",
+   "page": "86",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0488_30_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "المعارضة فى امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0488",
+    "judicial_year": "30",
+    "office_volume": "17",
+    "page": "86",
+    "session_date": "11-01-1966",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "المعارضة فى امر الاداء",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كانت المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً لما تنص عليه المادة 855 من قانون المرافعات فان الحكم الذى يصدر فيها يسرى عليه على ماجرى به قضاء محكمة النقض وبغض النظر عن الطلبات الموجهة فيها مايسرى",
+   "core_principles": [
+    "لما كانت المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً لما تنص عليه المادة 855 من قانون المرافعات فان الحكم الذى يصدر فيها يسرى عليه على ماجرى به قضاء محكمة النقض وبغض النظر عن الطلبات الموجهة فيها مايسرى على الدعاوى المبينة بالمادة 118 من قانون المرافعات من وجوب رفع الإستئناف فى الحكم الصاد"
+   ],
+   "judicial_rule": {
+    "short": "لما كانت المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً لما تنص عليه المادة 855 من قانون المرافعات فان الحكم الذى يصدر فيها يسرى عليه على ماجرى به قضاء محكمة النقض وبغض النظر عن الطلبات الموجهة فيها مايسرى",
+    "professional": "لما كانت المعارضة فى أمر الأداء يحكم فيها على وجه السرعة طبقاً لما تنص عليه المادة 855 من قانون المرافعات فان الحكم الذى يصدر فيها يسرى عليه على ماجرى به قضاء محكمة النقض وبغض النظر عن الطلبات الموجهة فيها مايسرى على الدعاوى المبينة بالمادة 118 من قانون المرافعات من وجوب رفع الإستئناف فى الحكم الصادر فيها بطريق التكليف بالحضور عملاً بحكم الفقرتين الثانية والرابعة من المادة 405 من قانون المرافعات ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "المعارضة فى امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0621_40_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "امتناع القاضى عن اصدار الامر",
+  "content": "إذا إمتنع القاضى عن إصدار أمر الإداء ، يحدد جلسة لنظر لدعوى أمام المحكمة تتبع فيها و على ما جرى به قضاء هذه المحكمة القواعد و الإجراءات العادية للدعوى المبتدأه دون نظر إلى إجراءات طلب أمر الأداء التى إنتهت بالرفض",
+  "keywords": [
+   "أمر آداء",
+   "امتناع القاضى عن اصدار الامر",
+   "امر اداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0621 لسنة 40"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-03-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0621",
+   "judicial_year": "40",
+   "office_volume": "30",
+   "page": "736",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0621_40_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "امتناع القاضى عن اصدار الامر",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0621",
+    "judicial_year": "40",
+    "office_volume": "30",
+    "page": "736",
+    "session_date": "07-03-1979",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امتناع القاضى عن اصدار الامر",
+    "امر اداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا إمتنع القاضى عن إصدار أمر الإداء ، يحدد جلسة لنظر لدعوى أمام المحكمة تتبع فيها و على ما جرى به قضاء هذه المحكمة القواعد و الإجراءات العادية للدعوى المبتدأه دون نظر إلى إجراءات طلب أمر الأداء التى إنتهت بالرفض",
+   "core_principles": [
+    "إذا إمتنع القاضى عن إصدار أمر الإداء ، يحدد جلسة لنظر لدعوى أمام المحكمة تتبع فيها و على ما جرى به قضاء هذه المحكمة القواعد و الإجراءات العادية للدعوى المبتدأه دون نظر إلى إجراءات طلب أمر الأداء التى إنتهت بالرفض ، بحيث لا يكفى أن يكون إعلان الطالب خصيمه مقصواً على تكليفه بالحضور أمام المحكمة بالجلس"
+   ],
+   "judicial_rule": {
+    "short": "إذا إمتنع القاضى عن إصدار أمر الإداء ، يحدد جلسة لنظر لدعوى أمام المحكمة تتبع فيها و على ما جرى به قضاء هذه المحكمة القواعد و الإجراءات العادية للدعوى المبتدأه دون نظر إلى إجراءات طلب أمر الأداء التى إنتهت بالرفض",
+    "professional": "إذا إمتنع القاضى عن إصدار أمر الإداء ، يحدد جلسة لنظر لدعوى أمام المحكمة تتبع فيها و على ما جرى به قضاء هذه المحكمة القواعد و الإجراءات العادية للدعوى المبتدأه دون نظر إلى إجراءات طلب أمر الأداء التى إنتهت بالرفض ، بحيث لا يكفى أن يكون إعلان الطالب خصيمه مقصواً على تكليفه بالحضور أمام المحكمة بالجلسة المحددة ، بل بتعين كذلك إعلانه بصورة عن عريضة الطلب المشتملة على وقائع الدعوى و أدلتها و أسانيدها و طلبات المدعى فيها عملاً بالقاعدة الأصلية التى تقضى بها المادة 63 من قانون المر"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "امتناع القاضى عن اصدار الامر",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_1916_54_3",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "تسبيب امر الاداء",
+  "content": "إذ كان رفض القاضى إصدار أمر بالأداء لا يوجب القانون تسبيبه فإن هذا الرفض لا ينبئ بذاته عن تكوين القاضى رأياً خاصاً فى موضوع الحق ، و من ثم فإنه لا يفقد صلاحيته للفصل فى النزاع حول الحق موضوع الطلب",
+  "keywords": [
+   "أمر آداء",
+   "الإيجار",
+   "امر اداء",
+   "تسبيب امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 1916 لسنة 54"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "14-05-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1916",
+   "judicial_year": "54",
+   "office_volume": "40",
+   "page": "280",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_1916_54_3",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "تسبيب امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1916",
+    "judicial_year": "54",
+    "office_volume": "40",
+    "page": "280",
+    "session_date": "14-05-1989",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "أمر آداء",
+    "الإيجار",
+    "امر اداء",
+    "تسبيب امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان رفض القاضى إصدار أمر بالأداء لا يوجب القانون تسبيبه فإن هذا الرفض لا ينبئ بذاته عن تكوين القاضى رأياً خاصاً فى موضوع الحق ، و من ثم فإنه لا يفقد صلاحيته للفصل فى النزاع حول الحق موضوع الطلب",
+   "core_principles": [
+    "و من ثم فإنه لا يفقد صلاحيته للفصل فى النزاع حول الحق موضوع الطلب - لما كان ذلك - و كان طلب إستصدار أمر أداء بالأقساط المستحقة كمقابل إنتفاع لا يمنع من نظر دعوى الطرد لعدم سداد الأجرة أو التأخر فيه عن الميعاد المحدد بعقد الإيجار لإختلاف الموضوع و السبب فى كل منهما ، فإن رفض القاضى إصدار أمر أداء بأق"
+   ],
+   "judicial_rule": {
+    "short": "و من ثم فإنه لا يفقد صلاحيته للفصل فى النزاع حول الحق موضوع الطلب - لما كان ذلك - و كان طلب إستصدار أمر أداء بالأقساط المستحقة كمقابل إنتفاع لا يمنع من نظر دعوى الطرد لعدم سداد الأجرة أو التأخر",
+    "professional": "و من ثم فإنه لا يفقد صلاحيته للفصل فى النزاع حول الحق موضوع الطلب - لما كان ذلك - و كان طلب إستصدار أمر أداء بالأقساط المستحقة كمقابل إنتفاع لا يمنع من نظر دعوى الطرد لعدم سداد الأجرة أو التأخر فيه عن الميعاد المحدد بعقد الإيجار لإختلاف الموضوع و السبب فى كل منهما ، فإن رفض القاضى إصدار أمر أداء بأقساط مقابل الإنتفاع لا يتزافر به سبب من أسباب الصلاحية ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "تسبيب امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0172_23_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "حجية امر الاداء",
+  "content": "إذا كان الحكم إذ أهدر حجية أوامر الأداء بالنسبة إلى دائن آخر لنفس المدين قد أقام قضاءه على أن تلك الأوامر قد صدرت إستنادا إلى سندات صورية و أن إستصدار أوامر الأداء و ما تلا ذلك من إجراءات الحجز بموجبها",
+  "keywords": [
+   "أمر آداء",
+   "الحجز",
+   "امر اداء",
+   "حجية امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0172 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_319_38_2",
+   "cass_civil_payment_orders_0460_42_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-05-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0172",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "520",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0172_23_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "حجية امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0172",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "520",
+    "session_date": "23-05-1957",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "الحجز",
+    "امر اداء",
+    "حجية امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان الحكم إذ أهدر حجية أوامر الأداء بالنسبة إلى دائن آخر لنفس المدين قد أقام قضاءه على أن تلك الأوامر قد صدرت إستنادا إلى سندات صورية و أن إستصدار أوامر الأداء و ما تلا ذلك من إجراءات الحجز بموجبها",
+   "core_principles": [
+    "إذا كان الحكم إذ أهدر حجية أوامر الأداء بالنسبة إلى دائن آخر لنفس المدين قد أقام قضاءه على أن تلك الأوامر قد صدرت إستنادا إلى سندات صورية و أن إستصدار أوامر الأداء و ما تلا ذلك من إجراءات الحجز بموجبها والبيع الذى تم تنفيذاً لهذا الحجز كل ذلك كان بطريق التواطؤ بين المدين والدائن الذى إستصدر تلك الأو"
+   ],
+   "judicial_rule": {
+    "short": "إذا كان الحكم إذ أهدر حجية أوامر الأداء بالنسبة إلى دائن آخر لنفس المدين قد أقام قضاءه على أن تلك الأوامر قد صدرت إستنادا إلى سندات صورية و أن إستصدار أوامر الأداء و ما تلا ذلك من إجراءات الحجز بموجبها",
+    "professional": "إذا كان الحكم إذ أهدر حجية أوامر الأداء بالنسبة إلى دائن آخر لنفس المدين قد أقام قضاءه على أن تلك الأوامر قد صدرت إستنادا إلى سندات صورية و أن إستصدار أوامر الأداء و ما تلا ذلك من إجراءات الحجز بموجبها والبيع الذى تم تنفيذاً لهذا الحجز كل ذلك كان بطريق التواطؤ بين المدين والدائن الذى إستصدر تلك الأوامر فإن الحكم لايكون قد خالف القانون ، ذلك أن الدائن لايعتبر خلفاً للمدين فى التصرفات الصورية التى تصدر من هذا الأخير أو التى تصدر منه بطريق التواطؤ مع دائن آخر إضراراً بحقه إذ يصب"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "حجية امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_319_38_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "حجية امر الاداء",
+  "content": "أمر الأداء النهائى - بإلزام المشترى بباقى الثمن - هو بمثابة حكم حاز قوة الأمر المقضى مانع من العودة إلى مناقشة مسألة أحقية البائع لباقى الثمن الذى أصبح حل الأداء بأية دعوى تالية و بأدلة قانونية أو واقعية لم تسبق",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "حجية امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 319 لسنة 38"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0172_23_2",
+   "cass_civil_payment_orders_0460_42_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "11-02-1974",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "319",
+   "judicial_year": "38",
+   "office_volume": "25",
+   "page": "327",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_319_38_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "حجية امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "319",
+    "judicial_year": "38",
+    "office_volume": "25",
+    "page": "327",
+    "session_date": "11-02-1974",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "حجية امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "أمر الأداء النهائى - بإلزام المشترى بباقى الثمن - هو بمثابة حكم حاز قوة الأمر المقضى مانع من العودة إلى مناقشة مسألة أحقية البائع لباقى الثمن الذى أصبح حل الأداء بأية دعوى تالية و بأدلة قانونية أو واقعية لم تسبق",
+   "core_principles": [
+    "أمر الأداء النهائى - بإلزام المشترى بباقى الثمن - هو بمثابة حكم حاز قوة الأمر المقضى مانع من العودة إلى مناقشة مسألة أحقية البائع لباقى الثمن الذى أصبح حل الأداء بأية دعوى تالية و بأدلة قانونية أو واقعية لم تسبق أثارتها قبل صيرورته إنتهائيا أو أثيرت و لم تبحث فعلاً لعدم إنفتاح بحثها"
+   ],
+   "judicial_rule": {
+    "short": "أمر الأداء النهائى - بإلزام المشترى بباقى الثمن - هو بمثابة حكم حاز قوة الأمر المقضى مانع من العودة إلى مناقشة مسألة أحقية البائع لباقى الثمن الذى أصبح حل الأداء بأية دعوى تالية و بأدلة قانونية أو واقعية لم تسبق",
+    "professional": "أمر الأداء النهائى - بإلزام المشترى بباقى الثمن - هو بمثابة حكم حاز قوة الأمر المقضى مانع من العودة إلى مناقشة مسألة أحقية البائع لباقى الثمن الذى أصبح حل الأداء بأية دعوى تالية و بأدلة قانونية أو واقعية لم تسبق أثارتها قبل صيرورته إنتهائيا أو أثيرت و لم تبحث فعلاً لعدم إنفتاح بحثها ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "حجية امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0460_42_4",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "حجية امر الاداء",
+  "content": "إذ كان أمر الأداء القاضى بإلزام المطعون عليه الأول - المستأجر- بأداء الأجرة المحددة بعقد الإيجار عن المدة من 1970/1/1 حتى آخر مايو سنة 1970 وإن حاز قوة الأمر المقضى إلا أنه إذ صدر تنفيذاً لعقد الإيجار أخذاً بالأجرة المتفق",
+  "keywords": [
+   "أمر آداء",
+   "الإيجار",
+   "العقد",
+   "امر اداء",
+   "حجية امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0460 لسنة 42"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0172_23_2",
+   "cass_civil_payment_orders_319_38_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "05-01-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0460",
+   "judicial_year": "42",
+   "office_volume": "28",
+   "page": "174",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0460_42_4",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "حجية امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0460",
+    "judicial_year": "42",
+    "office_volume": "28",
+    "page": "174",
+    "session_date": "05-01-1977",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "أمر آداء",
+    "الإيجار",
+    "العقد",
+    "امر اداء",
+    "حجية امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان أمر الأداء القاضى بإلزام المطعون عليه الأول - المستأجر- بأداء الأجرة المحددة بعقد الإيجار عن المدة من 1970/1/1 حتى آخر مايو سنة 1970 وإن حاز قوة الأمر المقضى إلا أنه إذ صدر تنفيذاً لعقد الإيجار أخذاً بالأجرة المتفق",
+   "core_principles": [
+    "ودون أن يعرض لقانونية هذه الأجرة تبعاً لعدم إثارة نزاع حولها فإنه لا يحوز حجية فى هذه المسألة ، وإذ كان تحديد الأجرة طبقاً لقوانين إيجار الأماكن من المسائل المتعلقة بالنظام العام التى لا يجوز الإتفاق على مخالفتها فإن صدور أمر الأداء بالأجرة الإتفاقية الواردة بالعقد لا يحول دون حق المطعون عليه الأول"
+   ],
+   "judicial_rule": {
+    "short": "ودون أن يعرض لقانونية هذه الأجرة تبعاً لعدم إثارة نزاع حولها فإنه لا يحوز حجية فى هذه المسألة ، وإذ كان تحديد الأجرة طبقاً لقوانين إيجار الأماكن من المسائل المتعلقة بالنظام العام التى لا يجوز الإتفاق على مخالفتها فإن صدور",
+    "professional": "ودون أن يعرض لقانونية هذه الأجرة تبعاً لعدم إثارة نزاع حولها فإنه لا يحوز حجية فى هذه المسألة ، وإذ كان تحديد الأجرة طبقاً لقوانين إيجار الأماكن من المسائل المتعلقة بالنظام العام التى لا يجوز الإتفاق على مخالفتها فإن صدور أمر الأداء بالأجرة الإتفاقية الواردة بالعقد لا يحول دون حق المطعون عليه الأول فى إقامة دعوى بتحديد الأجرة القانونية لعين النزاع ، ومن ثم فإن الحكم المطعون فيه إذ إعتد بالأجرة القانونية لها والتى حددها الحكم - الصادر بالتخفيض - وبين الفروق المستحقة للمطعون عل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "حجية امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0034_44_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "سقوط امر الاداء",
+  "content": "سقوط أمر الآداء لعدم إعلانه للمدين خلال ستة أشهر من تاريخ صدوره - وفق ما كانت تنص المادة 856 من قانون المرافعات السابق - هو جزاء مقرر لمصلحة المدين وحده و لابد لإعماله من التمسك به ممن شرع الجزاء لمصلحته",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "سقوط امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0034 لسنة 44"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-05-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0034",
+   "judicial_year": "44",
+   "office_volume": "28",
+   "page": "1220",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0034_44_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "سقوط امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0034",
+    "judicial_year": "44",
+    "office_volume": "28",
+    "page": "1220",
+    "session_date": "16-05-1977",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "سقوط امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "سقوط أمر الآداء لعدم إعلانه للمدين خلال ستة أشهر من تاريخ صدوره - وفق ما كانت تنص المادة 856 من قانون المرافعات السابق - هو جزاء مقرر لمصلحة المدين وحده و لابد لإعماله من التمسك به ممن شرع الجزاء لمصلحته",
+   "core_principles": [
+    "سقوط أمر الآداء لعدم إعلانه للمدين خلال ستة أشهر من تاريخ صدوره - وفق ما كانت تنص المادة 856 من قانون المرافعات السابق - هو جزاء مقرر لمصلحة المدين وحده و لابد لإعماله من التمسك به ممن شرع الجزاء لمصلحته و يسقط الحق فى توقيع هذا الجزاء بتنازل صاحبه عنه صراحة أو ضمناً و أنه بإعتباره دفعاً شكلياً لابد"
+   ],
+   "judicial_rule": {
+    "short": "سقوط أمر الآداء لعدم إعلانه للمدين خلال ستة أشهر من تاريخ صدوره - وفق ما كانت تنص المادة 856 من قانون المرافعات السابق - هو جزاء مقرر لمصلحة المدين وحده و لابد لإعماله من التمسك به ممن شرع الجزاء لمصلحته",
+    "professional": "سقوط أمر الآداء لعدم إعلانه للمدين خلال ستة أشهر من تاريخ صدوره - وفق ما كانت تنص المادة 856 من قانون المرافعات السابق - هو جزاء مقرر لمصلحة المدين وحده و لابد لإعماله من التمسك به ممن شرع الجزاء لمصلحته و يسقط الحق فى توقيع هذا الجزاء بتنازل صاحبه عنه صراحة أو ضمناً و أنه بإعتباره دفعاً شكلياً لابد من التمسك به فى صحيفة التظلم قبل التكلم فى الموضوع و إلا إعتبر المتظلم متنازلاً عن التمسك به ، و لا ينال من هذا النظر تمسك الطاعن ببطلان إعلان تكليفه بوفاء الدين لأنه إجراء سابق ع"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "سقوط امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0271_33_4",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "إشترط المشرع لصدور أمر الأداء أن يكون الدين المطالب به من النقود وثابتا بالكتابة حال الأداء معين المقدار ولئن كان على القاضى أن يتحقق من توافر هذه الشروط قبل أن يصدر أمر الأداء ، إلا أن الحكم الذى تصدره المحكمة",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0271 لسنة 33"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2",
+   "cass_civil_payment_orders_0147_40_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "30-05-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0271",
+   "judicial_year": "33",
+   "office_volume": "18",
+   "page": "1147",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0271_33_4",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0271",
+    "judicial_year": "33",
+    "office_volume": "18",
+    "page": "1147",
+    "session_date": "30-05-1967",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إشترط المشرع لصدور أمر الأداء أن يكون الدين المطالب به من النقود وثابتا بالكتابة حال الأداء معين المقدار ولئن كان على القاضى أن يتحقق من توافر هذه الشروط قبل أن يصدر أمر الأداء ، إلا أن الحكم الذى تصدره المحكمة",
+   "core_principles": [
+    "إشترط المشرع لصدور أمر الأداء أن يكون الدين المطالب به من النقود وثابتا بالكتابة حال الأداء معين المقدار ولئن كان على القاضى أن يتحقق من توافر هذه الشروط قبل أن يصدر أمر الأداء ، إلا أن الحكم الذى تصدره المحكمة عند نظر المعارضة برفض الدفع بعدم جواز إستصدار أمر بأداء المبلغ المطالب به لا يحجبها عن نظ"
+   ],
+   "judicial_rule": {
+    "short": "إشترط المشرع لصدور أمر الأداء أن يكون الدين المطالب به من النقود وثابتا بالكتابة حال الأداء معين المقدار ولئن كان على القاضى أن يتحقق من توافر هذه الشروط قبل أن يصدر أمر الأداء ، إلا أن الحكم الذى تصدره المحكمة",
+    "professional": "إشترط المشرع لصدور أمر الأداء أن يكون الدين المطالب به من النقود وثابتا بالكتابة حال الأداء معين المقدار ولئن كان على القاضى أن يتحقق من توافر هذه الشروط قبل أن يصدر أمر الأداء ، إلا أن الحكم الذى تصدره المحكمة عند نظر المعارضة برفض الدفع بعدم جواز إستصدار أمر بأداء المبلغ المطالب به لا يحجبها عن نظر الموضوع وبحث ما يقدم إليها من أوجه دفاع باعتبار أن قضاءها فى الدفع مؤسس على مجرد ما تكشف عنه الأوراق التى قدمت إلى القاضى الآمر فلا أثر له عند نظر الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0169_34_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "إن المادة 851 من قانون المرافعات قبل تعديله بالقانون رقم 100 لسنة 1962 تشترط لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغا من النقود ثابتا بالكتابة ومعين المقدار وحال الأداء ومقتضى ذلك أن يكون الدين ثابتا بورقة",
+  "keywords": [
+   "أمر آداء",
+   "الضرائب",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0169 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2",
+   "cass_civil_payment_orders_0147_40_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "07-12-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0169",
+   "judicial_year": "34",
+   "office_volume": "18",
+   "page": "1843",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0169_34_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0169",
+    "judicial_year": "34",
+    "office_volume": "18",
+    "page": "1843",
+    "session_date": "07-12-1967",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "الضرائب",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "إن المادة 851 من قانون المرافعات قبل تعديله بالقانون رقم 100 لسنة 1962 تشترط لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغا من النقود ثابتا بالكتابة ومعين المقدار وحال الأداء ومقتضى ذلك أن يكون الدين ثابتا بورقة",
+   "core_principles": [
+    "فإذا كان سند الدين يتضمن تعهد المدين بأن يدفع للدائن نصف ما قد يحكم به عليه لمصلحة الضرائب دون تعيين لمقدار هذا النصف فإن المطالبة بهذا النصف لا تكون إلا بطريق الدعوى العادية ذلك بأن تعيين مقدار الدين بمقتضى الحكم الصادر فى قضية الضرائب لا يغنى عما إستلزمه القانون لإستصدار أوامر الأداء من تعيين مقدا"
+   ],
+   "judicial_rule": {
+    "short": "فإذا كان سند الدين يتضمن تعهد المدين بأن يدفع للدائن نصف ما قد يحكم به عليه لمصلحة الضرائب دون تعيين لمقدار هذا النصف فإن المطالبة بهذا النصف لا تكون إلا بطريق الدعوى العادية ذلك بأن تعيين مقدار الدين بمقتضى الحكم",
+    "professional": "إن المادة 851 من قانون المرافعات قبل تعديله بالقانون رقم 100 لسنة 1962 تشترط لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغا من النقود ثابتا بالكتابة ومعين المقدار وحال الأداء ومقتضى ذلك أن يكون الدين ثابتا بورقة عليها توقيع المدين ويبين منها أو من أوراق أخرى موقع عليها منه أن الدين حال الأداء ومعين المقدار فإن لم يكن الدين معين المقدار فى ورقة من هذا القبيل فإن سبيل الدائن إلى المطالبة به يكون هوالطريق العادى لرفع الدعاوى ولا يجوز له فى هذه الحالة أن يلجأ إلى طر"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0236_35_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "مؤدى نص المادة 1/854 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 أنه متى رأى القاضى أن شروط إصدار أمر الأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة لنظر الدعوى و تتبع فيها القواعد و الإجراءات",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0236 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2",
+   "cass_civil_payment_orders_0147_40_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "06-05-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0236",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "732",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0236_35_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0236",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "732",
+    "session_date": "06-05-1969",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "مؤدى نص المادة 1/854 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 أنه متى رأى القاضى أن شروط إصدار أمر الأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة لنظر الدعوى و تتبع فيها القواعد و الإجراءات",
+   "core_principles": [
+    "مؤدى نص المادة 1/854 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 أنه متى رأى القاضى أن شروط إصدار أمر الأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة لنظر الدعوى و تتبع فيها القواعد و الإجراءات العادية للدعوى المبتدأة دون نظر إلى إجراءات طلب أمر الأداء التى إنتهت بالرفض"
+   ],
+   "judicial_rule": {
+    "short": "مؤدى نص المادة 1/854 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 أنه متى رأى القاضى أن شروط إصدار أمر الأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة لنظر الدعوى و تتبع فيها القواعد و الإجراءات",
+    "professional": "مؤدى نص المادة 1/854 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 أنه متى رأى القاضى أن شروط إصدار أمر الأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة لنظر الدعوى و تتبع فيها القواعد و الإجراءات العادية للدعوى المبتدأة دون نظر إلى إجراءات طلب أمر الأداء التى إنتهت بالرفض ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0372_36_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "مؤدى نص المادة 1/851 من قانون المرافعات السابق قبل تعديلها بالقانون رقم 100 لسنة 1962 ، والمادتين 852 ، 853 من نفس القانون أنه يشترط لإصدار أمر الأداء أن يكون الدين المطلوب لإصدار أمر به مبلغاً من النقود ثابتاً بالكتابة",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0372 لسنة 36"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2",
+   "cass_civil_payment_orders_0147_40_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "16-03-1971",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0372",
+   "judicial_year": "36",
+   "office_volume": "22",
+   "page": "305",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0372_36_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0372",
+    "judicial_year": "36",
+    "office_volume": "22",
+    "page": "305",
+    "session_date": "16-03-1971",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "مؤدى نص المادة 1/851 من قانون المرافعات السابق قبل تعديلها بالقانون رقم 100 لسنة 1962 ، والمادتين 852 ، 853 من نفس القانون أنه يشترط لإصدار أمر الأداء أن يكون الدين المطلوب لإصدار أمر به مبلغاً من النقود ثابتاً بالكتابة",
+   "core_principles": [
+    "و من ثم فإن الحكم المطعون فيه يكون قد أصاب صحيح القانون إذ لم يتطلب إصدار أمر بالنسبة لهذا السند"
+   ],
+   "judicial_rule": {
+    "short": "و من ثم فإن الحكم المطعون فيه يكون قد أصاب صحيح القانون إذ لم يتطلب إصدار أمر بالنسبة لهذا السند",
+    "professional": "مؤدى نص المادة 1/851 من قانون المرافعات السابق قبل تعديلها بالقانون رقم 100 لسنة 1962 ، والمادتين 852 ، 853 من نفس القانون أنه يشترط لإصدار أمر الأداء أن يكون الدين المطلوب لإصدار أمر به مبلغاً من النقود ثابتاً بالكتابة حال الأداء ، و أن يكون معين المقدار ، و أن قصد المشرع من تعيين مقدار الدين بالسند ألا يكون بحسب الظاهر من عبارته قابلاً للمنازعة فيه ، و أنه إذا تخلف شرط من هذه الشروط وجب إتباع الطريق العادى فى رفع الدعوى . و إذ كان الحكم الإبتدائى الذى أيده الحكم المطعون فيه"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0393_37_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "تشترط المادة 851 من قانون المرافعات السابق معدلة بالقانون رقم 265 لسنة 1953 و التى رفعت الدعوى وقت سريانها لسلوك طريق إستصدار أمر الأداء ، أن يكون الدين المطالب به مبلغا من النقود ، ثابتا بالكتابة ، و معين المقدار",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0393 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2",
+   "cass_civil_payment_orders_0147_40_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 265/1953"
+   ],
+   "date": "23-05-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0393",
+   "judicial_year": "37",
+   "office_volume": "23",
+   "page": "981",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0393_37_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0393",
+    "judicial_year": "37",
+    "office_volume": "23",
+    "page": "981",
+    "session_date": "23-05-1972",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 265/1953"
+   ],
+   "facts_summary": "تشترط المادة 851 من قانون المرافعات السابق معدلة بالقانون رقم 265 لسنة 1953 و التى رفعت الدعوى وقت سريانها لسلوك طريق إستصدار أمر الأداء ، أن يكون الدين المطالب به مبلغا من النقود ، ثابتا بالكتابة ، و معين المقدار",
+   "core_principles": [
+    "تشترط المادة 851 من قانون المرافعات السابق معدلة بالقانون رقم 265 لسنة 1953 و التى رفعت الدعوى وقت سريانها لسلوك طريق إستصدار أمر الأداء ، أن يكون الدين المطالب به مبلغا من النقود ، ثابتا بالكتابة ، و معين المقدار و حال الاداء ، و مقتضى ذلك أن يكون الدين ثابتا بورقة عليها توقيع المدين ، و يبين منها"
+   ],
+   "judicial_rule": {
+    "short": "تشترط المادة 851 من قانون المرافعات السابق معدلة بالقانون رقم 265 لسنة 1953 و التى رفعت الدعوى وقت سريانها لسلوك طريق إستصدار أمر الأداء ، أن يكون الدين المطالب به مبلغا من النقود ، ثابتا بالكتابة ، و معين المقدار",
+    "professional": "تشترط المادة 851 من قانون المرافعات السابق معدلة بالقانون رقم 265 لسنة 1953 و التى رفعت الدعوى وقت سريانها لسلوك طريق إستصدار أمر الأداء ، أن يكون الدين المطالب به مبلغا من النقود ، ثابتا بالكتابة ، و معين المقدار و حال الاداء ، و مقتضى ذلك أن يكون الدين ثابتا بورقة عليها توقيع المدين ، و يبين منها أو من أوراق أخرى موقع عليها منه أن هذا الدين حال الأداء و معين المقدار ، فإن لم يكن الدين معين المقدار فى ورقة من هذا القبيل ، فإن سبيل الدائن إلى المطالبة به يكون هو الطريق العادى"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0393_37_3",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "لما كان المشرع بعد أن أورد القاعدة العامة فى رفع الدعاوى بما نص عليه فى المادة 69 من قانون المرافعات السابق من أن \" ترفع الدعوى إلى المحكمة بناء على طلب المدعى بصحيفة تعلن للمدعى عليه على يد أحد المحضريين",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0393 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2",
+   "cass_civil_payment_orders_0147_40_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 265/1953"
+   ],
+   "date": "23-05-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0393",
+   "judicial_year": "37",
+   "office_volume": "23",
+   "page": "981",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0393_37_3",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0393",
+    "judicial_year": "37",
+    "office_volume": "23",
+    "page": "981",
+    "session_date": "23-05-1972",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 265/1953"
+   ],
+   "facts_summary": "لما كان المشرع بعد أن أورد القاعدة العامة فى رفع الدعاوى بما نص عليه فى المادة 69 من قانون المرافعات السابق من أن \" ترفع الدعوى إلى المحكمة بناء على طلب المدعى بصحيفة تعلن للمدعى عليه على يد أحد المحضريين",
+   "core_principles": [
+    "قد أوجب إستثناء من هذا الأصل - على الدائن بدين من النقود إذا كان ثابتا بالكتابة و حال الأداء و معين المقدار أن يستصدر من القاضى المختص بناء على عريضة تقدم إليه من هذا الدائن أو وكيله أمرا بأداء دينه وفق ما تقضى به المواد 851 و ما بعدها من ذلك القانون معدلاً بالقانون رقم 265 لسنة 1953 المعمول به وقت"
+   ],
+   "judicial_rule": {
+    "short": "قد أوجب إستثناء من هذا الأصل - على الدائن بدين من النقود إذا كان ثابتا بالكتابة و حال الأداء و معين المقدار أن يستصدر من القاضى المختص بناء على عريضة تقدم إليه من هذا الدائن أو وكيله أمرا بأداء دينه",
+    "professional": "قد أوجب إستثناء من هذا الأصل - على الدائن بدين من النقود إذا كان ثابتا بالكتابة و حال الأداء و معين المقدار أن يستصدر من القاضى المختص بناء على عريضة تقدم إليه من هذا الدائن أو وكيله أمرا بأداء دينه وفق ما تقضى به المواد 851 و ما بعدها من ذلك القانون معدلاً بالقانون رقم 265 لسنة 1953 المعمول به وقت رفع الدعوى ، فإن المشرع يكون بذلك قد حدد الوسيلة التى يتعين على الدائن أن يسلكها فى المطالبة بدينه متى توافرت فيه الشروط التى يتطلبها القانون على النحو السالف بيانه ، وهى الإلتحاء"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0393_37_4",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "إجراءات إستصدار أمر الأداء عند توافر الشروط التى يتطلبها القانون إجراءات تتعلق بشكل الخصومة و لا تتصل بموضوع الحق المدعى به أو بشروط وجوده ، و من ثم فإن الدفع بعدم قبول الدعوى لرفعها إلى المحكمة مباشرة للمطالبة بدين تتوافر",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0393 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0027_40_2",
+   "cass_civil_payment_orders_0147_40_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-05-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0393",
+   "judicial_year": "37",
+   "office_volume": "23",
+   "page": "981",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0393_37_4",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0393",
+    "judicial_year": "37",
+    "office_volume": "23",
+    "page": "981",
+    "session_date": "23-05-1972",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إجراءات إستصدار أمر الأداء عند توافر الشروط التى يتطلبها القانون إجراءات تتعلق بشكل الخصومة و لا تتصل بموضوع الحق المدعى به أو بشروط وجوده ، و من ثم فإن الدفع بعدم قبول الدعوى لرفعها إلى المحكمة مباشرة للمطالبة بدين تتوافر",
+   "core_principles": [
+    "إجراءات إستصدار أمر الأداء عند توافر الشروط التى يتطلبها القانون إجراءات تتعلق بشكل الخصومة و لا تتصل بموضوع الحق المدعى به أو بشروط وجوده ، و من ثم فإن الدفع بعدم قبول الدعوى لرفعها إلى المحكمة مباشرة للمطالبة بدين تتوافر فيه شروط إستصدار أمر الأداء هو فى حقيقته دفع ببطلان الإجراءات لعدم مراعاة الد"
+   ],
+   "judicial_rule": {
+    "short": "إجراءات إستصدار أمر الأداء عند توافر الشروط التى يتطلبها القانون إجراءات تتعلق بشكل الخصومة و لا تتصل بموضوع الحق المدعى به أو بشروط وجوده ، و من ثم فإن الدفع بعدم قبول الدعوى لرفعها إلى المحكمة مباشرة للمطالبة بدين تتوافر",
+    "professional": "إجراءات إستصدار أمر الأداء عند توافر الشروط التى يتطلبها القانون إجراءات تتعلق بشكل الخصومة و لا تتصل بموضوع الحق المدعى به أو بشروط وجوده ، و من ثم فإن الدفع بعدم قبول الدعوى لرفعها إلى المحكمة مباشرة للمطالبة بدين تتوافر فيه شروط إستصدار أمر الأداء هو فى حقيقته دفع ببطلان الإجراءات لعدم مراعاة الدائن القواعد التى فرضها القانون لإقتضاء دينه ، و بالتالى يكون هذا الدفع موجها إلى إجراءات الخصومة و شكلها و كيفية توجيهها ، و بهذه المثابة يكون من الدفوع الشكلية ، و ليس دفعا بعدم ا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0027_40_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "تشترط المادة 851 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 التى رفعت وقت سريانها لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة حال الأداء و معين المقدار ، و",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0027 لسنة 40"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0147_40_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "04-02-1975",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0027",
+   "judicial_year": "40",
+   "office_volume": "26",
+   "page": "323",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0027_40_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0027",
+    "judicial_year": "40",
+    "office_volume": "26",
+    "page": "323",
+    "session_date": "04-02-1975",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "تشترط المادة 851 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 التى رفعت وقت سريانها لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة حال الأداء و معين المقدار ، و",
+   "core_principles": [
+    "تشترط المادة 851 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 التى رفعت وقت سريانها لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة حال الأداء و معين المقدار ، و مقتضى ذلك أن يكون الدين ثابتاً بورقة عليها توقيع المدين و يبين منها أو من أورا"
+   ],
+   "judicial_rule": {
+    "short": "تشترط المادة 851 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 التى رفعت وقت سريانها لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة حال الأداء و معين المقدار ، و",
+    "professional": "تشترط المادة 851 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 التى رفعت وقت سريانها لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة حال الأداء و معين المقدار ، و مقتضى ذلك أن يكون الدين ثابتاً بورقة عليها توقيع المدين و يبين منها أو من أوراق أخرى موقع عليها منه أن هذا الدين حال الأداء و معين المقدار ، فإن لم يكن معين المقدار فى ورقة من هذا القبيل أو كان محل نزاع من المدين فإن سبيل الدائن إلى المطالب به يكون هو الطريق"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0147_40_4",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "مفاد نص المادتين 545 ، 858 مرافعات سابق أن الأمر بتوقيع حجز ما للمدين لدى الغير يصدر إما من قاضى الأمور الوقتية و إما من قاضى الأداء تبعاً لطبيعة المحجوز من أجله فإن كان الدين من الديون التى تتوفر فيها",
+  "keywords": [
+   "أمر آداء",
+   "الحجز",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0147 لسنة 40"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-03-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0147",
+   "judicial_year": "40",
+   "office_volume": "28",
+   "page": "801",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0147_40_4",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0147",
+    "judicial_year": "40",
+    "office_volume": "28",
+    "page": "801",
+    "session_date": "28-03-1977",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "أمر آداء",
+    "الحجز",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نص المادتين 545 ، 858 مرافعات سابق أن الأمر بتوقيع حجز ما للمدين لدى الغير يصدر إما من قاضى الأمور الوقتية و إما من قاضى الأداء تبعاً لطبيعة المحجوز من أجله فإن كان الدين من الديون التى تتوفر فيها",
+   "core_principles": [
+    "لما كان ما تقدم و كان الحكم الصادر من محكمة أول درجة قد قضى ببطلان أمر الأداء المعارض فيه بناء على أنه صدر فى غير الحالات التى يجوز فيها إصداره و كان أمر الحجز قد صدر من ذات رئيس الدائرة المختص بإصدار أوامر الأداء فإن ذلك يستتبع بطلانها لأنه كان يتعين صدورهما من قاضى الأمور الوقتية بالمحكمة بدلاً من"
+   ],
+   "judicial_rule": {
+    "short": "لما كان ما تقدم و كان الحكم الصادر من محكمة أول درجة قد قضى ببطلان أمر الأداء المعارض فيه بناء على أنه صدر فى غير الحالات التى يجوز فيها إصداره و كان أمر الحجز قد صدر من ذات رئيس الدائرة",
+    "professional": "مفاد نص المادتين 545 ، 858 مرافعات سابق أن الأمر بتوقيع حجز ما للمدين لدى الغير يصدر إما من قاضى الأمور الوقتية و إما من قاضى الأداء تبعاً لطبيعة المحجوز من أجله فإن كان الدين من الديون التى تتوفر فيها شروط إصدار أمر الأداء لجأ الدائن إلى قاضى الأداء و إلا فإنه يلجأ إلى قاضى الأمور الوقتية - و ينعى على ذلك أنه صدر أمر الحجز من قاضى الأداء فى حالة لا تتوافر فيها شروط إصدار أمر الأداء فإن الحجز يكون باطلاً و كذلك العكس . لما كان ما تقدم و كان الحكم الصادر من محكمة أول درجة قد ق"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0508_42_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "تشترط المادة 1/201 من قانون المرافعات لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة ومعين المقدار وحال الأداء أو منقولاً معيناً بنوعه ومقداره ويقتضى ذلك - وعلى ما جرى به قضاء هذه المحكمة",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0508 لسنة 42"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "31-01-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0508",
+   "judicial_year": "42",
+   "office_volume": "28",
+   "page": "310",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0508_42_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0508",
+    "judicial_year": "42",
+    "office_volume": "28",
+    "page": "310",
+    "session_date": "31-01-1977",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تشترط المادة 1/201 من قانون المرافعات لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة ومعين المقدار وحال الأداء أو منقولاً معيناً بنوعه ومقداره ويقتضى ذلك - وعلى ما جرى به قضاء هذه المحكمة",
+   "core_principles": [
+    "فإنه إذا رفعت الدعوى بالطريق العادى فإنها تكون قد رفعت بالطريق القانونى"
+   ],
+   "judicial_rule": {
+    "short": "فإنه إذا رفعت الدعوى بالطريق العادى فإنها تكون قد رفعت بالطريق القانونى",
+    "professional": "تشترط المادة 1/201 من قانون المرافعات لسلوك طريق إستصدار أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة ومعين المقدار وحال الأداء أو منقولاً معيناً بنوعه ومقداره ويقتضى ذلك - وعلى ما جرى به قضاء هذه المحكمة - أن يكون الدين المطالب به ثابتاً بورقة عليها توقيع المدين ويبين منها أو من أوراق أخرى موقع عليها منه أن هذا الدين حال الأداء ومعين المقدار فإن لم يكن الدين معين المقدار - فى ورقة من هذا القبيل - فإن سبيل الدائن فى المطالبة به يكون الطريق العادى لرفع"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0555_43_7",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "مفاد نص الفقرة الأولى من المادة 201 من قانون المرافعات ، أنه يشترط لسلوك طريق إستصدار أمر الآداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة و معين المقدار حال الآداء ، و مقتضى ذلك أن يكون الدين",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0555 لسنة 43"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "06-04-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0555",
+   "judicial_year": "43",
+   "office_volume": "28",
+   "page": "936",
+   "paragraph_number": "7"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0555_43_7",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0555",
+    "judicial_year": "43",
+    "office_volume": "28",
+    "page": "936",
+    "session_date": "06-04-1977",
+    "paragraph_number": "7"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نص الفقرة الأولى من المادة 201 من قانون المرافعات ، أنه يشترط لسلوك طريق إستصدار أمر الآداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة و معين المقدار حال الآداء ، و مقتضى ذلك أن يكون الدين",
+   "core_principles": [
+    "مفاد نص الفقرة الأولى من المادة 201 من قانون المرافعات ، أنه يشترط لسلوك طريق إستصدار أمر الآداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة و معين المقدار حال الآداء ، و مقتضى ذلك أن يكون الدين ثابتاً بورقة عليها توقيع المدين ، و يبين منها أو من أوراق أخرى موقع عليها منه أن الدين حال"
+   ],
+   "judicial_rule": {
+    "short": "مفاد نص الفقرة الأولى من المادة 201 من قانون المرافعات ، أنه يشترط لسلوك طريق إستصدار أمر الآداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة و معين المقدار حال الآداء ، و مقتضى ذلك أن يكون الدين",
+    "professional": "مفاد نص الفقرة الأولى من المادة 201 من قانون المرافعات ، أنه يشترط لسلوك طريق إستصدار أمر الآداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة و معين المقدار حال الآداء ، و مقتضى ذلك أن يكون الدين ثابتاً بورقة عليها توقيع المدين ، و يبين منها أو من أوراق أخرى موقع عليها منه أن الدين حال الأداء و معين المقدار ، فإن لم يكن الدين معين المقدار فى ورقة من هذا القبيل أو لم يكن ما يطالب به الدائن ديناً من النقود معيناً مقداره ، فإن سبيل الدائن إلى المطالبة به يكون هو الط"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0263_45_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "إذ كانت المادة 201 من قانون المرافعات تشترط لسلوك طريق إستصدر أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة و معين المقدار ، و مقتضى ذلك أن يكون المدين ثابتاً بورقة عليها توقيع المدين ، فإن",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0263 لسنة 45"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-02-1978",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0263",
+   "judicial_year": "45",
+   "office_volume": "29",
+   "page": "592",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0263_45_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0263",
+    "judicial_year": "45",
+    "office_volume": "29",
+    "page": "592",
+    "session_date": "23-02-1978",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كانت المادة 201 من قانون المرافعات تشترط لسلوك طريق إستصدر أمر الأداء أن يكون الدين المطالب به مبلغاً من النقود ثابتاً بالكتابة و معين المقدار ، و مقتضى ذلك أن يكون المدين ثابتاً بورقة عليها توقيع المدين ، فإن",
+   "core_principles": [
+    "و مقتضى ذلك أن يكون المدين ثابتاً بورقة عليها توقيع المدين ، فإن تخلف هذه الشروط كان سبيل الدائن إلى المطالبة به هو الطريق العادى لرفع الدعاوى ، و لما كان نظام أوامر الأداء هو طريق إستثنائى لا يجوز التوسع فيه و كان الحكم سند المطعون عليها فى الدعوى لا يغنى عما يستلزمه القانون من وجود ورقة موقع عليها"
+   ],
+   "judicial_rule": {
+    "short": "و مقتضى ذلك أن يكون المدين ثابتاً بورقة عليها توقيع المدين ، فإن تخلف هذه الشروط كان سبيل الدائن إلى المطالبة به هو الطريق العادى لرفع الدعاوى ، و لما كان نظام أوامر الأداء هو طريق إستثنائى لا يجوز التوسع",
+    "professional": "و مقتضى ذلك أن يكون المدين ثابتاً بورقة عليها توقيع المدين ، فإن تخلف هذه الشروط كان سبيل الدائن إلى المطالبة به هو الطريق العادى لرفع الدعاوى ، و لما كان نظام أوامر الأداء هو طريق إستثنائى لا يجوز التوسع فيه و كان الحكم سند المطعون عليها فى الدعوى لا يغنى عما يستلزمه القانون من وجود ورقة موقع عليها من المدين فإن النعى على الحكم فيه بالخطأ فى تطبيق القانون لعدم سلوك المطعون عليها طريق إستصدار أمر الأداء يكون فى غير محله ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0658_46_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "إذ كان مفاد نص المادة 70 قبل تعديلها بالقانون رقم 75 لسنة 1976 فى 26-8-1976 و نص المادة 204 من قانون المرافعات أنه إذا رأى القاضى أن شروط إصدار الأمر بالأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0658 لسنة 46"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 75/1976"
+   ],
+   "date": "23-12-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0658",
+   "judicial_year": "46",
+   "office_volume": "32",
+   "page": "2382",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0658_46_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0658",
+    "judicial_year": "46",
+    "office_volume": "32",
+    "page": "2382",
+    "session_date": "23-12-1981",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 75/1976"
+   ],
+   "facts_summary": "إذ كان مفاد نص المادة 70 قبل تعديلها بالقانون رقم 75 لسنة 1976 فى 26-8-1976 و نص المادة 204 من قانون المرافعات أنه إذا رأى القاضى أن شروط إصدار الأمر بالأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة",
+   "core_principles": [
+    "إذ كان مفاد نص المادة 70 قبل تعديلها بالقانون رقم 75 لسنة 1976 فى 26-8-1976 و نص المادة 204 من قانون المرافعات أنه إذا رأى القاضى أن شروط إصدار الأمر بالأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة لنظر الدعوى و تتبع فيها القواعد و الإجراءات العادية للدعوى المبتدأة دون نظر إلى إجراءات طلب أمر ا"
+   ],
+   "judicial_rule": {
+    "short": "إذ كان مفاد نص المادة 70 قبل تعديلها بالقانون رقم 75 لسنة 1976 فى 26-8-1976 و نص المادة 204 من قانون المرافعات أنه إذا رأى القاضى أن شروط إصدار الأمر بالأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة",
+    "professional": "إذ كان مفاد نص المادة 70 قبل تعديلها بالقانون رقم 75 لسنة 1976 فى 26-8-1976 و نص المادة 204 من قانون المرافعات أنه إذا رأى القاضى أن شروط إصدار الأمر بالأداء غير متوافرة فإنه يمتنع عن إصداره و يحدد جلسة لنظر الدعوى و تتبع فيها القواعد و الإجراءات العادية للدعوى المبتدأة دون نظر إلى إجراءات طلب أمر الأداء التى إنتهت بالرفض بما مقتضاه وجوب إعلان صحيفة الدعوى خلال ثلاثة أشهر من تاريخ تقديمها إلى قلم الكتاب و إلا أعتبرت كأن لم تكن ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0493_49_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "المادة 201 من قانون المرافعات تشترط لسلوك طريق أمر الأداء أن يكون الدين المطالب به مبلغاً معيناً من النقود ثابتاً بالكتابة معين المقدار و حال الأداء أو منقولاً معيناً بنوعه و مقداره - و مقتضى ذلك أن هذا الطريق لايتبع",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0493 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-02-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0493",
+   "judicial_year": "49",
+   "office_volume": "35",
+   "page": "581",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0493_49_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0493",
+    "judicial_year": "49",
+    "office_volume": "35",
+    "page": "581",
+    "session_date": "28-02-1984",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المادة 201 من قانون المرافعات تشترط لسلوك طريق أمر الأداء أن يكون الدين المطالب به مبلغاً معيناً من النقود ثابتاً بالكتابة معين المقدار و حال الأداء أو منقولاً معيناً بنوعه و مقداره - و مقتضى ذلك أن هذا الطريق لايتبع",
+   "core_principles": [
+    "المادة 201 من قانون المرافعات تشترط لسلوك طريق أمر الأداء أن يكون الدين المطالب به مبلغاً معيناً من النقود ثابتاً بالكتابة معين المقدار و حال الأداء أو منقولاً معيناً بنوعه و مقداره - و مقتضى ذلك أن هذا الطريق لايتبع إلا إذا كان كل مطلوب الدائن هو دين تتوافر فيه شروط إستصدار الأمر ، بما مقتضاه أنه إ"
+   ],
+   "judicial_rule": {
+    "short": "المادة 201 من قانون المرافعات تشترط لسلوك طريق أمر الأداء أن يكون الدين المطالب به مبلغاً معيناً من النقود ثابتاً بالكتابة معين المقدار و حال الأداء أو منقولاً معيناً بنوعه و مقداره - و مقتضى ذلك أن هذا الطريق لايتبع",
+    "professional": "المادة 201 من قانون المرافعات تشترط لسلوك طريق أمر الأداء أن يكون الدين المطالب به مبلغاً معيناً من النقود ثابتاً بالكتابة معين المقدار و حال الأداء أو منقولاً معيناً بنوعه و مقداره - و مقتضى ذلك أن هذا الطريق لايتبع إلا إذا كان كل مطلوب الدائن هو دين تتوافر فيه شروط إستصدار الأمر ، بما مقتضاه أنه إذا كان الدين غير ثابت بورقة موقع عليها من المدين أو إذا كان بعض ما يطالب به الدائن مما لاتتوافر فيه هذه الشروط فإن سبيله فى المطالبه يكون هو الطريق العادى لرفع الدعاوى و لايجوز له"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0922_59_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "شروط استصدار امر الاداء",
+  "content": "مناط . إلتزام الدائن بسلوك طريق أمر الآداء للمطالبة بدينه - و ذلك وفقاً لنص المادة 201 و ما بعدها من قانون المرافعات . و على ما جرى به قضاء هذه المحكمة أن يكون كل مطلوب الدائن مبلغاً من النقود",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "شروط استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0922 لسنة 59"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0271_33_4",
+   "cass_civil_payment_orders_0169_34_1",
+   "cass_civil_payment_orders_0236_35_1",
+   "cass_civil_payment_orders_0372_36_2",
+   "cass_civil_payment_orders_0393_37_1",
+   "cass_civil_payment_orders_0393_37_3",
+   "cass_civil_payment_orders_0393_37_4",
+   "cass_civil_payment_orders_0027_40_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "30-01-1990",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0922",
+   "judicial_year": "59",
+   "office_volume": "41",
+   "page": "339",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0922_59_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "شروط استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0922",
+    "judicial_year": "59",
+    "office_volume": "41",
+    "page": "339",
+    "session_date": "30-01-1990",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "شروط استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مناط . إلتزام الدائن بسلوك طريق أمر الآداء للمطالبة بدينه - و ذلك وفقاً لنص المادة 201 و ما بعدها من قانون المرافعات . و على ما جرى به قضاء هذه المحكمة أن يكون كل مطلوب الدائن مبلغاً من النقود",
+   "core_principles": [
+    "إلى طريق أمر الآداء لأنه إستثناء من القواعد العامة لا يجوز التوسع فيه و كانت طلبات المطعون ضدهم يفتقر بعضها للشروط المشار إليها فإن دعواهم تكون قد رفعت بالطريق القانونى"
+   ],
+   "judicial_rule": {
+    "short": "إلى طريق أمر الآداء لأنه إستثناء من القواعد العامة لا يجوز التوسع فيه و كانت طلبات المطعون ضدهم يفتقر بعضها للشروط المشار إليها فإن دعواهم تكون قد رفعت بالطريق القانونى",
+    "professional": "مناط . إلتزام الدائن بسلوك طريق أمر الآداء للمطالبة بدينه - و ذلك وفقاً لنص المادة 201 و ما بعدها من قانون المرافعات . و على ما جرى به قضاء هذه المحكمة أن يكون كل مطلوب الدائن مبلغاً من النقود ثابتاً بالكتابة و معين المقدار و حال الآداء . فإذا كان بعض ما يطالب به لا تتوافر فيه هذه الشروط فإن سبيل المطالبة يكون هو الطريق العادى لرفع الدعوى . و لا يجوز للدائن فى هذه الحالة أن يلجأ . إلى طريق أمر الآداء لأنه إستثناء من القواعد العامة لا يجوز التوسع فيه و كانت طلبات المطعون ضدهم"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "شروط استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0330_40_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "طبيعة امر الاداء",
+  "content": "لئن كان قضاء هذه المحكمة قد جرى على أن قانون المرافعات السابق - قبل تعديله بالقانون رقم 100 لسنة 1962 - و هو الواجب التطبيق قد أنزل أوامر الأداء منزلة الأحكام فقد إستقر بقضاء الهيئتين مجتمعتين على أنه لا يعتبر",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "طبيعة امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0330 لسنة 40"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0415_46_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "30-03-1975",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0330",
+   "judicial_year": "40",
+   "office_volume": "26",
+   "page": "706",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0330_40_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "طبيعة امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0330",
+    "judicial_year": "40",
+    "office_volume": "26",
+    "page": "706",
+    "session_date": "30-03-1975",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "طبيعة امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "لئن كان قضاء هذه المحكمة قد جرى على أن قانون المرافعات السابق - قبل تعديله بالقانون رقم 100 لسنة 1962 - و هو الواجب التطبيق قد أنزل أوامر الأداء منزلة الأحكام فقد إستقر بقضاء الهيئتين مجتمعتين على أنه لا يعتبر",
+   "core_principles": [
+    "لما كان ذلك ، و كان الحكم المطعون فيه قد إنتهى إلى نتيجة صحيحة هى رفض دعوى بطلان أمر الأداء رغم خلوه من بيان صدوره بإسم الأمة ، فإن النعى على ما ورد به من تقرير قانونى خاطىء من أن أمر الأداء محل المنازعة ليس حكماً يكون غير منتج"
+   ],
+   "judicial_rule": {
+    "short": "لما كان ذلك ، و كان الحكم المطعون فيه قد إنتهى إلى نتيجة صحيحة هى رفض دعوى بطلان أمر الأداء رغم خلوه من بيان صدوره بإسم الأمة ، فإن النعى على ما ورد به من تقرير قانونى خاطىء من أن",
+    "professional": "لئن كان قضاء هذه المحكمة قد جرى على أن قانون المرافعات السابق - قبل تعديله بالقانون رقم 100 لسنة 1962 - و هو الواجب التطبيق قد أنزل أوامر الأداء منزلة الأحكام فقد إستقر بقضاء الهيئتين مجتمعتين على أنه لا يعتبر من بيانات الحكم إثبات صدوره بإسم الأمة إذ أن ما نص عليه الدستور \" السابق \" من صدور الأحكام بهذه المثابة ليس إلا إفصاحاً عن أصل دستورى أصيل و أمر مسبق مقضى مفترض بقوة الدستور نفسه من أن الأحكام تصدر بإسم السلطة العليا صاحبة السيادة وحدها و مصدر السلطات جميعاً ، الأمة ، ل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "طبيعة امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0415_46_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "طبيعة امر الاداء",
+  "content": "التعديل الذى أدخله القانون رقم 100 لسنة 1962 على قانون المرافعات السابق بالنسبة لأوامر الأداء بحذفه من المادة 857 الحكم القاضى بإعتبار الأمر بمثابة حكم غيابى و إبرازه صفة الأمر بإعتباره أمراً و ليس حكماً و أن يكون الطعن فيه",
+  "keywords": [
+   "أمر آداء",
+   "التقادم",
+   "امر اداء",
+   "طبيعة امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0415 لسنة 46"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0330_40_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "13-02-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0415",
+   "judicial_year": "46",
+   "office_volume": "31",
+   "page": "508",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0415_46_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "طبيعة امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0415",
+    "judicial_year": "46",
+    "office_volume": "31",
+    "page": "508",
+    "session_date": "13-02-1980",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "التقادم",
+    "امر اداء",
+    "طبيعة امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "التعديل الذى أدخله القانون رقم 100 لسنة 1962 على قانون المرافعات السابق بالنسبة لأوامر الأداء بحذفه من المادة 857 الحكم القاضى بإعتبار الأمر بمثابة حكم غيابى و إبرازه صفة الأمر بإعتباره أمراً و ليس حكماً و أن يكون الطعن فيه",
+   "core_principles": [
+    "و مفاد ذلك أن العريضة التى تقدم لإستصدار أمر الأداء لا زالت - و على ما جرى به قضاء هذه المحكمة - بديلة صحيفة الدعوى بها تتصل الدعوى بالقضاء"
+   ],
+   "judicial_rule": {
+    "short": "و مفاد ذلك أن العريضة التى تقدم لإستصدار أمر الأداء لا زالت - و على ما جرى به قضاء هذه المحكمة - بديلة صحيفة الدعوى بها تتصل الدعوى بالقضاء",
+    "professional": "التعديل الذى أدخله القانون رقم 100 لسنة 1962 على قانون المرافعات السابق بالنسبة لأوامر الأداء بحذفه من المادة 857 الحكم القاضى بإعتبار الأمر بمثابة حكم غيابى و إبرازه صفة الأمر بإعتباره أمراً و ليس حكماً و أن يكون الطعن فيه فى صورة تظلم و ليس فى صورة معارضة فى حكم غيابى إنما كان تمشياً مع ما إستحدثه القانون المشار إليه من إلغاء طريق الطعن بالمعارضة فى الأحكام الغيابية كقاعدة عامة كما إستهدف - و على ما أفصحت عنه المذكرة التفسيرية - تفادى الصعوبات التى تترتب على إعتبار التظلم م"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "طبيعة امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0311_35_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "طلب اصدار امر الاداء",
+  "content": "لم تتطلب المادة 853 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 و الواردة فى الباب الخامس من الكتاب الثالث - فى إستيفاء ديون النقود الثابتة بالكتابة - أن يكون بيد المحامى توكيل من الدائن عند طلب إصدار",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "طلب اصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0311 لسنة 35"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "11-11-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0311",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "1180",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0311_35_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "طلب اصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0311",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "1180",
+    "session_date": "11-11-1969",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "طلب اصدار امر الاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "لم تتطلب المادة 853 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 و الواردة فى الباب الخامس من الكتاب الثالث - فى إستيفاء ديون النقود الثابتة بالكتابة - أن يكون بيد المحامى توكيل من الدائن عند طلب إصدار",
+   "core_principles": [
+    "لم تتطلب المادة 853 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 و الواردة فى الباب الخامس من الكتاب الثالث - فى إستيفاء ديون النقود الثابتة بالكتابة - أن يكون بيد المحامى توكيل من الدائن عند طلب إصدار الأمر بإسم هذا الدائن"
+   ],
+   "judicial_rule": {
+    "short": "لم تتطلب المادة 853 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 و الواردة فى الباب الخامس من الكتاب الثالث - فى إستيفاء ديون النقود الثابتة بالكتابة - أن يكون بيد المحامى توكيل من الدائن عند طلب إصدار",
+    "professional": "لم تتطلب المادة 853 من قانون المرافعات السابق المعدلة بالقانون رقم 100 لسنة 1962 و الواردة فى الباب الخامس من الكتاب الثالث - فى إستيفاء ديون النقود الثابتة بالكتابة - أن يكون بيد المحامى توكيل من الدائن عند طلب إصدار الأمر بإسم هذا الدائن ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "طلب اصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0386_33_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "عريضة استصدار امر الاداء",
+  "content": "إن العريضة التى تقدم لإستصدار أمر الأداء هى بديل ورقة التكليف بالحضور وبها تتصل الدعوى بالقضاء . ولا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها وإنما هو شرط لصدور الأمر . فإذا كان الطاعن لم ينع بأى عيب على هذه العريضة",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "عريضة استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0386 لسنة 33"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0386_33_2",
+   "cass_civil_payment_orders_0379_35_1",
+   "cass_civil_payment_orders_0380_35_2",
+   "cass_civil_payment_orders_0056_39_1",
+   "cass_civil_payment_orders_0134_41_2",
+   "cass_civil_payment_orders_0211_44_4",
+   "cass_civil_payment_orders_0676_48_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-11-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0386",
+   "judicial_year": "33",
+   "office_volume": "18",
+   "page": "1607",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0386_33_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "عريضة استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0386",
+    "judicial_year": "33",
+    "office_volume": "18",
+    "page": "1607",
+    "session_date": "07-11-1967",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "عريضة استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إن العريضة التى تقدم لإستصدار أمر الأداء هى بديل ورقة التكليف بالحضور وبها تتصل الدعوى بالقضاء . ولا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها وإنما هو شرط لصدور الأمر . فإذا كان الطاعن لم ينع بأى عيب على هذه العريضة",
+   "core_principles": [
+    "فإذا كان الطاعن لم ينع بأى عيب على هذه العريضة وأنصب نعيه على إجراء سابق عليها هو التكليف بالوفاء وكانت محكمة الاستئناف قد فصلت فى موضوع النزاع المطروح عليها بإلزام الطاعن بالدين لما ثبت لديها من أن المخالصة التى قدمها مزورة ، فإنه على فرض صحة إدعاء الطاعن بأنه لم يخطر بالتكليف بالوفاء إخطاراً صحيحا"
+   ],
+   "judicial_rule": {
+    "short": "فإذا كان الطاعن لم ينع بأى عيب على هذه العريضة وأنصب نعيه على إجراء سابق عليها هو التكليف بالوفاء وكانت محكمة الاستئناف قد فصلت فى موضوع النزاع المطروح عليها بإلزام الطاعن بالدين لما ثبت لديها من أن المخالصة التى قدمها",
+    "professional": "إن العريضة التى تقدم لإستصدار أمر الأداء هى بديل ورقة التكليف بالحضور وبها تتصل الدعوى بالقضاء . ولا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها وإنما هو شرط لصدور الأمر . فإذا كان الطاعن لم ينع بأى عيب على هذه العريضة وأنصب نعيه على إجراء سابق عليها هو التكليف بالوفاء وكانت محكمة الاستئناف قد فصلت فى موضوع النزاع المطروح عليها بإلزام الطاعن بالدين لما ثبت لديها من أن المخالصة التى قدمها مزورة ، فإنه على فرض صحة إدعاء الطاعن بأنه لم يخطر بالتكليف بالوفاء إخطاراً صحيحاً وأن الأمر"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "عريضة استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0386_33_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "عريضة استصدار امر الاداء",
+  "content": "العيب فى التكليف بالوفاء يعتبر عيبا سابقا على طلب أمر الأداء ولذلك فهو غير مؤثر فى ذات الطلب وبالتالى فإن كل ما يثار بشأنه لا يؤثر فى صحة الحكم الصادر فى التظلم من أمر الأداء .",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "عريضة استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0386 لسنة 33"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0386_33_1",
+   "cass_civil_payment_orders_0379_35_1",
+   "cass_civil_payment_orders_0380_35_2",
+   "cass_civil_payment_orders_0056_39_1",
+   "cass_civil_payment_orders_0134_41_2",
+   "cass_civil_payment_orders_0211_44_4",
+   "cass_civil_payment_orders_0676_48_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-11-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0386",
+   "judicial_year": "33",
+   "office_volume": "18",
+   "page": "1607",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0386_33_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "عريضة استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0386",
+    "judicial_year": "33",
+    "office_volume": "18",
+    "page": "1607",
+    "session_date": "07-11-1967",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "عريضة استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "العيب فى التكليف بالوفاء يعتبر عيبا سابقا على طلب أمر الأداء ولذلك فهو غير مؤثر فى ذات الطلب وبالتالى فإن كل ما يثار بشأنه لا يؤثر فى صحة الحكم الصادر فى التظلم من أمر الأداء .",
+   "core_principles": [
+    "العيب فى التكليف بالوفاء يعتبر عيبا سابقا على طلب أمر الأداء ولذلك فهو غير مؤثر فى ذات الطلب وبالتالى فإن كل ما يثار بشأنه لا يؤثر فى صحة الحكم الصادر فى التظلم من أمر الأداء"
+   ],
+   "judicial_rule": {
+    "short": "العيب فى التكليف بالوفاء يعتبر عيبا سابقا على طلب أمر الأداء ولذلك فهو غير مؤثر فى ذات الطلب وبالتالى فإن كل ما يثار بشأنه لا يؤثر فى صحة الحكم الصادر فى التظلم من أمر الأداء",
+    "professional": "العيب فى التكليف بالوفاء يعتبر عيبا سابقا على طلب أمر الأداء ولذلك فهو غير مؤثر فى ذات الطلب وبالتالى فإن كل ما يثار بشأنه لا يؤثر فى صحة الحكم الصادر فى التظلم من أمر الأداء ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "عريضة استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0379_35_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "عريضة استصدار امر الاداء",
+  "content": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديل ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط لصدور الأمر",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "عريضة استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0379 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0386_33_1",
+   "cass_civil_payment_orders_0386_33_2",
+   "cass_civil_payment_orders_0380_35_2",
+   "cass_civil_payment_orders_0056_39_1",
+   "cass_civil_payment_orders_0134_41_2",
+   "cass_civil_payment_orders_0211_44_4",
+   "cass_civil_payment_orders_0676_48_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "06-11-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0379",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "1170",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0379_35_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "عريضة استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0379",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "1170",
+    "session_date": "06-11-1969",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "عريضة استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديل ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط لصدور الأمر",
+   "core_principles": [
+    "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديل ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط لصدور الأمر ، و كانت الطاعنة لم تنع بأى عيب على هذه العريضة و أنصب نعيها على إجراء سابق عليها و هو التكليف با"
+   ],
+   "judicial_rule": {
+    "short": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديل ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط لصدور الأمر",
+    "professional": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديل ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط لصدور الأمر ، و كانت الطاعنة لم تنع بأى عيب على هذه العريضة و أنصب نعيها على إجراء سابق عليها و هو التكليف بالوفاء ، و كانت محكمة الإستئناف قد فصلت فى موضوع النزاع المطروح عليها بإلزام الطاعنة بالدين لما ثبت لها من صحة السند ، فإنه على فرض أنها لم تخطر بالتكليف بالوفاء إخطاراً صحيحاً و أن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "عريضة استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0380_35_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "عريضة استصدار امر الاداء",
+  "content": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط لصدور الأمر",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "عريضة استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0380 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0386_33_1",
+   "cass_civil_payment_orders_0386_33_2",
+   "cass_civil_payment_orders_0379_35_1",
+   "cass_civil_payment_orders_0056_39_1",
+   "cass_civil_payment_orders_0134_41_2",
+   "cass_civil_payment_orders_0211_44_4",
+   "cass_civil_payment_orders_0676_48_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-11-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0380",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "1220",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0380_35_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "عريضة استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0380",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "1220",
+    "session_date": "20-11-1969",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "عريضة استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط لصدور الأمر",
+   "core_principles": [
+    "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط لصدور الأمر و إذ كان الطاعن لم ينع بأى عيب على هذه العريضة و أنصب نعيه على إجراء سابق عليها و هو التكليف بالوفاء"
+   ],
+   "judicial_rule": {
+    "short": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط لصدور الأمر",
+    "professional": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط لصدور الأمر و إذ كان الطاعن لم ينع بأى عيب على هذه العريضة و أنصب نعيه على إجراء سابق عليها و هو التكليف بالوفاء ، و كانت محكمة الإستئناف قد قضت فى النزاع المطروح عليها بإلزام الطاعن بالدين موضوع طلب أمر الأداء فإنه على فرض صحة إدعاء الطاعن بأنه لم يخطر بالتكليف بالوفاء إخطاراً صحيحاً و أن ا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "عريضة استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0056_39_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "عريضة استصدار امر الاداء",
+  "content": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء . و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط له",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "عريضة استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0056 لسنة 39"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0386_33_1",
+   "cass_civil_payment_orders_0386_33_2",
+   "cass_civil_payment_orders_0379_35_1",
+   "cass_civil_payment_orders_0380_35_2",
+   "cass_civil_payment_orders_0134_41_2",
+   "cass_civil_payment_orders_0211_44_4",
+   "cass_civil_payment_orders_0676_48_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-06-1974",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0056",
+   "judicial_year": "39",
+   "office_volume": "25",
+   "page": "1082",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0056_39_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "عريضة استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0056",
+    "judicial_year": "39",
+    "office_volume": "25",
+    "page": "1082",
+    "session_date": "16-06-1974",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "عريضة استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء . و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط له",
+   "core_principles": [
+    "و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط له لصدور الأمر ، و كان الطاعن لم ينع بأى عيب على هذه العريضة ، و إنصب نعيه على إجراء سابق عليها هو التكليف بالوفاء ، فإن قضاء محكمة الإستئناف ببطلان أمر الأداء المطعون فيه بسبب بطلان تكليف المستأنف \" الطاعن \" بالوفاء بالدين المطالب به ، لا"
+   ],
+   "judicial_rule": {
+    "short": "و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط له لصدور الأمر ، و كان الطاعن لم ينع بأى عيب على هذه العريضة ، و إنصب نعيه على إجراء سابق عليها هو التكليف بالوفاء ، فإن قضاء",
+    "professional": "العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء . و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها إنما هو شرط له لصدور الأمر ، و كان الطاعن لم ينع بأى عيب على هذه العريضة ، و إنصب نعيه على إجراء سابق عليها هو التكليف بالوفاء ، فإن قضاء محكمة الإستئناف ببطلان أمر الأداء المطعون فيه بسبب بطلان تكليف المستأنف \" الطاعن \" بالوفاء بالدين المطالب به ، لا يحجبها - و قد إتصلت الخصومة بالقضاء إتصالاً صح"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "عريضة استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0134_41_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "عريضة استصدار امر الاداء",
+  "content": "أمر الأداء - و على ما جرى به نص المادة 851 من قانون المرافعات السابق الذى يحكم إجراءات الدعوى - هو إستثناء من القواعد العامة فى رفع الدعوى إبتداء و من ثم فلا يجرى هذا النظام على إدخال الغير فى",
+  "keywords": [
+   "أمر آداء",
+   "الشركة",
+   "امر اداء",
+   "عريضة استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0134 لسنة 41"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0386_33_1",
+   "cass_civil_payment_orders_0386_33_2",
+   "cass_civil_payment_orders_0379_35_1",
+   "cass_civil_payment_orders_0380_35_2",
+   "cass_civil_payment_orders_0056_39_1",
+   "cass_civil_payment_orders_0211_44_4",
+   "cass_civil_payment_orders_0676_48_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-01-1976",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0134",
+   "judicial_year": "41",
+   "office_volume": "27",
+   "page": "240",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0134_41_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "عريضة استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0134",
+    "judicial_year": "41",
+    "office_volume": "27",
+    "page": "240",
+    "session_date": "19-01-1976",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "الشركة",
+    "امر اداء",
+    "عريضة استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "أمر الأداء - و على ما جرى به نص المادة 851 من قانون المرافعات السابق الذى يحكم إجراءات الدعوى - هو إستثناء من القواعد العامة فى رفع الدعوى إبتداء و من ثم فلا يجرى هذا النظام على إدخال الغير فى",
+   "core_principles": [
+    "و لما كان الثابت من الأوراق أن الدعوى لم توجه إبتداء إلى الشركة الطاعنة و إنما أقيمت من الشركة المطعون ضدها الأولى على المطعون ضدها الثانية و فى أثناء سير الدعوى أدخلت المطعون ضدها الثانية الشركة الطاعنة خصماً فى الدعوى بتكليف بالحضور معلن إليها ، فإنه لا مخالفة فى هذه الإجراءات للقانون"
+   ],
+   "judicial_rule": {
+    "short": "و لما كان الثابت من الأوراق أن الدعوى لم توجه إبتداء إلى الشركة الطاعنة و إنما أقيمت من الشركة المطعون ضدها الأولى على المطعون ضدها الثانية و فى أثناء سير الدعوى أدخلت المطعون ضدها الثانية الشركة الطاعنة خصماً فى الدعوى",
+    "professional": "أمر الأداء - و على ما جرى به نص المادة 851 من قانون المرافعات السابق الذى يحكم إجراءات الدعوى - هو إستثناء من القواعد العامة فى رفع الدعوى إبتداء و من ثم فلا يجرى هذا النظام على إدخال الغير فى دعوى قائمة ، و إنما تتبع فى هذا الشأن الأوضاع المعتادة فى التكليف بالحضور وفقاً لنص المادة 134 من قانون المرافعات السابق . و لما كان الثابت من الأوراق أن الدعوى لم توجه إبتداء إلى الشركة الطاعنة و إنما أقيمت من الشركة المطعون ضدها الأولى على المطعون ضدها الثانية و فى أثناء سير الدعوى أد"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "عريضة استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0211_44_4",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "عريضة استصدار امر الاداء",
+  "content": "مؤدى نص المادتين 203 ، 204 من قانون المرافعات أن المشرع جعل من العريضة التى تقدم لإستصدار أمر الأداء بديلاً لورقة التكليف بالحضور ، و بها تتصل الدعوى بالقضاء مما مؤداه وجوب أن تتضمن كافة البيانات الجوهرية التى يتعين أن",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "عريضة استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0211 لسنة 44"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0386_33_1",
+   "cass_civil_payment_orders_0386_33_2",
+   "cass_civil_payment_orders_0379_35_1",
+   "cass_civil_payment_orders_0380_35_2",
+   "cass_civil_payment_orders_0056_39_1",
+   "cass_civil_payment_orders_0134_41_2",
+   "cass_civil_payment_orders_0676_48_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "04-01-1978",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0211",
+   "judicial_year": "44",
+   "office_volume": "29",
+   "page": "87",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0211_44_4",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "عريضة استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0211",
+    "judicial_year": "44",
+    "office_volume": "29",
+    "page": "87",
+    "session_date": "04-01-1978",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "عريضة استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مؤدى نص المادتين 203 ، 204 من قانون المرافعات أن المشرع جعل من العريضة التى تقدم لإستصدار أمر الأداء بديلاً لورقة التكليف بالحضور ، و بها تتصل الدعوى بالقضاء مما مؤداه وجوب أن تتضمن كافة البيانات الجوهرية التى يتعين أن",
+   "core_principles": [
+    "مؤدى نص المادتين 203 ، 204 من قانون المرافعات أن المشرع جعل من العريضة التى تقدم لإستصدار أمر الأداء بديلاً لورقة التكليف بالحضور ، و بها تتصل الدعوى بالقضاء مما مؤداه وجوب أن تتضمن كافة البيانات الجوهرية التى يتعين أن تتوافر فى صحيفة إفتتاح الدعوى وفق المادة 63 من قانون المرافعات و من بينها إسم الد"
+   ],
+   "judicial_rule": {
+    "short": "مؤدى نص المادتين 203 ، 204 من قانون المرافعات أن المشرع جعل من العريضة التى تقدم لإستصدار أمر الأداء بديلاً لورقة التكليف بالحضور ، و بها تتصل الدعوى بالقضاء مما مؤداه وجوب أن تتضمن كافة البيانات الجوهرية التى يتعين أن",
+    "professional": "مؤدى نص المادتين 203 ، 204 من قانون المرافعات أن المشرع جعل من العريضة التى تقدم لإستصدار أمر الأداء بديلاً لورقة التكليف بالحضور ، و بها تتصل الدعوى بالقضاء مما مؤداه وجوب أن تتضمن كافة البيانات الجوهرية التى يتعين أن تتوافر فى صحيفة إفتتاح الدعوى وفق المادة 63 من قانون المرافعات و من بينها إسم الدائن و لقبه و مهنته أو وظيفته و موطنه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "عريضة استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0676_48_4",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "عريضة استصدار امر الاداء",
+  "content": "إن العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء ، و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "عريضة استصدار امر الاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0676 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0386_33_1",
+   "cass_civil_payment_orders_0386_33_2",
+   "cass_civil_payment_orders_0379_35_1",
+   "cass_civil_payment_orders_0380_35_2",
+   "cass_civil_payment_orders_0056_39_1",
+   "cass_civil_payment_orders_0134_41_2",
+   "cass_civil_payment_orders_0211_44_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-12-1982",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0676",
+   "judicial_year": "48",
+   "office_volume": "33",
+   "page": "1210",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0676_48_4",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "عريضة استصدار امر الاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0676",
+    "judicial_year": "48",
+    "office_volume": "33",
+    "page": "1210",
+    "session_date": "20-12-1982",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "عريضة استصدار امر الاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إن العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء ، و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط",
+   "core_principles": [
+    "إن العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء ، و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط لصدور الأمر و كان الطاعن لم ينع بأى عيب على هذه العريضة و إنصب نعيه على إجراء سابق عليها و هو التكليف بالوف"
+   ],
+   "judicial_rule": {
+    "short": "إن العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء ، و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط",
+    "professional": "إن العريضة التى تقدم لإستصدار أمر الأداء هى - و على ما جرى به قضاء هذه المحكمة - بديلة ورقة التكليف بالحضور و بها تتصل الدعوى بالقضاء ، و إذ لا يتعلق شرط التكليف بالوفاء بالعريضة و إنما هو شرط لصدور الأمر و كان الطاعن لم ينع بأى عيب على هذه العريضة و إنصب نعيه على إجراء سابق عليها و هو التكليف بالوفاء ، و كانت محكمة الإستئناف قد قضت فى النزاع المطروح عليها بإلزام الطاعن بالدين موضوع طلب أمر الأداء فإنه على فرض صحة إدعاء الطاعن بأنه لم يخطر بالتكليف بالوفاء إخطاراً صحيحاً و أن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "عريضة استصدار امر الاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0005_37_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "متى يمتنع الامر بالاداء",
+  "content": "مؤدى نص المادة 858 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 ، أن القانون أعطى للدائن ثمانية أيام تالية لتوقيع الحجز و حكم عليه أن يقدم خلال هذا الميعاد طلب أمر الأداء ، مصحوباً بطلب صحة",
+  "keywords": [
+   "أمر آداء",
+   "الحجز",
+   "امر اداء",
+   "متى يمتنع الامر بالاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0005 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0005_37_2",
+   "cass_civil_payment_orders_0621_40_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "24-06-1971",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0005",
+   "judicial_year": "37",
+   "office_volume": "22",
+   "page": "818",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0005_37_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "متى يمتنع الامر بالاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0005",
+    "judicial_year": "37",
+    "office_volume": "22",
+    "page": "818",
+    "session_date": "24-06-1971",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "الحجز",
+    "امر اداء",
+    "متى يمتنع الامر بالاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "مؤدى نص المادة 858 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 ، أن القانون أعطى للدائن ثمانية أيام تالية لتوقيع الحجز و حكم عليه أن يقدم خلال هذا الميعاد طلب أمر الأداء ، مصحوباً بطلب صحة",
+   "core_principles": [
+    "مؤدى نص المادة 858 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 ، أن القانون أعطى للدائن ثمانية أيام تالية لتوقيع الحجز و حكم عليه أن يقدم خلال هذا الميعاد طلب أمر الأداء ، مصحوباً بطلب صحة الحجز بإعتبار أن ثبوت الحق فى ذمة المدين شرط لصحة الحجز بموجبه ، و لا يوجد ما يمنع من صدور"
+   ],
+   "judicial_rule": {
+    "short": "مؤدى نص المادة 858 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 ، أن القانون أعطى للدائن ثمانية أيام تالية لتوقيع الحجز و حكم عليه أن يقدم خلال هذا الميعاد طلب أمر الأداء ، مصحوباً بطلب صحة",
+    "professional": "مؤدى نص المادة 858 من قانون المرافعات السابق بعد تعديلها بالقانون رقم 100 لسنة 1962 ، أن القانون أعطى للدائن ثمانية أيام تالية لتوقيع الحجز و حكم عليه أن يقدم خلال هذا الميعاد طلب أمر الأداء ، مصحوباً بطلب صحة الحجز بإعتبار أن ثبوت الحق فى ذمة المدين شرط لصحة الحجز بموجبه ، و لا يوجد ما يمنع من صدور الأمر فى طلب الأداء لثبوت الحق فيه ، و رفض طلب الحجز لعيب فى إجراءاته ، يؤكد ذلك ما نصت عليه الفقرة الثالثة من المادة 858 مرافعات من أن إصدار أمر الأداء لا يمنع إلا فى حالة التظلم"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "متى يمتنع الامر بالاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0005_37_2",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "متى يمتنع الامر بالاداء",
+  "content": "لا وجه للقول ببطلان أمر الأداء لعيب فى التكليف بالوفاء لأن هذا العيب سابق على الطلب المقدم لإستصدار أمر الأداء ، و هو لم يكن محل نعى من جانب الطاعن ، و العريضة التى تقدم لإستصدار أمر الأداء - و",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "متى يمتنع الامر بالاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0005 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0005_37_1",
+   "cass_civil_payment_orders_0621_40_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-06-1971",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0005",
+   "judicial_year": "37",
+   "office_volume": "22",
+   "page": "818",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0005_37_2",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "متى يمتنع الامر بالاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0005",
+    "judicial_year": "37",
+    "office_volume": "22",
+    "page": "818",
+    "session_date": "24-06-1971",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "متى يمتنع الامر بالاداء"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لا وجه للقول ببطلان أمر الأداء لعيب فى التكليف بالوفاء لأن هذا العيب سابق على الطلب المقدم لإستصدار أمر الأداء ، و هو لم يكن محل نعى من جانب الطاعن ، و العريضة التى تقدم لإستصدار أمر الأداء - و",
+   "core_principles": [
+    "لا وجه للقول ببطلان أمر الأداء لعيب فى التكليف بالوفاء لأن هذا العيب سابق على الطلب المقدم لإستصدار أمر الأداء ، و هو لم يكن محل نعى من جانب الطاعن ، و العريضة التى تقدم لإستصدار أمر الأداء - و على ما جرى به قضاء هذه المحكمة - هى بديل ورقة التكليف بالحضور ، و بها تتصل الدعوى بالقضاء ، و لا يتعلق شرط"
+   ],
+   "judicial_rule": {
+    "short": "لا وجه للقول ببطلان أمر الأداء لعيب فى التكليف بالوفاء لأن هذا العيب سابق على الطلب المقدم لإستصدار أمر الأداء ، و هو لم يكن محل نعى من جانب الطاعن ، و العريضة التى تقدم لإستصدار أمر الأداء - و",
+    "professional": "لا وجه للقول ببطلان أمر الأداء لعيب فى التكليف بالوفاء لأن هذا العيب سابق على الطلب المقدم لإستصدار أمر الأداء ، و هو لم يكن محل نعى من جانب الطاعن ، و العريضة التى تقدم لإستصدار أمر الأداء - و على ما جرى به قضاء هذه المحكمة - هى بديل ورقة التكليف بالحضور ، و بها تتصل الدعوى بالقضاء ، و لا يتعلق شرط التكليف بالوفاء بالعريضة ذاتها ، و إنما هو شرط لصدور الأمر ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "متى يمتنع الامر بالاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_payment_orders_0621_40_1",
+  "type": "judgment_principle",
+  "category": "payment_orders",
+  "title": "متى يمتنع الامر بالاداء",
+  "content": "مؤدى نص المادة 1/854 من قانون المرافعات السابق فى المعدلة بالقانون رقم 100 لسنة 1962 المنطبقة على واقعة الدعوى و المقابلة للمادة 204 من قانون المرافعات الحالى أن المشرع أوجب على القاضى متى لم ير توافر شروط إصدار الأمر بالإداء",
+  "keywords": [
+   "أمر آداء",
+   "امر اداء",
+   "متى يمتنع الامر بالاداء",
+   "cassation",
+   "civil",
+   "payment_orders",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0621 لسنة 40"
+  ],
+  "related_ids": [
+   "cass_civil_payment_orders_0005_37_1",
+   "cass_civil_payment_orders_0005_37_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 100/1962"
+   ],
+   "date": "07-03-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0621",
+   "judicial_year": "40",
+   "office_volume": "30",
+   "page": "736",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_payment_orders_0621_40_1",
+   "domain": "civil_law",
+   "category": "payment_orders",
+   "topic": "متى يمتنع الامر بالاداء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0621",
+    "judicial_year": "40",
+    "office_volume": "30",
+    "page": "736",
+    "session_date": "07-03-1979",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "أمر آداء",
+    "امر اداء",
+    "متى يمتنع الامر بالاداء"
+   ],
+   "legal_articles": [
+    "Law 100/1962"
+   ],
+   "facts_summary": "مؤدى نص المادة 1/854 من قانون المرافعات السابق فى المعدلة بالقانون رقم 100 لسنة 1962 المنطبقة على واقعة الدعوى و المقابلة للمادة 204 من قانون المرافعات الحالى أن المشرع أوجب على القاضى متى لم ير توافر شروط إصدار الأمر بالإداء",
+   "core_principles": [
+    "مؤدى نص المادة 1/854 من قانون المرافعات السابق فى المعدلة بالقانون رقم 100 لسنة 1962 المنطبقة على واقعة الدعوى و المقابلة للمادة 204 من قانون المرافعات الحالى أن المشرع أوجب على القاضى متى لم ير توافر شروط إصدار الأمر بالإداء فى الدين موضوع المطالبة ، أو رأى ألا يجب الطالب لبعض طلباته أن يمتنع عن إص"
+   ],
+   "judicial_rule": {
+    "short": "مؤدى نص المادة 1/854 من قانون المرافعات السابق فى المعدلة بالقانون رقم 100 لسنة 1962 المنطبقة على واقعة الدعوى و المقابلة للمادة 204 من قانون المرافعات الحالى أن المشرع أوجب على القاضى متى لم ير توافر شروط إصدار الأمر بالإداء",
+    "professional": "مؤدى نص المادة 1/854 من قانون المرافعات السابق فى المعدلة بالقانون رقم 100 لسنة 1962 المنطبقة على واقعة الدعوى و المقابلة للمادة 204 من قانون المرافعات الحالى أن المشرع أوجب على القاضى متى لم ير توافر شروط إصدار الأمر بالإداء فى الدين موضوع المطالبة ، أو رأى ألا يجب الطالب لبعض طلباته أن يمتنع عن إصداره ، و يحدد جلسة لنظر الدعوى ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "payment_orders",
+    "متى يمتنع الامر بالاداء",
+    "أمر آداء"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

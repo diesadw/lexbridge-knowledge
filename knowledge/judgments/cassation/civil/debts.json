@@ -1,0 +1,474 @@
+[
+ {
+  "id": "cass_civil_debts_0248_20_1",
+  "type": "judgment_principle",
+  "category": "debts",
+  "title": "استبدال الدين",
+  "content": "لما كان إستبدال الدين يتم بإحلال إلتزام جديد مكان إلتزام قديم بنية التجديد ، و كان الطرفان قد حرصا فى الإقرار موضوع الدعوى على نفى نية الإستبدال نفياً تاماً فنصا على ذلك صراحة فى صلب الإتفاق كما نصا على إستبقاء",
+  "keywords": [
+   "استبدال الدين",
+   "الإيجار",
+   "التقادم",
+   "العقد",
+   "ديون",
+   "cassation",
+   "civil",
+   "debts",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0248 لسنة 20"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-03-1953",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0248",
+   "judicial_year": "20",
+   "office_volume": "04",
+   "page": "673",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_debts_0248_20_1",
+   "domain": "civil_law",
+   "category": "debts",
+   "topic": "استبدال الدين",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0248",
+    "judicial_year": "20",
+    "office_volume": "04",
+    "page": "673",
+    "session_date": "19-03-1953",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "استبدال الدين",
+    "الإيجار",
+    "التقادم",
+    "العقد",
+    "ديون"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان إستبدال الدين يتم بإحلال إلتزام جديد مكان إلتزام قديم بنية التجديد ، و كان الطرفان قد حرصا فى الإقرار موضوع الدعوى على نفى نية الإستبدال نفياً تاماً فنصا على ذلك صراحة فى صلب الإتفاق كما نصا على إستبقاء",
+   "core_principles": [
+    "فمتى كانت الأسباب التى أقامت المحكمة عليها حكمها بحصول إنقضاء الدين القديم و إبداله بدين جديد على شخص آخر من شأنها أن تؤدى إلى القول بذلك فلا تجوز إثارة الجدل حوله أمام محكمة النقض"
+   ],
+   "judicial_rule": {
+    "short": "فمتى كانت الأسباب التى أقامت المحكمة عليها حكمها بحصول إنقضاء الدين القديم و إبداله بدين جديد على شخص آخر من شأنها أن تؤدى إلى القول بذلك فلا تجوز إثارة الجدل حوله أمام محكمة النقض",
+    "professional": "و كان الطرفان قد حرصا فى الإقرار موضوع الدعوى على نفى نية الإستبدال نفياً تاماً فنصا على ذلك صراحة فى صلب الإتفاق كما نصا على إستبقاء وصف الدين كدين إيجار وهو سبب الإلتزام الأصلى وما أعقبه من إجراءات قضائية وما صحبه من تأمينات ، وكان من شأن بقاء سبب الإلتزام الأصلى أن يظل وصف دين الأجرة قائماً لايؤثر فيه التعهد بالوفاء الذى إقترن به الإقرار ما دام أن هذا الإقرار لم يغير من طبيعة الدين أو يتضمن إستبدال دين جديد به ولا يترتب على مجرد زوال صفتى الدورية و التجدد عن دين الأجرة أن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "debts",
+    "استبدال الدين",
+    "ديون"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_debts_0396_29_2",
+  "type": "judgment_principle",
+  "category": "debts",
+  "title": "الديون المعدومة",
+  "content": "تقضى أصول علم المحاسبة بأن الديون المعدومة و هى التى فقد الأمل فى تحصيلها تعتبر بمثابة خسارة على المنشأة يجب خصمها من حساب الأرباح و الخسائر فى ميزانية السنة التى يتحقق فيها انعدمها لأن الميزانية يجب أن تمثل المركز الحقيقى",
+  "keywords": [
+   "الديون المعدومة",
+   "ديون",
+   "cassation",
+   "civil",
+   "debts",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0396 لسنة 29"
+  ],
+  "related_ids": [
+   "cass_civil_debts_0396_29_3",
+   "cass_civil_debts_021_35_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "31-12-1964",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0396",
+   "judicial_year": "29",
+   "office_volume": "15",
+   "page": "1237",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_debts_0396_29_2",
+   "domain": "civil_law",
+   "category": "debts",
+   "topic": "الديون المعدومة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0396",
+    "judicial_year": "29",
+    "office_volume": "15",
+    "page": "1237",
+    "session_date": "31-12-1964",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الديون المعدومة",
+    "ديون"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقضى أصول علم المحاسبة بأن الديون المعدومة و هى التى فقد الأمل فى تحصيلها تعتبر بمثابة خسارة على المنشأة يجب خصمها من حساب الأرباح و الخسائر فى ميزانية السنة التى يتحقق فيها انعدمها لأن الميزانية يجب أن تمثل المركز الحقيقى",
+   "core_principles": [
+    "تقضى أصول علم المحاسبة بأن الديون المعدومة و هى التى فقد الأمل فى تحصيلها تعتبر بمثابة خسارة على المنشأة يجب خصمها من حساب الأرباح و الخسائر فى ميزانية السنة التى يتحقق فيها انعدمها لأن الميزانية يجب أن تمثل المركز الحقيقى للمنشأة مما يقتضى ألا تظهر الديون التى لها فى الأصول الا بقيمتها الفعلية"
+   ],
+   "judicial_rule": {
+    "short": "تقضى أصول علم المحاسبة بأن الديون المعدومة و هى التى فقد الأمل فى تحصيلها تعتبر بمثابة خسارة على المنشأة يجب خصمها من حساب الأرباح و الخسائر فى ميزانية السنة التى يتحقق فيها انعدمها لأن الميزانية يجب أن تمثل المركز الحقيقى",
+    "professional": "تقضى أصول علم المحاسبة بأن الديون المعدومة و هى التى فقد الأمل فى تحصيلها تعتبر بمثابة خسارة على المنشأة يجب خصمها من حساب الأرباح و الخسائر فى ميزانية السنة التى يتحقق فيها انعدمها لأن الميزانية يجب أن تمثل المركز الحقيقى للمنشأة مما يقتضى ألا تظهر الديون التى لها فى الأصول الا بقيمتها الفعلية ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "debts",
+    "الديون المعدومة",
+    "ديون"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_debts_0396_29_3",
+  "type": "judgment_principle",
+  "category": "debts",
+  "title": "الديون المعدومة",
+  "content": "الحكم على الدين بانه معدوم أو غير معدوم هو مما يدخل فى السلطة التقديرية لقاضى الموضوع ، الا أن لمحكمة النقض أن تتدخل اذا كانت الأسباب التى اعتمد عليها القاضى فى حكمه تنطوى على مخالفة للقانون أو لا يكون من",
+  "keywords": [
+   "التقادم",
+   "الديون المعدومة",
+   "ديون",
+   "cassation",
+   "civil",
+   "debts",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0396 لسنة 29"
+  ],
+  "related_ids": [
+   "cass_civil_debts_0396_29_2",
+   "cass_civil_debts_021_35_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "31-12-1964",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0396",
+   "judicial_year": "29",
+   "office_volume": "15",
+   "page": "1237",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_debts_0396_29_3",
+   "domain": "civil_law",
+   "category": "debts",
+   "topic": "الديون المعدومة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0396",
+    "judicial_year": "29",
+    "office_volume": "15",
+    "page": "1237",
+    "session_date": "31-12-1964",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "التقادم",
+    "الديون المعدومة",
+    "ديون"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الحكم على الدين بانه معدوم أو غير معدوم هو مما يدخل فى السلطة التقديرية لقاضى الموضوع ، الا أن لمحكمة النقض أن تتدخل اذا كانت الأسباب التى اعتمد عليها القاضى فى حكمه تنطوى على مخالفة للقانون أو لا يكون من",
+   "core_principles": [
+    "أما ما قرره الحكم تبريرا لرأيه فى تعذر اجراء التفرقة بين الديون المعدومة و غير المعدومة من أنه قد تطرأ ظروف مالية تنقل المدين من العسر إلى اليسر فانه تقرير محمول على مجرد افتراض احتمالى لا يجوز بناء حكم عليه ، هذا إلى أن الاحتمال الذى افترض الحكم حدوثه منتف فى الأحوال المتقدم ذكرها و التى سلم الحكم"
+   ],
+   "judicial_rule": {
+    "short": "أما ما قرره الحكم تبريرا لرأيه فى تعذر اجراء التفرقة بين الديون المعدومة و غير المعدومة من أنه قد تطرأ ظروف مالية تنقل المدين من العسر إلى اليسر فانه تقرير محمول على مجرد افتراض احتمالى لا يجوز بناء حكم عليه",
+    "professional": "الحكم على الدين بانه معدوم أو غير معدوم هو مما يدخل فى السلطة التقديرية لقاضى الموضوع ، الا أن لمحكمة النقض أن تتدخل اذا كانت الأسباب التى اعتمد عليها القاضى فى حكمه تنطوى على مخالفة للقانون أو لا يكون من شأنها أن تؤدى الى النتيجة التى انتهى اليها . فاذا كان ما استند اليه الحكم المطعون فيه فى نفى صفة الانعدام عن الديون التى اعتبرها الخبير و الحكم الابتدائى معدومة هو القول بأنه من العسير وضع ضابط أو مقياس للتفرقة بين الديون المعدومة و غير المعدومة فان ذلك ينطوى على مخالفة للقا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "debts",
+    "الديون المعدومة",
+    "ديون"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_debts_021_35_1",
+  "type": "judgment_principle",
+  "category": "debts",
+  "title": "الديون المعدومة",
+  "content": "الديون المعدومة التى تعتبر بمثابة خسارة على المشأة هى و على ما جرى به قضاء هذه المحكمة التى فقد الأمل فى تحصيلها . و لئن كان الحكم على الدين بإنه معدوم أو غير معدوم هو مما يدخل فى السلطة التقديرية",
+  "keywords": [
+   "الديون المعدومة",
+   "ديون",
+   "cassation",
+   "civil",
+   "debts",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 021 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_debts_0396_29_2",
+   "cass_civil_debts_0396_29_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "01-11-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "021",
+   "judicial_year": "35",
+   "office_volume": "23",
+   "page": "1232",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_debts_021_35_1",
+   "domain": "civil_law",
+   "category": "debts",
+   "topic": "الديون المعدومة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "021",
+    "judicial_year": "35",
+    "office_volume": "23",
+    "page": "1232",
+    "session_date": "01-11-1972",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الديون المعدومة",
+    "ديون"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الديون المعدومة التى تعتبر بمثابة خسارة على المشأة هى و على ما جرى به قضاء هذه المحكمة التى فقد الأمل فى تحصيلها . و لئن كان الحكم على الدين بإنه معدوم أو غير معدوم هو مما يدخل فى السلطة التقديرية",
+   "core_principles": [
+    "و إذ كان ما إستند إليه الحكم فى إثبات إنعدام الدين الذى للمنشأة فى ذمة والد المطعون عليه لا يكفى لإعتباره كذلك ، لأن صلة الأبوة بين المدين و دائنه المطعون عليه \"الممول صاحب المنشأة\" و عدم إكتراث المدين بالإجراءات القانونية التى يتخذها الدائن ضده للمطالبة بالدين لا يفقد الأمل فى تحصيله حتى يعتبر معدو"
+   ],
+   "judicial_rule": {
+    "short": "و إذ كان ما إستند إليه الحكم فى إثبات إنعدام الدين الذى للمنشأة فى ذمة والد المطعون عليه لا يكفى لإعتباره كذلك ، لأن صلة الأبوة بين المدين و دائنه المطعون عليه \"الممول صاحب المنشأة\" و عدم إكتراث المدين بالإجراءات",
+    "professional": "الديون المعدومة التى تعتبر بمثابة خسارة على المشأة هى و على ما جرى به قضاء هذه المحكمة التى فقد الأمل فى تحصيلها . و لئن كان الحكم على الدين بإنه معدوم أو غير معدوم هو مما يدخل فى السلطة التقديرية لمحكمة الموضوع إلا أن لمحكمة النقض أن تتدخل إذا كانت الأسباب التى إعتمد عليها القاضى فى حكمه تنطوى على مخالفة للقانون أو لا يكون من شأنها أن تؤدى إلى النتيجة التى إنتهى إليها . و إذ كان ما إستند إليه الحكم فى إثبات إنعدام الدين الذى للمنشأة فى ذمة والد المطعون عليه لا يكفى لإعتباره"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "debts",
+    "الديون المعدومة",
+    "ديون"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_debts_090_23_4",
+  "type": "judgment_principle",
+  "category": "debts",
+  "title": "تملك الحق فى الديون بالتقادم",
+  "content": "ليس فى القانون ما يجيز القول بتملك الحق فى الديون بمضى المدة طالت أو قصرت .",
+  "keywords": [
+   "تملك الحق فى الديون بالتقادم",
+   "ديون",
+   "cassation",
+   "civil",
+   "debts",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 090 لسنة 23"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "11-04-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "090",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "404",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_debts_090_23_4",
+   "domain": "civil_law",
+   "category": "debts",
+   "topic": "تملك الحق فى الديون بالتقادم",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "090",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "404",
+    "session_date": "11-04-1957",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "تملك الحق فى الديون بالتقادم",
+    "ديون"
+   ],
+   "legal_articles": [],
+   "facts_summary": "ليس فى القانون ما يجيز القول بتملك الحق فى الديون بمضى المدة طالت أو قصرت .",
+   "core_principles": [
+    "ليس فى القانون ما يجيز القول بتملك الحق فى الديون بمضى المدة طالت أو قصرت"
+   ],
+   "judicial_rule": {
+    "short": "ليس فى القانون ما يجيز القول بتملك الحق فى الديون بمضى المدة طالت أو قصرت",
+    "professional": "ليس فى القانون ما يجيز القول بتملك الحق فى الديون بمضى المدة طالت أو قصرت ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "debts",
+    "تملك الحق فى الديون بالتقادم",
+    "ديون"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

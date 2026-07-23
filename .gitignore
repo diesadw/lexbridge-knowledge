@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+node_modules/
+
+# Legacy pre-reorganization raw markdown dump (88MB) — redundant with the
+# structured JSON in knowledge/, not consumed by the Knowledge Engine, and
+# close to GitHub's 100MB single-file hard limit. Excluded by default; if
+# you need it for historical audit, use `git lfs track` instead of
+# removing this line.
+knowledge/references/legacy_reports/lexbridge_legal_database_v9.md

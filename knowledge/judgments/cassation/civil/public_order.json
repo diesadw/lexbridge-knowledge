@@ -1,0 +1,1354 @@
+[
+ {
+  "id": "cass_civil_public_order_1527_48_7",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "اثارة المسائل المتعلقة بالنظام العام",
+  "content": "من المقرر فى قضاء هذه المحكمة أنه يجوز للنيابة كما يجوز للمحكمة من تلقاء نفسها أن تثير فى الطعن ما تعلق بالنظام العام شريطة أن يكون وارداً على الجزء المطعون عليه من الحكم .",
+  "keywords": [
+   "اثارة المسائل المتعلقة بالنظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 1527 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_2255_54_4",
+   "cass_civil_public_order_1909_56_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-12-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1527",
+   "judicial_year": "48",
+   "office_volume": "30",
+   "page": "337",
+   "paragraph_number": "7"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_1527_48_7",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "اثارة المسائل المتعلقة بالنظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1527",
+    "judicial_year": "48",
+    "office_volume": "30",
+    "page": "337",
+    "session_date": "20-12-1979",
+    "paragraph_number": "7"
+   },
+   "keywords": [
+    "اثارة المسائل المتعلقة بالنظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر فى قضاء هذه المحكمة أنه يجوز للنيابة كما يجوز للمحكمة من تلقاء نفسها أن تثير فى الطعن ما تعلق بالنظام العام شريطة أن يكون وارداً على الجزء المطعون عليه من الحكم .",
+   "core_principles": [
+    "من المقرر فى قضاء هذه المحكمة أنه يجوز للنيابة كما يجوز للمحكمة من تلقاء نفسها أن تثير فى الطعن ما تعلق بالنظام العام شريطة أن يكون وارداً على الجزء المطعون عليه من الحكم"
+   ],
+   "judicial_rule": {
+    "short": "من المقرر فى قضاء هذه المحكمة أنه يجوز للنيابة كما يجوز للمحكمة من تلقاء نفسها أن تثير فى الطعن ما تعلق بالنظام العام شريطة أن يكون وارداً على الجزء المطعون عليه من الحكم",
+    "professional": "من المقرر فى قضاء هذه المحكمة أنه يجوز للنيابة كما يجوز للمحكمة من تلقاء نفسها أن تثير فى الطعن ما تعلق بالنظام العام شريطة أن يكون وارداً على الجزء المطعون عليه من الحكم ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "اثارة المسائل المتعلقة بالنظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_2255_54_4",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "اثارة المسائل المتعلقة بالنظام العام",
+  "content": "المقرر فى قضاء هذه المحكمة أنه يشترط لإثاره المسألة المتعلقة بالنظام العام لأول مرة فى الطعن توافر جميع العناصر التى تتيح الإلمام بها لدى محكمة الموضوع .",
+  "keywords": [
+   "اثارة المسائل المتعلقة بالنظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 2255 لسنة 54"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_1527_48_7",
+   "cass_civil_public_order_1909_56_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "26-01-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2255",
+   "judicial_year": "54",
+   "office_volume": "40",
+   "page": "287",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_2255_54_4",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "اثارة المسائل المتعلقة بالنظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2255",
+    "judicial_year": "54",
+    "office_volume": "40",
+    "page": "287",
+    "session_date": "26-01-1989",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "اثارة المسائل المتعلقة بالنظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر فى قضاء هذه المحكمة أنه يشترط لإثاره المسألة المتعلقة بالنظام العام لأول مرة فى الطعن توافر جميع العناصر التى تتيح الإلمام بها لدى محكمة الموضوع .",
+   "core_principles": [
+    "المقرر فى قضاء هذه المحكمة أنه يشترط لإثاره المسألة المتعلقة بالنظام العام لأول مرة فى الطعن توافر جميع العناصر التى تتيح الإلمام بها لدى محكمة الموضوع"
+   ],
+   "judicial_rule": {
+    "short": "المقرر فى قضاء هذه المحكمة أنه يشترط لإثاره المسألة المتعلقة بالنظام العام لأول مرة فى الطعن توافر جميع العناصر التى تتيح الإلمام بها لدى محكمة الموضوع",
+    "professional": "المقرر فى قضاء هذه المحكمة أنه يشترط لإثاره المسألة المتعلقة بالنظام العام لأول مرة فى الطعن توافر جميع العناصر التى تتيح الإلمام بها لدى محكمة الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "اثارة المسائل المتعلقة بالنظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_1909_56_1",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "اثارة المسائل المتعلقة بالنظام العام",
+  "content": "من المقرر فى قضاء هذه المحكمة أن لمحكمة النقض من تلقاء نفسها - كما يجوز للخصوم و النيابة العامة - إثارة الأسباب المتعلقة بالنظام العام و لو لم يسبق له التمسك بها أمام محكمة الموضوع أو فى صحيفة الطعن متى",
+  "keywords": [
+   "اثارة المسائل المتعلقة بالنظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 1909 لسنة 56"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_1527_48_7",
+   "cass_civil_public_order_2255_54_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "30-01-1990",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1909",
+   "judicial_year": "56",
+   "office_volume": "41",
+   "page": "355",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_1909_56_1",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "اثارة المسائل المتعلقة بالنظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1909",
+    "judicial_year": "56",
+    "office_volume": "41",
+    "page": "355",
+    "session_date": "30-01-1990",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اثارة المسائل المتعلقة بالنظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر فى قضاء هذه المحكمة أن لمحكمة النقض من تلقاء نفسها - كما يجوز للخصوم و النيابة العامة - إثارة الأسباب المتعلقة بالنظام العام و لو لم يسبق له التمسك بها أمام محكمة الموضوع أو فى صحيفة الطعن متى",
+   "core_principles": [
+    "من المقرر فى قضاء هذه المحكمة أن لمحكمة النقض من تلقاء نفسها - كما يجوز للخصوم و النيابة العامة - إثارة الأسباب المتعلقة بالنظام العام و لو لم يسبق له التمسك بها أمام محكمة الموضوع أو فى صحيفة الطعن متى توافرت عناصر الفصل فيها من الوقائع و الأوراق التى سبق عرضها على محكمة الموضوع و وردت هذه الأسباب"
+   ],
+   "judicial_rule": {
+    "short": "من المقرر فى قضاء هذه المحكمة أن لمحكمة النقض من تلقاء نفسها - كما يجوز للخصوم و النيابة العامة - إثارة الأسباب المتعلقة بالنظام العام و لو لم يسبق له التمسك بها أمام محكمة الموضوع أو فى صحيفة الطعن متى",
+    "professional": "من المقرر فى قضاء هذه المحكمة أن لمحكمة النقض من تلقاء نفسها - كما يجوز للخصوم و النيابة العامة - إثارة الأسباب المتعلقة بالنظام العام و لو لم يسبق له التمسك بها أمام محكمة الموضوع أو فى صحيفة الطعن متى توافرت عناصر الفصل فيها من الوقائع و الأوراق التى سبق عرضها على محكمة الموضوع و وردت هذه الأسباب على الجزء المطعون فيه من الحكم و ليس على جزء آخر منه أو حكم سابق عليه لا يشمله الطعن ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "اثارة المسائل المتعلقة بالنظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_0295_43_2",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "اجراءات التقاضى من النظام العام",
+  "content": "إذ كان الطاعن قد أقام دعواه . . . . مدنى جرجا طالباً الحكم بصفه مستعجلة بطرد المطعون ضدهما من الأرض المبينة بصحيفة الدعوى و تسليمها له ، و قضت محكمة جرجا الجزئية فى مادة مستعجلة بعدم إختصاص القضاء المستعجل",
+  "keywords": [
+   "اجراءات التقاضى من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 0295 لسنة 43"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_021_45_1",
+   "cass_civil_public_order_0966_51_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-12-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0295",
+   "judicial_year": "43",
+   "office_volume": "28",
+   "page": "1841",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_0295_43_2",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "اجراءات التقاضى من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0295",
+    "judicial_year": "43",
+    "office_volume": "28",
+    "page": "1841",
+    "session_date": "21-12-1977",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اجراءات التقاضى من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان الطاعن قد أقام دعواه . . . . مدنى جرجا طالباً الحكم بصفه مستعجلة بطرد المطعون ضدهما من الأرض المبينة بصحيفة الدعوى و تسليمها له ، و قضت محكمة جرجا الجزئية فى مادة مستعجلة بعدم إختصاص القضاء المستعجل",
+   "core_principles": [
+    "مدنى جرجا طالباً الحكم بصفه مستعجلة بطرد المطعون ضدهما من الأرض المبينة بصحيفة الدعوى و تسليمها له ، و قضت محكمة جرجا الجزئية فى مادة مستعجلة بعدم إختصاص القضاء المستعجل بنظر الدعوى مؤسسة قضاءها على ما يفيد أن الأمر بطرد المطعون ضدهما ينطوى على مساس بالحق ، و بهذا القضاء تنتهى الدعوى و يكون خطأ و مخ"
+   ],
+   "judicial_rule": {
+    "short": "مدنى جرجا طالباً الحكم بصفه مستعجلة بطرد المطعون ضدهما من الأرض المبينة بصحيفة الدعوى و تسليمها له ، و قضت محكمة جرجا الجزئية فى مادة مستعجلة بعدم إختصاص القضاء المستعجل بنظر الدعوى مؤسسة قضاءها على ما يفيد أن الأمر بطرد",
+    "professional": ". . . مدنى جرجا طالباً الحكم بصفه مستعجلة بطرد المطعون ضدهما من الأرض المبينة بصحيفة الدعوى و تسليمها له ، و قضت محكمة جرجا الجزئية فى مادة مستعجلة بعدم إختصاص القضاء المستعجل بنظر الدعوى مؤسسة قضاءها على ما يفيد أن الأمر بطرد المطعون ضدهما ينطوى على مساس بالحق ، و بهذا القضاء تنتهى الدعوى و يكون خطأ و مخالفة للقانون ما أمر به الحكم من إحالة النزاع لمحكمة سوهاج الإبتدائية لوروده على عدم و ينبنى على هذا ألا يصح إتصال محكمة سوهاج الإبتدائية بالنزاع الموضوعى و فصلها فيه بالرغم م"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "اجراءات التقاضى من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_021_45_1",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "اجراءات التقاضى من النظام العام",
+  "content": "لما كانت إجراءات التقاضى من النظام العام و كانت المادة 91 من قانون السلطة القضائية رقم 43 لسنة 1965 الذى يحكم واقعة الطلب ، تقضى برفع الطلب بعريضة تودع قلم كتاب محكمة النقض ، و كان الطالب لم يسلك هذا",
+  "keywords": [
+   "اجراءات التقاضى من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 021 لسنة 45"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_0295_43_2",
+   "cass_civil_public_order_0966_51_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "10-11-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "021",
+   "judicial_year": "45",
+   "office_volume": "28",
+   "page": "106",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_021_45_1",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "اجراءات التقاضى من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "021",
+    "judicial_year": "45",
+    "office_volume": "28",
+    "page": "106",
+    "session_date": "10-11-1977",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اجراءات التقاضى من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كانت إجراءات التقاضى من النظام العام و كانت المادة 91 من قانون السلطة القضائية رقم 43 لسنة 1965 الذى يحكم واقعة الطلب ، تقضى برفع الطلب بعريضة تودع قلم كتاب محكمة النقض ، و كان الطالب لم يسلك هذا",
+   "core_principles": [
+    "تقضى برفع الطلب بعريضة تودع قلم كتاب محكمة النقض ، و كان الطالب لم يسلك هذا الطريق و إنما أقام بطلبه الدعوى أمام محكمة القضاء الإدارى ، فإن الطلب يكون غير مقبول ، و لا يغير من ذلك أن تكون المحكمة قضت بعدم إختصاصها و بإحالتها إلى هذه المحكمة عملاً بنص المادة 110 من قانون المرافعات ، لأن قانون السلطة"
+   ],
+   "judicial_rule": {
+    "short": "تقضى برفع الطلب بعريضة تودع قلم كتاب محكمة النقض ، و كان الطالب لم يسلك هذا الطريق و إنما أقام بطلبه الدعوى أمام محكمة القضاء الإدارى ، فإن الطلب يكون غير مقبول ، و لا يغير من ذلك أن تكون",
+    "professional": "تقضى برفع الطلب بعريضة تودع قلم كتاب محكمة النقض ، و كان الطالب لم يسلك هذا الطريق و إنما أقام بطلبه الدعوى أمام محكمة القضاء الإدارى ، فإن الطلب يكون غير مقبول ، و لا يغير من ذلك أن تكون المحكمة قضت بعدم إختصاصها و بإحالتها إلى هذه المحكمة عملاً بنص المادة 110 من قانون المرافعات ، لأن قانون السلطة القضائية قانون خاص بحكم القضايا التى تدخل فى ولاية هذه المحكمة و يحدد الإجراءات التى ترفع بها فلا يجوز اللجوء إلى سواه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "اجراءات التقاضى من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_0966_51_5",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "اجراءات التقاضى من النظام العام",
+  "content": "لما كان الأصل فى الأحكام المستعجلة أنها لا تحوز قوة الأمر المقضى إلا أن هذا لا يعنى جواز إثارة النزاع الذى فصل فيه القاضى المستعجل من جديد ، متى كان مركز الخصوم هو الظروف التى إنتهت بالحكم هى بعينها لم",
+  "keywords": [
+   "اجراءات التقاضى من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 0966 لسنة 51"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_0295_43_2",
+   "cass_civil_public_order_021_45_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-06-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0966",
+   "judicial_year": "51",
+   "office_volume": "35",
+   "page": "1720",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_0966_51_5",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "اجراءات التقاضى من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0966",
+    "judicial_year": "51",
+    "office_volume": "35",
+    "page": "1720",
+    "session_date": "21-06-1984",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "اجراءات التقاضى من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان الأصل فى الأحكام المستعجلة أنها لا تحوز قوة الأمر المقضى إلا أن هذا لا يعنى جواز إثارة النزاع الذى فصل فيه القاضى المستعجل من جديد ، متى كان مركز الخصوم هو الظروف التى إنتهت بالحكم هى بعينها لم",
+   "core_principles": [
+    "متى كان مركز الخصوم هو الظروف التى إنتهت بالحكم هى بعينها لم يطرأ عليها تغيير"
+   ],
+   "judicial_rule": {
+    "short": "متى كان مركز الخصوم هو الظروف التى إنتهت بالحكم هى بعينها لم يطرأ عليها تغيير",
+    "professional": "متى كان مركز الخصوم هو الظروف التى إنتهت بالحكم هى بعينها لم يطرأ عليها تغيير ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "اجراءات التقاضى من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_0385_44_1",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "القواعد الامرة من النظام العام",
+  "content": "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها إلى تحقيق مصلحةعامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفراد فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها و لا يجوز",
+  "keywords": [
+   "القواعد الامرة من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 0385 لسنة 44"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_0326_48_2",
+   "cass_civil_public_order_0326_48_3",
+   "cass_civil_public_order_0080_51_2",
+   "cass_civil_public_order_2763_56_1",
+   "cass_civil_public_order_0494_55_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-04-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0385",
+   "judicial_year": "44",
+   "office_volume": "31",
+   "page": "1193",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_0385_44_1",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "القواعد الامرة من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0385",
+    "judicial_year": "44",
+    "office_volume": "31",
+    "page": "1193",
+    "session_date": "24-04-1980",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها إلى تحقيق مصلحةعامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفراد فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها و لا يجوز",
+   "core_principles": [
+    "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها إلى تحقيق مصلحةعامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفراد فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها و لا يجوز لهم أن يناهضوها بإتفاقات فيما بينهم حتى لو حققت هذه الإتفاقات لهم مصالح ف"
+   ],
+   "judicial_rule": {
+    "short": "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها إلى تحقيق مصلحةعامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفراد فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها و لا يجوز",
+    "professional": "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها إلى تحقيق مصلحةعامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفراد فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها و لا يجوز لهم أن يناهضوها بإتفاقات فيما بينهم حتى لو حققت هذه الإتفاقات لهم مصالح فردية ، لأن المصالح الفردية لا تقوم أمام المصلحة العامة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_0326_48_2",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "القواعد الامرة من النظام العام",
+  "content": "من المقرر أنه إذا دلت عبارة النص التشريعى أو إشارته على إتجاه قصد المشرع من تقرير القاعدة القانونية الواردة به إلى تنظيم وضع بذاته على نحو محدد لا يجوز الخروج عليه إلتزاماً بمقتضيات الصالح العام و ترجيحاً لها على ما",
+  "keywords": [
+   "القواعد الامرة من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 0326 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_0385_44_1",
+   "cass_civil_public_order_0326_48_3",
+   "cass_civil_public_order_0080_51_2",
+   "cass_civil_public_order_2763_56_1",
+   "cass_civil_public_order_0494_55_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-12-1982",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0326",
+   "judicial_year": "48",
+   "office_volume": "33",
+   "page": "1197",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_0326_48_2",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "القواعد الامرة من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0326",
+    "judicial_year": "48",
+    "office_volume": "33",
+    "page": "1197",
+    "session_date": "20-12-1982",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر أنه إذا دلت عبارة النص التشريعى أو إشارته على إتجاه قصد المشرع من تقرير القاعدة القانونية الواردة به إلى تنظيم وضع بذاته على نحو محدد لا يجوز الخروج عليه إلتزاماً بمقتضيات الصالح العام و ترجيحاً لها على ما",
+   "core_principles": [
+    "من المقرر أنه إذا دلت عبارة النص التشريعى أو إشارته على إتجاه قصد المشرع من تقرير القاعدة القانونية الواردة به إلى تنظيم وضع بذاته على نحو محدد لا يجوز الخروج عليه إلتزاماً بمقتضيات الصالح العام و ترجيحاً لها على ما قد يكون لبعض الأفراد من مصالح خاصة مغايرة فإن هذه القاعدة تعتبر من القواعد الآمرة ال"
+   ],
+   "judicial_rule": {
+    "short": "من المقرر أنه إذا دلت عبارة النص التشريعى أو إشارته على إتجاه قصد المشرع من تقرير القاعدة القانونية الواردة به إلى تنظيم وضع بذاته على نحو محدد لا يجوز الخروج عليه إلتزاماً بمقتضيات الصالح العام و ترجيحاً لها على ما",
+    "professional": "من المقرر أنه إذا دلت عبارة النص التشريعى أو إشارته على إتجاه قصد المشرع من تقرير القاعدة القانونية الواردة به إلى تنظيم وضع بذاته على نحو محدد لا يجوز الخروج عليه إلتزاماً بمقتضيات الصالح العام و ترجيحاً لها على ما قد يكون لبعض الأفراد من مصالح خاصة مغايرة فإن هذه القاعدة تعتبر من القواعد الآمرة المتعلقة بالنظام العام ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_0326_48_3",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "القواعد الامرة من النظام العام",
+  "content": "لما كانت المادة الأولى من القانون رقم 95 لسنة 1963 - فى شأن تنظيم الإستيراد و الذى تم الإتفاق فى ظله - تنص على أن يكون إستيراد السلع من خارج الجمهورية بقصد الإتجار أو التصنيع مقصوراً على شركات و هيئات",
+  "keywords": [
+   "القواعد الامرة من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 0326 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_0385_44_1",
+   "cass_civil_public_order_0326_48_2",
+   "cass_civil_public_order_0080_51_2",
+   "cass_civil_public_order_2763_56_1",
+   "cass_civil_public_order_0494_55_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 95/1963"
+   ],
+   "date": "20-12-1982",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0326",
+   "judicial_year": "48",
+   "office_volume": "33",
+   "page": "1197",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_0326_48_3",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "القواعد الامرة من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0326",
+    "judicial_year": "48",
+    "office_volume": "33",
+    "page": "1197",
+    "session_date": "20-12-1982",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [
+    "Law 95/1963"
+   ],
+   "facts_summary": "لما كانت المادة الأولى من القانون رقم 95 لسنة 1963 - فى شأن تنظيم الإستيراد و الذى تم الإتفاق فى ظله - تنص على أن يكون إستيراد السلع من خارج الجمهورية بقصد الإتجار أو التصنيع مقصوراً على شركات و هيئات",
+   "core_principles": [
+    "و من ثم فإن القواعد القررة بهما تدخل فى دائرة النظام العام مما لا يجوز للأفراد الإتفاق على مخالفتها أو التحاليل عليها بإتفاقات تناهض ما تضمنتاه من تنظيم"
+   ],
+   "judicial_rule": {
+    "short": "و من ثم فإن القواعد القررة بهما تدخل فى دائرة النظام العام مما لا يجوز للأفراد الإتفاق على مخالفتها أو التحاليل عليها بإتفاقات تناهض ما تضمنتاه من تنظيم",
+    "professional": "هو إحكام الرقابة على عمليات الإستيراد بقولها نظراً لما لشئون الإستيراد من تأثير عميق فى إقتصاديات البلاد و رغبة فى إرساء أسسه و تنظيمه على قواعد سليمة و حماية للتجارة من الدخلاء المتلاعبين فقد رؤى إحكاماً للرقابة على عمليات الإستيراد قصر الإشتغال بها على شركات القطاع العام أو تلك التى يساهم فيها فضلاً عما فى ذلك من تحقيق للسياسة الإستيرادية الجديدة المنبثقة من الإتجاهات الإشتراكية الهادفة إلى تيسير إنزال السلعة إلى السوق و توصيلها إلى المستهلك بأقل تكاليف ... لما كان ذلك و كا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_0080_51_2",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "القواعد الامرة من النظام العام",
+  "content": "لما كان لمحكمة النقض أن تتصدى من تلقاء نفسها لما فصل فيه الحكم المطعون فيه متعلقاً بتعيين جهة القضاء صاحبة الإختصاص بإعتباره مسألة متعلقة بالنظام العام تدخل فى نطاق الطعن المطروح . و كان الحكم المطعون فيه قد خلص إلى",
+  "keywords": [
+   "القواعد الامرة من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 0080 لسنة 51"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_0385_44_1",
+   "cass_civil_public_order_0326_48_2",
+   "cass_civil_public_order_0326_48_3",
+   "cass_civil_public_order_2763_56_1",
+   "cass_civil_public_order_0494_55_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-12-1985",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0080",
+   "judicial_year": "51",
+   "office_volume": "36",
+   "page": "1140",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_0080_51_2",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "القواعد الامرة من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0080",
+    "judicial_year": "51",
+    "office_volume": "36",
+    "page": "1140",
+    "session_date": "19-12-1985",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان لمحكمة النقض أن تتصدى من تلقاء نفسها لما فصل فيه الحكم المطعون فيه متعلقاً بتعيين جهة القضاء صاحبة الإختصاص بإعتباره مسألة متعلقة بالنظام العام تدخل فى نطاق الطعن المطروح . و كان الحكم المطعون فيه قد خلص إلى",
+   "core_principles": [
+    "و كان الحكم المطعون فيه قد خلص إلى إختصاص لجنة الإعتراضات بنظر طلب بطلان قرار لجنة القسمة و أمر بإحالة هذا الطلب إليها حال أن محكمة القضاء الإدارى - و على ما سلف بيانه - هى المختصة بنظره ، فإنه يكون قد خالف القانون"
+   ],
+   "judicial_rule": {
+    "short": "و كان الحكم المطعون فيه قد خلص إلى إختصاص لجنة الإعتراضات بنظر طلب بطلان قرار لجنة القسمة و أمر بإحالة هذا الطلب إليها حال أن محكمة القضاء الإدارى - و على ما سلف بيانه - هى المختصة بنظره ، فإنه",
+    "professional": "و كان الحكم المطعون فيه قد خلص إلى إختصاص لجنة الإعتراضات بنظر طلب بطلان قرار لجنة القسمة و أمر بإحالة هذا الطلب إليها حال أن محكمة القضاء الإدارى - و على ما سلف بيانه - هى المختصة بنظره ، فإنه يكون قد خالف القانون ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_2763_56_1",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "القواعد الامرة من النظام العام",
+  "content": "المقرر - فى قضاء هذه المحكمة - أن القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى ، و تعلو على مصلحة الأفراد فيجب على جميع",
+  "keywords": [
+   "القواعد الامرة من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 2763 لسنة 56"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_0385_44_1",
+   "cass_civil_public_order_0326_48_2",
+   "cass_civil_public_order_0326_48_3",
+   "cass_civil_public_order_0080_51_2",
+   "cass_civil_public_order_0494_55_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-05-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2763",
+   "judicial_year": "56",
+   "office_volume": "40",
+   "page": "388",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_2763_56_1",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "القواعد الامرة من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2763",
+    "judicial_year": "56",
+    "office_volume": "40",
+    "page": "388",
+    "session_date": "25-05-1989",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر - فى قضاء هذه المحكمة - أن القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى ، و تعلو على مصلحة الأفراد فيجب على جميع",
+   "core_principles": [
+    "المقرر - فى قضاء هذه المحكمة - أن القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى ، و تعلو على مصلحة الأفراد فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها و لا يجوز لهم أن يناهضوها بإتفاقات فيما بينهم حتى"
+   ],
+   "judicial_rule": {
+    "short": "المقرر - فى قضاء هذه المحكمة - أن القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى ، و تعلو على مصلحة الأفراد فيجب على جميع",
+    "professional": "المقرر - فى قضاء هذه المحكمة - أن القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى ، و تعلو على مصلحة الأفراد فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها و لا يجوز لهم أن يناهضوها بإتفاقات فيما بينهم حتى و لو حققت هذه الإتفاقات لهم مصالح فردية ، بإعتبار أن المصلحة الفردية لا تقوم أمام المصلحة العامة ، و سواء ورد فى القانون نص يجرمها أو لم يرد ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_0494_55_1",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "القواعد الامرة من النظام العام",
+  "content": "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفرد ، فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها ، و",
+  "keywords": [
+   "القواعد الامرة من النظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 0494 لسنة 55"
+  ],
+  "related_ids": [
+   "cass_civil_public_order_0385_44_1",
+   "cass_civil_public_order_0326_48_2",
+   "cass_civil_public_order_0326_48_3",
+   "cass_civil_public_order_0080_51_2",
+   "cass_civil_public_order_2763_56_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "14-03-1991",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0494",
+   "judicial_year": "55",
+   "office_volume": "42",
+   "page": "756",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_0494_55_1",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "القواعد الامرة من النظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0494",
+    "judicial_year": "55",
+    "office_volume": "42",
+    "page": "756",
+    "session_date": "14-03-1991",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفرد ، فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها ، و",
+   "core_principles": [
+    "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفرد ، فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها ، و لا يجوز لهم أن يناهضوها بإتفاقات فيما بينهم حتى لو حققت هذه الإتفاقات لهم مصلحة ف"
+   ],
+   "judicial_rule": {
+    "short": "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفرد ، فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها ، و",
+    "professional": "القواعد القانونية التى تعتبر من النظام العام هى قواعد يقصد بها تحقيق مصلحة عامة سياسية أو إجتماعية أو إقتصادية تتعلق بنظام المجتمع الأعلى و تعلو على مصلحة الأفرد ، فيجب على جميع الأفراد مراعاة هذه المصلحة و تحقيقها ، و لا يجوز لهم أن يناهضوها بإتفاقات فيما بينهم حتى لو حققت هذه الإتفاقات لهم مصلحة فردية ، بإعتبار أن المصلحة الفردية لا تقوم أمام المصلحة العامة و سواء ورد فى القانون نص يجرمها أم لم يرد ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "القواعد الامرة من النظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_2111_50_2",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "المسائل غير المتعلقة بالنظام العام",
+  "content": "بطلان الإجراءات لإنعدام صفة أحد الخصوم فى الدعوى غير متعلق بالنظام العام لأنه مقرر لمصلحة من وضع لحمايته و لا يجوز التحدى به لأول مرة أمام محكمة النقض .",
+  "keywords": [
+   "المسائل غير المتعلقة بالنظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 2111 لسنة 50"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-11-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2111",
+   "judicial_year": "50",
+   "office_volume": "35",
+   "page": "1881",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_2111_50_2",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "المسائل غير المتعلقة بالنظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2111",
+    "judicial_year": "50",
+    "office_volume": "35",
+    "page": "1881",
+    "session_date": "25-11-1984",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "المسائل غير المتعلقة بالنظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [],
+   "facts_summary": "بطلان الإجراءات لإنعدام صفة أحد الخصوم فى الدعوى غير متعلق بالنظام العام لأنه مقرر لمصلحة من وضع لحمايته و لا يجوز التحدى به لأول مرة أمام محكمة النقض .",
+   "core_principles": [
+    "بطلان الإجراءات لإنعدام صفة أحد الخصوم فى الدعوى غير متعلق بالنظام العام لأنه مقرر لمصلحة من وضع لحمايته و لا يجوز التحدى به لأول مرة أمام محكمة النقض"
+   ],
+   "judicial_rule": {
+    "short": "بطلان الإجراءات لإنعدام صفة أحد الخصوم فى الدعوى غير متعلق بالنظام العام لأنه مقرر لمصلحة من وضع لحمايته و لا يجوز التحدى به لأول مرة أمام محكمة النقض",
+    "professional": "بطلان الإجراءات لإنعدام صفة أحد الخصوم فى الدعوى غير متعلق بالنظام العام لأنه مقرر لمصلحة من وضع لحمايته و لا يجوز التحدى به لأول مرة أمام محكمة النقض ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "المسائل غير المتعلقة بالنظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_public_order_0326_48_4",
+  "type": "judgment_principle",
+  "category": "public_order",
+  "title": "مخالفة الاتفاق للنظام العام",
+  "content": "لما كان الطاعن - و هو ليس له حق الإستيراد أصلاً - قد إتفق مع المؤسسة المطعون ضدها الأولى بمقتضى العقد المؤرخ 1972/12/19 على أن يقوم بإستعمال حقها فى إستيراد مستلزمات إنتاج الكتاب من دول الإتفاقيات فى الحدود التى قررتها",
+  "keywords": [
+   "العقد",
+   "مخالفة الاتفاق للنظام العام",
+   "نظام عام",
+   "cassation",
+   "civil",
+   "public_order",
+   "mandatory rules",
+   "contract nullity",
+   "public policy"
+  ],
+  "citations": [
+   "طعن رقم 0326 لسنة 48"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 95/1963"
+   ],
+   "date": "20-12-1982",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0326",
+   "judicial_year": "48",
+   "office_volume": "33",
+   "page": "1197",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_public_order_0326_48_4",
+   "domain": "civil_law",
+   "category": "public_order",
+   "topic": "مخالفة الاتفاق للنظام العام",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0326",
+    "judicial_year": "48",
+    "office_volume": "33",
+    "page": "1197",
+    "session_date": "20-12-1982",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "العقد",
+    "مخالفة الاتفاق للنظام العام",
+    "نظام عام"
+   ],
+   "legal_articles": [
+    "Law 95/1963"
+   ],
+   "facts_summary": "لما كان الطاعن - و هو ليس له حق الإستيراد أصلاً - قد إتفق مع المؤسسة المطعون ضدها الأولى بمقتضى العقد المؤرخ 1972/12/19 على أن يقوم بإستعمال حقها فى إستيراد مستلزمات إنتاج الكتاب من دول الإتفاقيات فى الحدود التى قررتها",
+   "core_principles": [
+    "و إن تضمن فى ظاهره الإتفاق على شراء الطاعن السلع التى تستوردها المؤسسة المطعون ضدها الأوىل إلا أنه - فى حقيقته - قد تضمن الإتفاق على تنازل المؤسسة المطعون ضدها الأولى عن تراخيص الإستيراد الشخصية المخصصة لها إلى الطاعن بقصد التغلب على مانع قانونى يحول دون الطاعن و الحصول مباشرة على هذه التراخيص فإن م"
+   ],
+   "judicial_rule": {
+    "short": "و إن تضمن فى ظاهره الإتفاق على شراء الطاعن السلع التى تستوردها المؤسسة المطعون ضدها الأوىل إلا أنه - فى حقيقته - قد تضمن الإتفاق على تنازل المؤسسة المطعون ضدها الأولى عن تراخيص الإستيراد الشخصية المخصصة لها إلى الطاعن بقصد",
+    "professional": "و إن تضمن فى ظاهره الإتفاق على شراء الطاعن السلع التى تستوردها المؤسسة المطعون ضدها الأوىل إلا أنه - فى حقيقته - قد تضمن الإتفاق على تنازل المؤسسة المطعون ضدها الأولى عن تراخيص الإستيراد الشخصية المخصصة لها إلى الطاعن بقصد التغلب على مانع قانونى يحول دون الطاعن و الحصول مباشرة على هذه التراخيص فإن محل ذلك العقد يكون غير مشروع لمخالفته للقواعد المتعلقة بالنظام العام التى تضمنها القانون رقم 95 لسنة 1963 فى شأن تنظيم الإستيراد و هو ما يترتب عليه بطلان العقد ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "mandatory rules",
+    "contract nullity",
+    "public policy"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "public_order",
+    "مخالفة الاتفاق للنظام العام",
+    "نظام عام"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

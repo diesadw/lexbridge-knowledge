@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-07-19T20:04:38.743967+00:00",
+  "defenses_derived": 42,
+  "index": {
+    "changed": 0,
+    "deleted": 0,
+    "unchanged": 305
+  },
+  "graph_nodes": 65487,
+  "graph_edges": 399052,
+  "total_records": 65522,
+  "validation_status": "ok_with_known_warnings"
+}

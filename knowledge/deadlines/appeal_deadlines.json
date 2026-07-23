@@ -1,0 +1,459 @@
+[
+ {
+  "id": "APP-0001",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد استئناف أمر الأداء",
+  "content": "يبدأ ميعاد الاستئناف في حالة فوات ميعاد التظلم من تاريخ انقضائه وفي حالة رفع التظلم من تاريخ صدور الحكم فيه.",
+  "keywords": [
+   "استئناف",
+   "أمر الأداء",
+   "40 يوم",
+   "استئناف أمر الأداء",
+   "المادة 208 مرافعات",
+   "أوامر الأداء",
+   "الاستئناف"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "208",
+   "date": null,
+   "court": "محكمة الاستئناف",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "40 يوماً",
+   "duration_days": 40,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "APP-0001",
+   "title": "ميعاد استئناف أمر الأداء",
+   "category": "إجراءات مدنية",
+   "sub_category": "أوامر الأداء",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "فوات ميعاد التظلم أو صدور حكم برفضه",
+   "duration": "40 يوماً",
+   "duration_days": 40,
+   "calculation_method": "من فوات ميعاد التظلم أو من صدور حكم رفضه",
+   "legal_text": "يبدأ ميعاد الاستئناف في حالة فوات ميعاد التظلم من تاريخ انقضائه وفي حالة رفع التظلم من تاريخ صدور الحكم فيه.",
+   "plain_language_explanation": "استئناف أمر الأداء: 40 يوماً من فوات التظلم أو من صدور حكم رفضه.",
+   "practical_meaning": "ميعادان بديلان. يجب تحديد أيهما ينطبق ثم احتساب 40 يوماً.",
+   "start_date_rule": "من فوات ميعاد التظلم أو صدور حكم رفضه",
+   "end_condition": "مضي 40 يوماً",
+   "court_or_authority": "محكمة الاستئناف",
+   "required_action": "رفع الاستئناف",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "صحيفة الاستئناف",
+    "صورة أمر الأداء"
+   ],
+   "risk_if_missed": "سقوط الاستئناف",
+   "legal_effect_if_missed": "أمر الأداء نهائي",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "احتساب الميعاد من تاريخ خاطئ"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "تحديد تاريخ بدء الميعاد",
+    "رفع الاستئناف خلال 40 يوماً"
+   ],
+   "automation_opportunities": [
+    "احتساب ميعاد استئناف أمر الأداء"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "208"
+    }
+   ],
+   "related_procedures": [
+    "استئناف أمر الأداء"
+   ],
+   "related_topics": [
+    "أوامر الأداء",
+    "الاستئناف"
+   ],
+   "ai_tags": [
+    "استئناف",
+    "أمر الأداء",
+    "40 يوم"
+   ],
+   "search_keywords": [
+    "استئناف أمر الأداء",
+    "المادة 208 مرافعات"
+   ],
+   "ai_summary": "استئناف أمر الأداء: 40 يوماً من فوات ميعاد التظلم أو صدور حكم رفضه.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "أوامر الأداء",
+    "issue_type": "استئناف أمر الأداء"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "أوامر الأداء",
+    "page": "",
+    "article_number": "208"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0213",
+   "قانون_المرافعات__file_0193__art_0213",
+   "قانون_المرافعات__file_0087__art_0217",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0218"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "APP-0002",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد المعارضة في الأحكام المدنية الغيابية",
+  "content": "ميعاد المعارضة في الأحكام الغيابية خمسة عشر يوماً من تاريخ إعلان الحكم للمحكوم عليه.",
+  "keywords": [
+   "معارضة مدنية",
+   "15 يوم",
+   "مرافعات",
+   "ميعاد المعارضة المدنية",
+   "المادة 231 مرافعات",
+   "المعارضة",
+   "الأحكام الغيابية"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "231",
+   "date": null,
+   "court": "المحكمة التي أصدرت الحكم",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "15 يوماً (عادي) / 8 أيام (مستعجل)",
+   "duration_days": 15,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "APP-0002",
+   "title": "ميعاد المعارضة في الأحكام المدنية الغيابية",
+   "category": "إجراءات مدنية",
+   "sub_category": "المعارضة",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "إعلان الحكم الغيابي",
+   "duration": "15 يوماً (عادي) / 8 أيام (مستعجل)",
+   "duration_days": 15,
+   "calculation_method": "من تاريخ إعلان الحكم",
+   "legal_text": "ميعاد المعارضة في الأحكام الغيابية خمسة عشر يوماً من تاريخ إعلان الحكم للمحكوم عليه.",
+   "plain_language_explanation": "المعارضة المدنية: 15 يوماً من إعلان الحكم / 8 أيام في المستعجل.",
+   "practical_meaning": "الميعاد من الإعلان لا من صدور الحكم.",
+   "start_date_rule": "من تاريخ إعلان الحكم الغيابي",
+   "end_condition": "15 يوماً أو 8 أيام",
+   "court_or_authority": "المحكمة التي أصدرت الحكم",
+   "required_action": "تقديم المعارضة",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "ورقة الإعلان",
+    "صحيفة المعارضة"
+   ],
+   "risk_if_missed": "سقوط المعارضة",
+   "legal_effect_if_missed": "الحكم نهائي",
+   "subsequent_deadline": "الاستئناف",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "احتساب الميعاد من صدور الحكم"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "استلام إعلان الحكم",
+    "احتساب 15 يوماً",
+    "تقديم المعارضة"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد المعارضة"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "231"
+    }
+   ],
+   "related_procedures": [
+    "المعارضة المدنية"
+   ],
+   "related_topics": [
+    "المعارضة",
+    "الأحكام الغيابية"
+   ],
+   "ai_tags": [
+    "معارضة مدنية",
+    "15 يوم",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "ميعاد المعارضة المدنية",
+    "المادة 231 مرافعات"
+   ],
+   "ai_summary": "المعارضة المدنية في الحكم الغيابي: 15 يوماً من إعلان الحكم / 8 أيام في المستعجل.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "طرق الطعن",
+    "issue_type": "ميعاد المعارضة المدنية"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "المعارضة",
+    "page": "",
+    "article_number": "231"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0236",
+   "قانون_المرافعات__file_0193__art_0236",
+   "قانون_المرافعات__file_0087__art_0240",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0241"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "APP-0003",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد الاعتراض على قائمة شروط البيع",
+  "content": "يجوز لكل ذي مصلحة خلال خمسة عشر يوماً من إيداع قائمة شروط البيع أن يعترض عليها بتقرير في قلم الكتاب.",
+  "keywords": [
+   "بيع قضائي",
+   "15 يوم",
+   "اعتراض",
+   "الاعتراض على قائمة شروط البيع",
+   "المادة 407 مرافعات",
+   "البيع القضائي"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "407",
+   "date": null,
+   "court": "قاضي التنفيذ",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "15 يوماً",
+   "duration_days": 15,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "APP-0003",
+   "title": "ميعاد الاعتراض على قائمة شروط البيع",
+   "category": "إجراءات مدنية",
+   "sub_category": "البيع القضائي",
+   "deadline_type": "إجرائي",
+   "trigger_event": "إيداع قائمة شروط البيع",
+   "duration": "15 يوماً",
+   "duration_days": 15,
+   "calculation_method": "من تاريخ الإيداع",
+   "legal_text": "يجوز لكل ذي مصلحة خلال خمسة عشر يوماً من إيداع قائمة شروط البيع أن يعترض عليها بتقرير في قلم الكتاب.",
+   "plain_language_explanation": "الاعتراض على قائمة شروط البيع: 15 يوماً من إيداعها.",
+   "practical_meaning": "فرصة لمراجعة شروط البيع القضائي.",
+   "start_date_rule": "من تاريخ إيداع القائمة",
+   "end_condition": "15 يوماً",
+   "court_or_authority": "قاضي التنفيذ",
+   "required_action": "تقديم اعتراض في قلم الكتاب",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "تقرير الاعتراض"
+   ],
+   "risk_if_missed": "سقوط الاعتراض",
+   "legal_effect_if_missed": "البيع وفق الشروط المودعة",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال مراجعة القائمة فور إيداعها"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "متابعة إيداع القائمة",
+    "الاعتراض خلال 15 يوماً"
+   ],
+   "automation_opportunities": [
+    "تنبيه بإيداع القائمة"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "407"
+    }
+   ],
+   "related_procedures": [
+    "الاعتراض على شروط البيع"
+   ],
+   "related_topics": [
+    "البيع القضائي"
+   ],
+   "ai_tags": [
+    "بيع قضائي",
+    "15 يوم",
+    "اعتراض"
+   ],
+   "search_keywords": [
+    "الاعتراض على قائمة شروط البيع",
+    "المادة 407 مرافعات"
+   ],
+   "ai_summary": "الاعتراض على قائمة شروط البيع القضائي: 15 يوماً من إيداعها.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "البيع القضائي",
+    "issue_type": "الاعتراض على شروط البيع"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "البيع القضائي",
+    "page": "",
+    "article_number": "407"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات__file_0193__art_0410",
+   "قانون_المرافعات__file_0087__art_0417",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0417"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "APP-0004",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد طلب الحكم بسقوط الخصومة",
+  "content": "لا يُقبل طلب الحكم بسقوط الخصومة بعد مضي ستة أشهر على العلم بسبب السقوط.",
+  "keywords": [
+   "سقوط الخصومة",
+   "6 أشهر",
+   "مرافعات",
+   "طلب سقوط الخصومة",
+   "المادة 138 مرافعات"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "138",
+   "date": null,
+   "court": "المحكمة المنظورة",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "6 أشهر",
+   "duration_days": 180,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "APP-0004",
+   "title": "ميعاد طلب الحكم بسقوط الخصومة",
+   "category": "إجراءات مدنية",
+   "sub_category": "سقوط الخصومة",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "علم صاحب الشأن بسبب السقوط",
+   "duration": "6 أشهر",
+   "duration_days": 180,
+   "calculation_method": "من يوم العلم بسبب السقوط",
+   "legal_text": "لا يُقبل طلب الحكم بسقوط الخصومة بعد مضي ستة أشهر على العلم بسبب السقوط.",
+   "plain_language_explanation": "طلب سقوط الخصومة: 6 أشهر من العلم بالسقوط.",
+   "practical_meaning": "الطرف الراغب في السقوط يجب أن يطلبه خلال 6 أشهر.",
+   "start_date_rule": "من يوم العلم بسبب السقوط",
+   "end_condition": "مضي 6 أشهر",
+   "court_or_authority": "المحكمة المنظورة",
+   "required_action": "تقديم طلب سقوط الخصومة",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "طلب مكتوب"
+   ],
+   "risk_if_missed": "عدم قبول طلب السقوط",
+   "legal_effect_if_missed": "رد الطلب",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "التأخر في طلب السقوط"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "رصد العلم بسبب السقوط",
+    "تقديم الطلب خلال 6 أشهر"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد طلب السقوط"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "138"
+    }
+   ],
+   "related_procedures": [
+    "طلب سقوط الخصومة"
+   ],
+   "related_topics": [
+    "سقوط الخصومة"
+   ],
+   "ai_tags": [
+    "سقوط الخصومة",
+    "6 أشهر",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "طلب سقوط الخصومة",
+    "المادة 138 مرافعات"
+   ],
+   "ai_summary": "طلب الحكم بسقوط الخصومة: 6 أشهر من العلم بسبب السقوط.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "سقوط الخصومة",
+    "issue_type": "ميعاد طلب السقوط"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "سقوط الخصومة",
+    "page": "",
+    "article_number": "138"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0140",
+   "قانون_المرافعات__file_0193__art_0140",
+   "قانون_المرافعات__file_0087__art_0144",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0145"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

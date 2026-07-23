@@ -1,0 +1,452 @@
+[
+ {
+  "id": "PS-0001",
+  "type": "deadline",
+  "category": "أحوال شخصية",
+  "title": "مدة العدة بعد الطلاق",
+  "content": "المطلقة الرجعية تعتد بثلاثة قروء والآيسة وغير المدخول بها فلا عدة والحامل عدتها وضع الحمل.",
+  "keywords": [
+   "عدة",
+   "طلاق",
+   "3 قروء",
+   "أحوال شخصية",
+   "مدة العدة",
+   "عدة الطلاق",
+   "الطلاق",
+   "العدة"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الأحوال الشخصية",
+   "law_number": null,
+   "article_number": "17",
+   "date": null,
+   "court": "محكمة الأسرة",
+   "confidence": null,
+   "branch": "أحوال شخصية",
+   "duration": "3 قروء / 3 أشهر (الآيسة) / وضع الحمل",
+   "duration_days": 90,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PS-0001",
+   "title": "مدة العدة بعد الطلاق",
+   "category": "أحوال شخصية",
+   "sub_category": "الطلاق - العدة",
+   "deadline_type": "مدة شرعية",
+   "trigger_event": "وقوع الطلاق",
+   "duration": "3 قروء / 3 أشهر (الآيسة) / وضع الحمل",
+   "duration_days": 90,
+   "calculation_method": "من تاريخ الطلاق",
+   "legal_text": "المطلقة الرجعية تعتد بثلاثة قروء والآيسة وغير المدخول بها فلا عدة والحامل عدتها وضع الحمل.",
+   "plain_language_explanation": "عدة الطلاق: 3 قروء / للآيسة 3 أشهر / الحامل حتى الوضع.",
+   "practical_meaning": "خلال العدة يملك الزوج الرجعة دون عقد جديد.",
+   "start_date_rule": "من تاريخ الطلاق",
+   "end_condition": "انقضاء 3 قروء أو 3 أشهر أو وضع الحمل",
+   "court_or_authority": "محكمة الأسرة",
+   "required_action": "انتظار انقضاء العدة",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "وثيقة الطلاق"
+   ],
+   "risk_if_missed": "بطلان عقد الزواج الجديد خلال العدة",
+   "legal_effect_if_missed": "النكاح خلال العدة باطل",
+   "subsequent_deadline": "انتهاء حق الرجعة بانتهاء العدة",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [
+    "غير المدخول بها لا عدة"
+   ],
+   "common_lawyer_mistakes": [
+    "إغفال حساب العدة عند إعداد عقد زواج جديد"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "تحديد نوع الطلاق",
+    "احتساب مدة العدة",
+    "التحقق من انقضائها"
+   ],
+   "automation_opportunities": [
+    "حساب نهاية مدة العدة"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الأحوال الشخصية",
+     "article": "17"
+    }
+   ],
+   "related_procedures": [
+    "العدة",
+    "الرجعة"
+   ],
+   "related_topics": [
+    "الطلاق",
+    "العدة"
+   ],
+   "ai_tags": [
+    "عدة",
+    "طلاق",
+    "3 قروء",
+    "أحوال شخصية"
+   ],
+   "search_keywords": [
+    "مدة العدة",
+    "عدة الطلاق"
+   ],
+   "ai_summary": "عدة الطلاق: 3 قروء / للآيسة 3 أشهر / الحامل حتى الوضع. خلالها حق الرجعة.",
+   "classification": {
+    "branch": "أحوال شخصية",
+    "category": "قانون الأسرة",
+    "doctrine": "الطلاق",
+    "issue_type": "مدة العدة"
+   },
+   "source_reference": {
+    "book": "المواعيد في الأحوال الشخصية",
+    "chapter": "العدة",
+    "page": "",
+    "article_number": "17"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PS-0002",
+  "type": "deadline",
+  "category": "أحوال شخصية",
+  "title": "ميعاد مطالبة الزوجة بالنفقة المتأخرة",
+  "content": "لا تُسمع دعوى النفقة عن مدة ماضية تزيد على ثلاث سنوات سابقة على تاريخ رفع الدعوى.",
+  "keywords": [
+   "نفقة",
+   "3 سنوات",
+   "أحوال شخصية",
+   "تقادم النفقة",
+   "المادة 16 نفقة",
+   "النفقة",
+   "الأحوال الشخصية"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الأحوال الشخصية",
+   "law_number": null,
+   "article_number": "16",
+   "date": null,
+   "court": "محكمة الأسرة",
+   "confidence": null,
+   "branch": "أحوال شخصية",
+   "duration": "3 سنوات",
+   "duration_days": 1095,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "PS-0002",
+   "title": "ميعاد مطالبة الزوجة بالنفقة المتأخرة",
+   "category": "أحوال شخصية",
+   "sub_category": "النفقة",
+   "deadline_type": "تقادم",
+   "trigger_event": "استحقاق النفقة",
+   "duration": "3 سنوات",
+   "duration_days": 1095,
+   "calculation_method": "لا تُسمع الدعوى عن أكثر من 3 سنوات سابقة",
+   "legal_text": "لا تُسمع دعوى النفقة عن مدة ماضية تزيد على ثلاث سنوات سابقة على تاريخ رفع الدعوى.",
+   "plain_language_explanation": "النفقة المتأخرة لا تُسمع عن أكثر من 3 سنوات سابقة لرفع الدعوى.",
+   "practical_meaning": "يجب المطالبة بالنفقة دورياً. التأخر يُسقط المتأخرات القديمة.",
+   "start_date_rule": "3 سنوات سابقة لرفع الدعوى",
+   "end_condition": "أكثر من 3 سنوات لا تُسمع",
+   "court_or_authority": "محكمة الأسرة",
+   "required_action": "رفع دعوى النفقة",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "وثيقة الزواج",
+    "مستندات الامتناع"
+   ],
+   "risk_if_missed": "سقوط النفقة القديمة",
+   "legal_effect_if_missed": "عدم السماع عن المدة الزائدة",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "رفع الدعوى"
+   ],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "التأخر في رفع دعوى النفقة"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "رفع دعوى النفقة فور الامتناع"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد النفقة"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الأحوال الشخصية",
+     "article": "16"
+    }
+   ],
+   "related_procedures": [
+    "دعوى النفقة"
+   ],
+   "related_topics": [
+    "النفقة",
+    "الأحوال الشخصية"
+   ],
+   "ai_tags": [
+    "نفقة",
+    "3 سنوات",
+    "أحوال شخصية"
+   ],
+   "search_keywords": [
+    "تقادم النفقة",
+    "المادة 16 نفقة"
+   ],
+   "ai_summary": "النفقة المتأخرة لا تُسمع عن أكثر من 3 سنوات سابقة لرفع الدعوى.",
+   "classification": {
+    "branch": "أحوال شخصية",
+    "category": "قانون الأسرة",
+    "doctrine": "النفقة",
+    "issue_type": "تقادم النفقة"
+   },
+   "source_reference": {
+    "book": "المواعيد في الأحوال الشخصية",
+    "chapter": "النفقة",
+    "page": "",
+    "article_number": "16"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PS-0003",
+  "type": "deadline",
+  "category": "أحوال شخصية",
+  "title": "ميعاد دعوى إثبات الطلاق والرجعة",
+  "content": "حق الزوج في الرجعة لا يسقط بالتقادم خلال العدة. وبعد انقضاء العدة تنتهي الرجعة تلقائياً.",
+  "keywords": [
+   "رجعة",
+   "عدة",
+   "أحوال شخصية",
+   "حق الرجعة",
+   "إثبات الرجعة",
+   "الطلاق",
+   "الرجعة"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الأحوال الشخصية",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": "محكمة الأسرة",
+   "confidence": null,
+   "branch": "أحوال شخصية",
+   "duration": "سنة واحدة (رجعة) / لا تقادم (طلاق)",
+   "duration_days": 365,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "PS-0003",
+   "title": "ميعاد دعوى إثبات الطلاق والرجعة",
+   "category": "أحوال شخصية",
+   "sub_category": "الطلاق والرجعة",
+   "deadline_type": "تقادم",
+   "trigger_event": "وقوع الطلاق أو الرجعة",
+   "duration": "سنة واحدة (رجعة) / لا تقادم (طلاق)",
+   "duration_days": 365,
+   "calculation_method": "الرجعة: سنة من وقوع الطلاق",
+   "legal_text": "حق الزوج في الرجعة لا يسقط بالتقادم خلال العدة. وبعد انقضاء العدة تنتهي الرجعة تلقائياً.",
+   "plain_language_explanation": "حق الرجعة ينتهي بانتهاء العدة. بعدها لا رجعة إلا بعقد جديد.",
+   "practical_meaning": "الرجعة مرتبطة بالعدة. انتهاء العدة = انتهاء حق الرجعة.",
+   "start_date_rule": "من تاريخ الطلاق",
+   "end_condition": "بانتهاء العدة",
+   "court_or_authority": "محكمة الأسرة",
+   "required_action": "الرجعة خلال العدة",
+   "mandatory_requirements": [
+    "الإشهاد على الرجعة"
+   ],
+   "required_documents": [
+    "وثيقة الرجعة"
+   ],
+   "risk_if_missed": "انقضاء حق الرجعة",
+   "legal_effect_if_missed": "يحتاج لعقد زواج جديد",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال توثيق الرجعة"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "توثيق الرجعة خلال العدة"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء مدة العدة"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الأحوال الشخصية",
+     "article": ""
+    }
+   ],
+   "related_procedures": [
+    "الرجعة"
+   ],
+   "related_topics": [
+    "الطلاق",
+    "الرجعة"
+   ],
+   "ai_tags": [
+    "رجعة",
+    "عدة",
+    "أحوال شخصية"
+   ],
+   "search_keywords": [
+    "حق الرجعة",
+    "إثبات الرجعة"
+   ],
+   "ai_summary": "حق الرجعة ينتهي بانتهاء العدة. بعدها يحتاج الزوج لعقد زواج جديد.",
+   "classification": {
+    "branch": "أحوال شخصية",
+    "category": "قانون الأسرة",
+    "doctrine": "الطلاق",
+    "issue_type": "حق الرجعة"
+   },
+   "source_reference": {
+    "book": "المواعيد في الأحوال الشخصية",
+    "chapter": "الطلاق والرجعة",
+    "page": "",
+    "article_number": ""
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PS-0004",
+  "type": "deadline",
+  "category": "أحوال شخصية",
+  "title": "ميعاد دعوى نسب المولود",
+  "content": "دعوى نفي النسب لا تُسمع بعد مضي سنة من تاريخ ثبوت الحمل أو الولادة حسب الأحوال.",
+  "keywords": [
+   "نسب",
+   "سنة",
+   "أحوال شخصية",
+   "دعوى نفي النسب",
+   "ميعاد نفي النسب",
+   "النسب",
+   "الأحوال الشخصية"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في الأحوال الشخصية",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": "محكمة الأسرة",
+   "confidence": null,
+   "branch": "أحوال شخصية",
+   "duration": "سنة من الولادة أو العلم بها",
+   "duration_days": 365,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PS-0004",
+   "title": "ميعاد دعوى نسب المولود",
+   "category": "أحوال شخصية",
+   "sub_category": "النسب",
+   "deadline_type": "تقادم",
+   "trigger_event": "الولادة أو العلم بها",
+   "duration": "سنة من الولادة أو العلم بها",
+   "duration_days": 365,
+   "calculation_method": "من تاريخ الولادة أو العلم بها",
+   "legal_text": "دعوى نفي النسب لا تُسمع بعد مضي سنة من تاريخ ثبوت الحمل أو الولادة حسب الأحوال.",
+   "plain_language_explanation": "دعوى نفي النسب: سنة من ثبوت الحمل أو الولادة.",
+   "practical_meaning": "يجب المبادرة بدعوى نفي النسب خلال سنة من الولادة.",
+   "start_date_rule": "من تاريخ الولادة أو ثبوت الحمل",
+   "end_condition": "مضي سنة",
+   "court_or_authority": "محكمة الأسرة",
+   "required_action": "رفع دعوى نفي النسب",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "شهادة الميلاد",
+    "الدليل الطبي"
+   ],
+   "risk_if_missed": "سقوط دعوى نفي النسب",
+   "legal_effect_if_missed": "ثبوت النسب قانوناً",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "التأخر في رفع الدعوى"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "التصرف فور الولادة",
+    "رفع دعوى نفي النسب خلال سنة"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد نفي النسب"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون الأحوال الشخصية",
+     "article": ""
+    }
+   ],
+   "related_procedures": [
+    "دعوى نفي النسب"
+   ],
+   "related_topics": [
+    "النسب",
+    "الأحوال الشخصية"
+   ],
+   "ai_tags": [
+    "نسب",
+    "سنة",
+    "أحوال شخصية"
+   ],
+   "search_keywords": [
+    "دعوى نفي النسب",
+    "ميعاد نفي النسب"
+   ],
+   "ai_summary": "دعوى نفي النسب تسقط بعد سنة من ثبوت الحمل أو الولادة.",
+   "classification": {
+    "branch": "أحوال شخصية",
+    "category": "قانون الأسرة",
+    "doctrine": "النسب",
+    "issue_type": "دعوى نفي النسب"
+   },
+   "source_reference": {
+    "book": "المواعيد في الأحوال الشخصية",
+    "chapter": "النسب",
+    "page": "",
+    "article_number": ""
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

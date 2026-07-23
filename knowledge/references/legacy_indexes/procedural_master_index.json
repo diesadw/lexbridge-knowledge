@@ -1,0 +1,148 @@
+{
+  "database_id": "LEXBRIDGE_MASTER_INDEX",
+  "title": "الفهرس الرئيسي للإجراءات القانونية المصرية — LexBridge",
+  "description": "نقطة الدخول الموحَّدة لقاعدة البيانات الإجرائية القانونية المصرية",
+  "version": "1.0",
+  "generated_date": "2026-05-10",
+  "platform": "LexBridge Procedural Intelligence Database",
+  "branches": [
+    {
+      "branch_id": "CIVIL",
+      "name": "الإجراءات المدنية",
+      "description": "دعاوى مدنية — استئناف — نقض — أوامر أداء — طلبات عارضة",
+      "file": "procedures/civil_procedures.json",
+      "procedure_count": 3,
+      "legal_framework": "قانون المرافعات المدنية والتجارية رقم 13 لسنة 1968",
+      "key_deadlines": ["40 يوماً للاستئناف", "60 يوماً للنقض", "15 يوماً للمعارضة"]
+    },
+    {
+      "branch_id": "CRIMINAL",
+      "name": "الإجراءات الجنائية",
+      "description": "دعاوى جنائية — جنايات — جنح — معارضة — ادعاء مدني",
+      "file": "procedures/criminal_procedures.json",
+      "procedure_count": 3,
+      "legal_framework": "قانون الإجراءات الجنائية رقم 150 لسنة 1950",
+      "key_deadlines": ["3 أشهر للشكوى", "10 أيام للمعارضة", "10 أيام للاستئناف الجنائي"]
+    },
+    {
+      "branch_id": "ADMINISTRATIVE",
+      "name": "إجراءات القضاء الإداري",
+      "description": "تظلم إداري — دعوى إلغاء — وقف تنفيذ — طلبات مستعجلة",
+      "file": "procedures/administrative_procedures.json",
+      "procedure_count": 3,
+      "legal_framework": "قانون مجلس الدولة رقم 47 لسنة 1972",
+      "key_deadlines": ["60 يوماً للتظلم", "60 يوماً للإلغاء", "60 يوماً للطعن أمام العليا"]
+    },
+    {
+      "branch_id": "FAMILY",
+      "name": "دعاوى الأسرة والأحوال الشخصية",
+      "description": "دعوى خلع — نفقة — حضانة — طلاق — إرث",
+      "file": "procedures/family_procedures.json",
+      "procedure_count": 2,
+      "legal_framework": "قانون 1 لسنة 2000 — قانون 10 لسنة 2004",
+      "key_deadlines": ["30 يوماً للاستئناف في الأحوال الشخصية"]
+    },
+    {
+      "branch_id": "EXECUTION",
+      "name": "إجراءات التنفيذ والحجز",
+      "description": "حجز تحفظي — تنفيذ جبري — إشكالات التنفيذ",
+      "file": "procedures/execution_procedures.json",
+      "procedure_count": 2,
+      "legal_framework": "قانون المرافعات — الكتاب الثاني (التنفيذ)",
+      "key_deadlines": ["8 أيام لرفع الدعوى بعد الحجز", "15 سنة تقادم التنفيذ"]
+    },
+    {
+      "branch_id": "COMMERCIAL",
+      "name": "الإجراءات التجارية",
+      "description": "تأسيس شركات — تسجيل تجاري — نزاعات تجارية",
+      "file": "procedures/commercial_constitutional_procedures.json",
+      "procedure_count": 1,
+      "legal_framework": "قانون الشركات رقم 159 لسنة 1981",
+      "key_deadlines": ["30 يوماً لنشر العقد"]
+    },
+    {
+      "branch_id": "CONSTITUTIONAL",
+      "name": "الدعاوى الدستورية",
+      "description": "دفع عدم الدستورية — دعوى أمام المحكمة الدستورية العليا",
+      "file": "procedures/commercial_constitutional_procedures.json",
+      "procedure_count": 1,
+      "legal_framework": "قانون المحكمة الدستورية العليا رقم 48 لسنة 1979",
+      "key_deadlines": ["3 أشهر لرفع الدعوى بعد الإذن"]
+    }
+  ],
+  "procedure_types": [
+    "دعوى ابتدائية",
+    "طعن باستئناف",
+    "طعن بنقض",
+    "معارضة",
+    "تظلم إداري",
+    "دعوى إلغاء",
+    "وقف تنفيذ",
+    "حجز تحفظي",
+    "تنفيذ جبري",
+    "دعوى مستعجلة",
+    "دعوى أسرة",
+    "دعوى دستورية",
+    "تأسيس شركة",
+    "ادعاء مدني"
+  ],
+  "deadlines_index_file": "deadlines_master_index.json",
+  "documents_index_file": "documents_master_index.json",
+  "topics_to_files": {
+    "رفع دعوى مدنية": "procedures/civil_procedures.json#CIVIL-001",
+    "صحيفة الدعوى": "procedures/civil_procedures.json#CIVIL-001",
+    "الاستئناف المدني": "procedures/civil_procedures.json#CIVIL-002",
+    "الطعن بالنقض": "procedures/civil_procedures.json#CIVIL-003",
+    "الدعوى الجنائية": "procedures/criminal_procedures.json#CRIM-001",
+    "الشكوى الجنائية": "procedures/criminal_procedures.json#CRIM-001",
+    "المعارضة الجنائية": "procedures/criminal_procedures.json#CRIM-002",
+    "الادعاء المدني": "procedures/criminal_procedures.json#CRIM-003",
+    "التظلم الإداري": "procedures/administrative_procedures.json#ADMIN-001",
+    "دعوى الإلغاء": "procedures/administrative_procedures.json#ADMIN-002",
+    "وقف تنفيذ القرار": "procedures/administrative_procedures.json#ADMIN-003",
+    "دعوى الخلع": "procedures/family_procedures.json#FAMILY-001",
+    "دعوى النفقة": "procedures/family_procedures.json#FAMILY-002",
+    "الحجز التحفظي": "procedures/execution_procedures.json#EXEC-001",
+    "التنفيذ الجبري": "procedures/execution_procedures.json#EXEC-002",
+    "تأسيس شركة": "procedures/commercial_constitutional_procedures.json#COMM-001",
+    "الدعوى الدستورية": "procedures/commercial_constitutional_procedures.json#CONST-001"
+  },
+  "ai_workflow_engine": {
+    "court_navigator": {
+      "description": "يحدد المحكمة المختصة بناءً على نوع الدعوى وقيمتها وموضوعها",
+      "input_parameters": ["نوع الدعوى", "قيمة الطلبات", "موضوع النزاع", "مكان الواقعة"],
+      "supported_procedures": ["CIVIL-001", "ADMIN-002", "FAMILY-001", "CRIM-001"]
+    },
+    "deadline_tracker": {
+      "description": "يحسب ويتتبع جميع المواعيد الإجرائية ويُنبِّه عند الاقتراب منها",
+      "input_parameters": ["نوع الإجراء", "تاريخ الحدث المحرِّك"],
+      "supported_deadlines": "جميع المواعيد في deadlines_master_index.json"
+    },
+    "document_checker": {
+      "description": "يفحص اكتمال المستندات المطلوبة لكل إجراء",
+      "input_parameters": ["نوع الدعوى / الإجراء"],
+      "supported_procedures": "جميع الإجراءات"
+    },
+    "risk_engine": {
+      "description": "يكشف المخاطر الإجرائية ونقاط الضعف في الملف",
+      "input_parameters": ["بيانات الملف", "الإجراءات المتخذة"],
+      "risk_categories": ["فوات ميعاد", "نقص مستند", "خطأ في الاختصاص", "استيفاء شرط"]
+    },
+    "workflow_generator": {
+      "description": "يولِّد سير عمل إجرائي مخصَّص لكل دعوى",
+      "input_parameters": ["نوع الدعوى", "بيانات الأطراف", "وقائع النزاع"],
+      "output": "قائمة خطوات مرتبة مع المواعيد والمستندات والمسؤوليات"
+    }
+  },
+  "statistics": {
+    "total_procedures": 15,
+    "total_deadlines": 20,
+    "total_document_types": 28,
+    "branches_covered": 7,
+    "procedure_types": 14,
+    "common_mistakes_documented": 35,
+    "cassation_references": 12,
+    "legal_articles_referenced": 45,
+    "automation_opportunities_identified": 32
+  }
+}

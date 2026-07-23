@@ -1,0 +1,332 @@
+{
+  "generated_at": "2026-07-19T20:04:35.546118+00:00",
+  "totals": {
+    "total_records": 65522,
+    "by_type": {
+      "legal_article": 21093,
+      "judgment_principle": 44190,
+      "doctrine_principle": 49,
+      "procedure": 15,
+      "procedure_deep": 9,
+      "procedure_guide": 50,
+      "deadline": 67,
+      "template": 7,
+      "defense": 42
+    }
+  },
+  "by_type_by_category": {
+    "legal_article": {
+      "غير مصنف": 21093
+    },
+    "judgment_principle": {
+      "طرق الطعن": 4043,
+      "جرائم الأشخاص": 831,
+      "المسؤولية الجنائية": 1249,
+      "جرائم الأموال": 1787,
+      "جرائم الأخلاق والآداب": 213,
+      "المخالفات التنظيمية": 653,
+      "العقوبة": 985,
+      "الجرائم الاقتصادية": 436,
+      "uncategorized": 1900,
+      "الجرائم الأمنية": 132,
+      "الحكم الجنائي": 5666,
+      "الإثبات الجنائي": 4594,
+      "administrative_contracts": 50,
+      "administrative_decisions": 47,
+      "agency_contracts": 16,
+      "agriculture": 159,
+      "antiquities": 3,
+      "appeal": 842,
+      "arbitration": 92,
+      "armed_forces": 20,
+      "attachment": 153,
+      "auction": 93,
+      "banking": 171,
+      "cassation_rulings": 395,
+      "civil_procedure": 76,
+      "co_ownership": 34,
+      "commercial_acts": 183,
+      "companies": 201,
+      "compensation": 586,
+      "constitutional": 64,
+      "construction_contracts": 1,
+      "construction_permits": 37,
+      "contracts_general": 522,
+      "copyright": 20,
+      "court_fees": 203,
+      "custom_usage": 12,
+      "customs": 119,
+      "debts": 5,
+      "defects_of_consent": 6,
+      "defense": 80,
+      "domicile": 35,
+      "education": 13,
+      "employment_contracts": 862,
+      "enforcement": 206,
+      "evidence": 1104,
+      "ex_parte_orders": 15,
+      "expropriation": 2,
+      "financial_guardianship": 64,
+      "general_civil": 694,
+      "immunity": 6,
+      "inheritance": 157,
+      "insolvency": 139,
+      "insurance": 97,
+      "international_agreements": 47,
+      "investment_law": 4,
+      "irrigation": 14,
+      "judgments": 2147,
+      "judiciary": 119,
+      "judiciary_requests": 1018,
+      "jurisdiction": 354,
+      "law_general": 326,
+      "lease": 1713,
+      "lease_contracts": 15,
+      "legal_capacity": 105,
+      "legal_entities": 57,
+      "licensing": 6,
+      "litigation": 1380,
+      "loan_for_use": 1,
+      "long_lease": 23,
+      "maritime_transport": 213,
+      "mortgage": 32,
+      "nationality": 24,
+      "nullity": 89,
+      "obligations": 226,
+      "partition_contracts": 88,
+      "patents": 3,
+      "payment_fulfillment": 38,
+      "payment_orders": 50,
+      "personal_status_muslim": 852,
+      "personal_status_nonmuslim": 244,
+      "preemption": 370,
+      "procedural_defenses": 122,
+      "professional_unions": 53,
+      "property_acquisition": 580,
+      "property_rights": 6,
+      "public_order": 14,
+      "public_property": 83,
+      "public_prosecution": 94,
+      "public_utilities": 26,
+      "real_estate_debt_settlement": 26,
+      "real_estate_registration": 12,
+      "receivership": 183,
+      "res_judicata": 320,
+      "review_petition": 45,
+      "right_of_view": 2,
+      "rights": 124,
+      "sale_contracts": 560,
+      "service_of_process": 430,
+      "settlement_contracts": 27,
+      "sham_transactions": 146,
+      "solidarity": 22,
+      "sovereignty_acts": 11,
+      "state_litigation": 22,
+      "succession_rights": 17,
+      "supply_contracts": 3,
+      "supply_regulatory": 41,
+      "taxation": 1022,
+      "trademarks": 37,
+      "unforeseen_circumstances": 52,
+      "unjust_enrichment": 25,
+      "urgent_judiciary": 64,
+      "usufruct_revenue": 23,
+      "waqf": 280,
+      "wills": 87
+    },
+    "doctrine_principle": {
+      "obligations": 19,
+      "contracts": 19,
+      "tort_law": 8,
+      "quasi_contracts": 3
+    },
+    "procedure": {
+      "إداري": 3,
+      "مدني": 3,
+      "تجاري / دستوري": 2,
+      "جنائي": 3,
+      "تنفيذ": 2,
+      "أحوال شخصية": 2
+    },
+    "procedure_deep": {
+      "الطعن في القرارات الإدارية": 1,
+      "طرق الطعن في الأحكام": 1,
+      "افتتاح الخصومة": 1,
+      "رفع الدعوى": 1,
+      "تحريك الدعوى الجنائية": 1,
+      "الحجوز التحفظية": 1,
+      "التنفيذ الجبري": 1,
+      "دعاوى الأسرة": 1,
+      "مستندات محكمة الأسرة": 1
+    },
+    "procedure_guide": {
+      "civil": 24,
+      "appeals": 5,
+      "defenses": 5,
+      "urgent": 7,
+      "criminal": 9
+    },
+    "deadline": {
+      "إداري": 3,
+      "إجراءات مدنية": 21,
+      "مدني": 19,
+      "تجاري": 5,
+      "دستوري": 2,
+      "جنائي": 13,
+      "أحوال شخصية": 4
+    },
+    "template": {
+      "مدني": 3,
+      "إداري": 1,
+      "أحوال شخصية": 1,
+      "تنفيذ": 1,
+      "جنائي": 1
+    },
+    "defense": {
+      "الإثبات الجنائي": 30,
+      "جرائم الأشخاص": 1,
+      "طرق الطعن": 3,
+      "المسؤولية الجنائية": 2,
+      "uncategorized": 1,
+      "الجرائم الأمنية": 1,
+      "جرائم الأموال": 1,
+      "الحكم الجنائي": 3
+    }
+  },
+  "metadata_coverage": {
+    "legal_article": {
+      "source_file": 21093,
+      "language": 21093
+    },
+    "judgment_principle": {
+      "source": 44190,
+      "date": 44188,
+      "court": 44190,
+      "branch": 22489,
+      "doctrine_category": 20589,
+      "doctrine": 20589,
+      "issue_type": 20589,
+      "cassation_number": 22489,
+      "judicial_year": 44190,
+      "office_vol": 22489,
+      "page": 44190,
+      "paragraph_number": 43867,
+      "procedural_stage": 22489,
+      "article_number": 8691,
+      "confidence": 21701,
+      "domain": 21701,
+      "case_number": 21701,
+      "office_volume": 21701
+    },
+    "doctrine_principle": {
+      "source": 49,
+      "article_number": 49,
+      "domain": 49
+    },
+    "procedure": {
+      "source": 15,
+      "court": 15,
+      "branch": 15,
+      "sub_branch": 15,
+      "procedure_type": 15
+    },
+    "procedure_deep": {
+      "court": 8,
+      "branch": 9,
+      "category": 9,
+      "sub_category": 9,
+      "difficulty_level": 8,
+      "estimated_duration": 8,
+      "source": 1
+    },
+    "procedure_guide": {
+      "branch": 50,
+      "court": 50,
+      "timeline": 50
+    },
+    "deadline": {
+      "source": 67,
+      "article_number": 65,
+      "court": 67,
+      "branch": 67,
+      "duration": 67,
+      "duration_days": 67,
+      "risk_level": 67
+    },
+    "template": {
+      "source": 7,
+      "branch": 7
+    },
+    "defense": {
+      "branch": 42,
+      "derived_from": 42,
+      "supporting_judgment_count": 42
+    }
+  },
+  "relationship_coverage": {
+    "related_judgments": 2599,
+    "related_procedures": 242,
+    "related_principles": 960,
+    "related_ids": 43409,
+    "related_articles": 5083
+  },
+  "citation_coverage_records": 32795,
+  "citation_coverage_pct": 50.05,
+  "validation_summary": {
+    "duplicate_ids_count": 31,
+    "broken_relationship_links_count": 0,
+    "invalid_json_files_count": 0,
+    "orphan_records": 17586,
+    "missing_required_metadata_count": 2
+  },
+  "registered_collections": [
+    {
+      "folder": "laws",
+      "label_en": "Legal Articles",
+      "status": "active",
+      "registered_record_count": 21093
+    },
+    {
+      "folder": "judgments",
+      "label_en": "Cassation Judgments",
+      "status": "active",
+      "registered_record_count": 44190
+    },
+    {
+      "folder": "principles",
+      "label_en": "Doctrine Principles",
+      "status": "active",
+      "registered_record_count": 49
+    },
+    {
+      "folder": "procedures",
+      "label_en": "Legal Procedures",
+      "status": "active",
+      "registered_record_count": 24
+    },
+    {
+      "folder": "deadlines",
+      "label_en": "Procedural Deadlines",
+      "status": "active",
+      "registered_record_count": 67
+    },
+    {
+      "folder": "templates",
+      "label_en": "Document Templates",
+      "status": "active",
+      "registered_record_count": 7
+    },
+    {
+      "folder": "defenses",
+      "label_en": "Legal Defenses",
+      "status": "active",
+      "registered_record_count": 42
+    },
+    {
+      "folder": "contracts",
+      "label_en": "Contracts",
+      "status": "planned",
+      "registered_record_count": 0
+    }
+  ]
+}

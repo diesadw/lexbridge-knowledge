@@ -1,0 +1,1810 @@
+[
+ {
+  "id": "PROC-0001",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد التظلم من أمر تقدير المصاريف",
+  "content": "يجوز لكل من الخصوم أن يتظلم من الأمر المشار إليه ويحصل التظلم أمام المحضر عند إعلان أمر التقدير أو بتقرير في قلم كتاب المحكمة التي أصدرت الحكم وذلك خلال ثمانية الأيام التالية لإعلان الأمر.",
+  "keywords": [
+   "أمر تقدير",
+   "8 أيام",
+   "مرافعات",
+   "ميعاد التظلم من أمر التقدير",
+   "المادة 190 مرافعات",
+   "أوامر التقدير",
+   "المصاريف"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "190",
+   "date": null,
+   "court": "المحكمة التي أصدرت الحكم - غرفة المشورة",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "8 أيام",
+   "duration_days": 8,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PROC-0001",
+   "title": "ميعاد التظلم من أمر تقدير المصاريف",
+   "category": "إجراءات مدنية",
+   "sub_category": "أوامر التقدير",
+   "deadline_type": "إجرائي",
+   "trigger_event": "إعلان أمر التقدير",
+   "duration": "8 أيام",
+   "duration_days": 8,
+   "calculation_method": "من تاريخ إعلان الأمر",
+   "legal_text": "يجوز لكل من الخصوم أن يتظلم من الأمر المشار إليه ويحصل التظلم أمام المحضر عند إعلان أمر التقدير أو بتقرير في قلم كتاب المحكمة التي أصدرت الحكم وذلك خلال ثمانية الأيام التالية لإعلان الأمر.",
+   "plain_language_explanation": "التظلم من أمر تقدير المصاريف: 8 أيام من إعلان الأمر.",
+   "practical_meaning": "ميعاد 8 أيام فقط. الإخلال به يسقط حق التظلم نهائياً.",
+   "start_date_rule": "من تاريخ إعلان أمر التقدير",
+   "end_condition": "انقضاء 8 أيام",
+   "court_or_authority": "المحكمة التي أصدرت الحكم - غرفة المشورة",
+   "required_action": "تقديم تظلم أمام المحضر أو قلم الكتاب",
+   "mandatory_requirements": [
+    "التظلم خلال 8 أيام",
+    "إعلان الخصوم قبل الجلسة بـ3 أيام"
+   ],
+   "required_documents": [
+    "ورقة إعلان أمر التقدير"
+   ],
+   "risk_if_missed": "سقوط حق التظلم",
+   "legal_effect_if_missed": "أمر التقدير نهائي",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "فوات ميعاد 8 أيام"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "استلام الإعلان",
+    "احتساب 8 أيام",
+    "تقديم التظلم"
+   ],
+   "automation_opportunities": [
+    "تنبيه عاجل بانتهاء الميعاد"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "190"
+    }
+   ],
+   "related_procedures": [
+    "التظلم من أمر تقدير المصاريف"
+   ],
+   "related_topics": [
+    "أوامر التقدير",
+    "المصاريف"
+   ],
+   "ai_tags": [
+    "أمر تقدير",
+    "8 أيام",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "ميعاد التظلم من أمر التقدير",
+    "المادة 190 مرافعات"
+   ],
+   "ai_summary": "التظلم من أمر تقدير المصاريف: 8 أيام من إعلان الأمر.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "أوامر التقدير",
+    "issue_type": "ميعاد التظلم"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "أوامر التقدير",
+    "page": "",
+    "article_number": "190"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0195",
+   "قانون_المرافعات__file_0193__art_0195",
+   "قانون_المرافعات__file_0087__art_0199",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0200"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0002",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد سقوط الأمر الصادر على عريضة",
+  "content": "يسقط الأمر الصادر على عريضة إذا لم يقدم للتنفيذ خلال ثلاثين يوماً من تاريخ صدوره ولا يمنع هذا السقوط من استصدار أمر جديد.",
+  "keywords": [
+   "أمر على عريضة",
+   "30 يوم",
+   "مرافعات",
+   "سقوط الأمر على العريضة",
+   "المادة 200 مرافعات",
+   "أوامر على عرائض",
+   "التنفيذ"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "200",
+   "date": null,
+   "court": "قلم التنفيذ",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "30 يوماً",
+   "duration_days": 30,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "PROC-0002",
+   "title": "ميعاد سقوط الأمر الصادر على عريضة",
+   "category": "إجراءات مدنية",
+   "sub_category": "الأوامر على العرائض",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "صدور الأمر على العريضة",
+   "duration": "30 يوماً",
+   "duration_days": 30,
+   "calculation_method": "من تاريخ صدور الأمر",
+   "legal_text": "يسقط الأمر الصادر على عريضة إذا لم يقدم للتنفيذ خلال ثلاثين يوماً من تاريخ صدوره ولا يمنع هذا السقوط من استصدار أمر جديد.",
+   "plain_language_explanation": "الأمر على العريضة يسقط إذا لم يُنفَّذ خلال 30 يوماً من صدوره.",
+   "practical_meaning": "يجب تقديم الأمر للتنفيذ فوراً. فوات 30 يوماً يسقطه.",
+   "start_date_rule": "من تاريخ صدور الأمر",
+   "end_condition": "مضي 30 يوماً",
+   "court_or_authority": "قلم التنفيذ",
+   "required_action": "تقديم الأمر للتنفيذ خلال 30 يوماً",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "الأمر الصادر على العريضة"
+   ],
+   "risk_if_missed": "سقوط الأمر",
+   "legal_effect_if_missed": "يجب استصدار أمر جديد",
+   "subsequent_deadline": "استصدار أمر جديد",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [
+    "السقوط لا يمنع من استصدار أمر جديد"
+   ],
+   "common_lawyer_mistakes": [
+    "نسيان تنفيذ الأمر خلال 30 يوماً"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "استصدار الأمر",
+    "تقديمه للتنفيذ فوراً"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد التنفيذ"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "200"
+    }
+   ],
+   "related_procedures": [
+    "الأوامر على العرائض"
+   ],
+   "related_topics": [
+    "أوامر على عرائض",
+    "التنفيذ"
+   ],
+   "ai_tags": [
+    "أمر على عريضة",
+    "30 يوم",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "سقوط الأمر على العريضة",
+    "المادة 200 مرافعات"
+   ],
+   "ai_summary": "الأمر على العريضة يسقط إذا لم يُقدَّم للتنفيذ خلال 30 يوماً.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "الأوامر على العرائض",
+    "issue_type": "سقوط الأمر"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "الأوامر على العرائض",
+    "page": "",
+    "article_number": "200"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0205",
+   "قانون_المرافعات__file_0193__art_0205",
+   "قانون_المرافعات__file_0087__art_0209",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0210"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0003",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد إنذار المدين قبل أمر الأداء",
+  "content": "على الدائن أن يكلف المدين أولاً بالوفاء بميعاد خمسة أيام على الأقل ثم يستصدر أمراً بالأداء.",
+  "keywords": [
+   "أمر الأداء",
+   "5 أيام",
+   "مرافعات",
+   "إنذار قبل أمر الأداء",
+   "المادة 202 مرافعات",
+   "أوامر الأداء",
+   "التكليف بالوفاء"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "202",
+   "date": null,
+   "court": "محكمة المواد الجزئية",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "5 أيام على الأقل",
+   "duration_days": 5,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "PROC-0003",
+   "title": "ميعاد إنذار المدين قبل أمر الأداء",
+   "category": "إجراءات مدنية",
+   "sub_category": "أوامر الأداء",
+   "deadline_type": "إجرائي - شرط سابق",
+   "trigger_event": "إرادة الدائن في استصدار أمر الأداء",
+   "duration": "5 أيام على الأقل",
+   "duration_days": 5,
+   "calculation_method": "يجب مضي 5 أيام من التكليف بالوفاء قبل تقديم طلب أمر الأداء",
+   "legal_text": "على الدائن أن يكلف المدين أولاً بالوفاء بميعاد خمسة أيام على الأقل ثم يستصدر أمراً بالأداء.",
+   "plain_language_explanation": "قبل أمر الأداء يجب إنذار المدين بالوفاء بمهلة 5 أيام على الأقل.",
+   "practical_meaning": "شرط إجرائي سابق. إغفاله يُبطل الأمر.",
+   "start_date_rule": "قبل تقديم طلب أمر الأداء",
+   "end_condition": "مضي 5 أيام من التكليف",
+   "court_or_authority": "محكمة المواد الجزئية",
+   "required_action": "إرسال إنذار رسمي بالوفاء",
+   "mandatory_requirements": [
+    "التكليف بالوفاء بكتاب مسجل أو بروتستو"
+   ],
+   "required_documents": [
+    "إيصال البريد المسجل أو البروتستو"
+   ],
+   "risk_if_missed": "بطلان طلب أمر الأداء",
+   "legal_effect_if_missed": "رد الطلب",
+   "subsequent_deadline": "استصدار أمر الأداء بعد 5 أيام",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [
+    "البروتستو يقوم مقام التكليف"
+   ],
+   "common_lawyer_mistakes": [
+    "إغفال إنذار المدين قبل تقديم الطلب"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "إرسال إنذار بالوفاء",
+    "الانتظار 5 أيام",
+    "تقديم طلب أمر الأداء"
+   ],
+   "automation_opportunities": [
+    "إرسال تلقائي للإنذار"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "202"
+    }
+   ],
+   "related_procedures": [
+    "أمر الأداء"
+   ],
+   "related_topics": [
+    "أوامر الأداء",
+    "التكليف بالوفاء"
+   ],
+   "ai_tags": [
+    "أمر الأداء",
+    "5 أيام",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "إنذار قبل أمر الأداء",
+    "المادة 202 مرافعات"
+   ],
+   "ai_summary": "قبل أمر الأداء يجب تكليف المدين بالوفاء بمهلة 5 أيام على الأقل.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "أوامر الأداء",
+    "issue_type": "إجراء سابق"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "أوامر الأداء",
+    "page": "",
+    "article_number": "202"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0207",
+   "قانون_المرافعات__file_0193__art_0207",
+   "قانون_المرافعات__file_0087__art_0211",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0212"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0004",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد سقوط أمر الأداء لعدم الإعلان",
+  "content": "تعتبر العريضة والأمر الصادر عليها بالأداء كأن لم تكن إذا لم يتم إعلانها للمدين خلال ثلاثة أشهر من تاريخ صدور الأمر.",
+  "keywords": [
+   "أمر الأداء",
+   "3 أشهر",
+   "سقوط",
+   "مرافعات",
+   "سقوط أمر الأداء",
+   "المادة 205 مرافعات",
+   "أوامر الأداء",
+   "السقوط"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "205",
+   "date": null,
+   "court": "قلم المحضرين",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "3 أشهر",
+   "duration_days": 90,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PROC-0004",
+   "title": "ميعاد سقوط أمر الأداء لعدم الإعلان",
+   "category": "إجراءات مدنية",
+   "sub_category": "أوامر الأداء",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "صدور أمر الأداء",
+   "duration": "3 أشهر",
+   "duration_days": 90,
+   "calculation_method": "من تاريخ صدور الأمر",
+   "legal_text": "تعتبر العريضة والأمر الصادر عليها بالأداء كأن لم تكن إذا لم يتم إعلانها للمدين خلال ثلاثة أشهر من تاريخ صدور الأمر.",
+   "plain_language_explanation": "يجب إعلان المدين بأمر الأداء خلال 3 أشهر من صدوره وإلا اعتُبر الأمر والعريضة كأن لم يكونا.",
+   "practical_meaning": "فوات 3 أشهر بدون إعلان يهدم كل الإجراءات.",
+   "start_date_rule": "من تاريخ صدور الأمر",
+   "end_condition": "مضي 3 أشهر",
+   "court_or_authority": "قلم المحضرين",
+   "required_action": "إعلان المدين فور صدور الأمر",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "ورقة الإعلان",
+    "صورة الأمر"
+   ],
+   "risk_if_missed": "اعتبار الأمر والعريضة كأن لم يكونا",
+   "legal_effect_if_missed": "يجب استصدار أمر جديد",
+   "subsequent_deadline": "ميعاد تظلم المدين: 10 أيام من الإعلان",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "التأخر في إعلان المدين"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "استصدار الأمر",
+    "إحالة فوراً لقلم المحضرين",
+    "متابعة الإعلان خلال 3 أشهر"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد الإعلان"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "205"
+    }
+   ],
+   "related_procedures": [
+    "أمر الأداء",
+    "الإعلان"
+   ],
+   "related_topics": [
+    "أوامر الأداء",
+    "السقوط"
+   ],
+   "ai_tags": [
+    "أمر الأداء",
+    "3 أشهر",
+    "سقوط",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "سقوط أمر الأداء",
+    "المادة 205 مرافعات"
+   ],
+   "ai_summary": "إعلان المدين بأمر الأداء: 3 أشهر من صدوره وإلا اعتُبر الأمر والعريضة كأن لم يكونا.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "أوامر الأداء",
+    "issue_type": "ميعاد إعلان المدين"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "أوامر الأداء",
+    "page": "",
+    "article_number": "205"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0210",
+   "قانون_المرافعات__file_0193__art_0210",
+   "قانون_المرافعات__file_0087__art_0214",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0215"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0005",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد تظلم المدين من أمر الأداء",
+  "content": "يجوز للمدين التظلم من الأمر خلال عشرة أيام من تاريخ إعلانه إليه ويحصل التظلم أمام محكمة المواد الجزئية أو أمام المحكمة الابتدائية حسب الأحوال وتراعى فيه الأوضاع المقررة لصحيفة افتتاح الدعوى. ويجب أن يكون التظلم مسبباً وإلا كان باطلاً. ويسقط الحق في التظلم من الأمر إذا طعن فيه مباشرة بالاستئناف.",
+  "keywords": [
+   "تظلم",
+   "أمر الأداء",
+   "10 أيام",
+   "مرافعات",
+   "ميعاد التظلم من أمر الأداء",
+   "المادة 206 مرافعات",
+   "أوامر الأداء",
+   "التظلم"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "206",
+   "date": null,
+   "court": "محكمة المواد الجزئية أو الابتدائية",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PROC-0005",
+   "title": "ميعاد تظلم المدين من أمر الأداء",
+   "category": "إجراءات مدنية",
+   "sub_category": "أوامر الأداء",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "إعلان المدين بأمر الأداء",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "calculation_method": "من تاريخ الإعلان",
+   "legal_text": "يجوز للمدين التظلم من الأمر خلال عشرة أيام من تاريخ إعلانه إليه ويحصل التظلم أمام محكمة المواد الجزئية أو أمام المحكمة الابتدائية حسب الأحوال وتراعى فيه الأوضاع المقررة لصحيفة افتتاح الدعوى. ويجب أن يكون التظلم مسبباً وإلا كان باطلاً. ويسقط الحق في التظلم من الأمر إذا طعن فيه مباشرة بالاستئناف.",
+   "plain_language_explanation": "للمدين 10 أيام من إعلان أمر الأداء لتقديم تظلم مسبب.",
+   "practical_meaning": "أهم مواعيد أمر الأداء. التأخر يسقط حق التظلم. التظلم يجب تسبيبه وإلا كان باطلاً.",
+   "start_date_rule": "من تاريخ إعلان المدين",
+   "end_condition": "انتهاء 10 أيام",
+   "court_or_authority": "محكمة المواد الجزئية أو الابتدائية",
+   "required_action": "تقديم تظلم مسبب",
+   "mandatory_requirements": [
+    "تسبيب التظلم",
+    "اتباع أوضاع صحيفة الدعوى"
+   ],
+   "required_documents": [
+    "صحيفة التظلم المسببة",
+    "صورة أمر الأداء"
+   ],
+   "risk_if_missed": "سقوط حق التظلم نهائياً",
+   "legal_effect_if_missed": "يبدأ ميعاد الاستئناف",
+   "subsequent_deadline": "ميعاد الاستئناف من فوات ميعاد التظلم",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [
+    "يسقط التظلم إذا طعن مباشرة بالاستئناف"
+   ],
+   "common_lawyer_mistakes": [
+    "نسيان تسبيب التظلم",
+    "احتساب الميعاد من تاريخ خاطئ"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "استلام الإعلان",
+    "احتساب 10 أيام",
+    "إعداد تظلم مسبب",
+    "تقديمه للمحكمة"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد التظلم"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "206"
+    }
+   ],
+   "related_procedures": [
+    "التظلم من أمر الأداء",
+    "استئناف أمر الأداء"
+   ],
+   "related_topics": [
+    "أوامر الأداء",
+    "التظلم"
+   ],
+   "ai_tags": [
+    "تظلم",
+    "أمر الأداء",
+    "10 أيام",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "ميعاد التظلم من أمر الأداء",
+    "المادة 206 مرافعات"
+   ],
+   "ai_summary": "للمدين 10 أيام من إعلان أمر الأداء لتقديم تظلم مسبب وإلا سقط حقه.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "أوامر الأداء",
+    "issue_type": "ميعاد التظلم"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "أوامر الأداء",
+    "page": "",
+    "article_number": "206"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0211",
+   "قانون_المرافعات__file_0193__art_0211",
+   "قانون_المرافعات__file_0087__art_0215",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0216"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0006",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد الاستئناف (عادي ومستعجل)",
+  "content": "ميعاد الاستئناف أربعون يوماً ما لم ينص القانون على غير ذلك. ويكون الميعاد خمسة أيام في المواد المستعجلة أياً كانت المحكمة التي أصدرت الحكم. ويكون ميعاد الاستئناف ستين يوماً بالنسبة للنائب العام أو من يقوم مقامه.",
+  "keywords": [
+   "استئناف",
+   "40 يوم",
+   "5 أيام",
+   "مرافعات",
+   "ميعاد الاستئناف",
+   "المادة 227 مرافعات",
+   "40 يوم استئناف",
+   "الاستئناف",
+   "طرق الطعن"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "227",
+   "date": null,
+   "court": "محكمة الاستئناف",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "40 يوماً (عادي) / 5 أيام (مستعجل) / 60 يوماً (النيابة)",
+   "duration_days": 40,
+   "risk_level": "مرتفع جداً"
+  },
+  "source_fields": {
+   "id": "PROC-0006",
+   "title": "ميعاد الاستئناف (عادي ومستعجل)",
+   "category": "إجراءات مدنية",
+   "sub_category": "طرق الطعن",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "صدور الحكم",
+   "duration": "40 يوماً (عادي) / 5 أيام (مستعجل) / 60 يوماً (النيابة)",
+   "duration_days": 40,
+   "calculation_method": "من تاريخ صدور الحكم أو إعلانه في حالات الغياب الكامل",
+   "legal_text": "ميعاد الاستئناف أربعون يوماً ما لم ينص القانون على غير ذلك. ويكون الميعاد خمسة أيام في المواد المستعجلة أياً كانت المحكمة التي أصدرت الحكم. ويكون ميعاد الاستئناف ستين يوماً بالنسبة للنائب العام أو من يقوم مقامه.",
+   "plain_language_explanation": "ميعاد الاستئناف: 40 يوماً (عادي) / 5 أيام (مستعجل) / 60 يوماً (النيابة). من صدور الحكم.",
+   "practical_meaning": "أحد أهم المواعيد القضائية. الفوات يسقط حق الاستئناف نهائياً. ميعاد المستعجل 5 أيام فقط.",
+   "start_date_rule": "من تاريخ صدور الحكم الحضوري. من الإعلان في حالة الغياب الكامل.",
+   "end_condition": "40 يوماً عادي / 5 أيام مستعجل / 60 يوماً نيابة",
+   "court_or_authority": "محكمة الاستئناف",
+   "required_action": "رفع الاستئناف",
+   "mandatory_requirements": [
+    "إيداع صحيفة الاستئناف",
+    "سداد الرسوم"
+   ],
+   "required_documents": [
+    "صورة الحكم",
+    "صحيفة الاستئناف",
+    "التوكيل"
+   ],
+   "risk_if_missed": "سقوط الحق في الاستئناف",
+   "legal_effect_if_missed": "المحكمة تقضي بالسقوط من تلقاء نفسها",
+   "subsequent_deadline": "ميعاد النقض: 60 يوماً",
+   "interruptions": [
+    "وفاة المحكوم عليه - وقف",
+    "فقد الأهلية - وقف"
+   ],
+   "suspension_causes": [
+    "موت المحكوم عليه أثناء الميعاد"
+   ],
+   "exceptions": [
+    "صدور الحكم بغش أو تزوير: من اكتشاف الغش"
+   ],
+   "common_lawyer_mistakes": [
+    "عدم التمييز بين 40 يوماً و5 أيام مستعجل",
+    "حساب الميعاد من صدور الحكم دائماً"
+   ],
+   "risk_level": "مرتفع جداً",
+   "lawyer_workflow": [
+    "تحديد طبيعة الدعوى",
+    "تحديد تاريخ بدء الميعاد",
+    "رفع الاستئناف قبل الانتهاء"
+   ],
+   "automation_opportunities": [
+    "احتساب تلقائي لميعاد الاستئناف",
+    "تنبيه بانتهاء الميعاد"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "227"
+    }
+   ],
+   "related_procedures": [
+    "الاستئناف"
+   ],
+   "related_topics": [
+    "الاستئناف",
+    "طرق الطعن"
+   ],
+   "ai_tags": [
+    "استئناف",
+    "40 يوم",
+    "5 أيام",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "ميعاد الاستئناف",
+    "المادة 227 مرافعات",
+    "40 يوم استئناف"
+   ],
+   "ai_summary": "ميعاد الاستئناف 40 يوماً (عادي) / 5 أيام (مستعجل) / 60 يوماً (النيابة). يسقط الحق بفواته.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "طرق الطعن",
+    "issue_type": "ميعاد الاستئناف"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "الاستئناف",
+    "page": "",
+    "article_number": "227"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0232",
+   "قانون_المرافعات__file_0193__art_0232",
+   "قانون_المرافعات__file_0087__art_0236",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0237"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0007",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد الطعن بالنقض المدني",
+  "content": "ميعاد الطعن بطريق النقض ستون يوماً.",
+  "keywords": [
+   "نقض",
+   "60 يوم",
+   "مرافعات",
+   "ميعاد الطعن بالنقض",
+   "المادة 252 مرافعات",
+   "النقض",
+   "طرق الطعن"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "252",
+   "date": null,
+   "court": "محكمة النقض",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "60 يوماً",
+   "duration_days": 60,
+   "risk_level": "مرتفع جداً"
+  },
+  "source_fields": {
+   "id": "PROC-0007",
+   "title": "ميعاد الطعن بالنقض المدني",
+   "category": "إجراءات مدنية",
+   "sub_category": "طرق الطعن",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "صدور حكم الاستئناف",
+   "duration": "60 يوماً",
+   "duration_days": 60,
+   "calculation_method": "من تاريخ صدور الحكم",
+   "legal_text": "ميعاد الطعن بطريق النقض ستون يوماً.",
+   "plain_language_explanation": "الطعن بالنقض يجب رفعه خلال 60 يوماً من صدور الحكم.",
+   "practical_meaning": "ميعاد حاسم. الفوات يسقط النقض نهائياً.",
+   "start_date_rule": "من تاريخ صدور الحكم",
+   "end_condition": "مضي 60 يوماً",
+   "court_or_authority": "محكمة النقض",
+   "required_action": "إيداع صحيفة الطعن ومذكرة الأسباب",
+   "mandatory_requirements": [
+    "إيداع الصحيفة",
+    "مذكرة الأسباب",
+    "سند التوكيل"
+   ],
+   "required_documents": [
+    "صورة الحكم",
+    "صحيفة النقض",
+    "مذكرة الأسباب",
+    "التوكيل"
+   ],
+   "risk_if_missed": "سقوط الحق في الطعن",
+   "legal_effect_if_missed": "يقضي بالسقوط من تلقاء نفسها",
+   "subsequent_deadline": "مذكرة الدفاع: 15 يوماً من إعلان الصحيفة",
+   "interruptions": [
+    "وفاة المحكوم عليه - وقف"
+   ],
+   "suspension_causes": [
+    "الوفاة",
+    "فقد الأهلية"
+   ],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال إيداع مذكرة الأسباب مع الصحيفة"
+   ],
+   "risk_level": "مرتفع جداً",
+   "lawyer_workflow": [
+    "تحديد تاريخ الحكم",
+    "تحضير الصحيفة ومذكرة الأسباب",
+    "الإيداع خلال 60 يوماً"
+   ],
+   "automation_opportunities": [
+    "احتساب ميعاد النقض",
+    "تنبيه بالانتهاء"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "252"
+    }
+   ],
+   "related_procedures": [
+    "الطعن بالنقض"
+   ],
+   "related_topics": [
+    "النقض",
+    "طرق الطعن"
+   ],
+   "ai_tags": [
+    "نقض",
+    "60 يوم",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "ميعاد الطعن بالنقض",
+    "المادة 252 مرافعات"
+   ],
+   "ai_summary": "الطعن بالنقض المدني: 60 يوماً من صدور الحكم.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "طرق الطعن",
+    "issue_type": "ميعاد النقض"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "النقض",
+    "page": "",
+    "article_number": "252"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0257",
+   "قانون_المرافعات__file_0193__art_0257",
+   "قانون_المرافعات__file_0087__art_0261",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0262"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0008",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد التماس إعادة النظر",
+  "content": "ميعاد الالتماس أربعون يوماً ولا يبدأ في الحالات المنصوص عليها في الفقرة الأربع الأولى من المادة السابقة إلا من اليوم الذي ظهر فيه الغش أو الذي أقر فيه بالتزوير فاعله أو حكم بثبوته أو الذي حكم فيه على شاهد الزور.",
+  "keywords": [
+   "التماس",
+   "40 يوم",
+   "غش",
+   "تزوير",
+   "مرافعات",
+   "ميعاد التماس إعادة النظر",
+   "المادة 242 مرافعات",
+   "طرق الطعن"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "242",
+   "date": null,
+   "court": "المحكمة التي أصدرت الحكم",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "40 يوماً",
+   "duration_days": 40,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "PROC-0008",
+   "title": "ميعاد التماس إعادة النظر",
+   "category": "إجراءات مدنية",
+   "sub_category": "طرق الطعن",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "اكتشاف سبب الالتماس",
+   "duration": "40 يوماً",
+   "duration_days": 40,
+   "calculation_method": "من اليوم الذي ظهر فيه الغش أو ثبت فيه التزوير",
+   "legal_text": "ميعاد الالتماس أربعون يوماً ولا يبدأ في الحالات المنصوص عليها في الفقرة الأربع الأولى من المادة السابقة إلا من اليوم الذي ظهر فيه الغش أو الذي أقر فيه بالتزوير فاعله أو حكم بثبوته أو الذي حكم فيه على شاهد الزور.",
+   "plain_language_explanation": "التماس إعادة النظر: 40 يوماً من اكتشاف سبب الالتماس.",
+   "practical_meaning": "الميعاد يبدأ من اكتشاف السبب لا من صدور الحكم.",
+   "start_date_rule": "من يوم اكتشاف السبب",
+   "end_condition": "مضي 40 يوماً",
+   "court_or_authority": "المحكمة التي أصدرت الحكم",
+   "required_action": "رفع دعوى التماس إعادة النظر",
+   "mandatory_requirements": [
+    "إثبات سبب الالتماس وتاريخ اكتشافه"
+   ],
+   "required_documents": [
+    "الحكم المُلتمَس فيه",
+    "مستندات السبب"
+   ],
+   "risk_if_missed": "سقوط حق الالتماس",
+   "legal_effect_if_missed": "الحكم نهائي",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "احتساب الميعاد من صدور الحكم لا من اكتشاف السبب"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "توثيق تاريخ اكتشاف السبب",
+    "رفع الالتماس خلال 40 يوماً"
+   ],
+   "automation_opportunities": [
+    "تسجيل تاريخ اكتشاف السبب"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "242"
+    }
+   ],
+   "related_procedures": [
+    "التماس إعادة النظر"
+   ],
+   "related_topics": [
+    "طرق الطعن",
+    "التماس"
+   ],
+   "ai_tags": [
+    "التماس",
+    "40 يوم",
+    "غش",
+    "تزوير",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "ميعاد التماس إعادة النظر",
+    "المادة 242 مرافعات"
+   ],
+   "ai_summary": "التماس إعادة النظر: 40 يوماً من اكتشاف سبب الالتماس.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "طرق الطعن",
+    "issue_type": "ميعاد الالتماس"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "الالتماس",
+    "page": "",
+    "article_number": "242"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0247",
+   "قانون_المرافعات__file_0193__art_0247",
+   "قانون_المرافعات__file_0087__art_0251",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0252"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0009",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد سقوط الخصومة",
+  "content": "تسقط الخصومة بمضي سنتين على آخر إجراء صحيح من إجراءات التقاضي.",
+  "keywords": [
+   "سقوط الخصومة",
+   "سنتان",
+   "مرافعات",
+   "المادة 134 مرافعات",
+   "التقاضي"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "134",
+   "date": null,
+   "court": "المحكمة المنظورة أمامها الدعوى",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "سنتان",
+   "duration_days": 730,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PROC-0009",
+   "title": "ميعاد سقوط الخصومة",
+   "category": "إجراءات مدنية",
+   "sub_category": "سقوط الخصومة",
+   "deadline_type": "سقوط",
+   "trigger_event": "آخر إجراء صحيح في الدعوى",
+   "duration": "سنتان",
+   "duration_days": 730,
+   "calculation_method": "من آخر إجراء صحيح",
+   "legal_text": "تسقط الخصومة بمضي سنتين على آخر إجراء صحيح من إجراءات التقاضي.",
+   "plain_language_explanation": "إذا مضت سنتان على آخر إجراء في الدعوى بدون إجراء جديد تسقط الخصومة.",
+   "practical_meaning": "عدم متابعة الدعوى لسنتين يهدر الإجراءات. لا يسقط الحق الموضوعي.",
+   "start_date_rule": "من آخر إجراء صحيح",
+   "end_condition": "مضي سنتان",
+   "court_or_authority": "المحكمة المنظورة أمامها الدعوى",
+   "required_action": "اتخاذ إجراء جديد قبل مضي سنتين",
+   "mandatory_requirements": [],
+   "required_documents": [],
+   "risk_if_missed": "سقوط الخصومة",
+   "legal_effect_if_missed": "يجب رفع دعوى جديدة مع بقاء الحق الموضوعي",
+   "subsequent_deadline": "طلب السقوط: 6 أشهر من العلم",
+   "interruptions": [
+    "أي إجراء صحيح"
+   ],
+   "suspension_causes": [
+    "القوة القاهرة"
+   ],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "عدم متابعة الدعوى",
+    "الاعتقاد بأن السقوط يسقط الحق"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "رصد آخر إجراء في الدعوى",
+    "اتخاذ إجراء قبل مضي سنتين"
+   ],
+   "automation_opportunities": [
+    "تتبع آخر إجراء في كل دعوى",
+    "تنبيه قبل مضي سنتين"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "134"
+    }
+   ],
+   "related_procedures": [
+    "سقوط الخصومة"
+   ],
+   "related_topics": [
+    "سقوط الخصومة",
+    "التقاضي"
+   ],
+   "ai_tags": [
+    "سقوط الخصومة",
+    "سنتان",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "سقوط الخصومة",
+    "المادة 134 مرافعات"
+   ],
+   "ai_summary": "الخصومة تسقط بمضي سنتين على آخر إجراء صحيح دون أن يسقط الحق الموضوعي.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "سقوط الخصومة",
+    "issue_type": "ميعاد السقوط"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "سقوط الخصومة",
+    "page": "",
+    "article_number": "134"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0136",
+   "قانون_المرافعات__file_0193__art_0136",
+   "قانون_المرافعات__file_0087__art_0140",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0141"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0010",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد الإعلان قبل التنفيذ",
+  "content": "يجب أن يسبق التنفيذ إعلان السند التنفيذي لشخص المدين أو في موطنه الأصلي وإلا كان باطلاً. ولا يجوز إجراء التنفيذ إلا بعد مضي يوم على الأقل من إعلان السند التنفيذي.",
+  "keywords": [
+   "تنفيذ",
+   "يوم واحد",
+   "مرافعات",
+   "إعلان قبل التنفيذ",
+   "المادة 281 مرافعات",
+   "التنفيذ",
+   "السند التنفيذي"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "281",
+   "date": null,
+   "court": "قلم التنفيذ",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "يوم واحد على الأقل",
+   "duration_days": 1,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "PROC-0010",
+   "title": "ميعاد الإعلان قبل التنفيذ",
+   "category": "إجراءات مدنية",
+   "sub_category": "التنفيذ",
+   "deadline_type": "إجرائي",
+   "trigger_event": "الرغبة في الشروع في التنفيذ",
+   "duration": "يوم واحد على الأقل",
+   "duration_days": 1,
+   "calculation_method": "يجب مضي يوم على الأقل من إعلان السند التنفيذي",
+   "legal_text": "يجب أن يسبق التنفيذ إعلان السند التنفيذي لشخص المدين أو في موطنه الأصلي وإلا كان باطلاً. ولا يجوز إجراء التنفيذ إلا بعد مضي يوم على الأقل من إعلان السند التنفيذي.",
+   "plain_language_explanation": "يجب إعلان السند التنفيذي قبل التنفيذ بيوم على الأقل وإلا كان التنفيذ باطلاً.",
+   "practical_meaning": "شرط شكلي قبل التنفيذ. إغفاله يُبطل الإجراءات.",
+   "start_date_rule": "قبل الشروع في التنفيذ",
+   "end_condition": "مضي يوم على الأقل من الإعلان",
+   "court_or_authority": "قلم التنفيذ",
+   "required_action": "إعلان السند ثم الانتظار يوماً",
+   "mandatory_requirements": [
+    "إعلان لشخص المدين أو في موطنه"
+   ],
+   "required_documents": [
+    "السند التنفيذي",
+    "ورقة الإعلان"
+   ],
+   "risk_if_missed": "بطلان التنفيذ",
+   "legal_effect_if_missed": "إجراءات التنفيذ باطلة",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "الشروع في التنفيذ في نفس يوم الإعلان"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "إعلان السند",
+    "انتظار يوم كامل",
+    "الشروع في التنفيذ"
+   ],
+   "automation_opportunities": [
+    "احتساب موعد بداية التنفيذ"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "281"
+    }
+   ],
+   "related_procedures": [
+    "التنفيذ"
+   ],
+   "related_topics": [
+    "التنفيذ",
+    "السند التنفيذي"
+   ],
+   "ai_tags": [
+    "تنفيذ",
+    "يوم واحد",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "إعلان قبل التنفيذ",
+    "المادة 281 مرافعات"
+   ],
+   "ai_summary": "يجب مضي يوم على الأقل من إعلان السند التنفيذي قبل الشروع في التنفيذ.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "التنفيذ",
+    "issue_type": "الإعلان قبل التنفيذ"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "التنفيذ",
+    "page": "",
+    "article_number": "281"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات__file_0193__art_0286",
+   "قانون_المرافعات__file_0087__art_0290",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0291"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0011",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد إعلان المحجوز عليه بمحضر الحجز",
+  "content": "يجب أن يعلن الحاجز إلى المحجوز عليه محضر الحجز والأمر الصادر به وذلك خلال ثمانية أيام على الأكثر من تاريخ توقيعه وإلا اعتبر كأن لم يكن.",
+  "keywords": [
+   "حجز",
+   "8 أيام",
+   "إعلان",
+   "مرافعات",
+   "إعلان المحجوز عليه",
+   "المادة 320 مرافعات",
+   "الحجز",
+   "التنفيذ"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "320",
+   "date": null,
+   "court": "قلم المحضرين",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "8 أيام",
+   "duration_days": 8,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PROC-0011",
+   "title": "ميعاد إعلان المحجوز عليه بمحضر الحجز",
+   "category": "إجراءات مدنية",
+   "sub_category": "الحجز",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "تاريخ توقيع الحجز",
+   "duration": "8 أيام",
+   "duration_days": 8,
+   "calculation_method": "من تاريخ توقيع الحجز",
+   "legal_text": "يجب أن يعلن الحاجز إلى المحجوز عليه محضر الحجز والأمر الصادر به وذلك خلال ثمانية أيام على الأكثر من تاريخ توقيعه وإلا اعتبر كأن لم يكن.",
+   "plain_language_explanation": "إعلان المحجوز عليه بمحضر الحجز: 8 أيام من توقيع الحجز وإلا اعتُبر الحجز كأن لم يكن.",
+   "practical_meaning": "فوات 8 أيام يهدم الحجز بالكامل. إجراء حرج يجب متابعته فوراً.",
+   "start_date_rule": "من تاريخ توقيع الحجز",
+   "end_condition": "مضي 8 أيام",
+   "court_or_authority": "قلم المحضرين",
+   "required_action": "إعلان المحجوز عليه خلال 8 أيام",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "محضر الحجز",
+    "ورقة الإعلان"
+   ],
+   "risk_if_missed": "اعتبار الحجز كأن لم يكن",
+   "legal_effect_if_missed": "بطلان الحجز",
+   "subsequent_deadline": "رفع دعوى صحة الحجز: 8 أيام",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "التأخر في إعلان المحجوز عليه"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "توقيع الحجز",
+    "إحالة فوراً لقلم المحضرين",
+    "متابعة الإعلان خلال 8 أيام"
+   ],
+   "automation_opportunities": [
+    "تنبيه عاجل بانتهاء ميعاد الإعلان"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "320"
+    }
+   ],
+   "related_procedures": [
+    "الحجز التحفظي"
+   ],
+   "related_topics": [
+    "الحجز",
+    "التنفيذ"
+   ],
+   "ai_tags": [
+    "حجز",
+    "8 أيام",
+    "إعلان",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "إعلان المحجوز عليه",
+    "المادة 320 مرافعات"
+   ],
+   "ai_summary": "إعلان المحجوز عليه بمحضر الحجز: 8 أيام من التوقيع وإلا اعتُبر الحجز كأن لم يكن.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "الحجز",
+    "issue_type": "إعلان المحجوز عليه"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "الحجز",
+    "page": "",
+    "article_number": "320"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات__file_0193__art_0324",
+   "قانون_المرافعات__file_0087__art_0330",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0330"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0012",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد رفع دعوى صحة الحجز",
+  "content": "في الأحوال التي يكون فيها الحجز بأمر من قاضي التنفيذ يجب على الحاجز خلال ثمانية الأيام المشار إليها في المادة السابقة أن يرفع أمام المحكمة المختصة الدعوى بثبوت الحق وصحة الحجز وإلا اعتبر الحجز كأن لم يكن.",
+  "keywords": [
+   "حجز",
+   "دعوى",
+   "8 أيام",
+   "مرافعات",
+   "دعوى صحة الحجز",
+   "المادة 333 مرافعات",
+   "الحجز",
+   "صحة الحجز"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "333",
+   "date": null,
+   "court": "المحكمة المختصة",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "8 أيام",
+   "duration_days": 8,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PROC-0012",
+   "title": "ميعاد رفع دعوى صحة الحجز",
+   "category": "إجراءات مدنية",
+   "sub_category": "الحجز",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "توقيع الحجز بأمر قاضي التنفيذ",
+   "duration": "8 أيام",
+   "duration_days": 8,
+   "calculation_method": "من تاريخ توقيع الحجز",
+   "legal_text": "في الأحوال التي يكون فيها الحجز بأمر من قاضي التنفيذ يجب على الحاجز خلال ثمانية الأيام المشار إليها في المادة السابقة أن يرفع أمام المحكمة المختصة الدعوى بثبوت الحق وصحة الحجز وإلا اعتبر الحجز كأن لم يكن.",
+   "plain_language_explanation": "بعد توقيع الحجز بأمر قاضي التنفيذ: 8 أيام لرفع دعوى ثبوت الحق وصحة الحجز.",
+   "practical_meaning": "إجراءان متزامنان: الإعلان + رفع الدعوى. كلاهما خلال 8 أيام.",
+   "start_date_rule": "من تاريخ توقيع الحجز",
+   "end_condition": "مضي 8 أيام",
+   "court_or_authority": "المحكمة المختصة",
+   "required_action": "رفع دعوى صحة الحجز خلال 8 أيام",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "صحيفة الدعوى",
+    "محضر الحجز"
+   ],
+   "risk_if_missed": "اعتبار الحجز كأن لم يكن",
+   "legal_effect_if_missed": "بطلان الحجز",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال رفع الدعوى مع التركيز على الإعلان فقط"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "توقيع الحجز",
+    "الإعلان + رفع الدعوى معاً خلال 8 أيام"
+   ],
+   "automation_opportunities": [
+    "تنبيه مزدوج: إعلان + دعوى"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "333"
+    }
+   ],
+   "related_procedures": [
+    "دعوى صحة الحجز"
+   ],
+   "related_topics": [
+    "الحجز",
+    "صحة الحجز"
+   ],
+   "ai_tags": [
+    "حجز",
+    "دعوى",
+    "8 أيام",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "دعوى صحة الحجز",
+    "المادة 333 مرافعات"
+   ],
+   "ai_summary": "رفع دعوى ثبوت الحق وصحة الحجز: 8 أيام من توقيع الحجز.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "الحجز",
+    "issue_type": "دعوى صحة الحجز"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "الحجز",
+    "page": "",
+    "article_number": "333"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات__file_0193__art_0337",
+   "قانون_المرافعات__file_0087__art_0343",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0343"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0013",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد تجديد الدعوى من الشطب",
+  "content": "فإذا انقضى ستون يوماً ولم يطلب أحد الخصوم السير فيها اعتبرت كأن لم تكن.",
+  "keywords": [
+   "شطب",
+   "60 يوم",
+   "مرافعات",
+   "تجديد الدعوى من الشطب",
+   "المادة 82 مرافعات",
+   "الشطب",
+   "التجديد"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "82",
+   "date": null,
+   "court": "المحكمة التي شطبت الدعوى",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "60 يوماً",
+   "duration_days": 60,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PROC-0013",
+   "title": "ميعاد تجديد الدعوى من الشطب",
+   "category": "إجراءات مدنية",
+   "sub_category": "الشطب",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "قرار شطب الدعوى",
+   "duration": "60 يوماً",
+   "duration_days": 60,
+   "calculation_method": "من تاريخ الشطب",
+   "legal_text": "فإذا انقضى ستون يوماً ولم يطلب أحد الخصوم السير فيها اعتبرت كأن لم تكن.",
+   "plain_language_explanation": "الدعوى المشطوبة: 60 يوماً لتجديد السير وإلا اعتُبرت كأن لم تكن.",
+   "practical_meaning": "الشطب لا ينهي الدعوى لكن التقاعس 60 يوماً يهدمها.",
+   "start_date_rule": "من تاريخ الشطب",
+   "end_condition": "مضي 60 يوماً",
+   "court_or_authority": "المحكمة التي شطبت الدعوى",
+   "required_action": "تجديد السير خلال 60 يوماً",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "طلب تجديد الدعوى"
+   ],
+   "risk_if_missed": "اعتبار الدعوى كأن لم تكن",
+   "legal_effect_if_missed": "يجب رفع دعوى جديدة",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال متابعة الدعاوى المشطوبة"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "متابعة قرارات الشطب",
+    "تجديد السير خلال 60 يوماً"
+   ],
+   "automation_opportunities": [
+    "تتبع الدعاوى المشطوبة"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "82"
+    }
+   ],
+   "related_procedures": [
+    "شطب الدعوى",
+    "تجديد السير"
+   ],
+   "related_topics": [
+    "الشطب",
+    "التجديد"
+   ],
+   "ai_tags": [
+    "شطب",
+    "60 يوم",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "تجديد الدعوى من الشطب",
+    "المادة 82 مرافعات"
+   ],
+   "ai_summary": "الدعوى المشطوبة: 60 يوماً لتجديدها وإلا اعتُبرت كأن لم تكن.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "الشطب",
+    "issue_type": "ميعاد التجديد"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "الشطب",
+    "page": "",
+    "article_number": "82"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0083",
+   "قانون_المرافعات__file_0193__art_0083",
+   "قانون_المرافعات__file_0087__art_0087",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0088"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0014",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد حضور الجلسات",
+  "content": "ميعاد الحضور خمسة عشر يوماً أمام المحكمة الابتدائية ومحكمة الاستئناف وثمانية أيام أمام محاكم المواد الجزئية وميعاد الحضور في الدعاوى المستعجلة أربع وعشرون ساعة.",
+  "keywords": [
+   "حضور",
+   "15 يوم",
+   "8 أيام",
+   "مرافعات",
+   "ميعاد الحضور",
+   "المادة 66 مرافعات",
+   "الحضور",
+   "الإعلانات"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "66",
+   "date": null,
+   "court": "جميع المحاكم",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "15 يوماً (ابتدائي) / 8 أيام (جزئي) / 24 ساعة (مستعجل)",
+   "duration_days": 15,
+   "risk_level": "منخفض"
+  },
+  "source_fields": {
+   "id": "PROC-0014",
+   "title": "ميعاد حضور الجلسات",
+   "category": "إجراءات مدنية",
+   "sub_category": "الحضور",
+   "deadline_type": "إجرائي",
+   "trigger_event": "إعلان صحيفة الدعوى",
+   "duration": "15 يوماً (ابتدائي) / 8 أيام (جزئي) / 24 ساعة (مستعجل)",
+   "duration_days": 15,
+   "calculation_method": "من تاريخ الإعلان",
+   "legal_text": "ميعاد الحضور خمسة عشر يوماً أمام المحكمة الابتدائية ومحكمة الاستئناف وثمانية أيام أمام محاكم المواد الجزئية وميعاد الحضور في الدعاوى المستعجلة أربع وعشرون ساعة.",
+   "plain_language_explanation": "ميعاد الحضور: 15 يوماً (ابتدائي/استئناف) / 8 أيام (جزئي) / 24 ساعة (مستعجل).",
+   "practical_meaning": "يجب مراعاة الميعاد المناسب حسب المحكمة. الإعلان بأقل يُعطي الخصم حق التأجيل.",
+   "start_date_rule": "من تاريخ الإعلان",
+   "end_condition": "الميعاد حسب المحكمة",
+   "court_or_authority": "جميع المحاكم",
+   "required_action": "مراعاة ميعاد الحضور",
+   "mandatory_requirements": [],
+   "required_documents": [],
+   "risk_if_missed": "حق الخصم في التأجيل",
+   "legal_effect_if_missed": "لا بطلان لكن يحق التأجيل",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [
+    "تقليص الميعاد بأمر من قاضي الأمور الوقتية"
+   ],
+   "common_lawyer_mistakes": [
+    "إعلان الخصم بأقل من الميعاد دون استئذان"
+   ],
+   "risk_level": "منخفض",
+   "lawyer_workflow": [
+    "تحديد نوع المحكمة",
+    "احتساب الميعاد",
+    "تحديد موعد الجلسة وفقاً"
+   ],
+   "automation_opportunities": [
+    "احتساب مواعيد الحضور"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "66"
+    }
+   ],
+   "related_procedures": [
+    "الإعلان القضائي"
+   ],
+   "related_topics": [
+    "الحضور",
+    "الإعلانات"
+   ],
+   "ai_tags": [
+    "حضور",
+    "15 يوم",
+    "8 أيام",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "ميعاد الحضور",
+    "المادة 66 مرافعات"
+   ],
+   "ai_summary": "ميعاد الحضور: 15 يوماً (ابتدائي) / 8 أيام (جزئي) / 24 ساعة (مستعجل).",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "الحضور",
+    "issue_type": "مواعيد الحضور"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "الحضور",
+    "page": "",
+    "article_number": "66"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات_المدنية_والتجارية_المصري__file_0174__art_0067",
+   "قانون_المرافعات__file_0193__art_0067",
+   "قانون_المرافعات__file_0087__art_0071",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0072"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "PROC-0015",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد إيداع قائمة شروط البيع العقاري",
+  "content": "يودع من يباشر الإجراءات قلم كتاب محكمة التنفيذ قائمة شروط البيع خلال تسعين يوماً من تاريخ تسجيل تنبيه نزع الملكية وإلا اعتبر تسجيل التنبيه كأن لم يكن.",
+  "keywords": [
+   "بيع عقاري",
+   "90 يوم",
+   "تنفيذ",
+   "مرافعات",
+   "قائمة شروط البيع",
+   "المادة 414 مرافعات",
+   "التنفيذ العقاري",
+   "البيع القضائي"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "414",
+   "date": null,
+   "court": "قلم كتاب محكمة التنفيذ",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "90 يوماً",
+   "duration_days": 90,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "PROC-0015",
+   "title": "ميعاد إيداع قائمة شروط البيع العقاري",
+   "category": "إجراءات مدنية",
+   "sub_category": "التنفيذ العقاري",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "تسجيل تنبيه نزع الملكية",
+   "duration": "90 يوماً",
+   "duration_days": 90,
+   "calculation_method": "من تاريخ تسجيل التنبيه",
+   "legal_text": "يودع من يباشر الإجراءات قلم كتاب محكمة التنفيذ قائمة شروط البيع خلال تسعين يوماً من تاريخ تسجيل تنبيه نزع الملكية وإلا اعتبر تسجيل التنبيه كأن لم يكن.",
+   "plain_language_explanation": "إيداع قائمة شروط البيع: 90 يوماً من تسجيل التنبيه وإلا اعتُبر التسجيل كأن لم يكن.",
+   "practical_meaning": "إجراء حاسم في التنفيذ العقاري. التأخر يُهدر إجراءات التنبيه.",
+   "start_date_rule": "من تاريخ تسجيل التنبيه",
+   "end_condition": "مضي 90 يوماً",
+   "court_or_authority": "قلم كتاب محكمة التنفيذ",
+   "required_action": "إيداع قائمة شروط البيع خلال 90 يوماً",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "قائمة شروط البيع"
+   ],
+   "risk_if_missed": "اعتبار تسجيل التنبيه كأن لم يكن",
+   "legal_effect_if_missed": "يجب إعادة التسجيل",
+   "subsequent_deadline": "إعلان الأطراف بالقائمة: 15 يوماً",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "التأخر في إيداع القائمة"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "تسجيل التنبيه",
+    "إعداد القائمة",
+    "إيداعها خلال 90 يوماً"
+   ],
+   "automation_opportunities": [
+    "تتبع مواعيد إيداع القوائم"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "414"
+    }
+   ],
+   "related_procedures": [
+    "التنفيذ العقاري"
+   ],
+   "related_topics": [
+    "التنفيذ العقاري",
+    "البيع القضائي"
+   ],
+   "ai_tags": [
+    "بيع عقاري",
+    "90 يوم",
+    "تنفيذ",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "قائمة شروط البيع",
+    "المادة 414 مرافعات"
+   ],
+   "ai_summary": "إيداع قائمة شروط البيع العقاري: 90 يوماً من تسجيل التنبيه وإلا اعتُبر التسجيل كأن لم يكن.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "التنفيذ العقاري",
+    "issue_type": "قائمة شروط البيع"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "التنفيذ العقاري",
+    "page": "",
+    "article_number": "414"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات__file_0193__art_0417",
+   "قانون_المرافعات__file_0087__art_0424",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0424"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

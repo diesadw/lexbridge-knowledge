@@ -1,0 +1,94 @@
+{
+  "generated_at": "2026-07-19T20:04:26.101372+00:00",
+  "registry_version": 1,
+  "total_files": 305,
+  "total_records": 65522,
+  "collections": [
+    {
+      "folder": "laws",
+      "engine_type": "law",
+      "label_en": "Legal Articles",
+      "status": "active",
+      "actual_file_count": 139,
+      "actual_record_count": 21093,
+      "registered_record_count": 21093,
+      "drift": false
+    },
+    {
+      "folder": "judgments",
+      "engine_type": "judgment",
+      "label_en": "Cassation Judgments",
+      "status": "active",
+      "actual_file_count": 137,
+      "actual_record_count": 44190,
+      "registered_record_count": 44190,
+      "drift": false
+    },
+    {
+      "folder": "principles",
+      "engine_type": "principle",
+      "label_en": "Doctrine Principles",
+      "status": "active",
+      "actual_file_count": 1,
+      "actual_record_count": 49,
+      "registered_record_count": 49,
+      "drift": false
+    },
+    {
+      "folder": "procedures",
+      "engine_type": "procedure",
+      "label_en": "Legal Procedures",
+      "status": "active",
+      "actual_file_count": 16,
+      "actual_record_count": 74,
+      "registered_record_count": 24,
+      "drift": true
+    },
+    {
+      "folder": "deadlines",
+      "engine_type": "deadline",
+      "label_en": "Procedural Deadlines",
+      "status": "active",
+      "actual_file_count": 10,
+      "actual_record_count": 67,
+      "registered_record_count": 67,
+      "drift": false
+    },
+    {
+      "folder": "templates",
+      "engine_type": "contract",
+      "label_en": "Document Templates",
+      "status": "active",
+      "actual_file_count": 1,
+      "actual_record_count": 7,
+      "registered_record_count": 7,
+      "drift": false
+    },
+    {
+      "folder": "defenses",
+      "engine_type": "defense",
+      "label_en": "Legal Defenses",
+      "status": "active",
+      "actual_file_count": 1,
+      "actual_record_count": 42,
+      "registered_record_count": 42,
+      "drift": false
+    },
+    {
+      "folder": "contracts",
+      "kb_type": "contract",
+      "engine_type": "contract",
+      "id_prefix": "contract",
+      "label_ar": "العقود",
+      "label_en": "Contracts",
+      "record_count": 0,
+      "file_count": 0,
+      "status": "planned",
+      "note": "No standalone contract records exist yet. Folder intentionally not created until real data lands.",
+      "actual_file_count": 0,
+      "actual_record_count": 0
+    }
+  ],
+  "unregistered_folders_found": [],
+  "registered_but_missing_on_disk": []
+}

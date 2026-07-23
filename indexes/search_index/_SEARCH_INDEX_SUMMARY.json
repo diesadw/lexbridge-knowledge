@@ -1,0 +1,7 @@
+{
+ "total_keywords": 5617,
+ "total_records_indexed": 44337,
+ "files_scanned": 164,
+ "shards": 58,
+ "note": "Keywords are extracted only from existing fields (keywords/ai_tags/search_keywords/retrieval_tags/title) present in the source data. No synonyms or legal terms were invented."
+}

@@ -1,0 +1,637 @@
+[
+ {
+  "id": "cass_civil_defects_of_consent_0392_26_3",
+  "type": "judgment_principle",
+  "category": "defects_of_consent",
+  "title": "الاكراه",
+  "content": "تنص الفقرة الثالثة من المادة 127 من القانون المدنى على أن\" يراعى فى تقدير الإكراه جنس من وقع عليه هذا الإكراه و سنه و حالته الإجتماعية و الصحية و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه \"",
+  "keywords": [
+   "الاكراه",
+   "عيوب الإرادة",
+   "عيوب الارادة",
+   "cassation",
+   "civil",
+   "defects_of_consent",
+   "fraud",
+   "duress",
+   "mistake",
+   "undue influence",
+   "contract annulment"
+  ],
+  "citations": [
+   "طعن رقم 0392 لسنة 26"
+  ],
+  "related_ids": [
+   "cass_civil_defects_of_consent_0142_36_2",
+   "cass_civil_defects_of_consent_0001_57_3",
+   "cass_civil_defects_of_consent_0007_58_3",
+   "cass_civil_general_civil_0096_18_1",
+   "cass_civil_general_civil_0131_21_2",
+   "cass_civil_general_civil_0153_22_1",
+   "cass_civil_general_civil_0392_26_3",
+   "cass_civil_general_civil_0117_31_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-01-1962",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0392",
+   "judicial_year": "26",
+   "office_volume": "13",
+   "page": "127",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_defects_of_consent_0392_26_3",
+   "domain": "civil_law",
+   "category": "defects_of_consent",
+   "topic": "الاكراه",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0392",
+    "judicial_year": "26",
+    "office_volume": "13",
+    "page": "127",
+    "session_date": "25-01-1962",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الاكراه",
+    "عيوب الإرادة",
+    "عيوب الارادة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تنص الفقرة الثالثة من المادة 127 من القانون المدنى على أن\" يراعى فى تقدير الإكراه جنس من وقع عليه هذا الإكراه و سنه و حالته الإجتماعية و الصحية و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه \"",
+   "core_principles": [
+    "تنص الفقرة الثالثة من المادة 127 من القانون المدنى على أن\" يراعى فى تقدير الإكراه جنس من وقع عليه هذا الإكراه و سنه و حالته الإجتماعية و الصحية و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه \" ، فإذا كان الحكم المطعون فيه قد نفى حصول الإكراه المدعى بوقوعه على البائعة إستناداً إلى أسباب تتعلق بشخصها و"
+   ],
+   "judicial_rule": {
+    "short": "تنص الفقرة الثالثة من المادة 127 من القانون المدنى على أن\" يراعى فى تقدير الإكراه جنس من وقع عليه هذا الإكراه و سنه و حالته الإجتماعية و الصحية و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه \"",
+    "professional": "تنص الفقرة الثالثة من المادة 127 من القانون المدنى على أن\" يراعى فى تقدير الإكراه جنس من وقع عليه هذا الإكراه و سنه و حالته الإجتماعية و الصحية و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه \" ، فإذا كان الحكم المطعون فيه قد نفى حصول الإكراه المدعى بوقوعه على البائعة إستناداً إلى أسباب تتعلق بشخصها و ظروف التعاقد فإنه لم يخالف المعيار الذى أوجبه القانون فى تقدير الإكراه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "fraud",
+    "duress",
+    "mistake",
+    "undue influence",
+    "contract annulment"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "defects_of_consent",
+    "الاكراه",
+    "عيوب الإرادة"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_defects_of_consent_0142_36_2",
+  "type": "judgment_principle",
+  "category": "defects_of_consent",
+  "title": "الاكراه",
+  "content": "تقدير وسائل الإكراه و مبلغ جسامتها و تأثيرها فى نفس المتعاقد هو من الأمور الموضوعية التى يستقل بالفصل فيها قاضى الموضوع ، مراعيا فى ذلك جنس من وقعت عليه ، و سنه و حالته الإجتماعية و الصحية ، و كل",
+  "keywords": [
+   "الاكراه",
+   "عيوب الإرادة",
+   "عيوب الارادة",
+   "cassation",
+   "civil",
+   "defects_of_consent",
+   "fraud",
+   "duress",
+   "mistake",
+   "undue influence",
+   "contract annulment"
+  ],
+  "citations": [
+   "طعن رقم 0142 لسنة 36"
+  ],
+  "related_ids": [
+   "cass_civil_defects_of_consent_0392_26_3",
+   "cass_civil_defects_of_consent_0001_57_3",
+   "cass_civil_defects_of_consent_0007_58_3",
+   "cass_civil_general_civil_0096_18_1",
+   "cass_civil_general_civil_0131_21_2",
+   "cass_civil_general_civil_0153_22_1",
+   "cass_civil_general_civil_0392_26_3",
+   "cass_civil_general_civil_0117_31_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "09-06-1970",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0142",
+   "judicial_year": "36",
+   "office_volume": "21",
+   "page": "1022",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_defects_of_consent_0142_36_2",
+   "domain": "civil_law",
+   "category": "defects_of_consent",
+   "topic": "الاكراه",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0142",
+    "judicial_year": "36",
+    "office_volume": "21",
+    "page": "1022",
+    "session_date": "09-06-1970",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الاكراه",
+    "عيوب الإرادة",
+    "عيوب الارادة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقدير وسائل الإكراه و مبلغ جسامتها و تأثيرها فى نفس المتعاقد هو من الأمور الموضوعية التى يستقل بالفصل فيها قاضى الموضوع ، مراعيا فى ذلك جنس من وقعت عليه ، و سنه و حالته الإجتماعية و الصحية ، و كل",
+   "core_principles": [
+    "تقدير وسائل الإكراه و مبلغ جسامتها و تأثيرها فى نفس المتعاقد هو من الأمور الموضوعية التى يستقل بالفصل فيها قاضى الموضوع ، مراعيا فى ذلك جنس من وقعت عليه ، و سنه و حالته الإجتماعية و الصحية ، و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه"
+   ],
+   "judicial_rule": {
+    "short": "تقدير وسائل الإكراه و مبلغ جسامتها و تأثيرها فى نفس المتعاقد هو من الأمور الموضوعية التى يستقل بالفصل فيها قاضى الموضوع ، مراعيا فى ذلك جنس من وقعت عليه ، و سنه و حالته الإجتماعية و الصحية ، و كل",
+    "professional": "تقدير وسائل الإكراه و مبلغ جسامتها و تأثيرها فى نفس المتعاقد هو من الأمور الموضوعية التى يستقل بالفصل فيها قاضى الموضوع ، مراعيا فى ذلك جنس من وقعت عليه ، و سنه و حالته الإجتماعية و الصحية ، و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "fraud",
+    "duress",
+    "mistake",
+    "undue influence",
+    "contract annulment"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "defects_of_consent",
+    "الاكراه",
+    "عيوب الإرادة"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_defects_of_consent_0001_57_3",
+  "type": "judgment_principle",
+  "category": "defects_of_consent",
+  "title": "الاكراه",
+  "content": "ما يقتضيه تقدير الإكراه طبقاً للمادة 127 من القانون المدنى مراعاة جنس من وقع عليه الإكراه و سنه و حالته الإجتماعية و الصحية . و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه - و إذ كان الطالب",
+  "keywords": [
+   "الاكراه",
+   "عيوب الإرادة",
+   "عيوب الارادة",
+   "cassation",
+   "civil",
+   "defects_of_consent",
+   "fraud",
+   "duress",
+   "mistake",
+   "undue influence",
+   "contract annulment"
+  ],
+  "citations": [
+   "طعن رقم 0001 لسنة 57"
+  ],
+  "related_ids": [
+   "cass_civil_defects_of_consent_0392_26_3",
+   "cass_civil_defects_of_consent_0142_36_2",
+   "cass_civil_defects_of_consent_0007_58_3",
+   "cass_civil_general_civil_0096_18_1",
+   "cass_civil_general_civil_0131_21_2",
+   "cass_civil_general_civil_0153_22_1",
+   "cass_civil_general_civil_0392_26_3",
+   "cass_civil_general_civil_0117_31_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "18-07-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0001",
+   "judicial_year": "57",
+   "office_volume": "40",
+   "page": "21",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_defects_of_consent_0001_57_3",
+   "domain": "civil_law",
+   "category": "defects_of_consent",
+   "topic": "الاكراه",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0001",
+    "judicial_year": "57",
+    "office_volume": "40",
+    "page": "21",
+    "session_date": "18-07-1989",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الاكراه",
+    "عيوب الإرادة",
+    "عيوب الارادة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "ما يقتضيه تقدير الإكراه طبقاً للمادة 127 من القانون المدنى مراعاة جنس من وقع عليه الإكراه و سنه و حالته الإجتماعية و الصحية . و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه - و إذ كان الطالب",
+   "core_principles": [
+    "و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه - و إذ كان الطالب و هو وقت أن قدم إستقالته وكيل نيابة على علم بما يكفله قانون السلطة القضائية لرجال القضاء و النيابة العامة من ضمانات تجعلهم بمنأى عن سطوة السلطة الإدارية ، فإن مثله لا تأخذه رهبة أو يقع تحت تأثير أدبى أو معنوى من مجرد إستدعائه إلى مكتب ا"
+   ],
+   "judicial_rule": {
+    "short": "و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه - و إذ كان الطالب و هو وقت أن قدم إستقالته وكيل نيابة على علم بما يكفله قانون السلطة القضائية لرجال القضاء و النيابة العامة من ضمانات تجعلهم بمنأى",
+    "professional": "ما يقتضيه تقدير الإكراه طبقاً للمادة 127 من القانون المدنى مراعاة جنس من وقع عليه الإكراه و سنه و حالته الإجتماعية و الصحية . و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه - و إذ كان الطالب و هو وقت أن قدم إستقالته وكيل نيابة على علم بما يكفله قانون السلطة القضائية لرجال القضاء و النيابة العامة من ضمانات تجعلهم بمنأى عن سطوة السلطة الإدارية ، فإن مثله لا تأخذه رهبة أو يقع تحت تأثير أدبى أو معنوى من مجرد إستدعائه إلى مكتب النائب العام ، و أن هذا الإستدعاء بذاته ليس من شأنه أن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "fraud",
+    "duress",
+    "mistake",
+    "undue influence",
+    "contract annulment"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "defects_of_consent",
+    "الاكراه",
+    "عيوب الإرادة"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_defects_of_consent_0007_58_3",
+  "type": "judgment_principle",
+  "category": "defects_of_consent",
+  "title": "الاكراه",
+  "content": "ما يقتضيه الإكراه طبقاٌ لنص المادة 127 من القانون المدنى مراعاة جنس من وقع عليه هذا الإكراه و سنه و حالته الإجتماعية و الصحية و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه . لما كان ذلك و",
+  "keywords": [
+   "الاكراه",
+   "التنفيذ",
+   "العقد",
+   "عيوب الإرادة",
+   "عيوب الارادة",
+   "cassation",
+   "civil",
+   "defects_of_consent",
+   "fraud",
+   "duress",
+   "mistake",
+   "undue influence",
+   "contract annulment"
+  ],
+  "citations": [
+   "طعن رقم 0007 لسنة 58"
+  ],
+  "related_ids": [
+   "cass_civil_defects_of_consent_0392_26_3",
+   "cass_civil_defects_of_consent_0142_36_2",
+   "cass_civil_defects_of_consent_0001_57_3",
+   "cass_civil_general_civil_0096_18_1",
+   "cass_civil_general_civil_0131_21_2",
+   "cass_civil_general_civil_0153_22_1",
+   "cass_civil_general_civil_0392_26_3",
+   "cass_civil_general_civil_0117_31_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "05-12-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0007",
+   "judicial_year": "58",
+   "office_volume": "40",
+   "page": "34",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_defects_of_consent_0007_58_3",
+   "domain": "civil_law",
+   "category": "defects_of_consent",
+   "topic": "الاكراه",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0007",
+    "judicial_year": "58",
+    "office_volume": "40",
+    "page": "34",
+    "session_date": "05-12-1989",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الاكراه",
+    "التنفيذ",
+    "العقد",
+    "عيوب الإرادة",
+    "عيوب الارادة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "ما يقتضيه الإكراه طبقاٌ لنص المادة 127 من القانون المدنى مراعاة جنس من وقع عليه هذا الإكراه و سنه و حالته الإجتماعية و الصحية و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه . لما كان ذلك و",
+   "core_principles": [
+    "الطعن رقم 0015 لسنة 11 مجموعة عمر 3ع صفحة رقم 380 بتاريخ 05-06-1941 الموضوع : عيوب الارادة الموضوع الفرعي : الاكراه فقرة رقم : 2 إذا كان الطاعن لم يتمسك أمام المحكمة بأن العقد موضوع الدعوى إنما حرر تحت تأثير الإكراه فإنه لا يجوز له أن يثير ذلك أمام محكمة النقض"
+   ],
+   "judicial_rule": {
+    "short": "الطعن رقم 0015 لسنة 11 مجموعة عمر 3ع صفحة رقم 380 بتاريخ 05-06-1941 الموضوع : عيوب الارادة الموضوع الفرعي : الاكراه فقرة رقم : 2 إذا كان الطاعن لم يتمسك أمام المحكمة بأن العقد موضوع الدعوى إنما حرر تحت تأثير",
+    "professional": "ما يقتضيه الإكراه طبقاٌ لنص المادة 127 من القانون المدنى مراعاة جنس من وقع عليه هذا الإكراه و سنه و حالته الإجتماعية و الصحية و كل ظرف آخر من شأنه أن يؤثر فى جسامة الإكراه . لما كان ذلك و كان الطالب و هو رئيس محكمة الإستئناف ولى القضاء بين الناس و مثله لا تأخذه رهبه من قول يلقى إليه من رئيس و أعضاء مجلس الصلاحية ، و من ثم فإن تقديم الإستقالة بناء على طلبهم ليس من شأنه - بذاته - و إن صح - أن يسلبه حرية الإختبار فى هذا الصدد . لما كان ذلك فإن الإستقالة تكون قد صدرت من الطالب تح"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "fraud",
+    "duress",
+    "mistake",
+    "undue influence",
+    "contract annulment"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "defects_of_consent",
+    "الاكراه",
+    "عيوب الإرادة"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_defects_of_consent_0462_35_3",
+  "type": "judgment_principle",
+  "category": "defects_of_consent",
+  "title": "التعبير عن الارادة",
+  "content": "مفاد نص المادة 91 من القانون المدنى أن التعبير عن الإرادة لا ينتج أثره إذا أثبت من وجه إليه أنه لم يعلم به وقت وصوله ، و كان عدم العلم لا يرجع إلى خطأ منه .",
+  "keywords": [
+   "الإرادة",
+   "التعبير عن الارادة",
+   "عيوب الإرادة",
+   "عيوب الارادة",
+   "cassation",
+   "civil",
+   "defects_of_consent",
+   "fraud",
+   "duress",
+   "mistake",
+   "undue influence",
+   "contract annulment"
+  ],
+  "citations": [
+   "طعن رقم 0462 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_general_civil_0462_35_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-01-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0462",
+   "judicial_year": "35",
+   "office_volume": "23",
+   "page": "67",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_defects_of_consent_0462_35_3",
+   "domain": "civil_law",
+   "category": "defects_of_consent",
+   "topic": "التعبير عن الارادة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0462",
+    "judicial_year": "35",
+    "office_volume": "23",
+    "page": "67",
+    "session_date": "19-01-1972",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الإرادة",
+    "التعبير عن الارادة",
+    "عيوب الإرادة",
+    "عيوب الارادة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نص المادة 91 من القانون المدنى أن التعبير عن الإرادة لا ينتج أثره إذا أثبت من وجه إليه أنه لم يعلم به وقت وصوله ، و كان عدم العلم لا يرجع إلى خطأ منه .",
+   "core_principles": [
+    "مفاد نص المادة 91 من القانون المدنى أن التعبير عن الإرادة لا ينتج أثره إذا أثبت من وجه إليه أنه لم يعلم به وقت وصوله ، و كان عدم العلم لا يرجع إلى خطأ منه"
+   ],
+   "judicial_rule": {
+    "short": "مفاد نص المادة 91 من القانون المدنى أن التعبير عن الإرادة لا ينتج أثره إذا أثبت من وجه إليه أنه لم يعلم به وقت وصوله ، و كان عدم العلم لا يرجع إلى خطأ منه",
+    "professional": "مفاد نص المادة 91 من القانون المدنى أن التعبير عن الإرادة لا ينتج أثره إذا أثبت من وجه إليه أنه لم يعلم به وقت وصوله ، و كان عدم العلم لا يرجع إلى خطأ منه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "fraud",
+    "duress",
+    "mistake",
+    "undue influence",
+    "contract annulment"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "defects_of_consent",
+    "التعبير عن الارادة",
+    "عيوب الإرادة"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_defects_of_consent_0189_37_5",
+  "type": "judgment_principle",
+  "category": "defects_of_consent",
+  "title": "الغبن فى التعاقد",
+  "content": "االمقصود بالإستغلال أن يعلم الغير بغفلة شخص ، فيستغل هذه الحالة ، و يستصدر منه تصرفات لا تتعادل فيها إلتزاماته مع ما يحصل عليه من فائدة .",
+  "keywords": [
+   "الغبن فى التعاقد",
+   "عيوب الإرادة",
+   "عيوب الارادة",
+   "cassation",
+   "civil",
+   "defects_of_consent",
+   "fraud",
+   "duress",
+   "mistake",
+   "undue influence",
+   "contract annulment"
+  ],
+  "citations": [
+   "طعن رقم 0189 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_general_civil_0045_34_1",
+   "cass_civil_general_civil_0189_37_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "15-02-1972",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0189",
+   "judicial_year": "37",
+   "office_volume": "23",
+   "page": "162",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_defects_of_consent_0189_37_5",
+   "domain": "civil_law",
+   "category": "defects_of_consent",
+   "topic": "الغبن فى التعاقد",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0189",
+    "judicial_year": "37",
+    "office_volume": "23",
+    "page": "162",
+    "session_date": "15-02-1972",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "الغبن فى التعاقد",
+    "عيوب الإرادة",
+    "عيوب الارادة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "االمقصود بالإستغلال أن يعلم الغير بغفلة شخص ، فيستغل هذه الحالة ، و يستصدر منه تصرفات لا تتعادل فيها إلتزاماته مع ما يحصل عليه من فائدة .",
+   "core_principles": [
+    "االمقصود بالإستغلال أن يعلم الغير بغفلة شخص ، فيستغل هذه الحالة ، و يستصدر منه تصرفات لا تتعادل فيها إلتزاماته مع ما يحصل عليه من فائدة"
+   ],
+   "judicial_rule": {
+    "short": "االمقصود بالإستغلال أن يعلم الغير بغفلة شخص ، فيستغل هذه الحالة ، و يستصدر منه تصرفات لا تتعادل فيها إلتزاماته مع ما يحصل عليه من فائدة",
+    "professional": "االمقصود بالإستغلال أن يعلم الغير بغفلة شخص ، فيستغل هذه الحالة ، و يستصدر منه تصرفات لا تتعادل فيها إلتزاماته مع ما يحصل عليه من فائدة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "fraud",
+    "duress",
+    "mistake",
+    "undue influence",
+    "contract annulment"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "defects_of_consent",
+    "الغبن فى التعاقد",
+    "عيوب الإرادة"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

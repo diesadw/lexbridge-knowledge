@@ -1,0 +1,72 @@
+{
+ "hardship": [
+  "cass_civil_unforeseen_circumstances_0056_26_1",
+  "cass_civil_unforeseen_circumstances_0359_26_1",
+  "cass_civil_unforeseen_circumstances_0240_27_2",
+  "cass_civil_unforeseen_circumstances_0263_26_10",
+  "cass_civil_unforeseen_circumstances_0263_26_11",
+  "cass_civil_unforeseen_circumstances_0263_26_12",
+  "cass_civil_unforeseen_circumstances_0263_26_7",
+  "cass_civil_unforeseen_circumstances_0263_26_8",
+  "cass_civil_unforeseen_circumstances_0263_26_9",
+  "cass_civil_unforeseen_circumstances_0259_28_1",
+  "cass_civil_unforeseen_circumstances_0259_28_2",
+  "cass_civil_unforeseen_circumstances_0368_29_1",
+  "cass_civil_unforeseen_circumstances_0368_29_2",
+  "cass_civil_unforeseen_circumstances_0368_29_3",
+  "cass_civil_unforeseen_circumstances_0368_29_4",
+  "cass_civil_unforeseen_circumstances_0248_30_2",
+  "cass_civil_unforeseen_circumstances_0117_31_3",
+  "cass_civil_unforeseen_circumstances_0190_34_3",
+  "cass_civil_unforeseen_circumstances_0475_34_1",
+  "cass_civil_unforeseen_circumstances_0532_35_3",
+  "cass_civil_unforeseen_circumstances_0532_35_4",
+  "cass_civil_unforeseen_circumstances_0145_36_5",
+  "cass_civil_unforeseen_circumstances_0199_36_3",
+  "cass_civil_unforeseen_circumstances_0142_37_3",
+  "cass_civil_unforeseen_circumstances_0142_37_4",
+  "cass_civil_unforeseen_circumstances_0211_38_4",
+  "cass_civil_unforeseen_circumstances_0502_39_1",
+  "cass_civil_unforeseen_circumstances_0058_40_2",
+  "cass_civil_unforeseen_circumstances_0580_43_1",
+  "cass_civil_unforeseen_circumstances_0580_43_2",
+  "cass_civil_unforeseen_circumstances_0580_43_3",
+  "cass_civil_unforeseen_circumstances_1297_56_4",
+  "cass_civil_unforeseen_circumstances_0317_35_1",
+  "cass_civil_unforeseen_circumstances_0317_35_2",
+  "cass_civil_unforeseen_circumstances_0258_20_1",
+  "cass_civil_unforeseen_circumstances_0026_23_3",
+  "cass_civil_unforeseen_circumstances_0406_30_5",
+  "cass_civil_unforeseen_circumstances_0258_31_1",
+  "cass_civil_unforeseen_circumstances_0272_31_5",
+  "cass_civil_unforeseen_circumstances_0393_32_1",
+  "cass_civil_unforeseen_circumstances_0190_34_2",
+  "cass_civil_unforeseen_circumstances_0245_36_4",
+  "cass_civil_unforeseen_circumstances_0074_19_2",
+  "cass_civil_unforeseen_circumstances_0240_27_1",
+  "cass_civil_unforeseen_circumstances_0245_27_1",
+  "cass_civil_unforeseen_circumstances_0187_29_4",
+  "cass_civil_unforeseen_circumstances_0187_29_5",
+  "cass_civil_unforeseen_circumstances_0248_30_1",
+  "cass_civil_unforeseen_circumstances_0502_39_2",
+  "cass_civil_unforeseen_circumstances_0448_43_1",
+  "cass_civil_unforeseen_circumstances_0448_43_2",
+  "cass_civil_unforeseen_circumstances_0269_49_4",
+  "civil_binding_force_contract",
+  "civil_contract_rescission",
+  "civil_continuing_contract_termination"
+ ],
+ "hardship doctrine": [
+  "civil_binding_force_contract",
+  "civil_force_majeure"
+ ],
+ "hospital": [
+  "civil_liability_supervisor_guardian"
+ ],
+ "hidden contract": [
+  "civil_simulation_contract"
+ ],
+ "hidden_contract": [
+  "civil_simulation_contract"
+ ]
+}

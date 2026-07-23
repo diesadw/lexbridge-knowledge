@@ -1,0 +1,582 @@
+[
+ {
+  "id": "COM-0001",
+  "type": "deadline",
+  "category": "تجاري",
+  "title": "التقادم التجاري العام",
+  "content": "تتقادم الالتزامات التجارية بمضي عشر سنوات فيما عدا الحالات التي ينص فيها القانون على مدة أقصر.",
+  "keywords": [
+   "تقادم تجاري",
+   "10 سنوات",
+   "قانون التجارة",
+   "التقادم التجاري",
+   "المادة 63 تجارة"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في قانون التجارة",
+   "law_number": null,
+   "article_number": "63",
+   "date": null,
+   "court": "المحكمة الاقتصادية",
+   "confidence": null,
+   "branch": "تجاري",
+   "duration": "10 سنوات",
+   "duration_days": 3650,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "COM-0001",
+   "title": "التقادم التجاري العام",
+   "category": "تجاري",
+   "sub_category": "التقادم التجاري",
+   "deadline_type": "تقادم",
+   "trigger_event": "نشوء الالتزام التجاري",
+   "duration": "10 سنوات",
+   "duration_days": 3650,
+   "calculation_method": "من نشوء الالتزام",
+   "legal_text": "تتقادم الالتزامات التجارية بمضي عشر سنوات فيما عدا الحالات التي ينص فيها القانون على مدة أقصر.",
+   "plain_language_explanation": "الالتزامات التجارية تتقادم بـ10 سنوات كأصل عام.",
+   "practical_meaning": "أقصر من المدني (10 بدل 15 سنة). يجب التمييز بين الالتزامات المدنية والتجارية.",
+   "start_date_rule": "من نشوء الالتزام التجاري",
+   "end_condition": "مضي 10 سنوات",
+   "court_or_authority": "المحكمة الاقتصادية",
+   "required_action": "رفع الدعوى أو التمسك بالتقادم",
+   "mandatory_requirements": [],
+   "required_documents": [],
+   "risk_if_missed": "سقوط الالتزام",
+   "legal_effect_if_missed": "حق المدين في الدفع",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "المطالبة القضائية",
+    "الإقرار"
+   ],
+   "suspension_causes": [],
+   "exceptions": [
+    "الأوراق التجارية: مدد أقصر"
+   ],
+   "common_lawyer_mistakes": [
+    "تطبيق تقادم 15 سنة على التجاري"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "تحديد الطبيعة التجارية",
+    "احتساب 10 سنوات"
+   ],
+   "automation_opportunities": [
+    "التمييز بين التقادم المدني والتجاري"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون التجارة",
+     "article": "63"
+    }
+   ],
+   "related_procedures": [
+    "الدفع بالتقادم التجاري"
+   ],
+   "related_topics": [
+    "التقادم التجاري"
+   ],
+   "ai_tags": [
+    "تقادم تجاري",
+    "10 سنوات",
+    "قانون التجارة"
+   ],
+   "search_keywords": [
+    "التقادم التجاري",
+    "المادة 63 تجارة"
+   ],
+   "ai_summary": "الالتزامات التجارية تتقادم بـ10 سنوات كأصل عام.",
+   "classification": {
+    "branch": "تجاري",
+    "category": "قانون التجارة",
+    "doctrine": "التقادم",
+    "issue_type": "التقادم العام التجاري"
+   },
+   "source_reference": {
+    "book": "المواعيد في قانون التجارة",
+    "chapter": "التقادم",
+    "page": "",
+    "article_number": "63"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "COM-0002",
+  "type": "deadline",
+  "category": "تجاري",
+  "title": "تقادم دعاوى الكمبيالة",
+  "content": "تتقادم دعاوى الحامل قبل المسحوب عليه القابل بمضي ثلاث سنوات من تاريخ الاستحقاق. وتتقادم دعاوى الحامل قبل الساحب والمظهرين بمضي سنة من تاريخ تقديم الاحتجاج. وتتقادم دعاوى المظهرين بعضهم قبل بعض وقبل الساحب بمضي ستة أشهر.",
+  "keywords": [
+   "كمبيالة",
+   "تقادم صرفي",
+   "3 سنوات",
+   "سنة",
+   "6 أشهر",
+   "تقادم الكمبيالة",
+   "المادة 465 تجارة",
+   "الكمبيالة",
+   "الأوراق التجارية"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في قانون التجارة",
+   "law_number": null,
+   "article_number": "465",
+   "date": null,
+   "court": "المحكمة الاقتصادية",
+   "confidence": null,
+   "branch": "تجاري",
+   "duration": "3 سنوات (ضد المسحوب عليه) / سنة (ضد الساحب والمظهرين) / 6 أشهر (بين المظهرين)",
+   "duration_days": 1095,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "COM-0002",
+   "title": "تقادم دعاوى الكمبيالة",
+   "category": "تجاري",
+   "sub_category": "الأوراق التجارية",
+   "deadline_type": "تقادم",
+   "trigger_event": "تاريخ الاستحقاق",
+   "duration": "3 سنوات (ضد المسحوب عليه) / سنة (ضد الساحب والمظهرين) / 6 أشهر (بين المظهرين)",
+   "duration_days": 1095,
+   "calculation_method": "من تاريخ الاستحقاق أو تقديم الاحتجاج",
+   "legal_text": "تتقادم دعاوى الحامل قبل المسحوب عليه القابل بمضي ثلاث سنوات من تاريخ الاستحقاق. وتتقادم دعاوى الحامل قبل الساحب والمظهرين بمضي سنة من تاريخ تقديم الاحتجاج. وتتقادم دعاوى المظهرين بعضهم قبل بعض وقبل الساحب بمضي ستة أشهر.",
+   "plain_language_explanation": "تقادم الكمبيالة: 3 سنوات (ضد المسحوب عليه) / سنة (ضد الساحب والمظهرين) / 6 أشهر (بين المظهرين).",
+   "practical_meaning": "ثلاثة مواعيد مختلفة حسب طرف الدعوى. خطأ في تحديد الطرف = تقادم خاطئ.",
+   "start_date_rule": "من الاستحقاق أو تقديم الاحتجاج",
+   "end_condition": "حسب طرف الدعوى",
+   "court_or_authority": "المحكمة الاقتصادية",
+   "required_action": "رفع الدعوى في الميعاد",
+   "mandatory_requirements": [
+    "تحرير البروتستو في الوقت"
+   ],
+   "required_documents": [
+    "الكمبيالة",
+    "الاحتجاج"
+   ],
+   "risk_if_missed": "سقوط الدعوى الصرفية",
+   "legal_effect_if_missed": "حق المدين في الدفع بالتقادم",
+   "subsequent_deadline": null,
+   "interruptions": [
+    "رفع الدعوى"
+   ],
+   "suspension_causes": [],
+   "exceptions": [
+    "بعد سقوط التقادم: دعوى الإثراء بلا سبب (3 سنوات)"
+   ],
+   "common_lawyer_mistakes": [
+    "الخلط بين المواعيد الثلاثة",
+    "إغفال البروتستو"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "تحديد المدين",
+    "احتساب التقادم المناسب",
+    "رفع الدعوى في الوقت"
+   ],
+   "automation_opportunities": [
+    "احتساب تقادم الكمبيالة حسب طرف الدعوى"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون التجارة",
+     "article": "465"
+    }
+   ],
+   "related_procedures": [
+    "دعوى الكمبيالة"
+   ],
+   "related_topics": [
+    "الكمبيالة",
+    "الأوراق التجارية"
+   ],
+   "ai_tags": [
+    "كمبيالة",
+    "تقادم صرفي",
+    "3 سنوات",
+    "سنة",
+    "6 أشهر"
+   ],
+   "search_keywords": [
+    "تقادم الكمبيالة",
+    "المادة 465 تجارة"
+   ],
+   "ai_summary": "تقادم الكمبيالة: 3 سنوات ضد المسحوب عليه / سنة ضد الساحب / 6 أشهر بين المظهرين.",
+   "classification": {
+    "branch": "تجاري",
+    "category": "قانون التجارة",
+    "doctrine": "الأوراق التجارية",
+    "issue_type": "تقادم الكمبيالة"
+   },
+   "source_reference": {
+    "book": "المواعيد في قانون التجارة",
+    "chapter": "الأوراق التجارية",
+    "page": "",
+    "article_number": "465"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "COM-0003",
+  "type": "deadline",
+  "category": "تجاري",
+  "title": "ميعاد الاحتجاج (البروتستو) على الكمبيالة",
+  "content": "يجب تحرير الاحتجاج في أحد يومي العمل التاليين لتاريخ الاستحقاق.",
+  "keywords": [
+   "احتجاج",
+   "بروتستو",
+   "يومي عمل",
+   "كمبيالة",
+   "الاحتجاج على الكمبيالة",
+   "المادة 425 تجارة",
+   "الكمبيالة",
+   "الاحتجاج"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في قانون التجارة",
+   "law_number": null,
+   "article_number": "425",
+   "date": null,
+   "court": "كاتب عدل أو محضر قضائي",
+   "confidence": null,
+   "branch": "تجاري",
+   "duration": "يومي العمل التاليين للاستحقاق",
+   "duration_days": 2,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "COM-0003",
+   "title": "ميعاد الاحتجاج (البروتستو) على الكمبيالة",
+   "category": "تجاري",
+   "sub_category": "الأوراق التجارية",
+   "deadline_type": "إجرائي - شرط صحة",
+   "trigger_event": "رفض الوفاء",
+   "duration": "يومي العمل التاليين للاستحقاق",
+   "duration_days": 2,
+   "calculation_method": "من تاريخ الاستحقاق",
+   "legal_text": "يجب تحرير الاحتجاج في أحد يومي العمل التاليين لتاريخ الاستحقاق.",
+   "plain_language_explanation": "احتجاج عدم الوفاء على الكمبيالة: خلال يومي العمل التاليين للاستحقاق.",
+   "practical_meaning": "الاحتجاج شرط للرجوع على الساحب والمظهرين. التأخر يُسقط هذا الحق.",
+   "start_date_rule": "من تاريخ الاستحقاق",
+   "end_condition": "يومي العمل التاليين",
+   "court_or_authority": "كاتب عدل أو محضر قضائي",
+   "required_action": "تحرير احتجاج رسمي",
+   "mandatory_requirements": [
+    "بواسطة كاتب عدل أو محضر"
+   ],
+   "required_documents": [
+    "الكمبيالة الأصلية",
+    "محضر الاحتجاج"
+   ],
+   "risk_if_missed": "سقوط حق الرجوع على الساحب والمظهرين",
+   "legal_effect_if_missed": "يبقى الحق فقط ضد المسحوب عليه القابل",
+   "subsequent_deadline": "تقادم الرجوع: سنة من الاحتجاج",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [
+    "كتابة (بدون احتجاج) على الكمبيالة تُعفي من البروتستو"
+   ],
+   "common_lawyer_mistakes": [
+    "التأخر في تحرير الاحتجاج"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "تقديم الكمبيالة للمسحوب عليه",
+    "تحرير الاحتجاج فور الرفض خلال يومي العمل"
+   ],
+   "automation_opportunities": [
+    "تنبيه بمواعيد الاحتجاج"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون التجارة",
+     "article": "425"
+    }
+   ],
+   "related_procedures": [
+    "الاحتجاج الصرفي"
+   ],
+   "related_topics": [
+    "الكمبيالة",
+    "الاحتجاج"
+   ],
+   "ai_tags": [
+    "احتجاج",
+    "بروتستو",
+    "يومي عمل",
+    "كمبيالة"
+   ],
+   "search_keywords": [
+    "الاحتجاج على الكمبيالة",
+    "المادة 425 تجارة"
+   ],
+   "ai_summary": "احتجاج عدم الوفاء: خلال يومي العمل التاليين للاستحقاق وإلا سقط حق الرجوع.",
+   "classification": {
+    "branch": "تجاري",
+    "category": "قانون التجارة",
+    "doctrine": "الأوراق التجارية",
+    "issue_type": "الاحتجاج الصرفي"
+   },
+   "source_reference": {
+    "book": "المواعيد في قانون التجارة",
+    "chapter": "الأوراق التجارية",
+    "page": "",
+    "article_number": "425"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "COM-0004",
+  "type": "deadline",
+  "category": "تجاري",
+  "title": "ميعاد الإفصاح عن التوقف عن الدفع",
+  "content": "على كل تاجر توقف عن دفع ديونه التجارية أن يقدم إلى قلم كتاب المحكمة خلال خمسة عشر يوماً من توقفه عن الدفع إفصاحاً عن هذا التوقف مرفقاً به قوائمه المالية.",
+  "keywords": [
+   "إفلاس",
+   "15 يوم",
+   "إفصاح",
+   "تجاري",
+   "إشهار الإفلاس",
+   "المادة 553 تجارة",
+   "الإفلاس",
+   "التوقف عن الدفع"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في قانون التجارة",
+   "law_number": null,
+   "article_number": "553",
+   "date": null,
+   "court": "المحكمة الاقتصادية",
+   "confidence": null,
+   "branch": "تجاري",
+   "duration": "15 يوماً",
+   "duration_days": 15,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "COM-0004",
+   "title": "ميعاد الإفصاح عن التوقف عن الدفع",
+   "category": "تجاري",
+   "sub_category": "الإفلاس",
+   "deadline_type": "إجرائي",
+   "trigger_event": "توقف التاجر عن الدفع",
+   "duration": "15 يوماً",
+   "duration_days": 15,
+   "calculation_method": "من تاريخ التوقف",
+   "legal_text": "على كل تاجر توقف عن دفع ديونه التجارية أن يقدم إلى قلم كتاب المحكمة خلال خمسة عشر يوماً من توقفه عن الدفع إفصاحاً عن هذا التوقف مرفقاً به قوائمه المالية.",
+   "plain_language_explanation": "التاجر المتوقف عن الدفع ملزم بالإفصاح للمحكمة خلال 15 يوماً.",
+   "practical_meaning": "التزام قانوني على التاجر. الإخلال به يعرضه للإفلاس بالتقصير.",
+   "start_date_rule": "من تاريخ التوقف عن الدفع",
+   "end_condition": "مضي 15 يوماً",
+   "court_or_authority": "المحكمة الاقتصادية",
+   "required_action": "تقديم إفصاح بالتوقف مع القوائم المالية",
+   "mandatory_requirements": [
+    "القوائم المالية",
+    "قائمة الدائنين"
+   ],
+   "required_documents": [
+    "القوائم المالية",
+    "طلب الإفصاح"
+   ],
+   "risk_if_missed": "الإفلاس بالتقصير",
+   "legal_effect_if_missed": "مسؤولية جنائية",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال إلزام الموكل بالإفصاح في الوقت"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "إبلاغ الموكل بالالتزام",
+    "إعداد القوائم",
+    "تقديم الإفصاح خلال 15 يوماً"
+   ],
+   "automation_opportunities": [
+    "تنبيه بمواعيد الإفصاح"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون التجارة",
+     "article": "553"
+    }
+   ],
+   "related_procedures": [
+    "الإفصاح عن التوقف"
+   ],
+   "related_topics": [
+    "الإفلاس",
+    "التوقف عن الدفع"
+   ],
+   "ai_tags": [
+    "إفلاس",
+    "15 يوم",
+    "إفصاح",
+    "تجاري"
+   ],
+   "search_keywords": [
+    "إشهار الإفلاس",
+    "المادة 553 تجارة"
+   ],
+   "ai_summary": "التاجر المتوقف عن الدفع ملزم بالإفصاح للمحكمة خلال 15 يوماً وإلا اعتُبر مفلساً بالتقصير.",
+   "classification": {
+    "branch": "تجاري",
+    "category": "قانون التجارة",
+    "doctrine": "الإفلاس",
+    "issue_type": "الإفصاح عن التوقف"
+   },
+   "source_reference": {
+    "book": "المواعيد في قانون التجارة",
+    "chapter": "الإفلاس",
+    "page": "",
+    "article_number": "553"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "COM-0005",
+  "type": "deadline",
+  "category": "تجاري",
+  "title": "ميعاد تقديم طلبات الديون في الإفلاس",
+  "content": "يجب على كل دائن أن يتقدم بطلب قبول دينه إلى أمين التفليسة خلال الميعاد المحدد بحكم الإفلاس والذي لا يقل عن ثلاثين يوماً من تاريخ نشر الحكم بالنسبة للدائنين المقيمين في مصر.",
+  "keywords": [
+   "إفلاس",
+   "30 يوم",
+   "دين",
+   "تجاري",
+   "طلب الدين في الإفلاس",
+   "المادة 581 تجارة",
+   "الإفلاس",
+   "التفليسة"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في قانون التجارة",
+   "law_number": null,
+   "article_number": "581",
+   "date": null,
+   "court": "أمين التفليسة",
+   "confidence": null,
+   "branch": "تجاري",
+   "duration": "30 يوماً (داخل مصر) / 90 يوماً (خارجها)",
+   "duration_days": 30,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "COM-0005",
+   "title": "ميعاد تقديم طلبات الديون في الإفلاس",
+   "category": "تجاري",
+   "sub_category": "الإفلاس",
+   "deadline_type": "إجرائي - سقوط",
+   "trigger_event": "نشر حكم إشهار الإفلاس",
+   "duration": "30 يوماً (داخل مصر) / 90 يوماً (خارجها)",
+   "duration_days": 30,
+   "calculation_method": "من تاريخ نشر الحكم",
+   "legal_text": "يجب على كل دائن أن يتقدم بطلب قبول دينه إلى أمين التفليسة خلال الميعاد المحدد بحكم الإفلاس والذي لا يقل عن ثلاثين يوماً من تاريخ نشر الحكم بالنسبة للدائنين المقيمين في مصر.",
+   "plain_language_explanation": "الدائنون يقدمون طلبات ديونهم خلال 30 يوماً من نشر حكم الإفلاس (90 يوماً خارج مصر).",
+   "practical_meaning": "التأخر يُفقد الدائن حقه في الاشتراك في التفليسة.",
+   "start_date_rule": "من تاريخ نشر حكم الإفلاس",
+   "end_condition": "30 يوماً داخل مصر / 90 يوماً خارجها",
+   "court_or_authority": "أمين التفليسة",
+   "required_action": "تقديم طلب قبول الدين مع المستندات",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "طلب قبول الدين",
+    "مستندات الدين"
+   ],
+   "risk_if_missed": "عدم قبول الدين في التفليسة",
+   "legal_effect_if_missed": "سقوط الحق في التوزيع",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال متابعة نشر أحكام الإفلاس"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "متابعة نشر حكم الإفلاس",
+    "تقديم طلب الدين فوراً"
+   ],
+   "automation_opportunities": [
+    "مراقبة إعلانات الإفلاس"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون التجارة",
+     "article": "581"
+    }
+   ],
+   "related_procedures": [
+    "طلب قبول الدين"
+   ],
+   "related_topics": [
+    "الإفلاس",
+    "التفليسة"
+   ],
+   "ai_tags": [
+    "إفلاس",
+    "30 يوم",
+    "دين",
+    "تجاري"
+   ],
+   "search_keywords": [
+    "طلب الدين في الإفلاس",
+    "المادة 581 تجارة"
+   ],
+   "ai_summary": "الدائنون يقدمون طلبات ديونهم خلال 30 يوماً من نشر حكم الإفلاس.",
+   "classification": {
+    "branch": "تجاري",
+    "category": "قانون التجارة",
+    "doctrine": "الإفلاس",
+    "issue_type": "طلبات الديون"
+   },
+   "source_reference": {
+    "book": "المواعيد في قانون التجارة",
+    "chapter": "الإفلاس",
+    "page": "",
+    "article_number": "581"
+   }
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

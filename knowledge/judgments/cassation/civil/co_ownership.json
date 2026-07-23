@@ -1,0 +1,3358 @@
+[
+ {
+  "id": "cass_civil_co_ownership_0153_19_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "استرداد الحصة الشائعة",
+  "content": "المادة 462 من القانون المدنى - القديم - منقولة عن المادة 841 من القانون المدنى الفرنسى لحالة خاصة ، وهى حالة ما إذا باع أحد الورثة للغير حصته الشائعة فى تركة أو جزء من تلك الحصة الشائعة بحيث يدخل فيها",
+  "keywords": [
+   "استرداد الحصة الشائعة",
+   "الشركة",
+   "المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0153 لسنة 19"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0153_19_2",
+   "cass_civil_co_ownership_0177_20_1",
+   "cass_civil_co_ownership_0200_20_2",
+   "cass_civil_co_ownership_0213_20_2",
+   "cass_civil_co_ownership_0065_22_3",
+   "cass_civil_co_ownership_0065_22_2",
+   "cass_civil_co_ownership_1611_53_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "29-03-1951",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0153",
+   "judicial_year": "19",
+   "office_volume": "02",
+   "page": "531",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0153_19_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "استرداد الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0153",
+    "judicial_year": "19",
+    "office_volume": "02",
+    "page": "531",
+    "session_date": "29-03-1951",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "استرداد الحصة الشائعة",
+    "الشركة",
+    "المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المادة 462 من القانون المدنى - القديم - منقولة عن المادة 841 من القانون المدنى الفرنسى لحالة خاصة ، وهى حالة ما إذا باع أحد الورثة للغير حصته الشائعة فى تركة أو جزء من تلك الحصة الشائعة بحيث يدخل فيها",
+   "core_principles": [
+    "وهذا النص لا ينطبق إذا كان المبيع حصة شائعة فى عين معينة من التركة أو الشركة ، ولا يغير من ذلك أن تكون العين التى باع أحد الورثة حصته شائعة فيها للغير هى كل ما تركه المورث متى كان المبيع هو جزء من عين معينة وليس هو حصة البائع الميراثية فى مجموع أموال التركة أو جزء من هذه الحصة"
+   ],
+   "judicial_rule": {
+    "short": "وهذا النص لا ينطبق إذا كان المبيع حصة شائعة فى عين معينة من التركة أو الشركة ، ولا يغير من ذلك أن تكون العين التى باع أحد الورثة حصته شائعة فيها للغير هى كل ما تركه المورث متى كان المبيع",
+    "professional": "المادة 462 من القانون المدنى - القديم - منقولة عن المادة 841 من القانون المدنى الفرنسى لحالة خاصة ، وهى حالة ما إذا باع أحد الورثة للغير حصته الشائعة فى تركة أو جزء من تلك الحصة الشائعة بحيث يدخل فيها ما يخصها فى جميع مشتملاتها من عقار ومنقول وما عليها من الحقوق فإنه يحق عندئذ لباقى الورثه أو لأحدهم لحين القسمة أن يسترد الحصة الشائعة المبيعة فى حدود المادة 462 سالفة الذكر . وهذا النص لا ينطبق إذا كان المبيع حصة شائعة فى عين معينة من التركة أو الشركة ، ولا يغير من ذلك أن تكون"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0153_19_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "استرداد الحصة الشائعة",
+  "content": "متى كان الحكم إذ قضى برفض دعوى الطاعن التى أقامها بطلب استرداد الجزء الذى باعه أخواه - المطعون عليهما الثانى والثالث - من حصتهما فى الماكينة موضوع النزاع المخلفة لهم جميعا عن المورث إلى الغير - المطعون عليه الأول -",
+  "keywords": [
+   "استرداد الحصة الشائعة",
+   "الشركة",
+   "المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0153 لسنة 19"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0153_19_1",
+   "cass_civil_co_ownership_0177_20_1",
+   "cass_civil_co_ownership_0200_20_2",
+   "cass_civil_co_ownership_0213_20_2",
+   "cass_civil_co_ownership_0065_22_3",
+   "cass_civil_co_ownership_0065_22_2",
+   "cass_civil_co_ownership_1611_53_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "29-03-1951",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0153",
+   "judicial_year": "19",
+   "office_volume": "02",
+   "page": "531",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0153_19_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "استرداد الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0153",
+    "judicial_year": "19",
+    "office_volume": "02",
+    "page": "531",
+    "session_date": "29-03-1951",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "استرداد الحصة الشائعة",
+    "الشركة",
+    "المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الحكم إذ قضى برفض دعوى الطاعن التى أقامها بطلب استرداد الجزء الذى باعه أخواه - المطعون عليهما الثانى والثالث - من حصتهما فى الماكينة موضوع النزاع المخلفة لهم جميعا عن المورث إلى الغير - المطعون عليه الأول -",
+   "core_principles": [
+    "( رقم الطعن 153 لسنة 19 ق ، جلسة 1951/3/29 )"
+   ],
+   "judicial_rule": {
+    "short": "( رقم الطعن 153 لسنة 19 ق ، جلسة 1951/3/29 )",
+    "professional": "متى كان الحكم إذ قضى برفض دعوى الطاعن التى أقامها بطلب استرداد الجزء الذى باعه أخواه - المطعون عليهما الثانى والثالث - من حصتهما فى الماكينة موضوع النزاع المخلفة لهم جميعا عن المورث إلى الغير - المطعون عليه الأول - قد أقام قضاءه على أن المادة 462 من القانون المدنى - القديم - وهى التى استند إليها الطاعن فى دعواه - لا تنطبق متى كان المبيع جزءا شائعا فى عين معينة ، فإن ذلك يكفى لصحته دون حاجة إلى التحدث عما إذا كان حكم هذه المادة مقصورا على الشركاء الأصليين فى شركة أو تركة أو يت"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0177_20_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "استرداد الحصة الشائعة",
+  "content": "جرى قضاء محكمة النقض بأن نص المادة 462 من القانون المدنى \" القديم \" بشأن الإسترداد العقارى لا ينطبق إذا كان المبيع حصة شائعة فى عين معينة من التركة ، ذلك بأن محل تطبيق هذا النص هو أن يكون المبيع",
+  "keywords": [
+   "استرداد الحصة الشائعة",
+   "المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0177 لسنة 20"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0153_19_1",
+   "cass_civil_co_ownership_0153_19_2",
+   "cass_civil_co_ownership_0200_20_2",
+   "cass_civil_co_ownership_0213_20_2",
+   "cass_civil_co_ownership_0065_22_3",
+   "cass_civil_co_ownership_0065_22_2",
+   "cass_civil_co_ownership_1611_53_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "12-06-1952",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0177",
+   "judicial_year": "20",
+   "office_volume": "03",
+   "page": "1194",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0177_20_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "استرداد الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0177",
+    "judicial_year": "20",
+    "office_volume": "03",
+    "page": "1194",
+    "session_date": "12-06-1952",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "جرى قضاء محكمة النقض بأن نص المادة 462 من القانون المدنى \" القديم \" بشأن الإسترداد العقارى لا ينطبق إذا كان المبيع حصة شائعة فى عين معينة من التركة ، ذلك بأن محل تطبيق هذا النص هو أن يكون المبيع",
+   "core_principles": [
+    "جرى قضاء محكمة النقض بأن نص المادة 462 من القانون المدنى \" القديم \" بشأن الإسترداد العقارى لا ينطبق إذا كان المبيع حصة شائعة فى عين معينة من التركة ، ذلك بأن محل تطبيق هذا النص هو أن يكون المبيع حصة شائعة فى تركة بحيث يدخل فيها ما يخصها فى جميع مشتملاتها من عقار و منقول و ما عليها من الحقوق"
+   ],
+   "judicial_rule": {
+    "short": "جرى قضاء محكمة النقض بأن نص المادة 462 من القانون المدنى \" القديم \" بشأن الإسترداد العقارى لا ينطبق إذا كان المبيع حصة شائعة فى عين معينة من التركة ، ذلك بأن محل تطبيق هذا النص هو أن يكون المبيع",
+    "professional": "جرى قضاء محكمة النقض بأن نص المادة 462 من القانون المدنى \" القديم \" بشأن الإسترداد العقارى لا ينطبق إذا كان المبيع حصة شائعة فى عين معينة من التركة ، ذلك بأن محل تطبيق هذا النص هو أن يكون المبيع حصة شائعة فى تركة بحيث يدخل فيها ما يخصها فى جميع مشتملاتها من عقار و منقول و ما عليها من الحقوق ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0200_20_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "استرداد الحصة الشائعة",
+  "content": "متى كان الحكم إذ قضى برفض طلب الطاعن إستراداد الحصة الشائعة فى العقار الذى طلب المطعون عليه بيعه عند عدم إمكان قسمته عيناً أقام قضاءه على أن دعوى استراد الحصة الشائعة المبيعة لاتوجه إلا إلى مشترى هذه الحصة متى كان",
+  "keywords": [
+   "استرداد الحصة الشائعة",
+   "الشركة",
+   "المال الشائع",
+   "الملكية",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0200 لسنة 20"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0153_19_1",
+   "cass_civil_co_ownership_0153_19_2",
+   "cass_civil_co_ownership_0177_20_1",
+   "cass_civil_co_ownership_0213_20_2",
+   "cass_civil_co_ownership_0065_22_3",
+   "cass_civil_co_ownership_0065_22_2",
+   "cass_civil_co_ownership_1611_53_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "30-10-1952",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0200",
+   "judicial_year": "20",
+   "office_volume": "04",
+   "page": "45",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0200_20_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "استرداد الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0200",
+    "judicial_year": "20",
+    "office_volume": "04",
+    "page": "45",
+    "session_date": "30-10-1952",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "استرداد الحصة الشائعة",
+    "الشركة",
+    "المال الشائع",
+    "الملكية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الحكم إذ قضى برفض طلب الطاعن إستراداد الحصة الشائعة فى العقار الذى طلب المطعون عليه بيعه عند عدم إمكان قسمته عيناً أقام قضاءه على أن دعوى استراد الحصة الشائعة المبيعة لاتوجه إلا إلى مشترى هذه الحصة متى كان",
+   "core_principles": [
+    "فإن هذا الذى اقيم عليه الحكم لامخالفة فيه للقانون ولايشوبه قصور"
+   ],
+   "judicial_rule": {
+    "short": "فإن هذا الذى اقيم عليه الحكم لامخالفة فيه للقانون ولايشوبه قصور",
+    "professional": "متى كان الحكم إذ قضى برفض طلب الطاعن إستراداد الحصة الشائعة فى العقار الذى طلب المطعون عليه بيعه عند عدم إمكان قسمته عيناً أقام قضاءه على أن دعوى استراد الحصة الشائعة المبيعة لاتوجه إلا إلى مشترى هذه الحصة متى كان أجنبيا عن الشركاء الأصليين ، ومن ثم لا يجوز رفعها على المطعون عليه لأنه من جهة ليس مشترياً ومن جهة أخرى لم يصدر بيع بعد و أنه لايغير من هذا النظر أن يطلب حق الاستراد أثناء إجراءات البيع بالمزاد لعدم إمكان القسمة عيناً لأن الحكمة فى تخويل هذا الحق للشركاء هى منع تدخل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0213_20_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "استرداد الحصة الشائعة",
+  "content": "جرى قضاء محكمة النقض بأن الحصة الشائعة التى يجوز استردادها وفقا لنص المادة 462 من القانون المدنى [ القديم ] هى الحصة الشائعة فى مجموع الملك المشترك كله لا الحصة الشائعة فى عين معينة من هذا الملك ، ذلك أن",
+  "keywords": [
+   "استرداد الحصة الشائعة",
+   "المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0213 لسنة 20"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0153_19_1",
+   "cass_civil_co_ownership_0153_19_2",
+   "cass_civil_co_ownership_0177_20_1",
+   "cass_civil_co_ownership_0200_20_2",
+   "cass_civil_co_ownership_0065_22_3",
+   "cass_civil_co_ownership_0065_22_2",
+   "cass_civil_co_ownership_1611_53_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "04-12-1952",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0213",
+   "judicial_year": "20",
+   "office_volume": "04",
+   "page": "162",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0213_20_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "استرداد الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0213",
+    "judicial_year": "20",
+    "office_volume": "04",
+    "page": "162",
+    "session_date": "04-12-1952",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "جرى قضاء محكمة النقض بأن الحصة الشائعة التى يجوز استردادها وفقا لنص المادة 462 من القانون المدنى [ القديم ] هى الحصة الشائعة فى مجموع الملك المشترك كله لا الحصة الشائعة فى عين معينة من هذا الملك ، ذلك أن",
+   "core_principles": [
+    "جرى قضاء محكمة النقض بأن الحصة الشائعة التى يجوز استردادها وفقا لنص المادة 462 من القانون المدنى [ القديم ] هى الحصة الشائعة فى مجموع الملك المشترك كله لا الحصة الشائعة فى عين معينة من هذا الملك ، ذلك أن حلول أجنبى محل أحد الشركاء فى جزء شائع فى مجموع التركة هو وحده الذى قرر فيه الشارع مظنة اذاعة أس"
+   ],
+   "judicial_rule": {
+    "short": "جرى قضاء محكمة النقض بأن الحصة الشائعة التى يجوز استردادها وفقا لنص المادة 462 من القانون المدنى [ القديم ] هى الحصة الشائعة فى مجموع الملك المشترك كله لا الحصة الشائعة فى عين معينة من هذا الملك ، ذلك أن",
+    "professional": "جرى قضاء محكمة النقض بأن الحصة الشائعة التى يجوز استردادها وفقا لنص المادة 462 من القانون المدنى [ القديم ] هى الحصة الشائعة فى مجموع الملك المشترك كله لا الحصة الشائعة فى عين معينة من هذا الملك ، ذلك أن حلول أجنبى محل أحد الشركاء فى جزء شائع فى مجموع التركة هو وحده الذى قرر فيه الشارع مظنة اذاعة أسرار التركه وأفساد محيطها ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0065_22_3",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "استرداد الحصة الشائعة",
+  "content": "متى كانت الحصة الشائعة التى باعها الوارث هى حصة فى عين معينة و ليست حصة فى مجموع مشتملات التركة بما لها وما عليها من حقوق و التزامات فإنه لا يكون لباقى الورثة حق فى طلب الإسترداد استناداً إلى المادة 462",
+  "keywords": [
+   "استرداد الحصة الشائعة",
+   "المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0065 لسنة 22"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0153_19_1",
+   "cass_civil_co_ownership_0153_19_2",
+   "cass_civil_co_ownership_0177_20_1",
+   "cass_civil_co_ownership_0200_20_2",
+   "cass_civil_co_ownership_0213_20_2",
+   "cass_civil_co_ownership_0065_22_2",
+   "cass_civil_co_ownership_1611_53_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-02-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0065",
+   "judicial_year": "22",
+   "office_volume": "07",
+   "page": "225",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0065_22_3",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "استرداد الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0065",
+    "judicial_year": "22",
+    "office_volume": "07",
+    "page": "225",
+    "session_date": "16-02-1956",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كانت الحصة الشائعة التى باعها الوارث هى حصة فى عين معينة و ليست حصة فى مجموع مشتملات التركة بما لها وما عليها من حقوق و التزامات فإنه لا يكون لباقى الورثة حق فى طلب الإسترداد استناداً إلى المادة 462",
+   "core_principles": [
+    "متى كانت الحصة الشائعة التى باعها الوارث هى حصة فى عين معينة و ليست حصة فى مجموع مشتملات التركة بما لها وما عليها من حقوق و التزامات فإنه لا يكون لباقى الورثة حق فى طلب الإسترداد استناداً إلى المادة 462 مدنى قديم و المادة 833 مدنى جديد و لو كانت العين المبيعة هى كل ما تركه المورث - على ما إستقر عليه"
+   ],
+   "judicial_rule": {
+    "short": "متى كانت الحصة الشائعة التى باعها الوارث هى حصة فى عين معينة و ليست حصة فى مجموع مشتملات التركة بما لها وما عليها من حقوق و التزامات فإنه لا يكون لباقى الورثة حق فى طلب الإسترداد استناداً إلى المادة 462",
+    "professional": "متى كانت الحصة الشائعة التى باعها الوارث هى حصة فى عين معينة و ليست حصة فى مجموع مشتملات التركة بما لها وما عليها من حقوق و التزامات فإنه لا يكون لباقى الورثة حق فى طلب الإسترداد استناداً إلى المادة 462 مدنى قديم و المادة 833 مدنى جديد و لو كانت العين المبيعة هى كل ما تركه المورث - على ما إستقر عليه قضاء هذه المحكمة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0065_22_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "استرداد الحصة الشائعة",
+  "content": "إذا كان عقد بيع الحصة الشائعة فى عقارات التركة قد صدر فى ظل القانون المدنى القديم وسكت الشركاء فى الملك عن مباشرة الرخصة المخولة لهم فى المادة 462 من ذلك القانون حتى صدور القانون المدنى الجديد ولم يرفعوا دعواهم إلا",
+  "keywords": [
+   "استرداد الحصة الشائعة",
+   "المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0065 لسنة 22"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0153_19_1",
+   "cass_civil_co_ownership_0153_19_2",
+   "cass_civil_co_ownership_0177_20_1",
+   "cass_civil_co_ownership_0200_20_2",
+   "cass_civil_co_ownership_0213_20_2",
+   "cass_civil_co_ownership_0065_22_3",
+   "cass_civil_co_ownership_1611_53_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-02-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0065",
+   "judicial_year": "22",
+   "office_volume": "07",
+   "page": "225",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0065_22_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "استرداد الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0065",
+    "judicial_year": "22",
+    "office_volume": "07",
+    "page": "225",
+    "session_date": "16-02-1956",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان عقد بيع الحصة الشائعة فى عقارات التركة قد صدر فى ظل القانون المدنى القديم وسكت الشركاء فى الملك عن مباشرة الرخصة المخولة لهم فى المادة 462 من ذلك القانون حتى صدور القانون المدنى الجديد ولم يرفعوا دعواهم إلا",
+   "core_principles": [
+    "إذا كان عقد بيع الحصة الشائعة فى عقارات التركة قد صدر فى ظل القانون المدنى القديم وسكت الشركاء فى الملك عن مباشرة الرخصة المخولة لهم فى المادة 462 من ذلك القانون حتى صدور القانون المدنى الجديد ولم يرفعوا دعواهم إلا بعد نفاذه فإن أحكام هذا القانون الخاصة بالمدة التى يجب فيها رفع الدعوى تصبح هى الواجب"
+   ],
+   "judicial_rule": {
+    "short": "إذا كان عقد بيع الحصة الشائعة فى عقارات التركة قد صدر فى ظل القانون المدنى القديم وسكت الشركاء فى الملك عن مباشرة الرخصة المخولة لهم فى المادة 462 من ذلك القانون حتى صدور القانون المدنى الجديد ولم يرفعوا دعواهم إلا",
+    "professional": "إذا كان عقد بيع الحصة الشائعة فى عقارات التركة قد صدر فى ظل القانون المدنى القديم وسكت الشركاء فى الملك عن مباشرة الرخصة المخولة لهم فى المادة 462 من ذلك القانون حتى صدور القانون المدنى الجديد ولم يرفعوا دعواهم إلا بعد نفاذه فإن أحكام هذا القانون الخاصة بالمدة التى يجب فيها رفع الدعوى تصبح هى الواجبة الاتباع دون القانون القديم ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_1611_53_5",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "استرداد الحصة الشائعة",
+  "content": "من المقرر أن النص فى المادة 833 من القانون المدنى أن \" الشريك فى المنقول الشائع أو فى مجموع من المال أن يسترد قبل القسمة الحصة الشائعة التى باعها شريك غيره لأجنبى بطريق الممارسة ... \" مؤداه أنه يشترط لإستعمال",
+  "keywords": [
+   "استرداد الحصة الشائعة",
+   "الإرث",
+   "الشركة",
+   "المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 1611 لسنة 53"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0153_19_1",
+   "cass_civil_co_ownership_0153_19_2",
+   "cass_civil_co_ownership_0177_20_1",
+   "cass_civil_co_ownership_0200_20_2",
+   "cass_civil_co_ownership_0213_20_2",
+   "cass_civil_co_ownership_0065_22_3",
+   "cass_civil_co_ownership_0065_22_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-04-1985",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1611",
+   "judicial_year": "53",
+   "office_volume": "36",
+   "page": "631",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_1611_53_5",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "استرداد الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1611",
+    "judicial_year": "53",
+    "office_volume": "36",
+    "page": "631",
+    "session_date": "22-04-1985",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "استرداد الحصة الشائعة",
+    "الإرث",
+    "الشركة",
+    "المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر أن النص فى المادة 833 من القانون المدنى أن \" الشريك فى المنقول الشائع أو فى مجموع من المال أن يسترد قبل القسمة الحصة الشائعة التى باعها شريك غيره لأجنبى بطريق الممارسة ... \" مؤداه أنه يشترط لإستعمال",
+   "core_principles": [
+    "( الطعن رقم 113 لسنة 16 ق ، جلسة 1947/5/22 ) الطعن رقم 0049 لسنة 17 مجموعة عمر 5ع صفحة رقم 546 بتاريخ 19-02-1948 الموضوع : المال الشائع الموضوع الفرعي : استرداد الحصة الشائعة فقرة رقم : 2 إن محل حق الإسترداد الوارد فى المادة 462 من القانون المدنى هو أن يكون المبيع حصة أو جزءاً من حصة شائعة فى مجموع"
+   ],
+   "judicial_rule": {
+    "short": "( الطعن رقم 113 لسنة 16 ق ، جلسة 1947/5/22 ) الطعن رقم 0049 لسنة 17 مجموعة عمر 5ع صفحة رقم 546 بتاريخ 19-02-1948 الموضوع : المال الشائع الموضوع الفرعي : استرداد الحصة الشائعة فقرة رقم : 2 إن محل",
+    "professional": "من المقرر أن النص فى المادة 833 من القانون المدنى أن \" الشريك فى المنقول الشائع أو فى مجموع من المال أن يسترد قبل القسمة الحصة الشائعة التى باعها شريك غيره لأجنبى بطريق الممارسة ... \" مؤداه أنه يشترط لإستعمال حق الإسترداد وفقاً لأحكامه أن يكون البيع محل الإسترداد صادراً من أحد الشركاء فى الشيوع إلى أجنبى عنهم حتى لا يتضرر باقى الشركاء من دخوله بينهم . ( الطعن رقم 1611 لسنة 53 ق ، جلسة 1985/4/22 ) الطعن رقم 0132 لسنة 13 مجموعة عمر 4ع صفحة رقم 414 بتاريخ 08-06-1944 الموضوع : ال"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "استرداد الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0341_39_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "المشترى لجزء مفرز فى العقار",
+  "content": "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له - الشريك على الشيوع - لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً ، و لا يمكن",
+  "keywords": [
+   "المال الشائع",
+   "المشترى لجزء مفرز فى العقار",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0341 لسنة 39"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0261_55_2",
+   "cass_civil_co_ownership_2210_56_2",
+   "cass_civil_co_ownership_1997_57_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "03-12-1974",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0341",
+   "judicial_year": "39",
+   "office_volume": "25",
+   "page": "1324",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0341_39_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "المشترى لجزء مفرز فى العقار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0341",
+    "judicial_year": "39",
+    "office_volume": "25",
+    "page": "1324",
+    "session_date": "03-12-1974",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "المال الشائع",
+    "المشترى لجزء مفرز فى العقار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له - الشريك على الشيوع - لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً ، و لا يمكن",
+   "core_principles": [
+    "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له - الشريك على الشيوع - لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً ، و لا يمكن أن يكون للمشترى حقوق أكثر مما كان لسلفه ، هذا إلى ما يترتب على القضاء بالتسليم فى هذه الحالة من إفراز لج"
+   ],
+   "judicial_rule": {
+    "short": "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له - الشريك على الشيوع - لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً ، و لا يمكن",
+    "professional": "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له - الشريك على الشيوع - لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً ، و لا يمكن أن يكون للمشترى حقوق أكثر مما كان لسلفه ، هذا إلى ما يترتب على القضاء بالتسليم فى هذه الحالة من إفراز لجزء من المال الشائع بغير الطريق الذى رسمه القانون ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "المشترى لجزء مفرز فى العقار",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0261_55_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "المشترى لجزء مفرز فى العقار",
+  "content": "المقرر إنه لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطلب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة و ليس للمشترى من الحقوق أكثر مما كان لسلفه و فى القضاء",
+  "keywords": [
+   "المال الشائع",
+   "المشترى لجزء مفرز فى العقار",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0261 لسنة 55"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0341_39_2",
+   "cass_civil_co_ownership_2210_56_2",
+   "cass_civil_co_ownership_1997_57_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-12-1988",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0261",
+   "judicial_year": "55",
+   "office_volume": "39",
+   "page": "1449",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0261_55_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "المشترى لجزء مفرز فى العقار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0261",
+    "judicial_year": "55",
+    "office_volume": "39",
+    "page": "1449",
+    "session_date": "28-12-1988",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "المال الشائع",
+    "المشترى لجزء مفرز فى العقار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر إنه لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطلب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة و ليس للمشترى من الحقوق أكثر مما كان لسلفه و فى القضاء",
+   "core_principles": [
+    "المقرر إنه لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطلب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة و ليس للمشترى من الحقوق أكثر مما كان لسلفه و فى القضاء بالتسليم فى هذه الحالة إفراز لجزء من المال الشائع بغير الطريق الذى رسمه القانون"
+   ],
+   "judicial_rule": {
+    "short": "المقرر إنه لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطلب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة و ليس للمشترى من الحقوق أكثر مما كان لسلفه و فى القضاء",
+    "professional": "المقرر إنه لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطلب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصة مفرزة قبل حصول القسمة و ليس للمشترى من الحقوق أكثر مما كان لسلفه و فى القضاء بالتسليم فى هذه الحالة إفراز لجزء من المال الشائع بغير الطريق الذى رسمه القانون ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "المشترى لجزء مفرز فى العقار",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_2210_56_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "المشترى لجزء مفرز فى العقار",
+  "content": "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصته مفرزه قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً و لا يمكن أن يكون للمشترى حقوق أكثر مما",
+  "keywords": [
+   "المال الشائع",
+   "المشترى لجزء مفرز فى العقار",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 2210 لسنة 56"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0341_39_2",
+   "cass_civil_co_ownership_0261_55_2",
+   "cass_civil_co_ownership_1997_57_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-02-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2210",
+   "judicial_year": "56",
+   "office_volume": "40",
+   "page": "623",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_2210_56_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "المشترى لجزء مفرز فى العقار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2210",
+    "judicial_year": "56",
+    "office_volume": "40",
+    "page": "623",
+    "session_date": "23-02-1989",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "المال الشائع",
+    "المشترى لجزء مفرز فى العقار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصته مفرزه قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً و لا يمكن أن يكون للمشترى حقوق أكثر مما",
+   "core_principles": [
+    "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصته مفرزه قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً و لا يمكن أن يكون للمشترى حقوق أكثر مما كان لسلفه ، هذا إلى ما يترتب على القضاء بالتسليم فى هذه الحالة من إفراز لجزء من المال الشائع بغير"
+   ],
+   "judicial_rule": {
+    "short": "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصته مفرزه قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً و لا يمكن أن يكون للمشترى حقوق أكثر مما",
+    "professional": "لا يجوز للمشترى لقدر مفرز فى العقار الشائع أن يطالب بالتسليم مفرزاً لأن البائع له لم يكن يملك وضع يده على حصته مفرزه قبل حصول القسمة إلا برضاء باقى الشركاء جميعاً و لا يمكن أن يكون للمشترى حقوق أكثر مما كان لسلفه ، هذا إلى ما يترتب على القضاء بالتسليم فى هذه الحالة من إفراز لجزء من المال الشائع بغير الطريق الذى رسمه القانون ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "المشترى لجزء مفرز فى العقار",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_1997_57_3",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "المشترى لجزء مفرز فى العقار",
+  "content": "المقرر - فى قضاء هذه المحكمة - أنه لا يجوز للمشترى لقدر مفرز من المال الشائع أن يطالب قبل القسمة بالتسليم مفرزاً لأن البائع لم يكن يملك وضع يده على حصة مفرزة قبل القسمة إلا برضاء باقى الشركاء و لا",
+  "keywords": [
+   "المال الشائع",
+   "المشترى لجزء مفرز فى العقار",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 1997 لسنة 57"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0341_39_2",
+   "cass_civil_co_ownership_0261_55_2",
+   "cass_civil_co_ownership_2210_56_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "26-10-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1997",
+   "judicial_year": "57",
+   "office_volume": "40",
+   "page": "844",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_1997_57_3",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "المشترى لجزء مفرز فى العقار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1997",
+    "judicial_year": "57",
+    "office_volume": "40",
+    "page": "844",
+    "session_date": "26-10-1989",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "المال الشائع",
+    "المشترى لجزء مفرز فى العقار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر - فى قضاء هذه المحكمة - أنه لا يجوز للمشترى لقدر مفرز من المال الشائع أن يطالب قبل القسمة بالتسليم مفرزاً لأن البائع لم يكن يملك وضع يده على حصة مفرزة قبل القسمة إلا برضاء باقى الشركاء و لا",
+   "core_principles": [
+    "المقرر - فى قضاء هذه المحكمة - أنه لا يجوز للمشترى لقدر مفرز من المال الشائع أن يطالب قبل القسمة بالتسليم مفرزاً لأن البائع لم يكن يملك وضع يده على حصة مفرزة قبل القسمة إلا برضاء باقى الشركاء و لا يمكن أن يكون للمشترى من الحقوق أكثر مما كان لسلفه ، هذا إلى ما يترتب على القضاء بالتسليم فى هذه الحالة"
+   ],
+   "judicial_rule": {
+    "short": "المقرر - فى قضاء هذه المحكمة - أنه لا يجوز للمشترى لقدر مفرز من المال الشائع أن يطالب قبل القسمة بالتسليم مفرزاً لأن البائع لم يكن يملك وضع يده على حصة مفرزة قبل القسمة إلا برضاء باقى الشركاء و لا",
+    "professional": "المقرر - فى قضاء هذه المحكمة - أنه لا يجوز للمشترى لقدر مفرز من المال الشائع أن يطالب قبل القسمة بالتسليم مفرزاً لأن البائع لم يكن يملك وضع يده على حصة مفرزة قبل القسمة إلا برضاء باقى الشركاء و لا يمكن أن يكون للمشترى من الحقوق أكثر مما كان لسلفه ، هذا إلى ما يترتب على القضاء بالتسليم فى هذه الحالة من إفراز لجزء من المال الشائع على خلاف الطريق الذى رسمه القانون ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "المشترى لجزء مفرز فى العقار",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0210_36_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "تصرف الاغلبية فى المال الشائع",
+  "content": "المالك لحصة مقدارها ثلاثة أرباع الأرض الشائعة ، له الحق فى إدخال تغييرات أساسية فى الغرض الذى أعدت له هذه الأرض فى سبيل تحسين الإنتفاع بها وفقاً لأحكام المادة 829 من القانون المدنى ، و يكون البناء الذى يقيمه على",
+  "keywords": [
+   "التعويض",
+   "المال الشائع",
+   "تصرف الاغلبية فى المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0210 لسنة 36"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0019_46_1",
+   "cass_civil_co_ownership_1531_51_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "18-03-1971",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0210",
+   "judicial_year": "36",
+   "office_volume": "22",
+   "page": "322",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0210_36_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "تصرف الاغلبية فى المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0210",
+    "judicial_year": "36",
+    "office_volume": "22",
+    "page": "322",
+    "session_date": "18-03-1971",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التعويض",
+    "المال الشائع",
+    "تصرف الاغلبية فى المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المالك لحصة مقدارها ثلاثة أرباع الأرض الشائعة ، له الحق فى إدخال تغييرات أساسية فى الغرض الذى أعدت له هذه الأرض فى سبيل تحسين الإنتفاع بها وفقاً لأحكام المادة 829 من القانون المدنى ، و يكون البناء الذى يقيمه على",
+   "core_principles": [
+    "المالك لحصة مقدارها ثلاثة أرباع الأرض الشائعة ، له الحق فى إدخال تغييرات أساسية فى الغرض الذى أعدت له هذه الأرض فى سبيل تحسين الإنتفاع بها وفقاً لأحكام المادة 829 من القانون المدنى ، و يكون البناء الذى يقيمه على نفقته لتحقيق هذا الغرض داخلاً فى حدود حقه فى إدارة المال الشائع ، و هو يباشر هذا الحق بو"
+   ],
+   "judicial_rule": {
+    "short": "المالك لحصة مقدارها ثلاثة أرباع الأرض الشائعة ، له الحق فى إدخال تغييرات أساسية فى الغرض الذى أعدت له هذه الأرض فى سبيل تحسين الإنتفاع بها وفقاً لأحكام المادة 829 من القانون المدنى ، و يكون البناء الذى يقيمه على",
+    "professional": "المالك لحصة مقدارها ثلاثة أرباع الأرض الشائعة ، له الحق فى إدخال تغييرات أساسية فى الغرض الذى أعدت له هذه الأرض فى سبيل تحسين الإنتفاع بها وفقاً لأحكام المادة 829 من القانون المدنى ، و يكون البناء الذى يقيمه على نفقته لتحقيق هذا الغرض داخلاً فى حدود حقه فى إدارة المال الشائع ، و هو يباشر هذا الحق بوصفه أصيلاً عن نفسه و نائباً عن مالك الريع الباقى ، و تكون إجارته نافذة فى حق هذا المالك ، كما يكون له الحق فى قبض الأجرة و إقتضاء التعويض الناشىء عن تلف البناء لحساب جميع الشركاء ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "تصرف الاغلبية فى المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0019_46_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "تصرف الاغلبية فى المال الشائع",
+  "content": "تخول المادة 829 من القانون المدنى الشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا فى سبيل تحسين الإنتفاع بهذا المال من التغييرات الأساسية و التعديل فى الغرض الذى أعد له ما يخرج عن حدود الإدارة المعتادة مما",
+  "keywords": [
+   "المال الشائع",
+   "تصرف الاغلبية فى المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0019 لسنة 46"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0210_36_1",
+   "cass_civil_co_ownership_1531_51_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-12-1978",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0019",
+   "judicial_year": "46",
+   "office_volume": "29",
+   "page": "1912",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0019_46_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "تصرف الاغلبية فى المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0019",
+    "judicial_year": "46",
+    "office_volume": "29",
+    "page": "1912",
+    "session_date": "13-12-1978",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "المال الشائع",
+    "تصرف الاغلبية فى المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تخول المادة 829 من القانون المدنى الشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا فى سبيل تحسين الإنتفاع بهذا المال من التغييرات الأساسية و التعديل فى الغرض الذى أعد له ما يخرج عن حدود الإدارة المعتادة مما",
+   "core_principles": [
+    "تخول المادة 829 من القانون المدنى الشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا فى سبيل تحسين الإنتفاع بهذا المال من التغييرات الأساسية و التعديل فى الغرض الذى أعد له ما يخرج عن حدود الإدارة المعتادة مما مفاده أن ما تجريه الأغلبية من تغيير أو تعديل يدخل وفقاً لهذه المادة فيما تمل"
+   ],
+   "judicial_rule": {
+    "short": "تخول المادة 829 من القانون المدنى الشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا فى سبيل تحسين الإنتفاع بهذا المال من التغييرات الأساسية و التعديل فى الغرض الذى أعد له ما يخرج عن حدود الإدارة المعتادة مما",
+    "professional": "تخول المادة 829 من القانون المدنى الشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا فى سبيل تحسين الإنتفاع بهذا المال من التغييرات الأساسية و التعديل فى الغرض الذى أعد له ما يخرج عن حدود الإدارة المعتادة مما مفاده أن ما تجريه الأغلبية من تغيير أو تعديل يدخل وفقاً لهذه المادة فيما تملك من أعمال الإدارة غير المعتادة و ينفذ فى حق الأقلية ما لم تقرها المحكمة المختصة على ما قد تثير من إعتراض ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "تصرف الاغلبية فى المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_1531_51_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "تصرف الاغلبية فى المال الشائع",
+  "content": "النص فى المادة 832 من القانون المدنى على أنه \" للشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا التصرف فيه إذا إستندوا فى ذلك إلى أسباب قوية على أن يعلنوا قرارتهم إلى باقى الشركاء - و لمن",
+  "keywords": [
+   "المال الشائع",
+   "تصرف الاغلبية فى المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 1531 لسنة 51"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0210_36_1",
+   "cass_civil_co_ownership_0019_46_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "31-12-1985",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1531",
+   "judicial_year": "51",
+   "office_volume": "36",
+   "page": "1263",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_1531_51_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "تصرف الاغلبية فى المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1531",
+    "judicial_year": "51",
+    "office_volume": "36",
+    "page": "1263",
+    "session_date": "31-12-1985",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "المال الشائع",
+    "تصرف الاغلبية فى المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "النص فى المادة 832 من القانون المدنى على أنه \" للشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا التصرف فيه إذا إستندوا فى ذلك إلى أسباب قوية على أن يعلنوا قرارتهم إلى باقى الشركاء - و لمن",
+   "core_principles": [
+    "النص فى المادة 832 من القانون المدنى على أنه \" للشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا التصرف فيه إذا إستندوا فى ذلك إلى أسباب قوية على أن يعلنوا قرارتهم إلى باقى الشركاء - و لمن خالف من هؤلاء حق الرجوع إلى المحكمة خلال شهرين من وقت الإعلان ، و للمحكمة عندما تكون قسمة المال"
+   ],
+   "judicial_rule": {
+    "short": "النص فى المادة 832 من القانون المدنى على أنه \" للشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا التصرف فيه إذا إستندوا فى ذلك إلى أسباب قوية على أن يعلنوا قرارتهم إلى باقى الشركاء - و لمن",
+    "professional": "النص فى المادة 832 من القانون المدنى على أنه \" للشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع أن يقرروا التصرف فيه إذا إستندوا فى ذلك إلى أسباب قوية على أن يعلنوا قرارتهم إلى باقى الشركاء - و لمن خالف من هؤلاء حق الرجوع إلى المحكمة خلال شهرين من وقت الإعلان ، و للمحكمة عندما تكون قسمة المال الشائع ضارة بمصالح الشركاء ، أن تقدر تبعاً للظروف ما إذا كان التصرف و اجباً \" مفاده أن المشرع و إن خول أغلبية الشركاء الذين يملكون على الأقل ثلاثة أرباع المال الشائع الحق فى أن يق"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "تصرف الاغلبية فى المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0136_31_3",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ثمار المال الشائع",
+  "content": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبه حصة كل منهم و إجراء القسمة بعد ذلك لا يجعل للمتقاسم حقاً فى الإستئثار بثمار الحصة التى خصصت له إلا من وقت حصول القسمة ، و",
+  "keywords": [
+   "المال الشائع",
+   "ثمار المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0136 لسنة 31"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0341_39_3",
+   "cass_civil_co_ownership_229_48_3",
+   "cass_civil_co_ownership_0549_47_1",
+   "cass_civil_co_ownership_1737_51_3",
+   "cass_civil_co_ownership_2210_56_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-11-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0136",
+   "judicial_year": "31",
+   "office_volume": "16",
+   "page": "1145",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0136_31_3",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ثمار المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0136",
+    "judicial_year": "31",
+    "office_volume": "16",
+    "page": "1145",
+    "session_date": "25-11-1965",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "المال الشائع",
+    "ثمار المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبه حصة كل منهم و إجراء القسمة بعد ذلك لا يجعل للمتقاسم حقاً فى الإستئثار بثمار الحصة التى خصصت له إلا من وقت حصول القسمة ، و",
+   "core_principles": [
+    "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبه حصة كل منهم و إجراء القسمة بعد ذلك لا يجعل للمتقاسم حقاً فى الإستئثار بثمار الحصة التى خصصت له إلا من وقت حصول القسمة ، و لا يقدح فى ذلك ما قضت به المادة 843 من القانون المدنى من إعتبار المتقاسم مالكاً للحصة التى ألت إلية"
+   ],
+   "judicial_rule": {
+    "short": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبه حصة كل منهم و إجراء القسمة بعد ذلك لا يجعل للمتقاسم حقاً فى الإستئثار بثمار الحصة التى خصصت له إلا من وقت حصول القسمة ، و",
+    "professional": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبه حصة كل منهم و إجراء القسمة بعد ذلك لا يجعل للمتقاسم حقاً فى الإستئثار بثمار الحصة التى خصصت له إلا من وقت حصول القسمة ، و لا يقدح فى ذلك ما قضت به المادة 843 من القانون المدنى من إعتبار المتقاسم مالكاً للحصة التى ألت إلية منذ أن تملك فى الشيوع ذلك أن علة تقرير هذا الأثر الرجعى للقسمة هو حماية المتقاسم من الحقوق التى يرتبها غيره من الشركاء على المال الشائع أثناء قيام الشيوع بحيث يخلص لكل متقاسم نصيبه"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ثمار المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0341_39_3",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ثمار المال الشائع",
+  "content": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبة كل منهم ، و للشريك على الشيوع أن يرجع بريع حصته على الشركاء اللذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه",
+  "keywords": [
+   "المال الشائع",
+   "ثمار المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0341 لسنة 39"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0136_31_3",
+   "cass_civil_co_ownership_229_48_3",
+   "cass_civil_co_ownership_0549_47_1",
+   "cass_civil_co_ownership_1737_51_3",
+   "cass_civil_co_ownership_2210_56_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "03-12-1974",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0341",
+   "judicial_year": "39",
+   "office_volume": "25",
+   "page": "1324",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0341_39_3",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ثمار المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0341",
+    "judicial_year": "39",
+    "office_volume": "25",
+    "page": "1324",
+    "session_date": "03-12-1974",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "المال الشائع",
+    "ثمار المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبة كل منهم ، و للشريك على الشيوع أن يرجع بريع حصته على الشركاء اللذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه",
+   "core_principles": [
+    "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبة كل منهم ، و للشريك على الشيوع أن يرجع بريع حصته على الشركاء اللذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه الزيادة"
+   ],
+   "judicial_rule": {
+    "short": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبة كل منهم ، و للشريك على الشيوع أن يرجع بريع حصته على الشركاء اللذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه",
+    "professional": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبة كل منهم ، و للشريك على الشيوع أن يرجع بريع حصته على الشركاء اللذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه الزيادة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ثمار المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_229_48_3",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ثمار المال الشائع",
+  "content": "للشريك على الشيوع طبقاً للمادة 826 من القانون المدنى أن يتصرف فى حصته و أن يستولى على ثمارها و أن يستعملها ، إلا أنه لما كان ذلك مشروطاً بألا يلحق ضرراً بحقوق سائر الشركاء ، و كان الحكم المطعون فيه",
+  "keywords": [
+   "الشركة",
+   "المال الشائع",
+   "ثمار المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 229 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0136_31_3",
+   "cass_civil_co_ownership_0341_39_3",
+   "cass_civil_co_ownership_0549_47_1",
+   "cass_civil_co_ownership_1737_51_3",
+   "cass_civil_co_ownership_2210_56_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-02-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "229",
+   "judicial_year": "48",
+   "office_volume": "30",
+   "page": "496",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_229_48_3",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ثمار المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "229",
+    "judicial_year": "48",
+    "office_volume": "30",
+    "page": "496",
+    "session_date": "07-02-1979",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الشركة",
+    "المال الشائع",
+    "ثمار المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "للشريك على الشيوع طبقاً للمادة 826 من القانون المدنى أن يتصرف فى حصته و أن يستولى على ثمارها و أن يستعملها ، إلا أنه لما كان ذلك مشروطاً بألا يلحق ضرراً بحقوق سائر الشركاء ، و كان الحكم المطعون فيه",
+   "core_principles": [
+    "للشريك على الشيوع طبقاً للمادة 826 من القانون المدنى أن يتصرف فى حصته و أن يستولى على ثمارها و أن يستعملها ، إلا أنه لما كان ذلك مشروطاً بألا يلحق ضرراً بحقوق سائر الشركاء ، و كان الحكم المطعون فيه قد خلص إلى أن مورث الطرفين كان يتخذ من عين النزاع مركزاً لإدارة أعماله و أمواله ، و إنها ظلت فى حيازته"
+   ],
+   "judicial_rule": {
+    "short": "للشريك على الشيوع طبقاً للمادة 826 من القانون المدنى أن يتصرف فى حصته و أن يستولى على ثمارها و أن يستعملها ، إلا أنه لما كان ذلك مشروطاً بألا يلحق ضرراً بحقوق سائر الشركاء ، و كان الحكم المطعون فيه",
+    "professional": "للشريك على الشيوع طبقاً للمادة 826 من القانون المدنى أن يتصرف فى حصته و أن يستولى على ثمارها و أن يستعملها ، إلا أنه لما كان ذلك مشروطاً بألا يلحق ضرراً بحقوق سائر الشركاء ، و كان الحكم المطعون فيه قد خلص إلى أن مورث الطرفين كان يتخذ من عين النزاع مركزاً لإدارة أعماله و أمواله ، و إنها ظلت فى حيازته حتى وفاته ، و أن حيازتها إنتقلت بوفاته إلى جميع الورثه ، و أن أموال الشركة إذ وضعت تحت الحراسة القضائية فقد تعين الإبقاء على عين النزاع مقراً لإدارتها ، و رتب على ذلك أن فى إتخاذ"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ثمار المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0549_47_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ثمار المال الشائع",
+  "content": "من المقرر فى قضاء هذه المحكمة أن المالك على الشيوع إذا وضع يده على جزء مفرز من العقار يوازى حصته الحق فى حماية وضع يده ، و ليس من حق أحد الشركاء أن ينتزع منه هذا القدر بل كل ما",
+  "keywords": [
+   "المال الشائع",
+   "ثمار المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0549 لسنة 47"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0136_31_3",
+   "cass_civil_co_ownership_0341_39_3",
+   "cass_civil_co_ownership_229_48_3",
+   "cass_civil_co_ownership_1737_51_3",
+   "cass_civil_co_ownership_2210_56_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "18-02-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0549",
+   "judicial_year": "47",
+   "office_volume": "32",
+   "page": "554",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0549_47_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ثمار المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0549",
+    "judicial_year": "47",
+    "office_volume": "32",
+    "page": "554",
+    "session_date": "18-02-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "المال الشائع",
+    "ثمار المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر فى قضاء هذه المحكمة أن المالك على الشيوع إذا وضع يده على جزء مفرز من العقار يوازى حصته الحق فى حماية وضع يده ، و ليس من حق أحد الشركاء أن ينتزع منه هذا القدر بل كل ما",
+   "core_principles": [
+    "من المقرر فى قضاء هذه المحكمة أن المالك على الشيوع إذا وضع يده على جزء مفرز من العقار يوازى حصته الحق فى حماية وضع يده ، و ليس من حق أحد الشركاء أن ينتزع منه هذا القدر بل كل ما له أن يطلب قسمة العقار أو يرجع على واضع اليد بما يقابل الإنتفاع بكافة الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من"
+   ],
+   "judicial_rule": {
+    "short": "من المقرر فى قضاء هذه المحكمة أن المالك على الشيوع إذا وضع يده على جزء مفرز من العقار يوازى حصته الحق فى حماية وضع يده ، و ليس من حق أحد الشركاء أن ينتزع منه هذا القدر بل كل ما",
+    "professional": "من المقرر فى قضاء هذه المحكمة أن المالك على الشيوع إذا وضع يده على جزء مفرز من العقار يوازى حصته الحق فى حماية وضع يده ، و ليس من حق أحد الشركاء أن ينتزع منه هذا القدر بل كل ما له أن يطلب قسمة العقار أو يرجع على واضع اليد بما يقابل الإنتفاع بكافة الثمار التى تنتج من المال الشائع أثناء قيام الشيوع من حق الشركاء جميعاً بنسبة حصة كل منهم ، و للشريك على الشيوع أن يرجع بريع حصته على الشركاء الذين يضعون اليد على ما يزيد على حصتهم كل بقدر نصيبه فى هذه الزيادة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ثمار المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_1737_51_3",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ثمار المال الشائع",
+  "content": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بريع حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه",
+  "keywords": [
+   "المال الشائع",
+   "ثمار المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 1737 لسنة 51"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0136_31_3",
+   "cass_civil_co_ownership_0341_39_3",
+   "cass_civil_co_ownership_229_48_3",
+   "cass_civil_co_ownership_0549_47_1",
+   "cass_civil_co_ownership_2210_56_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-11-1982",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1737",
+   "judicial_year": "51",
+   "office_volume": "33",
+   "page": "990",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_1737_51_3",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ثمار المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1737",
+    "judicial_year": "51",
+    "office_volume": "33",
+    "page": "990",
+    "session_date": "21-11-1982",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "المال الشائع",
+    "ثمار المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بريع حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه",
+   "core_principles": [
+    "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بريع حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه الزيادة"
+   ],
+   "judicial_rule": {
+    "short": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بريع حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه",
+    "professional": "الثمار التى تنتج من المال الشائع أثناء قيام الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بريع حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه الزيادة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ثمار المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_2210_56_3",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ثمار المال الشائع",
+  "content": "الثمار التى تنتج من المال الشائع أثناء قيام حالة الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بثمار حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى",
+  "keywords": [
+   "المال الشائع",
+   "ثمار المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 2210 لسنة 56"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0136_31_3",
+   "cass_civil_co_ownership_0341_39_3",
+   "cass_civil_co_ownership_229_48_3",
+   "cass_civil_co_ownership_0549_47_1",
+   "cass_civil_co_ownership_1737_51_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-02-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2210",
+   "judicial_year": "56",
+   "office_volume": "40",
+   "page": "623",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_2210_56_3",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ثمار المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2210",
+    "judicial_year": "56",
+    "office_volume": "40",
+    "page": "623",
+    "session_date": "23-02-1989",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "المال الشائع",
+    "ثمار المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الثمار التى تنتج من المال الشائع أثناء قيام حالة الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بثمار حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى",
+   "core_principles": [
+    "الثمار التى تنتج من المال الشائع أثناء قيام حالة الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بثمار حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه الزيادة"
+   ],
+   "judicial_rule": {
+    "short": "الثمار التى تنتج من المال الشائع أثناء قيام حالة الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بثمار حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى",
+    "professional": "الثمار التى تنتج من المال الشائع أثناء قيام حالة الشيوع فى حق الشركاء جميعاً بنسبة حصة كل منهم و للشريك على الشيوع أن يرجع بثمار حصته على الشركاء الذين يضعون اليد على ما يزيد عن حصتهم كل بقدر نصيبه فى هذه الزيادة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ثمار المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0531_46_3",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "حق الشريك الشائع فى الشفعة",
+  "content": "إذ كان الثابت من مدونات الحكم أن الطاعنة قد أوردت دفاعاً مؤداه أن البائع لها و هو زوج المطعون ضدها الأولى طالبة الشفعة و يقيم معها قد باع عن نفسه و بماله من وكالة ضمنية عن زوجته المذكورة و أولادها",
+  "keywords": [
+   "الشفعة",
+   "المال الشائع",
+   "الوكالة",
+   "حق الشريك الشائع فى الشفعة",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0531 لسنة 46"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-06-1978",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0531",
+   "judicial_year": "46",
+   "office_volume": "29",
+   "page": "1424",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0531_46_3",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "حق الشريك الشائع فى الشفعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0531",
+    "judicial_year": "46",
+    "office_volume": "29",
+    "page": "1424",
+    "session_date": "07-06-1978",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الشفعة",
+    "المال الشائع",
+    "الوكالة",
+    "حق الشريك الشائع فى الشفعة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان الثابت من مدونات الحكم أن الطاعنة قد أوردت دفاعاً مؤداه أن البائع لها و هو زوج المطعون ضدها الأولى طالبة الشفعة و يقيم معها قد باع عن نفسه و بماله من وكالة ضمنية عن زوجته المذكورة و أولادها",
+   "core_principles": [
+    "و لا يؤثر فى ذلك إحتمال أن تسفر القسمة فيما بعد عن حرمانه من الجزء المجاور للعقار المشفوع ، لأن القانون إنما يشترط أن يكون الشفيع مالكاً لما يشفع به وقت بيع العقار المشفوع و أن يبقى مالكاً له لحين الأخذ بالشفعة ، و بقاء الجوار ليس شرطاً لبقاء الإستحقاق ، فإذا حصلت القسمة قبل القضاء للشفيع بالشفعة و"
+   ],
+   "judicial_rule": {
+    "short": "و لا يؤثر فى ذلك إحتمال أن تسفر القسمة فيما بعد عن حرمانه من الجزء المجاور للعقار المشفوع ، لأن القانون إنما يشترط أن يكون الشفيع مالكاً لما يشفع به وقت بيع العقار المشفوع و أن يبقى مالكاً له لحين",
+    "professional": "و أنه كان فى تعاقده يمثل نفسه و ينوب عن باقى الشركاء و هم زوجته و أولاده منها نيابة ضمنية مظهورة بمظهر المكلف ببيع نصيب باقى الشركاء المشتاعين و دلت كافة الظواهر على قيام هذه النيابة المستندة إلى وكالة الزوج المفترضة عن زوجته و أولاده و لم يقم أى دليل على إنتفائها ، فإن قيام هذه الوكالة الضمنية يجعل من طالبة الشفعة طرفاً بائعاً فى عقد البيع يمتنع عليها أن تنقض ما تم منسوبا إليها بطلبها الشفعة لنفسها و يسقط حقها فى الشفعة و قد وافقت على بيع زوجها لنصيبها فى العين . ( الطعن رقم"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "حق الشريك الشائع فى الشفعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0587_43_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "حق تأجير المال الشائع",
+  "content": "إذ كان مفاد المادتين 827 ، 828 من القانون المدنى إن حق تأجير المال الشائع يثبت للأغلبية المطلقة للشركاء ، فمتى صدر الإيجار للعين كلها أو لجزء مفرز منها من أحد الشركاء دون أن تكون له أغلبية الأنصبة ، فإن",
+  "keywords": [
+   "الإيجار",
+   "المال الشائع",
+   "حق تأجير المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0587 لسنة 43"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_2173_52_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-12-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0587",
+   "judicial_year": "43",
+   "office_volume": "28",
+   "page": "1846",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0587_43_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "حق تأجير المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0587",
+    "judicial_year": "43",
+    "office_volume": "28",
+    "page": "1846",
+    "session_date": "21-12-1977",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الإيجار",
+    "المال الشائع",
+    "حق تأجير المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان مفاد المادتين 827 ، 828 من القانون المدنى إن حق تأجير المال الشائع يثبت للأغلبية المطلقة للشركاء ، فمتى صدر الإيجار للعين كلها أو لجزء مفرز منها من أحد الشركاء دون أن تكون له أغلبية الأنصبة ، فإن",
+   "core_principles": [
+    "828 من القانون المدنى إن حق تأجير المال الشائع يثبت للأغلبية المطلقة للشركاء ، فمتى صدر الإيجار للعين كلها أو لجزء مفرز منها من أحد الشركاء دون أن تكون له أغلبية الأنصبة ، فإن الإيجار و إن وقع صحيحاً فيما بينه و بين المستأجر منه إلا أنه لا يسرى فى حق باقى الشركاء ممن لم تصدر منهم الإجارة طالما لم يق"
+   ],
+   "judicial_rule": {
+    "short": "828 من القانون المدنى إن حق تأجير المال الشائع يثبت للأغلبية المطلقة للشركاء ، فمتى صدر الإيجار للعين كلها أو لجزء مفرز منها من أحد الشركاء دون أن تكون له أغلبية الأنصبة ، فإن الإيجار و إن وقع صحيحاً فيما",
+    "professional": "828 من القانون المدنى إن حق تأجير المال الشائع يثبت للأغلبية المطلقة للشركاء ، فمتى صدر الإيجار للعين كلها أو لجزء مفرز منها من أحد الشركاء دون أن تكون له أغلبية الأنصبة ، فإن الإيجار و إن وقع صحيحاً فيما بينه و بين المستأجر منه إلا أنه لا يسرى فى حق باقى الشركاء ممن لم تصدر منهم الإجارة طالما لم يقررها صراحة أو ضمناً ، إعتباراً بأن الإيجار يقع فى جزء منه على ملك الغير ، فيحق لهؤلاء الشركاء أن يطلبوا إخراج المستأجر من أحدهم من العين كلها و من أى جزء منها مهما صغر دون إنتظار ن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "حق تأجير المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_2173_52_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "حق تأجير المال الشائع",
+  "content": "مؤدى نص الفقرة الثانية من المادة 701 من القانون المدنى أن الإيجار يعد من أعمال الإدارة و من ثم فإن إيجار المال الشائع و طلب إخلاء العين المؤجرة يدخل فى سلطة متولى إدارته من الشركاء و يدخل فى سلطته -",
+  "keywords": [
+   "الإيجار",
+   "المال الشائع",
+   "حق تأجير المال الشائع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 2173 لسنة 52"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0587_43_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-01-1991",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2173",
+   "judicial_year": "52",
+   "office_volume": "42",
+   "page": "245",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_2173_52_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "حق تأجير المال الشائع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2173",
+    "judicial_year": "52",
+    "office_volume": "42",
+    "page": "245",
+    "session_date": "20-01-1991",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الإيجار",
+    "المال الشائع",
+    "حق تأجير المال الشائع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مؤدى نص الفقرة الثانية من المادة 701 من القانون المدنى أن الإيجار يعد من أعمال الإدارة و من ثم فإن إيجار المال الشائع و طلب إخلاء العين المؤجرة يدخل فى سلطة متولى إدارته من الشركاء و يدخل فى سلطته -",
+   "core_principles": [
+    "مؤدى نص الفقرة الثانية من المادة 701 من القانون المدنى أن الإيجار يعد من أعمال الإدارة و من ثم فإن إيجار المال الشائع و طلب إخلاء العين المؤجرة يدخل فى سلطة متولى إدارته من الشركاء و يدخل فى سلطته - تبعاً لذلك - التقاضى فيما تنشأ عن هذا الإيجار من منازعات"
+   ],
+   "judicial_rule": {
+    "short": "مؤدى نص الفقرة الثانية من المادة 701 من القانون المدنى أن الإيجار يعد من أعمال الإدارة و من ثم فإن إيجار المال الشائع و طلب إخلاء العين المؤجرة يدخل فى سلطة متولى إدارته من الشركاء و يدخل فى سلطته -",
+    "professional": "مؤدى نص الفقرة الثانية من المادة 701 من القانون المدنى أن الإيجار يعد من أعمال الإدارة و من ثم فإن إيجار المال الشائع و طلب إخلاء العين المؤجرة يدخل فى سلطة متولى إدارته من الشركاء و يدخل فى سلطته - تبعاً لذلك - التقاضى فيما تنشأ عن هذا الإيجار من منازعات ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "حق تأجير المال الشائع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0576_34_5",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "عناصر الملكية فى الشيوع",
+  "content": "متى كانت حصص كل من الشركاء فى المحل التجارى لم تفرز فهم شركاء على الشيوع و تحسب الحصص متساوية إذا لم ترى المحكمة دليلا\" مقنعا\" على غير ذلك عملاً بحكم المادة 825 من القانون المدنى الجديد و التى قننت -",
+  "keywords": [
+   "المال الشائع",
+   "عناصر الملكية فى الشيوع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0576 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_1241_47_1",
+   "cass_civil_co_ownership_0976_52_2",
+   "cass_civil_co_ownership_2488_57_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "08-01-1970",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0576",
+   "judicial_year": "34",
+   "office_volume": "21",
+   "page": "24",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0576_34_5",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "عناصر الملكية فى الشيوع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0576",
+    "judicial_year": "34",
+    "office_volume": "21",
+    "page": "24",
+    "session_date": "08-01-1970",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "المال الشائع",
+    "عناصر الملكية فى الشيوع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كانت حصص كل من الشركاء فى المحل التجارى لم تفرز فهم شركاء على الشيوع و تحسب الحصص متساوية إذا لم ترى المحكمة دليلا\" مقنعا\" على غير ذلك عملاً بحكم المادة 825 من القانون المدنى الجديد و التى قننت -",
+   "core_principles": [
+    "متى كانت حصص كل من الشركاء فى المحل التجارى لم تفرز فهم شركاء على الشيوع و تحسب الحصص متساوية إذا لم ترى المحكمة دليلا\" مقنعا\" على غير ذلك عملاً بحكم المادة 825 من القانون المدنى الجديد و التى قننت - على ما أفصحت عنه المذكرة الإيضاحية للقانون المذكور - ما كان معمولا به أثناء سريان القانون المدنى الق"
+   ],
+   "judicial_rule": {
+    "short": "متى كانت حصص كل من الشركاء فى المحل التجارى لم تفرز فهم شركاء على الشيوع و تحسب الحصص متساوية إذا لم ترى المحكمة دليلا\" مقنعا\" على غير ذلك عملاً بحكم المادة 825 من القانون المدنى الجديد و التى قننت -",
+    "professional": "متى كانت حصص كل من الشركاء فى المحل التجارى لم تفرز فهم شركاء على الشيوع و تحسب الحصص متساوية إذا لم ترى المحكمة دليلا\" مقنعا\" على غير ذلك عملاً بحكم المادة 825 من القانون المدنى الجديد و التى قننت - على ما أفصحت عنه المذكرة الإيضاحية للقانون المذكور - ما كان معمولا به أثناء سريان القانون المدنى القديم ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "عناصر الملكية فى الشيوع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_1241_47_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "عناصر الملكية فى الشيوع",
+  "content": "لئن كان من المقرر فى قضاء هذه المحكمة ، أن لكل من الشركاء على الشيوع حق ملكية حقيقية فى حصته الشائعة ، و أنه إذا تمكن أحدهم من البناء على جزء من العقار الشائع ، فإنه لا يعد بانياً فى",
+  "keywords": [
+   "المال الشائع",
+   "عناصر الملكية فى الشيوع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 1241 لسنة 47"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0576_34_5",
+   "cass_civil_co_ownership_0976_52_2",
+   "cass_civil_co_ownership_2488_57_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-03-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1241",
+   "judicial_year": "47",
+   "office_volume": "32",
+   "page": "927",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_1241_47_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "عناصر الملكية فى الشيوع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1241",
+    "judicial_year": "47",
+    "office_volume": "32",
+    "page": "927",
+    "session_date": "24-03-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "المال الشائع",
+    "عناصر الملكية فى الشيوع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لئن كان من المقرر فى قضاء هذه المحكمة ، أن لكل من الشركاء على الشيوع حق ملكية حقيقية فى حصته الشائعة ، و أنه إذا تمكن أحدهم من البناء على جزء من العقار الشائع ، فإنه لا يعد بانياً فى",
+   "core_principles": [
+    "لئن كان من المقرر فى قضاء هذه المحكمة ، أن لكل من الشركاء على الشيوع حق ملكية حقيقية فى حصته الشائعة ، و أنه إذا تمكن أحدهم من البناء على جزء من العقار الشائع ، فإنه لا يعد بانياً فى ملك غيره ، و كل ما للشريك الآخر أن يطالب من أقام البناء بقسمة العقار المملوك لهما على الشيوع ، ثم يرتب حقه على ما يظه"
+   ],
+   "judicial_rule": {
+    "short": "لئن كان من المقرر فى قضاء هذه المحكمة ، أن لكل من الشركاء على الشيوع حق ملكية حقيقية فى حصته الشائعة ، و أنه إذا تمكن أحدهم من البناء على جزء من العقار الشائع ، فإنه لا يعد بانياً فى",
+    "professional": "لئن كان من المقرر فى قضاء هذه المحكمة ، أن لكل من الشركاء على الشيوع حق ملكية حقيقية فى حصته الشائعة ، و أنه إذا تمكن أحدهم من البناء على جزء من العقار الشائع ، فإنه لا يعد بانياً فى ملك غيره ، و كل ما للشريك الآخر أن يطالب من أقام البناء بقسمة العقار المملوك لهما على الشيوع ، ثم يرتب حقه على ما يظهر من نتيجة القسمة ، إلا أن مناط ذلك أن يكون القدر الذى بنى عليه معادلاً لنصيبه ، فيه فإذا جاوزه ، أعتبر بانياً فى ملك غيره بالنسبة لما أقامه على ما يجاوز حصته فيه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "عناصر الملكية فى الشيوع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0976_52_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "عناصر الملكية فى الشيوع",
+  "content": "النص فى المادة 826 من القانون المدنى - يدل و على ما أوردته المذكرة الإيضاحية للمشروع التمهيدى فى هذا الصدد على أن الملكية فى الشيوع كالملكية المفرزة تشتمل على عناصر ثلاثة : الإستعمال و الإستغلال و التصرف . إلا أن",
+  "keywords": [
+   "المال الشائع",
+   "الملكية",
+   "عناصر الملكية فى الشيوع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0976 لسنة 52"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0576_34_5",
+   "cass_civil_co_ownership_1241_47_1",
+   "cass_civil_co_ownership_2488_57_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-06-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0976",
+   "judicial_year": "52",
+   "office_volume": "35",
+   "page": "1658",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0976_52_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "عناصر الملكية فى الشيوع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0976",
+    "judicial_year": "52",
+    "office_volume": "35",
+    "page": "1658",
+    "session_date": "13-06-1984",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "المال الشائع",
+    "الملكية",
+    "عناصر الملكية فى الشيوع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "النص فى المادة 826 من القانون المدنى - يدل و على ما أوردته المذكرة الإيضاحية للمشروع التمهيدى فى هذا الصدد على أن الملكية فى الشيوع كالملكية المفرزة تشتمل على عناصر ثلاثة : الإستعمال و الإستغلال و التصرف . إلا أن",
+   "core_principles": [
+    "إلا أن الإستعمال و الإستغلال يتقيدان بحقوق الشركاء الآخرين ، و كانت المطعون ضدها لم تقم دعواها بالطرد إلا على أساس غصب ملكها دون أن تنسب للطاعن الأول - الشريك المشتاع وهو والد الطاعن الثانى - أنه إستعمل حصته الشائعة إستعمالاً ألحق ضرراً بسائر الشركاء ، فإنه يكون من حقه إستعمال هذه الحصة لسكناه و عائ"
+   ],
+   "judicial_rule": {
+    "short": "إلا أن الإستعمال و الإستغلال يتقيدان بحقوق الشركاء الآخرين ، و كانت المطعون ضدها لم تقم دعواها بالطرد إلا على أساس غصب ملكها دون أن تنسب للطاعن الأول - الشريك المشتاع وهو والد الطاعن الثانى - أنه إستعمل حصته الشائعة",
+    "professional": "النص فى المادة 826 من القانون المدنى - يدل و على ما أوردته المذكرة الإيضاحية للمشروع التمهيدى فى هذا الصدد على أن الملكية فى الشيوع كالملكية المفرزة تشتمل على عناصر ثلاثة : الإستعمال و الإستغلال و التصرف . إلا أن الإستعمال و الإستغلال يتقيدان بحقوق الشركاء الآخرين ، و كانت المطعون ضدها لم تقم دعواها بالطرد إلا على أساس غصب ملكها دون أن تنسب للطاعن الأول - الشريك المشتاع وهو والد الطاعن الثانى - أنه إستعمل حصته الشائعة إستعمالاً ألحق ضرراً بسائر الشركاء ، فإنه يكون من حقه إستع"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "عناصر الملكية فى الشيوع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_2488_57_4",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "عناصر الملكية فى الشيوع",
+  "content": "الحصة الشائعة يصح - و على ما جرى به قضاء هذه المحكمة - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها . الطعن رقم 0078 لسنة 03 مجموعة عمر 1ع صفحة رقم 419 بتاريخ 07-06-1934",
+  "keywords": [
+   "المال الشائع",
+   "الملكية",
+   "عناصر الملكية فى الشيوع",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 2488 لسنة 57"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0576_34_5",
+   "cass_civil_co_ownership_1241_47_1",
+   "cass_civil_co_ownership_0976_52_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-12-1988",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2488",
+   "judicial_year": "57",
+   "office_volume": "39",
+   "page": "1391",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_2488_57_4",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "عناصر الملكية فى الشيوع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2488",
+    "judicial_year": "57",
+    "office_volume": "39",
+    "page": "1391",
+    "session_date": "22-12-1988",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "المال الشائع",
+    "الملكية",
+    "عناصر الملكية فى الشيوع"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الحصة الشائعة يصح - و على ما جرى به قضاء هذه المحكمة - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها . الطعن رقم 0078 لسنة 03 مجموعة عمر 1ع صفحة رقم 419 بتاريخ 07-06-1934",
+   "core_principles": [
+    "إذ أن ما باعه البائع الأصلى و آل أخيراً إلى المدعى و إن كان قدراً شائعاً فى جملة الأطيان فإنه قدر معين بذاته متميز عن غيره بكونه هو ما إشتراه هذا البائع من أحد الورثة و قضى بإبطال البيع الصادر له فى خصوصه ، فهو لذلك يختلف عن القدر الشائع الذى تملكه البائع المذكور فيما بعد بالشراء من مالك آخر مشتاع"
+   ],
+   "judicial_rule": {
+    "short": "إذ أن ما باعه البائع الأصلى و آل أخيراً إلى المدعى و إن كان قدراً شائعاً فى جملة الأطيان فإنه قدر معين بذاته متميز عن غيره بكونه هو ما إشتراه هذا البائع من أحد الورثة و قضى بإبطال البيع الصادر",
+    "professional": "الحصة الشائعة يصح - و على ما جرى به قضاء هذه المحكمة - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها . الطعن رقم 0078 لسنة 03 مجموعة عمر 1ع صفحة رقم 419 بتاريخ 07-06-1934 الموضوع : المال الشائع الموضوع الفرعي : عناصر الملكية فى الشيوع فقرة رقم : 1 متى كان عقاراً مملوكاً لعدة شركاء فليس لأحدهم أن يطالب إلا بنصيبه هو فى الأجرة فقط . و لا يكون له أن يطالب بكامل الأجرة إلا إذا كان وكيلاً عن الباقين ، و فى هذه الحالة لا يقبل منه القول بصفة إجمالية إنه وكيل ع"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "عناصر الملكية فى الشيوع",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0266_33_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ماهية الحصة الشائعة",
+  "content": "الحيازة فى عنصرها المادى تقضى السيطرة الفعلية على الشىء الذى يجوز التعامل فيه ، و هى فى عنصرها المعنوى تستلزم نية إكتساب حق على هذا الشىء . و لما كانت الملكية الشائعة لا تنصب إلا غلى حصة شائعة فى أجزاء",
+  "keywords": [
+   "التقادم",
+   "الحيازة",
+   "المال الشائع",
+   "الملكية",
+   "ماهية الحصة الشائعة",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0266 لسنة 33"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0266_33_2",
+   "cass_civil_co_ownership_0133_36_1",
+   "cass_civil_co_ownership_0170_50_1",
+   "cass_civil_co_ownership_0838_49_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-02-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0266",
+   "judicial_year": "33",
+   "office_volume": "18",
+   "page": "306",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0266_33_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ماهية الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0266",
+    "judicial_year": "33",
+    "office_volume": "18",
+    "page": "306",
+    "session_date": "07-02-1967",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التقادم",
+    "الحيازة",
+    "المال الشائع",
+    "الملكية",
+    "ماهية الحصة الشائعة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الحيازة فى عنصرها المادى تقضى السيطرة الفعلية على الشىء الذى يجوز التعامل فيه ، و هى فى عنصرها المعنوى تستلزم نية إكتساب حق على هذا الشىء . و لما كانت الملكية الشائعة لا تنصب إلا غلى حصة شائعة فى أجزاء",
+   "core_principles": [
+    "و لا يحول دون ذلك إجتماع يد الحائز بيد مالك العقار بما يؤدى إلى المخالطة بينهما لأن هذه المخالطة ليست عيباً فى ذاتها و إنما العيب فيما ينشأ عنها من غموض أو إبهام و أنه إذا إستقرت الحيازة على مناهضة حق المالك و مناقصته بما لا يترك مجالاً لشبهة الغموض أو مظنة التسامح فإن الحيازة تصلح عندئذ لتملك الحصة"
+   ],
+   "judicial_rule": {
+    "short": "و لا يحول دون ذلك إجتماع يد الحائز بيد مالك العقار بما يؤدى إلى المخالطة بينهما لأن هذه المخالطة ليست عيباً فى ذاتها و إنما العيب فيما ينشأ عنها من غموض أو إبهام و أنه إذا إستقرت الحيازة على مناهضة",
+    "professional": "الحيازة فى عنصرها المادى تقضى السيطرة الفعلية على الشىء الذى يجوز التعامل فيه ، و هى فى عنصرها المعنوى تستلزم نية إكتساب حق على هذا الشىء . و لما كانت الملكية الشائعة لا تنصب إلا غلى حصة شائعة فى أجزاء المال المشترك إلى أن تتميز بالفعل عند حصول القسمة ، فإن هذه الحصة يصح - و على ما جرى به قضاء محكمة النقض - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية إمتلاكها . و لا يحول دون ذلك إجتماع يد الحائز بيد مالك العقار بما يؤدى إلى المخالطة بينهما لأن هذه المخالطة ل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ماهية الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0266_33_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ماهية الحصة الشائعة",
+  "content": "متى كانت المنازعة التىأثارها المالك الأصلى للعقار تجاه حائزه لاحقه لإكتمال مدة التقادم الطويل المكسبة لملكية الحائز فإنه لا يعتد بها .",
+  "keywords": [
+   "التقادم",
+   "المال الشائع",
+   "ماهية الحصة الشائعة",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0266 لسنة 33"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0266_33_1",
+   "cass_civil_co_ownership_0133_36_1",
+   "cass_civil_co_ownership_0170_50_1",
+   "cass_civil_co_ownership_0838_49_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-02-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0266",
+   "judicial_year": "33",
+   "office_volume": "18",
+   "page": "306",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0266_33_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ماهية الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0266",
+    "judicial_year": "33",
+    "office_volume": "18",
+    "page": "306",
+    "session_date": "07-02-1967",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "التقادم",
+    "المال الشائع",
+    "ماهية الحصة الشائعة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كانت المنازعة التىأثارها المالك الأصلى للعقار تجاه حائزه لاحقه لإكتمال مدة التقادم الطويل المكسبة لملكية الحائز فإنه لا يعتد بها .",
+   "core_principles": [
+    "متى كانت المنازعة التىأثارها المالك الأصلى للعقار تجاه حائزه لاحقه لإكتمال مدة التقادم الطويل المكسبة لملكية الحائز فإنه لا يعتد بها"
+   ],
+   "judicial_rule": {
+    "short": "متى كانت المنازعة التىأثارها المالك الأصلى للعقار تجاه حائزه لاحقه لإكتمال مدة التقادم الطويل المكسبة لملكية الحائز فإنه لا يعتد بها",
+    "professional": "متى كانت المنازعة التىأثارها المالك الأصلى للعقار تجاه حائزه لاحقه لإكتمال مدة التقادم الطويل المكسبة لملكية الحائز فإنه لا يعتد بها ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ماهية الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0133_36_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ماهية الحصة الشائعة",
+  "content": "الحصة الشائعة كالنصيب المفرز يصح كلاهما - و على ما جرى به قضاء هذه المحكمة - أن يكون محلا لأن يحوزه حائز على وجه التخصيص و الانفراد و لا فارق بينهما إلا من حيث أن الحائز للنصيب المفرز تكون يده",
+  "keywords": [
+   "التقادم",
+   "الحيازة",
+   "المال الشائع",
+   "ماهية الحصة الشائعة",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0133 لسنة 36"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0266_33_1",
+   "cass_civil_co_ownership_0266_33_2",
+   "cass_civil_co_ownership_0170_50_1",
+   "cass_civil_co_ownership_0838_49_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "09-06-1970",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0133",
+   "judicial_year": "36",
+   "office_volume": "21",
+   "page": "998",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0133_36_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ماهية الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0133",
+    "judicial_year": "36",
+    "office_volume": "21",
+    "page": "998",
+    "session_date": "09-06-1970",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التقادم",
+    "الحيازة",
+    "المال الشائع",
+    "ماهية الحصة الشائعة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الحصة الشائعة كالنصيب المفرز يصح كلاهما - و على ما جرى به قضاء هذه المحكمة - أن يكون محلا لأن يحوزه حائز على وجه التخصيص و الانفراد و لا فارق بينهما إلا من حيث أن الحائز للنصيب المفرز تكون يده",
+   "core_principles": [
+    "فإذا انتفت و استقرت الحيازة على مناهضة حق باقى المالكين و مناقضتهم بما لا يترك مجالا لشبهة الغموض أو مظنة التسامح ،فإن الحيازة تصلح عندئذ لأن تكون أساساً لتملك الشائعة بالتقادم"
+   ],
+   "judicial_rule": {
+    "short": "فإذا انتفت و استقرت الحيازة على مناهضة حق باقى المالكين و مناقضتهم بما لا يترك مجالا لشبهة الغموض أو مظنة التسامح ،فإن الحيازة تصلح عندئذ لأن تكون أساساً لتملك الشائعة بالتقادم",
+    "professional": "الحصة الشائعة كالنصيب المفرز يصح كلاهما - و على ما جرى به قضاء هذه المحكمة - أن يكون محلا لأن يحوزه حائز على وجه التخصيص و الانفراد و لا فارق بينهما إلا من حيث أن الحائز للنصيب المفرز تكون يده بريئه من المخالطة . أما حائز الحصة الشائعة فيده بحكم الشيوع تخالط يد غيره من المشتاعين . و ليست هذه المخالطة عيبا فى ذاتها . و إنما العيب فيما ينشأ عنها من غموض و إبهام . فإذا انتفت و استقرت الحيازة على مناهضة حق باقى المالكين و مناقضتهم بما لا يترك مجالا لشبهة الغموض أو مظنة التسامح ،ف"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ماهية الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0170_50_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ماهية الحصة الشائعة",
+  "content": "الحصة الشائعة يصح - و على ما جرى به قضاء هذه المحكمة - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها و لا يحول دون ذلك إجتماع يد الحائز بيد مالك العقار بما يؤدى إلى",
+  "keywords": [
+   "التقادم",
+   "الحيازة",
+   "المال الشائع",
+   "ماهية الحصة الشائعة",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0170 لسنة 50"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0266_33_1",
+   "cass_civil_co_ownership_0266_33_2",
+   "cass_civil_co_ownership_0133_36_1",
+   "cass_civil_co_ownership_0838_49_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "18-12-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0170",
+   "judicial_year": "50",
+   "office_volume": "31",
+   "page": "2053",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0170_50_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ماهية الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0170",
+    "judicial_year": "50",
+    "office_volume": "31",
+    "page": "2053",
+    "session_date": "18-12-1980",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التقادم",
+    "الحيازة",
+    "المال الشائع",
+    "ماهية الحصة الشائعة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الحصة الشائعة يصح - و على ما جرى به قضاء هذه المحكمة - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها و لا يحول دون ذلك إجتماع يد الحائز بيد مالك العقار بما يؤدى إلى",
+   "core_principles": [
+    "الحصة الشائعة يصح - و على ما جرى به قضاء هذه المحكمة - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها و لا يحول دون ذلك إجتماع يد الحائز بيد مالك العقار بما يؤدى إلى المخالطة بينهما لأن هذه المخالطة ليست عيباً فى ذاتها و إنما العيب فيما ينشأ عنها من غموض و إبهام ، فإذا إستطاع ا"
+   ],
+   "judicial_rule": {
+    "short": "الحصة الشائعة يصح - و على ما جرى به قضاء هذه المحكمة - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها و لا يحول دون ذلك إجتماع يد الحائز بيد مالك العقار بما يؤدى إلى",
+    "professional": "الحصة الشائعة يصح - و على ما جرى به قضاء هذه المحكمة - أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها و لا يحول دون ذلك إجتماع يد الحائز بيد مالك العقار بما يؤدى إلى المخالطة بينهما لأن هذه المخالطة ليست عيباً فى ذاتها و إنما العيب فيما ينشأ عنها من غموض و إبهام ، فإذا إستطاع الشريك فى العقار الشائع أن يجوز حصة باقى شركائه المشتاعين حيازة تقوم على معارضة حق الملاك لها على نحو لا يترك محلاً لشبهة الغموض و الخفاء و مظنة التسامح ، و إستمرت هذه الحيازة دون إ"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ماهية الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0838_49_1",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ماهية الحصة الشائعة",
+  "content": "الحصة الشائعة - و على ما جرى به قضاء هذه المحكمة - يصح أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها ، و لا يحول دون ذلك أن تجتمع يد الحائز مع يد مالك العقار",
+  "keywords": [
+   "التقادم",
+   "الحيازة",
+   "المال الشائع",
+   "ماهية الحصة الشائعة",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0838 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_co_ownership_0266_33_1",
+   "cass_civil_co_ownership_0266_33_2",
+   "cass_civil_co_ownership_0133_36_1",
+   "cass_civil_co_ownership_0170_50_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-03-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0838",
+   "judicial_year": "49",
+   "office_volume": "35",
+   "page": "665",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0838_49_1",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ماهية الحصة الشائعة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0838",
+    "judicial_year": "49",
+    "office_volume": "35",
+    "page": "665",
+    "session_date": "13-03-1984",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التقادم",
+    "الحيازة",
+    "المال الشائع",
+    "ماهية الحصة الشائعة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الحصة الشائعة - و على ما جرى به قضاء هذه المحكمة - يصح أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها ، و لا يحول دون ذلك أن تجتمع يد الحائز مع يد مالك العقار",
+   "core_principles": [
+    "لكن هذا الفرض ينتفى كما تنتفى مظنة التسامح من جانب المالك إذا كان الغير الذى يزاحمه فى ملكه قد إستطاع أن يحوز حصة شائعة فى عقاره حيازة إستقرت على مناهضة حق المالك و مناقضته على نحو لا يترك محلاً لشبهة الغموض أو مظنة التسامح ، فعندئذ تكون الحيازة صالحة لأن تكون أساساً لتملك الحصة الشائعة المحوزة بالت"
+   ],
+   "judicial_rule": {
+    "short": "لكن هذا الفرض ينتفى كما تنتفى مظنة التسامح من جانب المالك إذا كان الغير الذى يزاحمه فى ملكه قد إستطاع أن يحوز حصة شائعة فى عقاره حيازة إستقرت على مناهضة حق المالك و مناقضته على نحو لا يترك محلاً لشبهة",
+    "professional": "الحصة الشائعة - و على ما جرى به قضاء هذه المحكمة - يصح أن تكون محلاً لأن يحوزها حائز على وجه التخصيص و الإنفراد بنية تملكها ، و لا يحول دون ذلك أن تجتمع يد الحائز مع يد مالك العقار بما يؤدى إلى المخالطة بينهما إذ أن هذة المخالطة ليست عيباً فى ذاتها بل فيما قد ينشأ عنها من غموض و إبهام ، فإذا إستطاع الشريك فى العقار الشائع أن يحوز حصة باقى شركائه المشتاعين حيازة تقوم على معارضة حق الملاك لها على نحو لا يترك محلاً لشبهة الغموض و الخفاء أو مظنة التسامح و إستمرت هذه الحيازة دون إ"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ماهية الحصة الشائعة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_co_ownership_0975_48_2",
+  "type": "judgment_principle",
+  "category": "co_ownership",
+  "title": "ملكية الاسرة",
+  "content": "مفاد نص المادة الأولى من القانون رقم 50 لسنة 1969 الصادر بتعيين حد أقصى لملكية الأسرة و الفرد فى الأراضى الزراعية و ما فى حكمها وا لفقرة الأولى من المادة الرابعة منه أن تصرف المالك إلى إفراد أسرته فى الأطيان",
+  "keywords": [
+   "الضرائب",
+   "الغش",
+   "المال الشائع",
+   "ملكية الاسرة",
+   "cassation",
+   "civil",
+   "co_ownership",
+   "joint ownership",
+   "partition",
+   "division of common property"
+  ],
+  "citations": [
+   "طعن رقم 0975 لسنة 48"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 50/1969",
+    "Law 142/1944"
+   ],
+   "date": "13-11-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0975",
+   "judicial_year": "48",
+   "office_volume": "30",
+   "page": "25",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_co_ownership_0975_48_2",
+   "domain": "civil_law",
+   "category": "co_ownership",
+   "topic": "ملكية الاسرة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0975",
+    "judicial_year": "48",
+    "office_volume": "30",
+    "page": "25",
+    "session_date": "13-11-1979",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الضرائب",
+    "الغش",
+    "المال الشائع",
+    "ملكية الاسرة"
+   ],
+   "legal_articles": [
+    "Law 50/1969",
+    "Law 142/1944"
+   ],
+   "facts_summary": "مفاد نص المادة الأولى من القانون رقم 50 لسنة 1969 الصادر بتعيين حد أقصى لملكية الأسرة و الفرد فى الأراضى الزراعية و ما فى حكمها وا لفقرة الأولى من المادة الرابعة منه أن تصرف المالك إلى إفراد أسرته فى الأطيان",
+   "core_principles": [
+    "مفاد نص المادة الأولى من القانون رقم 50 لسنة 1969 الصادر بتعيين حد أقصى لملكية الأسرة و الفرد فى الأراضى الزراعية و ما فى حكمها وا لفقرة الأولى من المادة الرابعة منه أن تصرف المالك إلى إفراد أسرته فى الأطيان الزراعية الزائدة على الخمسين فداناً - على الوجه المتقدم و فى هذا النطاق - هو أمر ندب إليه ال"
+   ],
+   "judicial_rule": {
+    "short": "مفاد نص المادة الأولى من القانون رقم 50 لسنة 1969 الصادر بتعيين حد أقصى لملكية الأسرة و الفرد فى الأراضى الزراعية و ما فى حكمها وا لفقرة الأولى من المادة الرابعة منه أن تصرف المالك إلى إفراد أسرته فى الأطيان",
+    "professional": "مفاد نص المادة الأولى من القانون رقم 50 لسنة 1969 الصادر بتعيين حد أقصى لملكية الأسرة و الفرد فى الأراضى الزراعية و ما فى حكمها وا لفقرة الأولى من المادة الرابعة منه أن تصرف المالك إلى إفراد أسرته فى الأطيان الزراعية الزائدة على الخمسين فداناً - على الوجه المتقدم و فى هذا النطاق - هو أمر ندب إليه الشارع لإعتبارات قدرها رعاية منه للملاك ذوى الأسر و تمييزاً لهم عن غيرهم سواء كان التصرف بعوض أو بغير عوض ، و مثل هذا التصرف لا ترد عليه مظنه الغش و التحيل على أحكام القانون التى قام"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "joint ownership",
+    "partition",
+    "division of common property"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "co_ownership",
+    "ملكية الاسرة",
+    "المال الشائع"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

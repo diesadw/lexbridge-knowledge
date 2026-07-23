@@ -1,0 +1,732 @@
+{
+ "database": "LEXBRIDGE Legal Knowledge Base",
+ "version": "v10-reorganized",
+ "generated_purpose": "RAG / AI Legal Search ready knowledge base",
+ "total_records": 44337,
+ "record_type_counts": {
+  "judgment_principle": 44190,
+  "doctrine_principle": 49,
+  "deadline": 67,
+  "procedure": 15,
+  "procedure_deep": 9,
+  "template": 7
+ },
+ "categories": {
+  "judgments_criminal": {
+   "file_count": 35,
+   "record_count": 22489,
+   "files": {
+    "judgments/cassation/criminal/appeal.json": {
+     "path": "judgments/cassation/criminal/appeal.json",
+     "count": 893
+    },
+    "judgments/cassation/criminal/bodily_harm.json": {
+     "path": "judgments/cassation/criminal/bodily_harm.json",
+     "count": 238
+    },
+    "judgments/cassation/criminal/cassation_procedure/judicial_year_00s.json": {
+     "path": "judgments/cassation/criminal/cassation_procedure/judicial_year_00s.json",
+     "count": 87
+    },
+    "judgments/cassation/criminal/cassation_procedure/judicial_year_10s.json": {
+     "path": "judgments/cassation/criminal/cassation_procedure/judicial_year_10s.json",
+     "count": 202
+    },
+    "judgments/cassation/criminal/cassation_procedure/judicial_year_20s.json": {
+     "path": "judgments/cassation/criminal/cassation_procedure/judicial_year_20s.json",
+     "count": 518
+    },
+    "judgments/cassation/criminal/cassation_procedure/judicial_year_30s.json": {
+     "path": "judgments/cassation/criminal/cassation_procedure/judicial_year_30s.json",
+     "count": 536
+    },
+    "judgments/cassation/criminal/cassation_procedure/judicial_year_40s.json": {
+     "path": "judgments/cassation/criminal/cassation_procedure/judicial_year_40s.json",
+     "count": 716
+    },
+    "judgments/cassation/criminal/cassation_procedure/judicial_year_50s.json": {
+     "path": "judgments/cassation/criminal/cassation_procedure/judicial_year_50s.json",
+     "count": 1033
+    },
+    "judgments/cassation/criminal/cassation_procedure/judicial_year_60s.json": {
+     "path": "judgments/cassation/criminal/cassation_procedure/judicial_year_60s.json",
+     "count": 58
+    },
+    "judgments/cassation/criminal/criminal_judgment/judicial_year_00s.json": {
+     "path": "judgments/cassation/criminal/criminal_judgment/judicial_year_00s.json",
+     "count": 202
+    },
+    "judgments/cassation/criminal/criminal_judgment/judicial_year_10s.json": {
+     "path": "judgments/cassation/criminal/criminal_judgment/judicial_year_10s.json",
+     "count": 537
+    },
+    "judgments/cassation/criminal/criminal_judgment/judicial_year_20s.json": {
+     "path": "judgments/cassation/criminal/criminal_judgment/judicial_year_20s.json",
+     "count": 906
+    },
+    "judgments/cassation/criminal/criminal_judgment/judicial_year_30s.json": {
+     "path": "judgments/cassation/criminal/criminal_judgment/judicial_year_30s.json",
+     "count": 1145
+    },
+    "judgments/cassation/criminal/criminal_judgment/judicial_year_40s.json": {
+     "path": "judgments/cassation/criminal/criminal_judgment/judicial_year_40s.json",
+     "count": 1345
+    },
+    "judgments/cassation/criminal/criminal_judgment/judicial_year_50s.json": {
+     "path": "judgments/cassation/criminal/criminal_judgment/judicial_year_50s.json",
+     "count": 1461
+    },
+    "judgments/cassation/criminal/criminal_judgment/judicial_year_60s.json": {
+     "path": "judgments/cassation/criminal/criminal_judgment/judicial_year_60s.json",
+     "count": 70
+    },
+    "judgments/cassation/criminal/criminal_liability.json": {
+     "path": "judgments/cassation/criminal/criminal_liability.json",
+     "count": 1249
+    },
+    "judgments/cassation/criminal/destruction.json": {
+     "path": "judgments/cassation/criminal/destruction.json",
+     "count": 93
+    },
+    "judgments/cassation/criminal/evidence/judicial_year_00s.json": {
+     "path": "judgments/cassation/criminal/evidence/judicial_year_00s.json",
+     "count": 239
+    },
+    "judgments/cassation/criminal/evidence/judicial_year_10s.json": {
+     "path": "judgments/cassation/criminal/evidence/judicial_year_10s.json",
+     "count": 477
+    },
+    "judgments/cassation/criminal/evidence/judicial_year_20s.json": {
+     "path": "judgments/cassation/criminal/evidence/judicial_year_20s.json",
+     "count": 854
+    },
+    "judgments/cassation/criminal/evidence/judicial_year_30s.json": {
+     "path": "judgments/cassation/criminal/evidence/judicial_year_30s.json",
+     "count": 839
+    },
+    "judgments/cassation/criminal/evidence/judicial_year_40s.json": {
+     "path": "judgments/cassation/criminal/evidence/judicial_year_40s.json",
+     "count": 945
+    },
+    "judgments/cassation/criminal/evidence/judicial_year_50s.json": {
+     "path": "judgments/cassation/criminal/evidence/judicial_year_50s.json",
+     "count": 1087
+    },
+    "judgments/cassation/criminal/evidence/judicial_year_60s.json": {
+     "path": "judgments/cassation/criminal/evidence/judicial_year_60s.json",
+     "count": 153
+    },
+    "judgments/cassation/criminal/financial_crimes.json": {
+     "path": "judgments/cassation/criminal/financial_crimes.json",
+     "count": 376
+    },
+    "judgments/cassation/criminal/forgery.json": {
+     "path": "judgments/cassation/criminal/forgery.json",
+     "count": 838
+    },
+    "judgments/cassation/criminal/homicide.json": {
+     "path": "judgments/cassation/criminal/homicide.json",
+     "count": 593
+    },
+    "judgments/cassation/criminal/morality_crimes.json": {
+     "path": "judgments/cassation/criminal/morality_crimes.json",
+     "count": 213
+    },
+    "judgments/cassation/criminal/regulatory.json": {
+     "path": "judgments/cassation/criminal/regulatory.json",
+     "count": 653
+    },
+    "judgments/cassation/criminal/sentencing.json": {
+     "path": "judgments/cassation/criminal/sentencing.json",
+     "count": 985
+    },
+    "judgments/cassation/criminal/smuggling.json": {
+     "path": "judgments/cassation/criminal/smuggling.json",
+     "count": 436
+    },
+    "judgments/cassation/criminal/theft.json": {
+     "path": "judgments/cassation/criminal/theft.json",
+     "count": 480
+    },
+    "judgments/cassation/criminal/uncategorized_pool.json": {
+     "path": "judgments/cassation/criminal/uncategorized_pool.json",
+     "count": 1900
+    },
+    "judgments/cassation/criminal/weapons.json": {
+     "path": "judgments/cassation/criminal/weapons.json",
+     "count": 132
+    }
+   }
+  },
+  "judgments_civil": {
+   "file_count": 102,
+   "record_count": 21701,
+   "files": {
+    "judgments/cassation/civil/administrative_contracts.json": {
+     "path": "judgments/cassation/civil/administrative_contracts.json",
+     "count": 50
+    },
+    "judgments/cassation/civil/administrative_decisions.json": {
+     "path": "judgments/cassation/civil/administrative_decisions.json",
+     "count": 47
+    },
+    "judgments/cassation/civil/agency_contracts.json": {
+     "path": "judgments/cassation/civil/agency_contracts.json",
+     "count": 16
+    },
+    "judgments/cassation/civil/agriculture.json": {
+     "path": "judgments/cassation/civil/agriculture.json",
+     "count": 159
+    },
+    "judgments/cassation/civil/antiquities.json": {
+     "path": "judgments/cassation/civil/antiquities.json",
+     "count": 3
+    },
+    "judgments/cassation/civil/appeal.json": {
+     "path": "judgments/cassation/civil/appeal.json",
+     "count": 842
+    },
+    "judgments/cassation/civil/arbitration.json": {
+     "path": "judgments/cassation/civil/arbitration.json",
+     "count": 92
+    },
+    "judgments/cassation/civil/armed_forces.json": {
+     "path": "judgments/cassation/civil/armed_forces.json",
+     "count": 20
+    },
+    "judgments/cassation/civil/attachment.json": {
+     "path": "judgments/cassation/civil/attachment.json",
+     "count": 153
+    },
+    "judgments/cassation/civil/auction.json": {
+     "path": "judgments/cassation/civil/auction.json",
+     "count": 93
+    },
+    "judgments/cassation/civil/banking.json": {
+     "path": "judgments/cassation/civil/banking.json",
+     "count": 171
+    },
+    "judgments/cassation/civil/cassation_rulings.json": {
+     "path": "judgments/cassation/civil/cassation_rulings.json",
+     "count": 395
+    },
+    "judgments/cassation/civil/civil_procedure.json": {
+     "path": "judgments/cassation/civil/civil_procedure.json",
+     "count": 76
+    },
+    "judgments/cassation/civil/co_ownership.json": {
+     "path": "judgments/cassation/civil/co_ownership.json",
+     "count": 34
+    },
+    "judgments/cassation/civil/commercial_acts.json": {
+     "path": "judgments/cassation/civil/commercial_acts.json",
+     "count": 183
+    },
+    "judgments/cassation/civil/companies.json": {
+     "path": "judgments/cassation/civil/companies.json",
+     "count": 201
+    },
+    "judgments/cassation/civil/compensation.json": {
+     "path": "judgments/cassation/civil/compensation.json",
+     "count": 586
+    },
+    "judgments/cassation/civil/constitutional.json": {
+     "path": "judgments/cassation/civil/constitutional.json",
+     "count": 64
+    },
+    "judgments/cassation/civil/construction_contracts.json": {
+     "path": "judgments/cassation/civil/construction_contracts.json",
+     "count": 1
+    },
+    "judgments/cassation/civil/construction_permits.json": {
+     "path": "judgments/cassation/civil/construction_permits.json",
+     "count": 37
+    },
+    "judgments/cassation/civil/contracts_general.json": {
+     "path": "judgments/cassation/civil/contracts_general.json",
+     "count": 522
+    },
+    "judgments/cassation/civil/copyright.json": {
+     "path": "judgments/cassation/civil/copyright.json",
+     "count": 20
+    },
+    "judgments/cassation/civil/court_fees.json": {
+     "path": "judgments/cassation/civil/court_fees.json",
+     "count": 203
+    },
+    "judgments/cassation/civil/custom_usage.json": {
+     "path": "judgments/cassation/civil/custom_usage.json",
+     "count": 12
+    },
+    "judgments/cassation/civil/customs.json": {
+     "path": "judgments/cassation/civil/customs.json",
+     "count": 119
+    },
+    "judgments/cassation/civil/debts.json": {
+     "path": "judgments/cassation/civil/debts.json",
+     "count": 5
+    },
+    "judgments/cassation/civil/defects_of_consent.json": {
+     "path": "judgments/cassation/civil/defects_of_consent.json",
+     "count": 6
+    },
+    "judgments/cassation/civil/defense.json": {
+     "path": "judgments/cassation/civil/defense.json",
+     "count": 80
+    },
+    "judgments/cassation/civil/domicile.json": {
+     "path": "judgments/cassation/civil/domicile.json",
+     "count": 35
+    },
+    "judgments/cassation/civil/education.json": {
+     "path": "judgments/cassation/civil/education.json",
+     "count": 13
+    },
+    "judgments/cassation/civil/employment_contracts.json": {
+     "path": "judgments/cassation/civil/employment_contracts.json",
+     "count": 862
+    },
+    "judgments/cassation/civil/enforcement.json": {
+     "path": "judgments/cassation/civil/enforcement.json",
+     "count": 206
+    },
+    "judgments/cassation/civil/evidence.json": {
+     "path": "judgments/cassation/civil/evidence.json",
+     "count": 1104
+    },
+    "judgments/cassation/civil/ex_parte_orders.json": {
+     "path": "judgments/cassation/civil/ex_parte_orders.json",
+     "count": 15
+    },
+    "judgments/cassation/civil/expropriation.json": {
+     "path": "judgments/cassation/civil/expropriation.json",
+     "count": 2
+    },
+    "judgments/cassation/civil/financial_guardianship.json": {
+     "path": "judgments/cassation/civil/financial_guardianship.json",
+     "count": 64
+    },
+    "judgments/cassation/civil/general_civil.json": {
+     "path": "judgments/cassation/civil/general_civil.json",
+     "count": 694
+    },
+    "judgments/cassation/civil/immunity.json": {
+     "path": "judgments/cassation/civil/immunity.json",
+     "count": 6
+    },
+    "judgments/cassation/civil/inheritance.json": {
+     "path": "judgments/cassation/civil/inheritance.json",
+     "count": 157
+    },
+    "judgments/cassation/civil/insolvency.json": {
+     "path": "judgments/cassation/civil/insolvency.json",
+     "count": 139
+    },
+    "judgments/cassation/civil/insurance.json": {
+     "path": "judgments/cassation/civil/insurance.json",
+     "count": 97
+    },
+    "judgments/cassation/civil/international_agreements.json": {
+     "path": "judgments/cassation/civil/international_agreements.json",
+     "count": 47
+    },
+    "judgments/cassation/civil/investment_law.json": {
+     "path": "judgments/cassation/civil/investment_law.json",
+     "count": 4
+    },
+    "judgments/cassation/civil/irrigation.json": {
+     "path": "judgments/cassation/civil/irrigation.json",
+     "count": 14
+    },
+    "judgments/cassation/civil/judgments.json": {
+     "path": "judgments/cassation/civil/judgments.json",
+     "count": 2147
+    },
+    "judgments/cassation/civil/judiciary.json": {
+     "path": "judgments/cassation/civil/judiciary.json",
+     "count": 119
+    },
+    "judgments/cassation/civil/judiciary_requests.json": {
+     "path": "judgments/cassation/civil/judiciary_requests.json",
+     "count": 1018
+    },
+    "judgments/cassation/civil/jurisdiction.json": {
+     "path": "judgments/cassation/civil/jurisdiction.json",
+     "count": 354
+    },
+    "judgments/cassation/civil/law_general.json": {
+     "path": "judgments/cassation/civil/law_general.json",
+     "count": 326
+    },
+    "judgments/cassation/civil/lease.json": {
+     "path": "judgments/cassation/civil/lease.json",
+     "count": 1713
+    },
+    "judgments/cassation/civil/lease_contracts.json": {
+     "path": "judgments/cassation/civil/lease_contracts.json",
+     "count": 15
+    },
+    "judgments/cassation/civil/legal_capacity.json": {
+     "path": "judgments/cassation/civil/legal_capacity.json",
+     "count": 105
+    },
+    "judgments/cassation/civil/legal_entities.json": {
+     "path": "judgments/cassation/civil/legal_entities.json",
+     "count": 57
+    },
+    "judgments/cassation/civil/licensing.json": {
+     "path": "judgments/cassation/civil/licensing.json",
+     "count": 6
+    },
+    "judgments/cassation/civil/litigation.json": {
+     "path": "judgments/cassation/civil/litigation.json",
+     "count": 1380
+    },
+    "judgments/cassation/civil/loan_for_use.json": {
+     "path": "judgments/cassation/civil/loan_for_use.json",
+     "count": 1
+    },
+    "judgments/cassation/civil/long_lease.json": {
+     "path": "judgments/cassation/civil/long_lease.json",
+     "count": 23
+    },
+    "judgments/cassation/civil/maritime_transport.json": {
+     "path": "judgments/cassation/civil/maritime_transport.json",
+     "count": 213
+    },
+    "judgments/cassation/civil/mortgage.json": {
+     "path": "judgments/cassation/civil/mortgage.json",
+     "count": 32
+    },
+    "judgments/cassation/civil/nationality.json": {
+     "path": "judgments/cassation/civil/nationality.json",
+     "count": 24
+    },
+    "judgments/cassation/civil/nullity.json": {
+     "path": "judgments/cassation/civil/nullity.json",
+     "count": 89
+    },
+    "judgments/cassation/civil/obligations.json": {
+     "path": "judgments/cassation/civil/obligations.json",
+     "count": 226
+    },
+    "judgments/cassation/civil/partition_contracts.json": {
+     "path": "judgments/cassation/civil/partition_contracts.json",
+     "count": 88
+    },
+    "judgments/cassation/civil/patents.json": {
+     "path": "judgments/cassation/civil/patents.json",
+     "count": 3
+    },
+    "judgments/cassation/civil/payment_fulfillment.json": {
+     "path": "judgments/cassation/civil/payment_fulfillment.json",
+     "count": 38
+    },
+    "judgments/cassation/civil/payment_orders.json": {
+     "path": "judgments/cassation/civil/payment_orders.json",
+     "count": 50
+    },
+    "judgments/cassation/civil/personal_status_muslim.json": {
+     "path": "judgments/cassation/civil/personal_status_muslim.json",
+     "count": 852
+    },
+    "judgments/cassation/civil/personal_status_nonmuslim.json": {
+     "path": "judgments/cassation/civil/personal_status_nonmuslim.json",
+     "count": 244
+    },
+    "judgments/cassation/civil/preemption.json": {
+     "path": "judgments/cassation/civil/preemption.json",
+     "count": 370
+    },
+    "judgments/cassation/civil/procedural_defenses.json": {
+     "path": "judgments/cassation/civil/procedural_defenses.json",
+     "count": 122
+    },
+    "judgments/cassation/civil/professional_unions.json": {
+     "path": "judgments/cassation/civil/professional_unions.json",
+     "count": 53
+    },
+    "judgments/cassation/civil/property_acquisition.json": {
+     "path": "judgments/cassation/civil/property_acquisition.json",
+     "count": 580
+    },
+    "judgments/cassation/civil/property_rights.json": {
+     "path": "judgments/cassation/civil/property_rights.json",
+     "count": 6
+    },
+    "judgments/cassation/civil/public_order.json": {
+     "path": "judgments/cassation/civil/public_order.json",
+     "count": 14
+    },
+    "judgments/cassation/civil/public_property.json": {
+     "path": "judgments/cassation/civil/public_property.json",
+     "count": 83
+    },
+    "judgments/cassation/civil/public_prosecution.json": {
+     "path": "judgments/cassation/civil/public_prosecution.json",
+     "count": 94
+    },
+    "judgments/cassation/civil/public_utilities.json": {
+     "path": "judgments/cassation/civil/public_utilities.json",
+     "count": 26
+    },
+    "judgments/cassation/civil/real_estate_debt_settlement.json": {
+     "path": "judgments/cassation/civil/real_estate_debt_settlement.json",
+     "count": 26
+    },
+    "judgments/cassation/civil/real_estate_registration.json": {
+     "path": "judgments/cassation/civil/real_estate_registration.json",
+     "count": 12
+    },
+    "judgments/cassation/civil/receivership.json": {
+     "path": "judgments/cassation/civil/receivership.json",
+     "count": 183
+    },
+    "judgments/cassation/civil/res_judicata.json": {
+     "path": "judgments/cassation/civil/res_judicata.json",
+     "count": 320
+    },
+    "judgments/cassation/civil/review_petition.json": {
+     "path": "judgments/cassation/civil/review_petition.json",
+     "count": 45
+    },
+    "judgments/cassation/civil/right_of_view.json": {
+     "path": "judgments/cassation/civil/right_of_view.json",
+     "count": 2
+    },
+    "judgments/cassation/civil/rights.json": {
+     "path": "judgments/cassation/civil/rights.json",
+     "count": 124
+    },
+    "judgments/cassation/civil/sale_contracts.json": {
+     "path": "judgments/cassation/civil/sale_contracts.json",
+     "count": 560
+    },
+    "judgments/cassation/civil/service_of_process.json": {
+     "path": "judgments/cassation/civil/service_of_process.json",
+     "count": 430
+    },
+    "judgments/cassation/civil/settlement_contracts.json": {
+     "path": "judgments/cassation/civil/settlement_contracts.json",
+     "count": 27
+    },
+    "judgments/cassation/civil/sham_transactions.json": {
+     "path": "judgments/cassation/civil/sham_transactions.json",
+     "count": 146
+    },
+    "judgments/cassation/civil/solidarity.json": {
+     "path": "judgments/cassation/civil/solidarity.json",
+     "count": 22
+    },
+    "judgments/cassation/civil/sovereignty_acts.json": {
+     "path": "judgments/cassation/civil/sovereignty_acts.json",
+     "count": 11
+    },
+    "judgments/cassation/civil/state_litigation.json": {
+     "path": "judgments/cassation/civil/state_litigation.json",
+     "count": 22
+    },
+    "judgments/cassation/civil/succession_rights.json": {
+     "path": "judgments/cassation/civil/succession_rights.json",
+     "count": 17
+    },
+    "judgments/cassation/civil/supply_contracts.json": {
+     "path": "judgments/cassation/civil/supply_contracts.json",
+     "count": 3
+    },
+    "judgments/cassation/civil/supply_regulatory.json": {
+     "path": "judgments/cassation/civil/supply_regulatory.json",
+     "count": 41
+    },
+    "judgments/cassation/civil/taxation.json": {
+     "path": "judgments/cassation/civil/taxation.json",
+     "count": 1022
+    },
+    "judgments/cassation/civil/trademarks.json": {
+     "path": "judgments/cassation/civil/trademarks.json",
+     "count": 37
+    },
+    "judgments/cassation/civil/unforeseen_circumstances.json": {
+     "path": "judgments/cassation/civil/unforeseen_circumstances.json",
+     "count": 52
+    },
+    "judgments/cassation/civil/unjust_enrichment.json": {
+     "path": "judgments/cassation/civil/unjust_enrichment.json",
+     "count": 25
+    },
+    "judgments/cassation/civil/urgent_judiciary.json": {
+     "path": "judgments/cassation/civil/urgent_judiciary.json",
+     "count": 64
+    },
+    "judgments/cassation/civil/usufruct_revenue.json": {
+     "path": "judgments/cassation/civil/usufruct_revenue.json",
+     "count": 23
+    },
+    "judgments/cassation/civil/waqf.json": {
+     "path": "judgments/cassation/civil/waqf.json",
+     "count": 280
+    },
+    "judgments/cassation/civil/wills.json": {
+     "path": "judgments/cassation/civil/wills.json",
+     "count": 87
+    }
+   }
+  },
+  "doctrine": {
+   "file_count": 1,
+   "record_count": 49,
+   "files": {
+    "principles/doctrine/civil_sanhouri_wasit_vol1.json": {
+     "path": "principles/doctrine/civil_sanhouri_wasit_vol1.json",
+     "count": 49
+    }
+   }
+  },
+  "deadlines": {
+   "file_count": 10,
+   "record_count": 67,
+   "files": {
+    "deadlines/administrative_deadlines.json": {
+     "path": "deadlines/administrative_deadlines.json",
+     "count": 3
+    },
+    "deadlines/appeal_deadlines.json": {
+     "path": "deadlines/appeal_deadlines.json",
+     "count": 4
+    },
+    "deadlines/civil_law_deadlines.json": {
+     "path": "deadlines/civil_law_deadlines.json",
+     "count": 17
+    },
+    "deadlines/commercial_deadlines.json": {
+     "path": "deadlines/commercial_deadlines.json",
+     "count": 5
+    },
+    "deadlines/constitutional_deadlines.json": {
+     "path": "deadlines/constitutional_deadlines.json",
+     "count": 2
+    },
+    "deadlines/criminal_deadlines.json": {
+     "path": "deadlines/criminal_deadlines.json",
+     "count": 12
+    },
+    "deadlines/limitation_periods.json": {
+     "path": "deadlines/limitation_periods.json",
+     "count": 3
+    },
+    "deadlines/objection_deadlines.json": {
+     "path": "deadlines/objection_deadlines.json",
+     "count": 2
+    },
+    "deadlines/personal_status_deadlines.json": {
+     "path": "deadlines/personal_status_deadlines.json",
+     "count": 4
+    },
+    "deadlines/procedural_deadlines.json": {
+     "path": "deadlines/procedural_deadlines.json",
+     "count": 15
+    }
+   }
+  },
+  "procedures_branch": {
+   "file_count": 6,
+   "record_count": 15,
+   "files": {
+    "procedures/branch/administrative_procedures.json": {
+     "path": "procedures/branch/administrative_procedures.json",
+     "count": 3
+    },
+    "procedures/branch/civil_procedures.json": {
+     "path": "procedures/branch/civil_procedures.json",
+     "count": 3
+    },
+    "procedures/branch/commercial_constitutional_procedures.json": {
+     "path": "procedures/branch/commercial_constitutional_procedures.json",
+     "count": 2
+    },
+    "procedures/branch/criminal_procedures.json": {
+     "path": "procedures/branch/criminal_procedures.json",
+     "count": 3
+    },
+    "procedures/branch/execution_procedures.json": {
+     "path": "procedures/branch/execution_procedures.json",
+     "count": 2
+    },
+    "procedures/branch/family_procedures.json": {
+     "path": "procedures/branch/family_procedures.json",
+     "count": 2
+    }
+   }
+  },
+  "procedures_deep": {
+   "file_count": 9,
+   "record_count": 9,
+   "files": {
+    "procedures/deep/ADMIN-DEEP-001-complaint-annulment.json": {
+     "path": "procedures/deep/ADMIN-DEEP-001-complaint-annulment.json",
+     "count": 1
+    },
+    "procedures/deep/APPEAL-DEEP-001-appeals-cassation.json": {
+     "path": "procedures/deep/APPEAL-DEEP-001-appeals-cassation.json",
+     "count": 1
+    },
+    "procedures/deep/CIVIL-DEEP-001-filing.json": {
+     "path": "procedures/deep/CIVIL-DEEP-001-filing.json",
+     "count": 1
+    },
+    "procedures/deep/CIVIL-DEEP-002-order-to-pay.json": {
+     "path": "procedures/deep/CIVIL-DEEP-002-order-to-pay.json",
+     "count": 1
+    },
+    "procedures/deep/CRIM-DEEP-001-criminal-procedure.json": {
+     "path": "procedures/deep/CRIM-DEEP-001-criminal-procedure.json",
+     "count": 1
+    },
+    "procedures/deep/EXEC-DEEP-001-attachment.json": {
+     "path": "procedures/deep/EXEC-DEEP-001-attachment.json",
+     "count": 1
+    },
+    "procedures/deep/EXEC-DEEP-002-enforcement.json": {
+     "path": "procedures/deep/EXEC-DEEP-002-enforcement.json",
+     "count": 1
+    },
+    "procedures/deep/FAMILY-DEEP-001-family-court.json": {
+     "path": "procedures/deep/FAMILY-DEEP-001-family-court.json",
+     "count": 1
+    },
+    "procedures/deep/FAMILY-DEEP-002-all-documents.json": {
+     "path": "procedures/deep/FAMILY-DEEP-002-all-documents.json",
+     "count": 1
+    }
+   }
+  },
+  "templates": {
+   "file_count": 1,
+   "record_count": 7,
+   "files": {
+    "templates/legal_templates_library.json": {
+     "path": "templates/legal_templates_library.json",
+     "count": 7
+    }
+   }
+  }
+ },
+ "search_index_location": "knowledge/search_index/ (sharded by first letter; see _SEARCH_INDEX_SUMMARY.json)",
+ "references": {
+  "legacy_indexes": "knowledge/references/legacy_indexes/ (original index files, preserved, superseded by this MASTER_INDEX.json)",
+  "legacy_reports": "knowledge/references/legacy_reports/ (original markdown reports/exports, preserved unmodified)",
+  "raw_sources": "knowledge/references/raw_sources/cassation/ (103 original .doc source volumes, categorized by crime/branch, filenames corrected from encoding corruption, content untouched)"
+ },
+ "schema": {
+  "id": "stable unique identifier",
+  "type": "judgment_principle | doctrine_principle | deadline | procedure | procedure_deep | template",
+  "category": "classification bucket (crime/topic/branch, taken from most granular existing field)",
+  "title": "short title/topic",
+  "content": "primary textual content (principle/summary) - verbatim from source, not altered",
+  "keywords": "deduped list merged from existing keyword-ish fields only",
+  "citations": "case citation strings / legal_basis references, verbatim",
+  "related_ids": "cross-referenced record ids sharing the same topic/title within the corpus",
+  "metadata": "structured fields (source, date, court, branch, article numbers, etc.) extracted from original record; unavailable fields left null, nothing invented",
+  "source_fields": "the ENTIRE original source record, preserved verbatim for zero data loss and future re-derivation"
+ }
+}

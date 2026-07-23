@@ -1,0 +1,230 @@
+[
+ {
+  "id": "OBJ-0001",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد الاعتراض على قائمة التوزيع",
+  "content": "لكل دائن ولمن أجريت ضده إجراءات التنفيذ أن يعترض على قائمة التوزيع وذلك خلال عشرة أيام من إيداعها.",
+  "keywords": [
+   "توزيع",
+   "10 أيام",
+   "مرافعات",
+   "الاعتراض على قائمة التوزيع",
+   "المادة 443 مرافعات",
+   "التوزيع",
+   "التنفيذ"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "443",
+   "date": null,
+   "court": "قاضي التنفيذ",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "risk_level": "متوسط"
+  },
+  "source_fields": {
+   "id": "OBJ-0001",
+   "title": "ميعاد الاعتراض على قائمة التوزيع",
+   "category": "إجراءات مدنية",
+   "sub_category": "التوزيع",
+   "deadline_type": "إجرائي",
+   "trigger_event": "إيداع قائمة التوزيع",
+   "duration": "10 أيام",
+   "duration_days": 10,
+   "calculation_method": "من تاريخ الإيداع",
+   "legal_text": "لكل دائن ولمن أجريت ضده إجراءات التنفيذ أن يعترض على قائمة التوزيع وذلك خلال عشرة أيام من إيداعها.",
+   "plain_language_explanation": "الاعتراض على قائمة التوزيع: 10 أيام من إيداعها.",
+   "practical_meaning": "فوات 10 أيام يجعل التوزيع نهائياً.",
+   "start_date_rule": "من تاريخ إيداع قائمة التوزيع",
+   "end_condition": "10 أيام",
+   "court_or_authority": "قاضي التنفيذ",
+   "required_action": "تقديم اعتراض",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "اعتراض مكتوب"
+   ],
+   "risk_if_missed": "سقوط الاعتراض",
+   "legal_effect_if_missed": "القائمة نهائية",
+   "subsequent_deadline": null,
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال مراجعة القائمة"
+   ],
+   "risk_level": "متوسط",
+   "lawyer_workflow": [
+    "متابعة إيداع القائمة",
+    "الاعتراض خلال 10 أيام"
+   ],
+   "automation_opportunities": [
+    "تنبيه بإيداع قائمة التوزيع"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "443"
+    }
+   ],
+   "related_procedures": [
+    "اعتراض التوزيع"
+   ],
+   "related_topics": [
+    "التوزيع",
+    "التنفيذ"
+   ],
+   "ai_tags": [
+    "توزيع",
+    "10 أيام",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "الاعتراض على قائمة التوزيع",
+    "المادة 443 مرافعات"
+   ],
+   "ai_summary": "الاعتراض على قائمة التوزيع: 10 أيام من إيداعها.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "التوزيع",
+    "issue_type": "الاعتراض على التوزيع"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "التوزيع",
+    "page": "",
+    "article_number": "443"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات__file_0193__art_0445",
+   "قانون_المرافعات__file_0087__art_0453",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0453"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "OBJ-0002",
+  "type": "deadline",
+  "category": "إجراءات مدنية",
+  "title": "ميعاد الاعتراض على أمر الحجز لدى الغير",
+  "content": "يجب على الحاجز خلال ثمانية الأيام التالية لتوقيع الحجز إعلان المحجوز لديه بالأمر الصادر بالحجز وإلا اعتبر الحجز كأن لم يكن.",
+  "keywords": [
+   "حجز الغير",
+   "8 أيام",
+   "مرافعات",
+   "إعلان المحجوز لديه",
+   "المادة 339 مرافعات",
+   "الحجز لدى الغير",
+   "التنفيذ"
+  ],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "المواعيد في المرافعات",
+   "law_number": null,
+   "article_number": "339",
+   "date": null,
+   "court": "قلم المحضرين",
+   "confidence": null,
+   "branch": "إجراءات مدنية",
+   "duration": "8 أيام (ثم الدعوى الموضوعية خلال 8 أيام)",
+   "duration_days": 8,
+   "risk_level": "مرتفع"
+  },
+  "source_fields": {
+   "id": "OBJ-0002",
+   "title": "ميعاد الاعتراض على أمر الحجز لدى الغير",
+   "category": "إجراءات مدنية",
+   "sub_category": "الحجز لدى الغير",
+   "deadline_type": "إجرائي",
+   "trigger_event": "إعلان المحجوز لديه بأمر الحجز",
+   "duration": "8 أيام (ثم الدعوى الموضوعية خلال 8 أيام)",
+   "duration_days": 8,
+   "calculation_method": "من تاريخ توقيع الحجز",
+   "legal_text": "يجب على الحاجز خلال ثمانية الأيام التالية لتوقيع الحجز إعلان المحجوز لديه بالأمر الصادر بالحجز وإلا اعتبر الحجز كأن لم يكن.",
+   "plain_language_explanation": "إعلان المحجوز لديه بالحجز: 8 أيام من توقيع الحجز.",
+   "practical_meaning": "إجراءان في 8 أيام: إعلان المحجوز لديه ورفع الدعوى الموضوعية.",
+   "start_date_rule": "من توقيع الحجز",
+   "end_condition": "8 أيام",
+   "court_or_authority": "قلم المحضرين",
+   "required_action": "إعلان المحجوز لديه خلال 8 أيام",
+   "mandatory_requirements": [],
+   "required_documents": [
+    "ورقة إعلان المحجوز لديه"
+   ],
+   "risk_if_missed": "بطلان الحجز",
+   "legal_effect_if_missed": "اعتبار الحجز كأن لم يكن",
+   "subsequent_deadline": "رفع الدعوى الموضوعية: 8 أيام أيضاً",
+   "interruptions": [],
+   "suspension_causes": [],
+   "exceptions": [],
+   "common_lawyer_mistakes": [
+    "إغفال إعلان المحجوز لديه"
+   ],
+   "risk_level": "مرتفع",
+   "lawyer_workflow": [
+    "توقيع الحجز",
+    "إعلان المحجوز لديه خلال 8 أيام"
+   ],
+   "automation_opportunities": [
+    "تنبيه بانتهاء ميعاد إعلان المحجوز لديه"
+   ],
+   "related_articles": [
+    {
+     "law": "قانون المرافعات",
+     "article": "339"
+    }
+   ],
+   "related_procedures": [
+    "الحجز لدى الغير"
+   ],
+   "related_topics": [
+    "الحجز لدى الغير",
+    "التنفيذ"
+   ],
+   "ai_tags": [
+    "حجز الغير",
+    "8 أيام",
+    "مرافعات"
+   ],
+   "search_keywords": [
+    "إعلان المحجوز لديه",
+    "المادة 339 مرافعات"
+   ],
+   "ai_summary": "إعلان المحجوز لديه بالحجز: 8 أيام من توقيعه وإلا اعتُبر الحجز كأن لم يكن.",
+   "classification": {
+    "branch": "إجراءات مدنية",
+    "category": "المرافعات",
+    "doctrine": "الحجز لدى الغير",
+    "issue_type": "إعلان المحجوز لديه"
+   },
+   "source_reference": {
+    "book": "المواعيد في المرافعات",
+    "chapter": "الحجز لدى الغير",
+    "page": "",
+    "article_number": "339"
+   }
+  },
+  "related_articles": [
+   "قانون_المرافعات__file_0193__art_0343",
+   "قانون_المرافعات__file_0087__art_0349",
+   "قانون_رقم_13_لسنة_1968__file_0133__art_0349"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

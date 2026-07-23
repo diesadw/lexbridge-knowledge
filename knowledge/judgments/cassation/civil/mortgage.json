@@ -1,0 +1,3450 @@
+[
+ {
+  "id": "cass_civil_mortgage_0275_25_4",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "اثار الرهن",
+  "content": "دفوع المدين التى يجوز للحائز أن يتمسك بها بالشروط المبينة بالمادة 1073 من القانون المدنى هى الدفوع المتعلقة بموضوع الدين ذاته و وجوده ، و لا علاقة لها بإجراءات التنفيذ الشكلية التى نص عليها قانون المرافعات .",
+  "keywords": [
+   "اثار الرهن",
+   "التنفيذ",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0275 لسنة 25"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-11-1959",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0275",
+   "judicial_year": "25",
+   "office_volume": "10",
+   "page": "688",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0275_25_4",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "اثار الرهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0275",
+    "judicial_year": "25",
+    "office_volume": "10",
+    "page": "688",
+    "session_date": "19-11-1959",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "اثار الرهن",
+    "التنفيذ",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "دفوع المدين التى يجوز للحائز أن يتمسك بها بالشروط المبينة بالمادة 1073 من القانون المدنى هى الدفوع المتعلقة بموضوع الدين ذاته و وجوده ، و لا علاقة لها بإجراءات التنفيذ الشكلية التى نص عليها قانون المرافعات .",
+   "core_principles": [
+    "دفوع المدين التى يجوز للحائز أن يتمسك بها بالشروط المبينة بالمادة 1073 من القانون المدنى هى الدفوع المتعلقة بموضوع الدين ذاته و وجوده ، و لا علاقة لها بإجراءات التنفيذ الشكلية التى نص عليها قانون المرافعات"
+   ],
+   "judicial_rule": {
+    "short": "دفوع المدين التى يجوز للحائز أن يتمسك بها بالشروط المبينة بالمادة 1073 من القانون المدنى هى الدفوع المتعلقة بموضوع الدين ذاته و وجوده ، و لا علاقة لها بإجراءات التنفيذ الشكلية التى نص عليها قانون المرافعات",
+    "professional": "دفوع المدين التى يجوز للحائز أن يتمسك بها بالشروط المبينة بالمادة 1073 من القانون المدنى هى الدفوع المتعلقة بموضوع الدين ذاته و وجوده ، و لا علاقة لها بإجراءات التنفيذ الشكلية التى نص عليها قانون المرافعات ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "اثار الرهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0121_21_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "اثبات الرهن",
+  "content": "تعتبر العقارات بالتخصيص وفقا لنص المادة 688 من القانون المدنى المختلط داخلة ضمن الملحقات المشار إليها فى المادة المذكورة ، و تباع مع العقار المرهون مالم يتفق صراحة على خلاف ذلك ، و يقع عبء إثبات هذا الاتفاق على من",
+  "keywords": [
+   "اثبات الرهن",
+   "الرهن",
+   "العقد",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0121 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0138_21_1",
+   "cass_civil_mortgage_0325_21_1",
+   "cass_civil_mortgage_0121_21_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "14-01-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0121",
+   "judicial_year": "21",
+   "office_volume": "05",
+   "page": "420",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0121_21_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "اثبات الرهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0121",
+    "judicial_year": "21",
+    "office_volume": "05",
+    "page": "420",
+    "session_date": "14-01-1954",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اثبات الرهن",
+    "الرهن",
+    "العقد",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تعتبر العقارات بالتخصيص وفقا لنص المادة 688 من القانون المدنى المختلط داخلة ضمن الملحقات المشار إليها فى المادة المذكورة ، و تباع مع العقار المرهون مالم يتفق صراحة على خلاف ذلك ، و يقع عبء إثبات هذا الاتفاق على من",
+   "core_principles": [
+    "و إذن فمتى كان الطاعن بوصفه \" مدعيا \" هو المكلف بإثبات أن المنقولات موضوع النزاع لا يشملها عقد الرهن الصادر منه ، فإنه كان لزاما عليه هو أن يقدم هذا العقد إلى محكمة الموضوع فى سبيل إثبات دعواه ، و إذ هو لم يفعل فلا يقبل منه النعى عليها بالخطأ فى تطبيق المادة المشار اليها"
+   ],
+   "judicial_rule": {
+    "short": "و إذن فمتى كان الطاعن بوصفه \" مدعيا \" هو المكلف بإثبات أن المنقولات موضوع النزاع لا يشملها عقد الرهن الصادر منه ، فإنه كان لزاما عليه هو أن يقدم هذا العقد إلى محكمة الموضوع فى سبيل إثبات دعواه ،",
+    "professional": "تعتبر العقارات بالتخصيص وفقا لنص المادة 688 من القانون المدنى المختلط داخلة ضمن الملحقات المشار إليها فى المادة المذكورة ، و تباع مع العقار المرهون مالم يتفق صراحة على خلاف ذلك ، و يقع عبء إثبات هذا الاتفاق على من يدعيه . و إذن فمتى كان الطاعن بوصفه \" مدعيا \" هو المكلف بإثبات أن المنقولات موضوع النزاع لا يشملها عقد الرهن الصادر منه ، فإنه كان لزاما عليه هو أن يقدم هذا العقد إلى محكمة الموضوع فى سبيل إثبات دعواه ، و إذ هو لم يفعل فلا يقبل منه النعى عليها بالخطأ فى تطبيق المادة"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "اثبات الرهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0138_21_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "اثبات الرهن",
+  "content": "تعتبر العقارات بالتخصيص وفقا لنص المادة 688 من القانون المدنى المختلط المنطبقة على واقعة الدعوى ملحقة بالعقار الأصلى المرهون دون حاجة إلى نص صريح عنها بعقد الرهن كما تعتبر داخلة ضمن الملحقات المشار إليها فى المادة المذكورة ما لم يتفق",
+  "keywords": [
+   "اثبات الرهن",
+   "الرهن",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0138 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0121_21_2",
+   "cass_civil_mortgage_0325_21_1",
+   "cass_civil_mortgage_0121_21_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-05-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0138",
+   "judicial_year": "21",
+   "office_volume": "05",
+   "page": "851",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0138_21_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "اثبات الرهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0138",
+    "judicial_year": "21",
+    "office_volume": "05",
+    "page": "851",
+    "session_date": "13-05-1954",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اثبات الرهن",
+    "الرهن",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تعتبر العقارات بالتخصيص وفقا لنص المادة 688 من القانون المدنى المختلط المنطبقة على واقعة الدعوى ملحقة بالعقار الأصلى المرهون دون حاجة إلى نص صريح عنها بعقد الرهن كما تعتبر داخلة ضمن الملحقات المشار إليها فى المادة المذكورة ما لم يتفق",
+   "core_principles": [
+    "تعتبر العقارات بالتخصيص وفقا لنص المادة 688 من القانون المدنى المختلط المنطبقة على واقعة الدعوى ملحقة بالعقار الأصلى المرهون دون حاجة إلى نص صريح عنها بعقد الرهن كما تعتبر داخلة ضمن الملحقات المشار إليها فى المادة المذكورة ما لم يتفق صراحة على خلاف ذلك"
+   ],
+   "judicial_rule": {
+    "short": "تعتبر العقارات بالتخصيص وفقا لنص المادة 688 من القانون المدنى المختلط المنطبقة على واقعة الدعوى ملحقة بالعقار الأصلى المرهون دون حاجة إلى نص صريح عنها بعقد الرهن كما تعتبر داخلة ضمن الملحقات المشار إليها فى المادة المذكورة ما لم يتفق",
+    "professional": "تعتبر العقارات بالتخصيص وفقا لنص المادة 688 من القانون المدنى المختلط المنطبقة على واقعة الدعوى ملحقة بالعقار الأصلى المرهون دون حاجة إلى نص صريح عنها بعقد الرهن كما تعتبر داخلة ضمن الملحقات المشار إليها فى المادة المذكورة ما لم يتفق صراحة على خلاف ذلك ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "اثبات الرهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0325_21_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "اثبات الرهن",
+  "content": "يشترط لتخصيص المنقول للعقار أن يكون مالكهما واحدا . و إذن فمتى كان أحد الشركاء على الشيوع فى أرض يمتلك ماكينة ملكية خاصة و أقامها على هذه الأرض بماله و استغلها لنفسه و لحسابه الخاص فإنها لا تصير عقاراً بالتخصيص",
+  "keywords": [
+   "اثبات الرهن",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0325 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0121_21_2",
+   "cass_civil_mortgage_0138_21_1",
+   "cass_civil_mortgage_0121_21_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "10-02-1955",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0325",
+   "judicial_year": "21",
+   "office_volume": "06",
+   "page": "639",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0325_21_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "اثبات الرهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0325",
+    "judicial_year": "21",
+    "office_volume": "06",
+    "page": "639",
+    "session_date": "10-02-1955",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اثبات الرهن",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "يشترط لتخصيص المنقول للعقار أن يكون مالكهما واحدا . و إذن فمتى كان أحد الشركاء على الشيوع فى أرض يمتلك ماكينة ملكية خاصة و أقامها على هذه الأرض بماله و استغلها لنفسه و لحسابه الخاص فإنها لا تصير عقاراً بالتخصيص",
+   "core_principles": [
+    "و إذن فمتى كان أحد الشركاء على الشيوع فى أرض يمتلك ماكينة ملكية خاصة و أقامها على هذه الأرض بماله و استغلها لنفسه و لحسابه الخاص فإنها لا تصير عقاراً بالتخصيص"
+   ],
+   "judicial_rule": {
+    "short": "و إذن فمتى كان أحد الشركاء على الشيوع فى أرض يمتلك ماكينة ملكية خاصة و أقامها على هذه الأرض بماله و استغلها لنفسه و لحسابه الخاص فإنها لا تصير عقاراً بالتخصيص",
+    "professional": "يشترط لتخصيص المنقول للعقار أن يكون مالكهما واحدا . و إذن فمتى كان أحد الشركاء على الشيوع فى أرض يمتلك ماكينة ملكية خاصة و أقامها على هذه الأرض بماله و استغلها لنفسه و لحسابه الخاص فإنها لا تصير عقاراً بالتخصيص ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "اثبات الرهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0121_21_3",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "اثبات الرهن",
+  "content": "تعتبر المنقولات التى رصدها المالك لخدمة عقاره المستغل استغلالا تجاريا بمعرفته بالتخصيص وفقا لنص المادة 18 من القانون المدنى المختلط ، وليس بلازم لاعتبارها كذلك أن تكون مثبتة بالعقار على وجه القرار . ( الطعن رقم 121 لسنة 21 ق",
+  "keywords": [
+   "اثبات الرهن",
+   "الرهن",
+   "العقد",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0121 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0121_21_2",
+   "cass_civil_mortgage_0138_21_1",
+   "cass_civil_mortgage_0325_21_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "14-01-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0121",
+   "judicial_year": "21",
+   "office_volume": "05",
+   "page": "420",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0121_21_3",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "اثبات الرهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0121",
+    "judicial_year": "21",
+    "office_volume": "05",
+    "page": "420",
+    "session_date": "14-01-1954",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "اثبات الرهن",
+    "الرهن",
+    "العقد",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تعتبر المنقولات التى رصدها المالك لخدمة عقاره المستغل استغلالا تجاريا بمعرفته بالتخصيص وفقا لنص المادة 18 من القانون المدنى المختلط ، وليس بلازم لاعتبارها كذلك أن تكون مثبتة بالعقار على وجه القرار . ( الطعن رقم 121 لسنة 21 ق",
+   "core_principles": [
+    "( الطعن رقم 121 لسنة 21 ق ، جلسة 1954/1/14 ) الطعن رقم 0114 لسنة 15 مجموعة عمر 5ع صفحة رقم 279 بتاريخ 26-12-1946 الموضوع : عقد الرهن الموضوع الفرعي : اثبات الرهن فقرة رقم : 1 إذا كان الحكم القاضى بأن الإتفاق المعقود فى صيغة بيع كان على الرهن لا على البيع قد أقام ذلك على أن المشترية التى هى زوجة الدا"
+   ],
+   "judicial_rule": {
+    "short": "( الطعن رقم 121 لسنة 21 ق ، جلسة 1954/1/14 ) الطعن رقم 0114 لسنة 15 مجموعة عمر 5ع صفحة رقم 279 بتاريخ 26-12-1946 الموضوع : عقد الرهن الموضوع الفرعي : اثبات الرهن فقرة رقم : 1 إذا كان الحكم",
+    "professional": "تعتبر المنقولات التى رصدها المالك لخدمة عقاره المستغل استغلالا تجاريا بمعرفته بالتخصيص وفقا لنص المادة 18 من القانون المدنى المختلط ، وليس بلازم لاعتبارها كذلك أن تكون مثبتة بالعقار على وجه القرار . ( الطعن رقم 121 لسنة 21 ق ، جلسة 1954/1/14 ) الطعن رقم 0114 لسنة 15 مجموعة عمر 5ع صفحة رقم 279 بتاريخ 26-12-1946 الموضوع : عقد الرهن الموضوع الفرعي : اثبات الرهن فقرة رقم : 1 إذا كان الحكم القاضى بأن الإتفاق المعقود فى صيغة بيع كان على الرهن لا على البيع قد أقام ذلك على أن المشتري"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "اثبات الرهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0214_18_4",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "اثر التملك بالتقادم على العقار المرهون",
+  "content": "\"أ\" وضع يد الراهن على العين المرهونه بوصفه مستأجراً لها من المرتهن أو زوال يده عنها لا أثر له فى قطع التقادم أو تحديد بدء سريانه فيما بينه و بين دائنه من حقوق . \"ب\" الدائن المرتهن رهن حيازة يعتبر",
+  "keywords": [
+   "اثر التملك بالتقادم على العقار المرهون",
+   "التقادم",
+   "الرهن",
+   "الوكالة",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0214 لسنة 18"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0288_22_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-11-1950",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0214",
+   "judicial_year": "18",
+   "office_volume": "02",
+   "page": "93",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0214_18_4",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "اثر التملك بالتقادم على العقار المرهون",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0214",
+    "judicial_year": "18",
+    "office_volume": "02",
+    "page": "93",
+    "session_date": "23-11-1950",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "اثر التملك بالتقادم على العقار المرهون",
+    "التقادم",
+    "الرهن",
+    "الوكالة",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "\"أ\" وضع يد الراهن على العين المرهونه بوصفه مستأجراً لها من المرتهن أو زوال يده عنها لا أثر له فى قطع التقادم أو تحديد بدء سريانه فيما بينه و بين دائنه من حقوق . \"ب\" الدائن المرتهن رهن حيازة يعتبر",
+   "core_principles": [
+    "و إذن فإذا كان الحكم إذ قضى برفض ما دفع به الطاعن من سقوط حق المطعون عليهم فى رفع دعواهم ببراءة ذمتهم لمضى أكثر من خمسة عشرة سنة من نهاية الأجل المحدد للإسترداد قد أقام قضاءه على أن التقادم لا يبدأ إلا من الوقت الذى تخرج فيه العين من حيازة الراهن بحجة أنها مادامت فى حيازته فإن يده عليها هى الدليل ال"
+   ],
+   "judicial_rule": {
+    "short": "و إذن فإذا كان الحكم إذ قضى برفض ما دفع به الطاعن من سقوط حق المطعون عليهم فى رفع دعواهم ببراءة ذمتهم لمضى أكثر من خمسة عشرة سنة من نهاية الأجل المحدد للإسترداد قد أقام قضاءه على أن التقادم لا",
+    "professional": "\"أ\" وضع يد الراهن على العين المرهونه بوصفه مستأجراً لها من المرتهن أو زوال يده عنها لا أثر له فى قطع التقادم أو تحديد بدء سريانه فيما بينه و بين دائنه من حقوق . \"ب\" الدائن المرتهن رهن حيازة يعتبر أنه وكيل عن المدين الراهن فى إستغلال إدارة العين المرهونة و قبض ريعها و إن عليه بهذا الوصف أن يقدم إلى الراهن حساباً مفصلاً عن ذلك ، و دين الموكل قبل وكيله لا يبدأ تقادمه إلا من تاريخ إنتهاء الوكالة و تصفية الحساب بينهما \"ج\" خطأ الحكم فى تطبيق القانون لا يبطله إذا كان هذا الخطأ لم يؤ"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "اثر التملك بالتقادم على العقار المرهون",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0288_22_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "اثر التملك بالتقادم على العقار المرهون",
+  "content": "إذا وضع شخص يده على عقار مرهون المدة الطويلة المكسبة للملكية فإن تملكه للعقار لا يستتبع حتما إنقضاء الرهن بل يكون للدائن المرتهن الحق فى نزع ملكية العقار وفاء لدينه و لا يصح القول بأن وضع اليد على ذلك العقار",
+  "keywords": [
+   "اثر التملك بالتقادم على العقار المرهون",
+   "الرهن",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0288 لسنة 22"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0214_18_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "08-03-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0288",
+   "judicial_year": "22",
+   "office_volume": "07",
+   "page": "301",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0288_22_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "اثر التملك بالتقادم على العقار المرهون",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0288",
+    "judicial_year": "22",
+    "office_volume": "07",
+    "page": "301",
+    "session_date": "08-03-1956",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اثر التملك بالتقادم على العقار المرهون",
+    "الرهن",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا وضع شخص يده على عقار مرهون المدة الطويلة المكسبة للملكية فإن تملكه للعقار لا يستتبع حتما إنقضاء الرهن بل يكون للدائن المرتهن الحق فى نزع ملكية العقار وفاء لدينه و لا يصح القول بأن وضع اليد على ذلك العقار",
+   "core_principles": [
+    "إذا وضع شخص يده على عقار مرهون المدة الطويلة المكسبة للملكية فإن تملكه للعقار لا يستتبع حتما إنقضاء الرهن بل يكون للدائن المرتهن الحق فى نزع ملكية العقار وفاء لدينه و لا يصح القول بأن وضع اليد على ذلك العقار المدة الطويلة يكسب ملكية العقار و ملكية الرهن إذ هذا يؤدى إلى إهدار حق الدائن المرتهن الذى ك"
+   ],
+   "judicial_rule": {
+    "short": "إذا وضع شخص يده على عقار مرهون المدة الطويلة المكسبة للملكية فإن تملكه للعقار لا يستتبع حتما إنقضاء الرهن بل يكون للدائن المرتهن الحق فى نزع ملكية العقار وفاء لدينه و لا يصح القول بأن وضع اليد على ذلك العقار",
+    "professional": "إذا وضع شخص يده على عقار مرهون المدة الطويلة المكسبة للملكية فإن تملكه للعقار لا يستتبع حتما إنقضاء الرهن بل يكون للدائن المرتهن الحق فى نزع ملكية العقار وفاء لدينه و لا يصح القول بأن وضع اليد على ذلك العقار المدة الطويلة يكسب ملكية العقار و ملكية الرهن إذ هذا يؤدى إلى إهدار حق الدائن المرتهن الذى كفله نص المادة 554 من القانون المدنى من إستيفاء دينه بالأولوية و التقدم على الدائنين الآخرين من ثمن ذلك العقار فى أى يد يكون ، كما أن فيه إجازة لسقوط حق الرهن إستقلالاً عن الدين الم"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "اثر التملك بالتقادم على العقار المرهون",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0288_22_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "التزامات الدائن المرتهن",
+  "content": "إذا كان حائز العقار المرهون لم يتلق الملكية من المدين بل تلقاها عن غير طريقه سواء أكان ذلك بطريق الشراء من آخر أو بطريق وضع اليد المدة الطويلة المكسبة للملكية فلا على الدائن المرتهن إذا هو لم ينذره أو يتخذ",
+  "keywords": [
+   "التزامات الدائن المرتهن",
+   "الملكية",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0288 لسنة 22"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0275_34_1",
+   "cass_civil_mortgage_0915_47_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "08-03-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0288",
+   "judicial_year": "22",
+   "office_volume": "07",
+   "page": "301",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0288_22_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "التزامات الدائن المرتهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0288",
+    "judicial_year": "22",
+    "office_volume": "07",
+    "page": "301",
+    "session_date": "08-03-1956",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "التزامات الدائن المرتهن",
+    "الملكية",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان حائز العقار المرهون لم يتلق الملكية من المدين بل تلقاها عن غير طريقه سواء أكان ذلك بطريق الشراء من آخر أو بطريق وضع اليد المدة الطويلة المكسبة للملكية فلا على الدائن المرتهن إذا هو لم ينذره أو يتخذ",
+   "core_principles": [
+    "إذا كان حائز العقار المرهون لم يتلق الملكية من المدين بل تلقاها عن غير طريقه سواء أكان ذلك بطريق الشراء من آخر أو بطريق وضع اليد المدة الطويلة المكسبة للملكية فلا على الدائن المرتهن إذا هو لم ينذره أو يتخذ إجراءات نزع الملكية فى مواجهته عملاً بالمادة 697 مدنى مختلط التى تحكم واقعة الدعوى"
+   ],
+   "judicial_rule": {
+    "short": "إذا كان حائز العقار المرهون لم يتلق الملكية من المدين بل تلقاها عن غير طريقه سواء أكان ذلك بطريق الشراء من آخر أو بطريق وضع اليد المدة الطويلة المكسبة للملكية فلا على الدائن المرتهن إذا هو لم ينذره أو يتخذ",
+    "professional": "إذا كان حائز العقار المرهون لم يتلق الملكية من المدين بل تلقاها عن غير طريقه سواء أكان ذلك بطريق الشراء من آخر أو بطريق وضع اليد المدة الطويلة المكسبة للملكية فلا على الدائن المرتهن إذا هو لم ينذره أو يتخذ إجراءات نزع الملكية فى مواجهته عملاً بالمادة 697 مدنى مختلط التى تحكم واقعة الدعوى ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "التزامات الدائن المرتهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0275_34_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "التزامات الدائن المرتهن",
+  "content": "إن المادة 80 من قانون التجارة إذ نصت على أن ,, تحصيل قيمة الأوراق التجارية المرهونة تكون بمعرفة الدائن المرتهن لها ،، فإن مؤدى هذا النص أن الدائن المرتهن يلتزم قانوناً قبل الراهن بالمحافظة على الشئ المرهون و بتحصيل قيمة",
+  "keywords": [
+   "التزامات الدائن المرتهن",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0275 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0288_22_2",
+   "cass_civil_mortgage_0915_47_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "05-03-1968",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0275",
+   "judicial_year": "34",
+   "office_volume": "19",
+   "page": "510",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0275_34_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "التزامات الدائن المرتهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0275",
+    "judicial_year": "34",
+    "office_volume": "19",
+    "page": "510",
+    "session_date": "05-03-1968",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التزامات الدائن المرتهن",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إن المادة 80 من قانون التجارة إذ نصت على أن ,, تحصيل قيمة الأوراق التجارية المرهونة تكون بمعرفة الدائن المرتهن لها ،، فإن مؤدى هذا النص أن الدائن المرتهن يلتزم قانوناً قبل الراهن بالمحافظة على الشئ المرهون و بتحصيل قيمة",
+   "core_principles": [
+    "إن المادة 80 من قانون التجارة إذ نصت على أن ,, تحصيل قيمة الأوراق التجارية المرهونة تكون بمعرفة الدائن المرتهن لها ،، فإن مؤدى هذا النص أن الدائن المرتهن يلتزم قانوناً قبل الراهن بالمحافظة على الشئ المرهون و بتحصيل قيمة الورقة فى ميعاد الإستحقاق و يعتبر التظهير التأمينى - على ما جرى به قضاء محكمة ال"
+   ],
+   "judicial_rule": {
+    "short": "إن المادة 80 من قانون التجارة إذ نصت على أن ,, تحصيل قيمة الأوراق التجارية المرهونة تكون بمعرفة الدائن المرتهن لها ،، فإن مؤدى هذا النص أن الدائن المرتهن يلتزم قانوناً قبل الراهن بالمحافظة على الشئ المرهون و بتحصيل قيمة",
+    "professional": "إن المادة 80 من قانون التجارة إذ نصت على أن ,, تحصيل قيمة الأوراق التجارية المرهونة تكون بمعرفة الدائن المرتهن لها ،، فإن مؤدى هذا النص أن الدائن المرتهن يلتزم قانوناً قبل الراهن بالمحافظة على الشئ المرهون و بتحصيل قيمة الورقة فى ميعاد الإستحقاق و يعتبر التظهير التأمينى - على ما جرى به قضاء محكمة النقض - فى حكم التظهير الناقل للملكية بشان تطهير الورقة من الدفوع فلا يكون للمدين الإحتجاج على الدائن المرتهن حسن النية بالدفوع التى يجوز له الإحتجاج بها على الدائن الأصلى أو المظهري"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "التزامات الدائن المرتهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0915_47_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "التزامات الدائن المرتهن",
+  "content": "للدائن المرتهن متى إنتقلت إليه حيازة الأرض المرهونة أن يستغلها لحساب الراهن الإستغلال المعتاد على الوجه الذى تصلح له ، إما بزراعتها أو بتأجيرها إلى من يقوم بذلك، فإذا أجرها إلى الغير كان صاحب صفة فى هذا التأجير و بالتالى",
+  "keywords": [
+   "الإيجار",
+   "التزامات الدائن المرتهن",
+   "التسجيل",
+   "الرهن",
+   "الملكية",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0915 لسنة 47"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0288_22_2",
+   "cass_civil_mortgage_0275_34_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "04-03-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0915",
+   "judicial_year": "47",
+   "office_volume": "31",
+   "page": "724",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0915_47_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "التزامات الدائن المرتهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0915",
+    "judicial_year": "47",
+    "office_volume": "31",
+    "page": "724",
+    "session_date": "04-03-1980",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الإيجار",
+    "التزامات الدائن المرتهن",
+    "التسجيل",
+    "الرهن",
+    "الملكية",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "للدائن المرتهن متى إنتقلت إليه حيازة الأرض المرهونة أن يستغلها لحساب الراهن الإستغلال المعتاد على الوجه الذى تصلح له ، إما بزراعتها أو بتأجيرها إلى من يقوم بذلك، فإذا أجرها إلى الغير كان صاحب صفة فى هذا التأجير و بالتالى",
+   "core_principles": [
+    "إذ المرتهن شأنه شأن البائع سواء بسواء ، فكما أن البائع الذى يتعهد بنقل الملكية لغيره لا يصح أن يطلبها لنفسه إعتماداً على عدم تسجيل عقد البيع كذلك المرتهن الذى يتعهد بالتنازل عن رهنه و شطبه و التنازل نهائياً عن السير فى إجراءات نزع الملكية لا يصح له أن يتمسك برهنه و لا أن يسير فى تلك الإجراءات"
+   ],
+   "judicial_rule": {
+    "short": "إذ المرتهن شأنه شأن البائع سواء بسواء ، فكما أن البائع الذى يتعهد بنقل الملكية لغيره لا يصح أن يطلبها لنفسه إعتماداً على عدم تسجيل عقد البيع كذلك المرتهن الذى يتعهد بالتنازل عن رهنه و شطبه و التنازل نهائياً عن",
+    "professional": "للدائن المرتهن متى إنتقلت إليه حيازة الأرض المرهونة أن يستغلها لحساب الراهن الإستغلال المعتاد على الوجه الذى تصلح له ، إما بزراعتها أو بتأجيرها إلى من يقوم بذلك، فإذا أجرها إلى الغير كان صاحب صفة فى هذا التأجير و بالتالى فإن عقد الإيجار الصادر منه لا ينقضى بإنقضاء الرهن بل يمتد تلقائياً فى مواجهة الراهن . لما كان ذلك ، و كان الثابت أن عقد الإيجار الصادر من الدائن المرتهن - المطعون عليه الخامس - إلى الطاعنين قد حرر و أثبت فى دفاتر الجمعية التعاونية طبقاً للقانون ، فإنه يمتد -"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "التزامات الدائن المرتهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0903_52_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الحجز على البضائع المرهونة",
+  "content": "لما كان الثابت فى الدعوى أن الدائن المرتهن - البنك المطعون ضده - إستأجر من المدين الراهن - الطاعن - حجره بمصنعه لحفظ البضاعة محل عقد الرهن المبرم بينهما ضماناً للوفاء بالغرض ، و نص فى عقد الإيجار على عدم",
+  "keywords": [
+   "الإيجار",
+   "الحجز",
+   "الحجز على البضائع المرهونة",
+   "الرهن",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0903 لسنة 52"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-11-1988",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0903",
+   "judicial_year": "52",
+   "office_volume": "39",
+   "page": "1150",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0903_52_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الحجز على البضائع المرهونة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0903",
+    "judicial_year": "52",
+    "office_volume": "39",
+    "page": "1150",
+    "session_date": "07-11-1988",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الإيجار",
+    "الحجز",
+    "الحجز على البضائع المرهونة",
+    "الرهن",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان الثابت فى الدعوى أن الدائن المرتهن - البنك المطعون ضده - إستأجر من المدين الراهن - الطاعن - حجره بمصنعه لحفظ البضاعة محل عقد الرهن المبرم بينهما ضماناً للوفاء بالغرض ، و نص فى عقد الإيجار على عدم",
+   "core_principles": [
+    "و نص فى عقد الإيجار على عدم مسئولية المطعون ضده \" بأى حال من الأحوال عما يلحق البضائع المودعة بالأماكن المؤجرة من سرقة أو تبديد أو تلف أو فساد أونقص فيها أو أوزانها أو أطوالها مهما يكن قيمته أو سببه و يتحمل بكل ذلك الطرف الأول - الطاعن - وحده \" ، و كان إلتزام الطاعن هذا لا ينقضى بتوقيع الحجز على هذه"
+   ],
+   "judicial_rule": {
+    "short": "و نص فى عقد الإيجار على عدم مسئولية المطعون ضده \" بأى حال من الأحوال عما يلحق البضائع المودعة بالأماكن المؤجرة من سرقة أو تبديد أو تلف أو فساد أونقص فيها أو أوزانها أو أطوالها مهما يكن قيمته أو سببه",
+    "professional": "و نص فى عقد الإيجار على عدم مسئولية المطعون ضده \" بأى حال من الأحوال عما يلحق البضائع المودعة بالأماكن المؤجرة من سرقة أو تبديد أو تلف أو فساد أونقص فيها أو أوزانها أو أطوالها مهما يكن قيمته أو سببه و يتحمل بكل ذلك الطرف الأول - الطاعن - وحده \" ، و كان إلتزام الطاعن هذا لا ينقضى بتوقيع الحجز على هذه البضاعة المودعة بالعين المذكورة مع بقائها بها ، و من ثم فإن الإتفاق على عدم مسئولية المطعون ضده عن سرقة هذه البضاعة و تحمل الطاعن لقيمتها يظل سارياً رغم توقيع الأول الحجز الإدارى"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الحجز على البضائع المرهونة",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0075_41_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الدائن المرتهن صاحب حق التتبع",
+  "content": "مفاد نصوص المواد 1030 ، 1060 ، 1072 من القانون المدنى و المادة 411 من قانون الرافعات المماثلة للمادة 626 من قانون المرافعات السابق أن للدائن المرتهن حق عينى على العقار المرهون يخوله مزية التتبع فيحق له عند حلول أجل",
+  "keywords": [
+   "الدائن المرتهن صاحب حق التتبع",
+   "الملكية",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0075 لسنة 41"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_1149_49_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-11-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0075",
+   "judicial_year": "41",
+   "office_volume": "34",
+   "page": "1678",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0075_41_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الدائن المرتهن صاحب حق التتبع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0075",
+    "judicial_year": "41",
+    "office_volume": "34",
+    "page": "1678",
+    "session_date": "24-11-1983",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الدائن المرتهن صاحب حق التتبع",
+    "الملكية",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نصوص المواد 1030 ، 1060 ، 1072 من القانون المدنى و المادة 411 من قانون الرافعات المماثلة للمادة 626 من قانون المرافعات السابق أن للدائن المرتهن حق عينى على العقار المرهون يخوله مزية التتبع فيحق له عند حلول أجل",
+   "core_principles": [
+    "و الحائز هو - و على ما جرى به قضاء هذه المحكمة - كل من إكتسب ملكية العقار المثقل بحق عينى تبعى أو حقاً عينياً عليه بموجب سند سابق فى تسجيله على تسجيل تنبيه نزع الملكية أن يكون مسئولاً شخصياً عن الدين المضمون ، ما دام هذا الحائز قد تم إنذاره بالدفع أو التخلية طبقاً للقانون فلم يختر أياً منهما فإن الد"
+   ],
+   "judicial_rule": {
+    "short": "و الحائز هو - و على ما جرى به قضاء هذه المحكمة - كل من إكتسب ملكية العقار المثقل بحق عينى تبعى أو حقاً عينياً عليه بموجب سند سابق فى تسجيله على تسجيل تنبيه نزع الملكية أن يكون مسئولاً شخصياً",
+    "professional": "مفاد نصوص المواد 1030 ، 1060 ، 1072 من القانون المدنى و المادة 411 من قانون الرافعات المماثلة للمادة 626 من قانون المرافعات السابق أن للدائن المرتهن حق عينى على العقار المرهون يخوله مزية التتبع فيحق له عند حلول أجل الدين أن ينزع ملكية العقار المرهون فى يد الحائز لهذا العقار . و الحائز هو - و على ما جرى به قضاء هذه المحكمة - كل من إكتسب ملكية العقار المثقل بحق عينى تبعى أو حقاً عينياً عليه بموجب سند سابق فى تسجيله على تسجيل تنبيه نزع الملكية أن يكون مسئولاً شخصياً عن الدين الم"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الدائن المرتهن صاحب حق التتبع",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_1149_49_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الدائن المرتهن صاحب حق التتبع",
+  "content": "مفاد نصوص المواد 1030 ، 1062 ، 1072 من القانون المدنى و المادة 411 من قانون المرافعات الخالى المقابلة للمادة 626 من قانون المرافعات السابق أن للدائن المرتهن حق عينى على العقار المرهون يخوله مزية التتبع فيحق له عند حلول",
+  "keywords": [
+   "التنفيذ",
+   "الحيازة",
+   "الدائن المرتهن صاحب حق التتبع",
+   "الرهن",
+   "الملكية",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 1149 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0075_41_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-12-1986",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1149",
+   "judicial_year": "49",
+   "office_volume": "37",
+   "page": "1055",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_1149_49_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الدائن المرتهن صاحب حق التتبع",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1149",
+    "judicial_year": "49",
+    "office_volume": "37",
+    "page": "1055",
+    "session_date": "28-12-1986",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "التنفيذ",
+    "الحيازة",
+    "الدائن المرتهن صاحب حق التتبع",
+    "الرهن",
+    "الملكية",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نصوص المواد 1030 ، 1062 ، 1072 من القانون المدنى و المادة 411 من قانون المرافعات الخالى المقابلة للمادة 626 من قانون المرافعات السابق أن للدائن المرتهن حق عينى على العقار المرهون يخوله مزية التتبع فيحق له عند حلول",
+   "core_principles": [
+    "فإذا حصل هذا التصرف و سجل ، بعد تسجيل التنبيه الحاصل من دائن عادى ، فى أى وقت سابق على تسجيل حكم مرسى المزاد ، فإن كل إجراءات التنفيذ تسقط و تكون لا قيمة لها ما دام تسجيل التنبيه لا يكسب لا هو و لا إجراءات البيع ذلك الدائن العادى حقاً عينياً على العقار يحتج به على من تنتقل إليه ملكيته من قبل مدينه"
+   ],
+   "judicial_rule": {
+    "short": "فإذا حصل هذا التصرف و سجل ، بعد تسجيل التنبيه الحاصل من دائن عادى ، فى أى وقت سابق على تسجيل حكم مرسى المزاد ، فإن كل إجراءات التنفيذ تسقط و تكون لا قيمة لها ما دام تسجيل التنبيه لا",
+    "professional": "مفاد نصوص المواد 1030 ، 1062 ، 1072 من القانون المدنى و المادة 411 من قانون المرافعات الخالى المقابلة للمادة 626 من قانون المرافعات السابق أن للدائن المرتهن حق عينى على العقار المرهون يخوله مزية التتبع فيحق له عند حلول أجل الدين أن ينزع ملكية العقار المرهون فى يد الحائز له . ( الطعن رقم 1149 لسنة 49 ق ، جلسة 1986/12/28 ) الطعن رقم 0018 لسنة 05 مجموعة عمر 1ع صفحة رقم 988 بتاريخ 19-12-1935 الموضوع : عقد الرهن الموضوع الفرعي : الدائن المرتهن صاحب حق التتبع فقرة رقم : 3 القول فى"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الدائن المرتهن صاحب حق التتبع",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0190_20_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الرهن الحيازى",
+  "content": "لما كان من أركان عقد الرهن الحيازى وفقا لأحكام القانون المدنى الذى كان ساريا وقت التعاقد وضع المدين الشىء المرهون فى حياوة دائنة تأمينا للدين و من أحكامه عدم جواز تصرف المدين الراهن فى الشىء المرهون تصرفا يخرجه من حيازة",
+  "keywords": [
+   "الرهن",
+   "الرهن الحيازى",
+   "الشركة",
+   "العقد",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0190 لسنة 20"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0290_20_1",
+   "cass_civil_mortgage_0317_32_1",
+   "cass_civil_mortgage_0068_44_2",
+   "cass_civil_mortgage_0692_49_4",
+   "cass_civil_mortgage_0692_49_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-05-1953",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0190",
+   "judicial_year": "20",
+   "office_volume": "04",
+   "page": "1028",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0190_20_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الرهن الحيازى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0190",
+    "judicial_year": "20",
+    "office_volume": "04",
+    "page": "1028",
+    "session_date": "21-05-1953",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الرهن",
+    "الرهن الحيازى",
+    "الشركة",
+    "العقد",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان من أركان عقد الرهن الحيازى وفقا لأحكام القانون المدنى الذى كان ساريا وقت التعاقد وضع المدين الشىء المرهون فى حياوة دائنة تأمينا للدين و من أحكامه عدم جواز تصرف المدين الراهن فى الشىء المرهون تصرفا يخرجه من حيازة",
+   "core_principles": [
+    "وكان الثابت من عقد الاتفاق المبرم بين الطاعن والشركة المطعون عليها أنه فتح بمقتضاه حساب جار لمصلحة الطاعن على أن يورد فيما بعد أقطانا للمطعون عليها مع تفويضها ببيع هذه الأقطان نظير عموله تتقاضاها وذلك دون إنذار أو تنبيه فى حالة ما إذا هبطت الأسعار ولم يكن فى حساب الطاعن ما يكمل الغطاء المتفق عليه وأ"
+   ],
+   "judicial_rule": {
+    "short": "وكان الثابت من عقد الاتفاق المبرم بين الطاعن والشركة المطعون عليها أنه فتح بمقتضاه حساب جار لمصلحة الطاعن على أن يورد فيما بعد أقطانا للمطعون عليها مع تفويضها ببيع هذه الأقطان نظير عموله تتقاضاها وذلك دون إنذار أو تنبيه فى",
+    "professional": "وكان الثابت من عقد الاتفاق المبرم بين الطاعن والشركة المطعون عليها أنه فتح بمقتضاه حساب جار لمصلحة الطاعن على أن يورد فيما بعد أقطانا للمطعون عليها مع تفويضها ببيع هذه الأقطان نظير عموله تتقاضاها وذلك دون إنذار أو تنبيه فى حالة ما إذا هبطت الأسعار ولم يكن فى حساب الطاعن ما يكمل الغطاء المتفق عليه وأن للطاعن قطع سعر الأقطان الموردة منه فى خلال فترة محددة تبدأ من يوم تسليمها وللشركه المطعون عليها حلج أقطان الطاعن الموجودة لديها وتسليمها إلى الحكومة إذا كانت تقبل الأقطان بأسعار"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الرهن الحيازى",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0290_20_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الرهن الحيازى",
+  "content": "لما كان من أركان عقد الرهن الحيازى وفقا لأحكام القانون المدنى الذى كان ساريا وقت التعاقد وضع الشىء المرهون فى حيازة الدائن المرتهن ، فاذا لم تنتقل إليه الحيازة فان الرهن لاينعقد ، وكان الثابت من عقود الاتفاق المبرمه بين",
+  "keywords": [
+   "الحيازة",
+   "الرهن",
+   "الرهن الحيازى",
+   "العقد",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0290 لسنة 20"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0190_20_1",
+   "cass_civil_mortgage_0317_32_1",
+   "cass_civil_mortgage_0068_44_2",
+   "cass_civil_mortgage_0692_49_4",
+   "cass_civil_mortgage_0692_49_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-05-1953",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0290",
+   "judicial_year": "20",
+   "office_volume": "04",
+   "page": "1037",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0290_20_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الرهن الحيازى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0290",
+    "judicial_year": "20",
+    "office_volume": "04",
+    "page": "1037",
+    "session_date": "21-05-1953",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الحيازة",
+    "الرهن",
+    "الرهن الحيازى",
+    "العقد",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان من أركان عقد الرهن الحيازى وفقا لأحكام القانون المدنى الذى كان ساريا وقت التعاقد وضع الشىء المرهون فى حيازة الدائن المرتهن ، فاذا لم تنتقل إليه الحيازة فان الرهن لاينعقد ، وكان الثابت من عقود الاتفاق المبرمه بين",
+   "core_principles": [
+    "أما إشارته فى أسبابه إلى العرف التجارى فلم يكن المقصود منها تغليب أحكام هذا العرف على أحكام القانون الآمرة ؛ وإنما كان ذلك بعد أن نفى عن العقود وصف الرهن استنادا إلى ما استخلصه من نصوصها بيانا لما جرى عليه العرف من التعامل على أساس هذه العقود التى لاتخالف شروطها أحكام القانون ، وأنه تنفيذا لهذه الشر"
+   ],
+   "judicial_rule": {
+    "short": "أما إشارته فى أسبابه إلى العرف التجارى فلم يكن المقصود منها تغليب أحكام هذا العرف على أحكام القانون الآمرة ؛ وإنما كان ذلك بعد أن نفى عن العقود وصف الرهن استنادا إلى ما استخلصه من نصوصها بيانا لما جرى عليه",
+    "professional": "فاذا لم تنتقل إليه الحيازة فان الرهن لاينعقد ، وكان الثابت من عقود الاتفاق المبرمه بين الطرفين أنه فتح بمقتضاها حساب جار لمصلحة الطاعن على أن يورد فيما بعد أقطانا للشركة المطعون عليها مع تفويضها ببيع هذه الأقطان نظير عمولة متفق عليها دون إنذار أو تنبيه إذا نزلت الاسعار ولم يكن فى حسابه لديها ما يكمل حد الغطاء المتفق عليه ، كما أنه قد افترض بين المتعاقدين احتمال أن لايقوم الطاعن بتوريد الكمية المتفق عليها فى الميعاد المحدد فنص فى هذه العقود على أنه فى حالة تأخر الطاعن فى توريد"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الرهن الحيازى",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0317_32_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الرهن الحيازى",
+  "content": "إن ما يتطلبه القانون المدنى لنفاذ الرهن الحيازى للمنقول فى حق الغير من تدوين العقد فى ورقة ثابتة التاريخ يحدد فيها مبلغ الدين المضمون بالرهن أو الحد الأقصى الذى ينتهى إليه هذا الدين إذا لم يمكن تحديده وقت الرهن كحالة",
+  "keywords": [
+   "الرهن",
+   "الرهن الحيازى",
+   "الضمان",
+   "العقد",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0317 لسنة 32"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0190_20_1",
+   "cass_civil_mortgage_0290_20_1",
+   "cass_civil_mortgage_0068_44_2",
+   "cass_civil_mortgage_0692_49_4",
+   "cass_civil_mortgage_0692_49_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 655/1954"
+   ],
+   "date": "29-12-1966",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0317",
+   "judicial_year": "32",
+   "office_volume": "17",
+   "page": "2030",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0317_32_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الرهن الحيازى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0317",
+    "judicial_year": "32",
+    "office_volume": "17",
+    "page": "2030",
+    "session_date": "29-12-1966",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الرهن",
+    "الرهن الحيازى",
+    "الضمان",
+    "العقد",
+    "عقد الرهن"
+   ],
+   "legal_articles": [
+    "Law 655/1954"
+   ],
+   "facts_summary": "إن ما يتطلبه القانون المدنى لنفاذ الرهن الحيازى للمنقول فى حق الغير من تدوين العقد فى ورقة ثابتة التاريخ يحدد فيها مبلغ الدين المضمون بالرهن أو الحد الأقصى الذى ينتهى إليه هذا الدين إذا لم يمكن تحديده وقت الرهن كحالة",
+   "core_principles": [
+    "إن ما يتطلبه القانون المدنى لنفاذ الرهن الحيازى للمنقول فى حق الغير من تدوين العقد فى ورقة ثابتة التاريخ يحدد فيها مبلغ الدين المضمون بالرهن أو الحد الأقصى الذى ينتهى إليه هذا الدين إذا لم يمكن تحديده وقت الرهن كحالة ترتيبه ضماناً لإعتماد مفتوح أو بفتح حساب جار ، هذا الذى يتطلبه القانون المدنى لا يس"
+   ],
+   "judicial_rule": {
+    "short": "إن ما يتطلبه القانون المدنى لنفاذ الرهن الحيازى للمنقول فى حق الغير من تدوين العقد فى ورقة ثابتة التاريخ يحدد فيها مبلغ الدين المضمون بالرهن أو الحد الأقصى الذى ينتهى إليه هذا الدين إذا لم يمكن تحديده وقت الرهن كحالة",
+    "professional": "إن ما يتطلبه القانون المدنى لنفاذ الرهن الحيازى للمنقول فى حق الغير من تدوين العقد فى ورقة ثابتة التاريخ يحدد فيها مبلغ الدين المضمون بالرهن أو الحد الأقصى الذى ينتهى إليه هذا الدين إذا لم يمكن تحديده وقت الرهن كحالة ترتيبه ضماناً لإعتماد مفتوح أو بفتح حساب جار ، هذا الذى يتطلبه القانون المدنى لا يسرى على الرهن التجارى ذلك أنه طبقاً للمادة 76 من القانون التجارى بعد تعديلها بالقانون رقم 655 لسنة 1954 يثبت الرهن الذى يعقد ضماناً لدين تجارى بكافة طرق الإثبات المقبولة فى المواد ا"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الرهن الحيازى",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0068_44_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الرهن الحيازى",
+  "content": "إذ كان الحكم المطعون فيه قد إستظهر قيام الدين المضمون بالرهن ، فلا يمنعه من القضاء بصحة الرهن الحيازى أن يكون الدين قد حل ما دام لم ينقض عملاً بالمادة 1112 من القانون المدنى .",
+  "keywords": [
+   "الرهن",
+   "الرهن الحيازى",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0068 لسنة 44"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0190_20_1",
+   "cass_civil_mortgage_0290_20_1",
+   "cass_civil_mortgage_0317_32_1",
+   "cass_civil_mortgage_0692_49_4",
+   "cass_civil_mortgage_0692_49_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "10-05-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0068",
+   "judicial_year": "44",
+   "office_volume": "30",
+   "page": "312",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0068_44_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الرهن الحيازى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0068",
+    "judicial_year": "44",
+    "office_volume": "30",
+    "page": "312",
+    "session_date": "10-05-1979",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الرهن",
+    "الرهن الحيازى",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان الحكم المطعون فيه قد إستظهر قيام الدين المضمون بالرهن ، فلا يمنعه من القضاء بصحة الرهن الحيازى أن يكون الدين قد حل ما دام لم ينقض عملاً بالمادة 1112 من القانون المدنى .",
+   "core_principles": [
+    "فلا يمنعه من القضاء بصحة الرهن الحيازى أن يكون الدين قد حل ما دام لم ينقض عملاً بالمادة 1112 من القانون المدنى"
+   ],
+   "judicial_rule": {
+    "short": "فلا يمنعه من القضاء بصحة الرهن الحيازى أن يكون الدين قد حل ما دام لم ينقض عملاً بالمادة 1112 من القانون المدنى",
+    "professional": "فلا يمنعه من القضاء بصحة الرهن الحيازى أن يكون الدين قد حل ما دام لم ينقض عملاً بالمادة 1112 من القانون المدنى ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الرهن الحيازى",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0692_49_4",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الرهن الحيازى",
+  "content": "النص فى المادة 1096 من التقنين المدنى على أن \" الرهن الحيازى عقد به يلتزم شخص ، ضماناً لدين عليه ، أو على غيره بأن يسلم إلى الدائن أو إلى أجنبى يعينه المتعاقدان شيئاً يرتب عليه للدائن حقاً عينياً يخوله",
+  "keywords": [
+   "الرهن",
+   "الرهن الحيازى",
+   "العقد",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0692 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0190_20_1",
+   "cass_civil_mortgage_0290_20_1",
+   "cass_civil_mortgage_0317_32_1",
+   "cass_civil_mortgage_0068_44_2",
+   "cass_civil_mortgage_0692_49_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 655/1954"
+   ],
+   "date": "28-03-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0692",
+   "judicial_year": "49",
+   "office_volume": "34",
+   "page": "825",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0692_49_4",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الرهن الحيازى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0692",
+    "judicial_year": "49",
+    "office_volume": "34",
+    "page": "825",
+    "session_date": "28-03-1983",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "الرهن",
+    "الرهن الحيازى",
+    "العقد",
+    "عقد الرهن"
+   ],
+   "legal_articles": [
+    "Law 655/1954"
+   ],
+   "facts_summary": "النص فى المادة 1096 من التقنين المدنى على أن \" الرهن الحيازى عقد به يلتزم شخص ، ضماناً لدين عليه ، أو على غيره بأن يسلم إلى الدائن أو إلى أجنبى يعينه المتعاقدان شيئاً يرتب عليه للدائن حقاً عينياً يخوله",
+   "core_principles": [
+    "النص فى المادة 1096 من التقنين المدنى على أن \" الرهن الحيازى عقد به يلتزم شخص ، ضماناً لدين عليه ، أو على غيره بأن يسلم إلى الدائن أو إلى أجنبى يعينه المتعاقدان شيئاً يرتب عليه للدائن حقاً عينياً يخوله حبس الشئ لحين إستيفاء الدين ، و أن يتقدم الدائنين العاديين و الدائنين التاليين له فى المرتبة فى إق"
+   ],
+   "judicial_rule": {
+    "short": "النص فى المادة 1096 من التقنين المدنى على أن \" الرهن الحيازى عقد به يلتزم شخص ، ضماناً لدين عليه ، أو على غيره بأن يسلم إلى الدائن أو إلى أجنبى يعينه المتعاقدان شيئاً يرتب عليه للدائن حقاً عينياً يخوله",
+    "professional": "النص فى المادة 1096 من التقنين المدنى على أن \" الرهن الحيازى عقد به يلتزم شخص ، ضماناً لدين عليه ، أو على غيره بأن يسلم إلى الدائن أو إلى أجنبى يعينه المتعاقدان شيئاً يرتب عليه للدائن حقاً عينياً يخوله حبس الشئ لحين إستيفاء الدين ، و أن يتقدم الدائنين العاديين و الدائنين التاليين له فى المرتبة فى إقتضاء حقه من ثمن هذا الشىء فى أى يد يكون ، يدل على أن الرهن الحيازى عقد تابع يستلزم وجود إلتزام أصلى يضمنه و يتبعه فى وجوده و إنقضائه و أوصافه فإذا كان الإلتزام الأصلى تجارياً إعتبر"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الرهن الحيازى",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0692_49_5",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الرهن الحيازى",
+  "content": "متى إنتقلت حيازة العين إلى الدائن المرتهن أمكنه حبسها إلى حين إستيفاء حقه فإذا هلكت أو تلفت لأى سبب و ترتب على الهلاك أو التلف أن إستحق حق آخر إنتقل الرهن إلى هذا الحق تطبيقاً لنظرية الحلول العينى التى نصت",
+  "keywords": [
+   "الإيجار",
+   "التسجيل",
+   "الحيازة",
+   "الرهن",
+   "الرهن الحيازى",
+   "الوكالة",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0692 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0190_20_1",
+   "cass_civil_mortgage_0290_20_1",
+   "cass_civil_mortgage_0317_32_1",
+   "cass_civil_mortgage_0068_44_2",
+   "cass_civil_mortgage_0692_49_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 49/1923"
+   ],
+   "date": "28-03-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0692",
+   "judicial_year": "49",
+   "office_volume": "34",
+   "page": "825",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0692_49_5",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الرهن الحيازى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0692",
+    "judicial_year": "49",
+    "office_volume": "34",
+    "page": "825",
+    "session_date": "28-03-1983",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "الإيجار",
+    "التسجيل",
+    "الحيازة",
+    "الرهن",
+    "الرهن الحيازى",
+    "الوكالة",
+    "عقد الرهن"
+   ],
+   "legal_articles": [
+    "Law 49/1923"
+   ],
+   "facts_summary": "متى إنتقلت حيازة العين إلى الدائن المرتهن أمكنه حبسها إلى حين إستيفاء حقه فإذا هلكت أو تلفت لأى سبب و ترتب على الهلاك أو التلف أن إستحق حق آخر إنتقل الرهن إلى هذا الحق تطبيقاً لنظرية الحلول العينى التى نصت",
+   "core_principles": [
+    "و على أنه إذا كان القانون رقم 49 لسنة 1923 المعدل للمادة 540 قد رخص للدائن فى إيجار العقار المرهون إلى المدين بشرط النص على ذلك فى عقد الرهن أو التأشير به فى هامش تسجيله فإنه لم يقصد بهذا الترخيص الذى جاء به إلغاء حكم المادة 541 من القانون المدنى و إنما قصد تسهيل المعاملات بين الناس ، ملاحظاً فى ذلك"
+   ],
+   "judicial_rule": {
+    "short": "و على أنه إذا كان القانون رقم 49 لسنة 1923 المعدل للمادة 540 قد رخص للدائن فى إيجار العقار المرهون إلى المدين بشرط النص على ذلك فى عقد الرهن أو التأشير به فى هامش تسجيله فإنه لم يقصد بهذا الترخيص",
+    "professional": "متى إنتقلت حيازة العين إلى الدائن المرتهن أمكنه حبسها إلى حين إستيفاء حقه فإذا هلكت أو تلفت لأى سبب و ترتب على الهلاك أو التلف أن إستحق حق آخر إنتقل الرهن إلى هذا الحق تطبيقاً لنظرية الحلول العينى التى نصت عليها المادة 1059 من القانون المدنى ، و لا محل لما تثيره الطاعنة من أن الحق فى الحلول يقتضى تتبع الثمن الذى دفعته للمدين الراهن ، لأن المقصود بالتتبع هو التتبع القانونى أى سلطة الدائن المرتهن فى تعقب المال المرهون أينما إستقرت ملكيته للتنفيذ عليه و إستيفاء الدين . الطعن رقم"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الرهن الحيازى",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0389_22_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الرهن الرسمى",
+  "content": "ارتهن البنك العقارى المصرى أطيانا لمدين بعقد رهن رسمى مسجل ثم باع المدين هذه الأطيان بعقد مسجل بعد تسجيل عقد الرهن إلا أن دائنا آخر إستصدر بعد ذلك حكماً ضد نفس المدين بدين له عليه كما حصل على أمر إختصاص",
+  "keywords": [
+   "التنفيذ",
+   "الرهن",
+   "الرهن الرسمى",
+   "الملكية",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0389 لسنة 22"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0615_49_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-04-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0389",
+   "judicial_year": "22",
+   "office_volume": "07",
+   "page": "533",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0389_22_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الرهن الرسمى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0389",
+    "judicial_year": "22",
+    "office_volume": "07",
+    "page": "533",
+    "session_date": "19-04-1956",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التنفيذ",
+    "الرهن",
+    "الرهن الرسمى",
+    "الملكية",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "ارتهن البنك العقارى المصرى أطيانا لمدين بعقد رهن رسمى مسجل ثم باع المدين هذه الأطيان بعقد مسجل بعد تسجيل عقد الرهن إلا أن دائنا آخر إستصدر بعد ذلك حكماً ضد نفس المدين بدين له عليه كما حصل على أمر إختصاص",
+   "core_principles": [
+    "وقد قررت محكمة النقض أنه لم يكن لذلك الدائن الثانى المسجل وفقا لحكم المادة 652 مرافعات مختلط أن يتخذ إجراءات التنفيذ بدينه على الأطيان المذكورة بعد أن أنتقلت إلى ملك المشترين قبل خلق سنده التنفيذى ضد المدين و بالتالى لم يكن له أن يحل محل البنك فى مواصلة إجراءات التنفيذ التى لم تشرع للبنك إلا بسبب ما"
+   ],
+   "judicial_rule": {
+    "short": "وقد قررت محكمة النقض أنه لم يكن لذلك الدائن الثانى المسجل وفقا لحكم المادة 652 مرافعات مختلط أن يتخذ إجراءات التنفيذ بدينه على الأطيان المذكورة بعد أن أنتقلت إلى ملك المشترين قبل خلق سنده التنفيذى ضد المدين و بالتالى لم",
+    "professional": "ارتهن البنك العقارى المصرى أطيانا لمدين بعقد رهن رسمى مسجل ثم باع المدين هذه الأطيان بعقد مسجل بعد تسجيل عقد الرهن إلا أن دائنا آخر إستصدر بعد ذلك حكماً ضد نفس المدين بدين له عليه كما حصل على أمر إختصاص و إذ اتخذ البنك العقارى إجراءات نزع الملكية عن الأطيان المرهونة إليه معلنا المشترين لها بصفتهم حائزين فقد طلب فى أثناء سير الدعوى شطبها غير أن الدائن الآخر المشار إليه الذى تدخل فى الدعوى طلب بصفته من أرباب الديون المسجلة حلوله محل البنك فى السير باجراءات البيع فتم البيع بناء"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الرهن الرسمى",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0615_49_3",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "الرهن الرسمى",
+  "content": "مفاد نص المادة 1082 من القانون المدنى أن الرهن الرسمى ينقض بطريقة تبعية بإنقضاء الدين المضمون ، و إذ كان من حق المدين الراهن أن يتمسك قبل الدائن المرتهن بإنقضاء الرهن تبعاً للوفاء بالدين و بالتالى فإنه يكون لمشترى العقار",
+  "keywords": [
+   "الرهن",
+   "الرهن الرسمى",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0615 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0389_22_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-12-1984",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0615",
+   "judicial_year": "49",
+   "office_volume": "35",
+   "page": "2201",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0615_49_3",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "الرهن الرسمى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0615",
+    "judicial_year": "49",
+    "office_volume": "35",
+    "page": "2201",
+    "session_date": "25-12-1984",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الرهن",
+    "الرهن الرسمى",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نص المادة 1082 من القانون المدنى أن الرهن الرسمى ينقض بطريقة تبعية بإنقضاء الدين المضمون ، و إذ كان من حق المدين الراهن أن يتمسك قبل الدائن المرتهن بإنقضاء الرهن تبعاً للوفاء بالدين و بالتالى فإنه يكون لمشترى العقار",
+   "core_principles": [
+    "و لما كان عدم الإستعمال ليس من أسباب زوال الحقوق العينية الواردة على سبيل الحصر فى المادة 88 فإن حق الرهن المحفوظ وفقاً للقانون لا يمكن أن يسقط بمضى المدة إستقلالاً عن الدين المضمون به"
+   ],
+   "judicial_rule": {
+    "short": "و لما كان عدم الإستعمال ليس من أسباب زوال الحقوق العينية الواردة على سبيل الحصر فى المادة 88 فإن حق الرهن المحفوظ وفقاً للقانون لا يمكن أن يسقط بمضى المدة إستقلالاً عن الدين المضمون به",
+    "professional": "مفاد نص المادة 1082 من القانون المدنى أن الرهن الرسمى ينقض بطريقة تبعية بإنقضاء الدين المضمون ، و إذ كان من حق المدين الراهن أن يتمسك قبل الدائن المرتهن بإنقضاء الرهن تبعاً للوفاء بالدين و بالتالى فإنه يكون لمشترى العقار المرهون المحال عليه بالدين أن يتمسك بهذا أيضاً قبل الدائن المرتهن إعمالاً للحق المخول له وفقاً للمادة 320 من القانون المدنى و من ثم فإن دعواه بذلك تكون مقبولة . الطعن رقم 0117 لسنة 13 مجموعة عمر 4ع صفحة رقم 386 بتاريخ 25-05-1944 الموضوع : عقد الرهن الموضوع ال"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "الرهن الرسمى",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0921_57_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "انقضاء الرهن بالوفاء",
+  "content": "لما كان لمشترى العقار المرهون المحال عليه بالدين - و على ما جرى به قضاء هذه المحكمة - أن يتمسك قبل الدائن المرتهن بإنقضاء الرهن تبعاً للوفاء بالدين إعمالاً للحق المخول له وفقاً للمادة 320 من القانون المدنى ، و",
+  "keywords": [
+   "الرهن",
+   "انقضاء الرهن بالوفاء",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0921 لسنة 57"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "17-12-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0921",
+   "judicial_year": "57",
+   "office_volume": "40",
+   "page": "360",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0921_57_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "انقضاء الرهن بالوفاء",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0921",
+    "judicial_year": "57",
+    "office_volume": "40",
+    "page": "360",
+    "session_date": "17-12-1989",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الرهن",
+    "انقضاء الرهن بالوفاء",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لما كان لمشترى العقار المرهون المحال عليه بالدين - و على ما جرى به قضاء هذه المحكمة - أن يتمسك قبل الدائن المرتهن بإنقضاء الرهن تبعاً للوفاء بالدين إعمالاً للحق المخول له وفقاً للمادة 320 من القانون المدنى ، و",
+   "core_principles": [
+    "و كان قبول الدائن للحوالة يغنى عن إعلانه بها رسمياً على نحو ما نص عليه بالمادة 322 من ذات القانون و هذا القبول كما يكون صريحاً فمن الجائز أن يكون ضمنياً كما لو صدر من الدائن أى تعبير عن الإرداة يدل على رضائه بالحوالة"
+   ],
+   "judicial_rule": {
+    "short": "و كان قبول الدائن للحوالة يغنى عن إعلانه بها رسمياً على نحو ما نص عليه بالمادة 322 من ذات القانون و هذا القبول كما يكون صريحاً فمن الجائز أن يكون ضمنياً كما لو صدر من الدائن أى تعبير عن الإرداة",
+    "professional": "و كان قبول الدائن للحوالة يغنى عن إعلانه بها رسمياً على نحو ما نص عليه بالمادة 322 من ذات القانون و هذا القبول كما يكون صريحاً فمن الجائز أن يكون ضمنياً كما لو صدر من الدائن أى تعبير عن الإرداة يدل على رضائه بالحوالة ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "انقضاء الرهن بالوفاء",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0171_20_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "بطلان عقد الرهن",
+  "content": "متى كان عقد البيع يخفى رهنا فإن بطلانه سواء بإعتباره بيعا أو رهنا لا يغير من حقيقة الواقع فى شأنه و هو أن نية الطرفين فيه قد إنصرفت إلى الرهن لا إلى البيع و من ثم فإن وضع يد المرتهن",
+  "keywords": [
+   "الرهن",
+   "بطلان عقد الرهن",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0171 لسنة 20"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "17-04-1952",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0171",
+   "judicial_year": "20",
+   "office_volume": "03",
+   "page": "944",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0171_20_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "بطلان عقد الرهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0171",
+    "judicial_year": "20",
+    "office_volume": "03",
+    "page": "944",
+    "session_date": "17-04-1952",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الرهن",
+    "بطلان عقد الرهن",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان عقد البيع يخفى رهنا فإن بطلانه سواء بإعتباره بيعا أو رهنا لا يغير من حقيقة الواقع فى شأنه و هو أن نية الطرفين فيه قد إنصرفت إلى الرهن لا إلى البيع و من ثم فإن وضع يد المرتهن",
+   "core_principles": [
+    "( الطعن رقم 171 سنة 20 ق ، جلسة 1952/4/17 ) الطعن رقم 0087 لسنة 06 مجموعة عمر 2ع صفحة رقم 169 بتاريخ 27-05-1937 الموضوع : عقد الرهن الموضوع الفرعي : بطلان عقد الرهن فقرة رقم : 2 دعوى بطلان الرهن المؤسسة على الصورية لا تقوم ما دام لم يطعن فى القرض بأنه صورى لا وجود له إذ لا يتصور قيام رهن صورى ضامن ل"
+   ],
+   "judicial_rule": {
+    "short": "( الطعن رقم 171 سنة 20 ق ، جلسة 1952/4/17 ) الطعن رقم 0087 لسنة 06 مجموعة عمر 2ع صفحة رقم 169 بتاريخ 27-05-1937 الموضوع : عقد الرهن الموضوع الفرعي : بطلان عقد الرهن فقرة رقم : 2 دعوى بطلان",
+    "professional": "متى كان عقد البيع يخفى رهنا فإن بطلانه سواء بإعتباره بيعا أو رهنا لا يغير من حقيقة الواقع فى شأنه و هو أن نية الطرفين فيه قد إنصرفت إلى الرهن لا إلى البيع و من ثم فإن وضع يد المرتهن لا يكون بنيه التملك بل يعتبر عارضا فلا يكسبه الملك مهما طال عليه الزمن . ( الطعن رقم 171 سنة 20 ق ، جلسة 1952/4/17 ) الطعن رقم 0087 لسنة 06 مجموعة عمر 2ع صفحة رقم 169 بتاريخ 27-05-1937 الموضوع : عقد الرهن الموضوع الفرعي : بطلان عقد الرهن فقرة رقم : 2 دعوى بطلان الرهن المؤسسة على الصورية لا تقوم ما"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "بطلان عقد الرهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0045_22_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "رهن صادر من غير مالك",
+  "content": "يشترط لصحة ونفاذ رهن العقار الصادر من غير مالك وفقا لنص المادة 79 مكررة من القانون المدنى القديم المقابلة للمادة 107 من القانون المختلط الملغى توافر شرطين ، الأول أن يكون الرهن قد صدر من شخص وضع يده على العقار",
+  "keywords": [
+   "التقادم",
+   "الرهن",
+   "رهن صادر من غير مالك",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0045 لسنة 22"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0068_44_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-05-1955",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0045",
+   "judicial_year": "22",
+   "office_volume": "06",
+   "page": "1138",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0045_22_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "رهن صادر من غير مالك",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0045",
+    "judicial_year": "22",
+    "office_volume": "06",
+    "page": "1138",
+    "session_date": "19-05-1955",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التقادم",
+    "الرهن",
+    "رهن صادر من غير مالك",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "يشترط لصحة ونفاذ رهن العقار الصادر من غير مالك وفقا لنص المادة 79 مكررة من القانون المدنى القديم المقابلة للمادة 107 من القانون المختلط الملغى توافر شرطين ، الأول أن يكون الرهن قد صدر من شخص وضع يده على العقار",
+   "core_principles": [
+    "و إذن فمتى كان الرهن قد صدر من شخص يضع يده بسبب معلوم غير أسباب التملك كالنائب والمستأجر والمستعير فإن الرهن يكون باطلا و لا يسرى حكم المادة إليها"
+   ],
+   "judicial_rule": {
+    "short": "و إذن فمتى كان الرهن قد صدر من شخص يضع يده بسبب معلوم غير أسباب التملك كالنائب والمستأجر والمستعير فإن الرهن يكون باطلا و لا يسرى حكم المادة إليها",
+    "professional": "يشترط لصحة ونفاذ رهن العقار الصادر من غير مالك وفقا لنص المادة 79 مكررة من القانون المدنى القديم المقابلة للمادة 107 من القانون المختلط الملغى توافر شرطين ، الأول أن يكون الرهن قد صدر من شخص وضع يده على العقار المرهون مدة خمس السنوات السابقة على الرهن وضعا مستوفيا للشروط المؤدية إلى كسب الملك بالتقادم ، بأن تكون حيازته ظاهرة هادئة مستمرة لا غموض فيها و بصفة مالك ، و الثانى أن يكون المرتهن حسن النية ، فلا يكفى أن يعتقد أن مدينه مالك ، بل يجب أن يكون لديه أسباب قوية أوجبت اعتقا"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "رهن صادر من غير مالك",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0068_44_3",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "رهن صادر من غير مالك",
+  "content": "إذ كان الواضح من مدونات الحكم المطعون فيه أن المطعون عليه الأول أقام دعواه للحكم بصحة عقد الرهن الحيازى الصادر له من الطاعنين عن المنزل المبين بصحيفة الدعوى و الذى أشترى الطاعنان أرضه من المطعون ضده الثانى بعقد غير مسجل",
+  "keywords": [
+   "الرهن",
+   "رهن صادر من غير مالك",
+   "عقد الرهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0068 لسنة 44"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0045_22_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "10-05-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0068",
+   "judicial_year": "44",
+   "office_volume": "30",
+   "page": "312",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0068_44_3",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "رهن صادر من غير مالك",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0068",
+    "judicial_year": "44",
+    "office_volume": "30",
+    "page": "312",
+    "session_date": "10-05-1979",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الرهن",
+    "رهن صادر من غير مالك",
+    "عقد الرهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذ كان الواضح من مدونات الحكم المطعون فيه أن المطعون عليه الأول أقام دعواه للحكم بصحة عقد الرهن الحيازى الصادر له من الطاعنين عن المنزل المبين بصحيفة الدعوى و الذى أشترى الطاعنان أرضه من المطعون ضده الثانى بعقد غير مسجل",
+   "core_principles": [
+    "و إذ كانت المادة 1033 من القانون المدنى و التى أحالت إليها المادة 1098 تنص على أنه \" إذا كان الراهن غير مالك للعقار المرهون فإن عقد الرهن يصبح صحيحاً إذا أقره المالك الحقيقى بورقة رسمية و إذا لم يصدر هذا الإقرار فإن حق الرهن لا يترتب على العقار إلا من الوقت الذى يصبح فيه هذ العقار مملوكاً للراهن \" و"
+   ],
+   "judicial_rule": {
+    "short": "و إذ كانت المادة 1033 من القانون المدنى و التى أحالت إليها المادة 1098 تنص على أنه \" إذا كان الراهن غير مالك للعقار المرهون فإن عقد الرهن يصبح صحيحاً إذا أقره المالك الحقيقى بورقة رسمية و إذا لم يصدر",
+    "professional": "و إذ كانت المادة 1033 من القانون المدنى و التى أحالت إليها المادة 1098 تنص على أنه \" إذا كان الراهن غير مالك للعقار المرهون فإن عقد الرهن يصبح صحيحاً إذا أقره المالك الحقيقى بورقة رسمية و إذا لم يصدر هذا الإقرار فإن حق الرهن لا يترتب على العقار إلا من الوقت الذى يصبح فيه هذ العقار مملوكاً للراهن \" و كان هذا النص لا يمنع رهن ملك الغير أو رهن المشترى بعقد عرفى لما أشتراه قبل أن يشهر عقد شرائه ، و لكن الرهن يكون قابلاً للإبطال لمصلحة الدائن المرتهن لا لمصلحة الراهن و يجوز لهذا ا"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "رهن صادر من غير مالك",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0277_21_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "ماهية حيازة الدائن المرتهن",
+  "content": "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لاتنتقل بها الملكية مهما طال الزمن .",
+  "keywords": [
+   "الملكية",
+   "عقد الرهن",
+   "ماهية حيازة الدائن المرتهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0277 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_1156_47_4",
+   "cass_civil_mortgage_0657_48_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-12-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0277",
+   "judicial_year": "21",
+   "office_volume": "06",
+   "page": "315",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0277_21_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "ماهية حيازة الدائن المرتهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0277",
+    "judicial_year": "21",
+    "office_volume": "06",
+    "page": "315",
+    "session_date": "16-12-1954",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الملكية",
+    "عقد الرهن",
+    "ماهية حيازة الدائن المرتهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لاتنتقل بها الملكية مهما طال الزمن .",
+   "core_principles": [
+    "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لاتنتقل بها الملكية مهما طال الزمن"
+   ],
+   "judicial_rule": {
+    "short": "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لاتنتقل بها الملكية مهما طال الزمن",
+    "professional": "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لاتنتقل بها الملكية مهما طال الزمن ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "ماهية حيازة الدائن المرتهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_1156_47_4",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "ماهية حيازة الدائن المرتهن",
+  "content": "من المقرر أن الدائن المرتهن - شانه شأن المستأجر و المستعير و المودع لديه و المنتفع - لا يحوز العقار المرهون حيازة حقيقية لعدم توافر الركن المعنوى لحيازة لديه ، و إنما يحوزه حيازه مادية عرضية نيابة عن المدين الراهن",
+  "keywords": [
+   "الحيازة",
+   "عقد الرهن",
+   "ماهية حيازة الدائن المرتهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 1156 لسنة 47"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0277_21_2",
+   "cass_civil_mortgage_0657_48_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-06-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1156",
+   "judicial_year": "47",
+   "office_volume": "32",
+   "page": "1939",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_1156_47_4",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "ماهية حيازة الدائن المرتهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1156",
+    "judicial_year": "47",
+    "office_volume": "32",
+    "page": "1939",
+    "session_date": "25-06-1981",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "الحيازة",
+    "عقد الرهن",
+    "ماهية حيازة الدائن المرتهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر أن الدائن المرتهن - شانه شأن المستأجر و المستعير و المودع لديه و المنتفع - لا يحوز العقار المرهون حيازة حقيقية لعدم توافر الركن المعنوى لحيازة لديه ، و إنما يحوزه حيازه مادية عرضية نيابة عن المدين الراهن",
+   "core_principles": [
+    "من المقرر أن الدائن المرتهن - شانه شأن المستأجر و المستعير و المودع لديه و المنتفع - لا يحوز العقار المرهون حيازة حقيقية لعدم توافر الركن المعنوى لحيازة لديه ، و إنما يحوزه حيازه مادية عرضية نيابة عن المدين الراهن الذى تظل له الحيازة الحقيقية يباشرها بواسطة الدائن المرتهن"
+   ],
+   "judicial_rule": {
+    "short": "من المقرر أن الدائن المرتهن - شانه شأن المستأجر و المستعير و المودع لديه و المنتفع - لا يحوز العقار المرهون حيازة حقيقية لعدم توافر الركن المعنوى لحيازة لديه ، و إنما يحوزه حيازه مادية عرضية نيابة عن المدين الراهن",
+    "professional": "من المقرر أن الدائن المرتهن - شانه شأن المستأجر و المستعير و المودع لديه و المنتفع - لا يحوز العقار المرهون حيازة حقيقية لعدم توافر الركن المعنوى لحيازة لديه ، و إنما يحوزه حيازه مادية عرضية نيابة عن المدين الراهن الذى تظل له الحيازة الحقيقية يباشرها بواسطة الدائن المرتهن ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "ماهية حيازة الدائن المرتهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0657_48_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "ماهية حيازة الدائن المرتهن",
+  "content": "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لا تنتقل بها الملكية مهما طال الزمن ، فلا يستطيع أن يغير سبب حيازته بمجرد تغيير نيته ، إذ ليس لأحد أن يكسب بالتقادم على خلاف سنده .",
+  "keywords": [
+   "التقادم",
+   "الملكية",
+   "عقد الرهن",
+   "ماهية حيازة الدائن المرتهن",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0657 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_mortgage_0277_21_2",
+   "cass_civil_mortgage_1156_47_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-05-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0657",
+   "judicial_year": "48",
+   "office_volume": "32",
+   "page": "1538",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0657_48_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "ماهية حيازة الدائن المرتهن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0657",
+    "judicial_year": "48",
+    "office_volume": "32",
+    "page": "1538",
+    "session_date": "19-05-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "التقادم",
+    "الملكية",
+    "عقد الرهن",
+    "ماهية حيازة الدائن المرتهن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لا تنتقل بها الملكية مهما طال الزمن ، فلا يستطيع أن يغير سبب حيازته بمجرد تغيير نيته ، إذ ليس لأحد أن يكسب بالتقادم على خلاف سنده .",
+   "core_principles": [
+    "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لا تنتقل بها الملكية مهما طال الزمن ، فلا يستطيع أن يغير سبب حيازته بمجرد تغيير نيته ، إذ ليس لأحد أن يكسب بالتقادم على خلاف سنده"
+   ],
+   "judicial_rule": {
+    "short": "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لا تنتقل بها الملكية مهما طال الزمن ، فلا يستطيع أن يغير سبب حيازته بمجرد تغيير نيته ، إذ ليس لأحد أن يكسب بالتقادم على خلاف سنده",
+    "professional": "حيازة الدائن المرتهن للعين المرهونة هى حيازة عارضة لا تنتقل بها الملكية مهما طال الزمن ، فلا يستطيع أن يغير سبب حيازته بمجرد تغيير نيته ، إذ ليس لأحد أن يكسب بالتقادم على خلاف سنده ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "ماهية حيازة الدائن المرتهن",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0341_21_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "نزول الدائن المرتهن عن حق الامتياز",
+  "content": "متى كان الواقع هو أن بائع العقار قد نزل عن أسبقيته فى الامتياز إلى دائن مرتهن متأخر عنه فى الدرجة بموجب عقد حلول مؤشر به فى السجلات العقارية على هامش تسجيل عقد الرهن ، و كان الدائن المرتهن إذ طلب",
+  "keywords": [
+   "الرهن",
+   "عقد الرهن",
+   "نزول الدائن المرتهن عن حق الامتياز",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0341 لسنة 21"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-12-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0341",
+   "judicial_year": "21",
+   "office_volume": "06",
+   "page": "330",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0341_21_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "نزول الدائن المرتهن عن حق الامتياز",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0341",
+    "judicial_year": "21",
+    "office_volume": "06",
+    "page": "330",
+    "session_date": "16-12-1954",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الرهن",
+    "عقد الرهن",
+    "نزول الدائن المرتهن عن حق الامتياز"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الواقع هو أن بائع العقار قد نزل عن أسبقيته فى الامتياز إلى دائن مرتهن متأخر عنه فى الدرجة بموجب عقد حلول مؤشر به فى السجلات العقارية على هامش تسجيل عقد الرهن ، و كان الدائن المرتهن إذ طلب",
+   "core_principles": [
+    "متى كان الواقع هو أن بائع العقار قد نزل عن أسبقيته فى الامتياز إلى دائن مرتهن متأخر عنه فى الدرجة بموجب عقد حلول مؤشر به فى السجلات العقارية على هامش تسجيل عقد الرهن ، و كان الدائن المرتهن إذ طلب تخصيصه بدينه فى مرتبة الرهن قد طلب المرتبة التى تخولها إياه المستندات المقدمة منه و هى اعتباره حالا محل"
+   ],
+   "judicial_rule": {
+    "short": "متى كان الواقع هو أن بائع العقار قد نزل عن أسبقيته فى الامتياز إلى دائن مرتهن متأخر عنه فى الدرجة بموجب عقد حلول مؤشر به فى السجلات العقارية على هامش تسجيل عقد الرهن ، و كان الدائن المرتهن إذ طلب",
+    "professional": "متى كان الواقع هو أن بائع العقار قد نزل عن أسبقيته فى الامتياز إلى دائن مرتهن متأخر عنه فى الدرجة بموجب عقد حلول مؤشر به فى السجلات العقارية على هامش تسجيل عقد الرهن ، و كان الدائن المرتهن إذ طلب تخصيصه بدينه فى مرتبة الرهن قد طلب المرتبة التى تخولها إياه المستندات المقدمة منه و هى اعتباره حالا محل البائع فى امتيازه ، و كان قاضى التوزيع قد أغفل شأن هذه المستندات المقدمة ، فإذا ناقض الدائن المرتهن و طلب الدرجة التى يستحقها فلا يصح أن يعترض عليه وفقا لما كان يقرره قانون المرافع"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "نزول الدائن المرتهن عن حق الامتياز",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_1344_48_1",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "نزول الراهن عن ملكية العقار المرهون",
+  "content": "مفاد المادة 1052 من القانون المدنى أن إتفاق الراهن مع الدائن المرتهن على تملك هذا الأخير العقار المرهون إذا لم يتم الوفاء بالدين يقع باطلاً متى أبرم هذا الإتفاق وقت إنشاء الرهن أو قبل حلول أجل الدين ، أما بعد",
+  "keywords": [
+   "الرهن",
+   "عقد الرهن",
+   "نزول الراهن عن ملكية العقار المرهون",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 1344 لسنة 48"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "15-04-1982",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1344",
+   "judicial_year": "48",
+   "office_volume": "33",
+   "page": "413",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_1344_48_1",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "نزول الراهن عن ملكية العقار المرهون",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1344",
+    "judicial_year": "48",
+    "office_volume": "33",
+    "page": "413",
+    "session_date": "15-04-1982",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الرهن",
+    "عقد الرهن",
+    "نزول الراهن عن ملكية العقار المرهون"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد المادة 1052 من القانون المدنى أن إتفاق الراهن مع الدائن المرتهن على تملك هذا الأخير العقار المرهون إذا لم يتم الوفاء بالدين يقع باطلاً متى أبرم هذا الإتفاق وقت إنشاء الرهن أو قبل حلول أجل الدين ، أما بعد",
+   "core_principles": [
+    "مفاد المادة 1052 من القانون المدنى أن إتفاق الراهن مع الدائن المرتهن على تملك هذا الأخير العقار المرهون إذا لم يتم الوفاء بالدين يقع باطلاً متى أبرم هذا الإتفاق وقت إنشاء الرهن أو قبل حلول أجل الدين ، أما بعد حلول الدين أو قسط منه فإنه يجوز للراهن أن ينزل للدائن عن العقار المرهون و يكون هذا التصرف ب"
+   ],
+   "judicial_rule": {
+    "short": "مفاد المادة 1052 من القانون المدنى أن إتفاق الراهن مع الدائن المرتهن على تملك هذا الأخير العقار المرهون إذا لم يتم الوفاء بالدين يقع باطلاً متى أبرم هذا الإتفاق وقت إنشاء الرهن أو قبل حلول أجل الدين ، أما بعد",
+    "professional": "مفاد المادة 1052 من القانون المدنى أن إتفاق الراهن مع الدائن المرتهن على تملك هذا الأخير العقار المرهون إذا لم يتم الوفاء بالدين يقع باطلاً متى أبرم هذا الإتفاق وقت إنشاء الرهن أو قبل حلول أجل الدين ، أما بعد حلول الدين أو قسط منه فإنه يجوز للراهن أن ينزل للدائن عن العقار المرهون و يكون هذا التصرف بيعاً صحيحاً سواء كان الثمن هو ذات الدين أو ما يزيد أو يقل عنه ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "نزول الراهن عن ملكية العقار المرهون",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_051_31_2",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "هلاك الشىء المرهون",
+  "content": "من المقرر طبقاً للمادتين 1049 ، 2/1102 من القانون المدنى أن هلاك الشىء المرهون يترتب عليه إنتقال حق الدائن المرتهن إلى ما حل محله من حقوق ليستوفى دينه منها فإذا كانت البضاعة المرهونة و المؤمن عليها قد إحترقت و تقرر",
+  "keywords": [
+   "الرهن",
+   "عقد الرهن",
+   "هلاك الشىء المرهون",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 051 لسنة 31"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "28-12-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "051",
+   "judicial_year": "31",
+   "office_volume": "16",
+   "page": "1347",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_051_31_2",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "هلاك الشىء المرهون",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "051",
+    "judicial_year": "31",
+    "office_volume": "16",
+    "page": "1347",
+    "session_date": "28-12-1965",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الرهن",
+    "عقد الرهن",
+    "هلاك الشىء المرهون"
+   ],
+   "legal_articles": [],
+   "facts_summary": "من المقرر طبقاً للمادتين 1049 ، 2/1102 من القانون المدنى أن هلاك الشىء المرهون يترتب عليه إنتقال حق الدائن المرتهن إلى ما حل محله من حقوق ليستوفى دينه منها فإذا كانت البضاعة المرهونة و المؤمن عليها قد إحترقت و تقرر",
+   "core_principles": [
+    "من المقرر طبقاً للمادتين 1049 ، 2/1102 من القانون المدنى أن هلاك الشىء المرهون يترتب عليه إنتقال حق الدائن المرتهن إلى ما حل محله من حقوق ليستوفى دينه منها فإذا كانت البضاعة المرهونة و المؤمن عليها قد إحترقت و تقرر حق الدائن المرتهن فى مبلغ التأمين المستحق و كان مقتضى ذلك حلول مبلغ التأمين محل البضا"
+   ],
+   "judicial_rule": {
+    "short": "من المقرر طبقاً للمادتين 1049 ، 2/1102 من القانون المدنى أن هلاك الشىء المرهون يترتب عليه إنتقال حق الدائن المرتهن إلى ما حل محله من حقوق ليستوفى دينه منها فإذا كانت البضاعة المرهونة و المؤمن عليها قد إحترقت و تقرر",
+    "professional": "من المقرر طبقاً للمادتين 1049 ، 2/1102 من القانون المدنى أن هلاك الشىء المرهون يترتب عليه إنتقال حق الدائن المرتهن إلى ما حل محله من حقوق ليستوفى دينه منها فإذا كانت البضاعة المرهونة و المؤمن عليها قد إحترقت و تقرر حق الدائن المرتهن فى مبلغ التأمين المستحق و كان مقتضى ذلك حلول مبلغ التأمين محل البضاعة المرهونة - فإنه ليس هناك محل لرجوع المدين الراهن على الدائن المرتهن و حسبه أن تجرى المحاسبة بينهما على أساس عقد القرض المضمون بالرهن و إذ قضى الحكم المطعون فيه مع ذلك بمسئولية ا"
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "هلاك الشىء المرهون",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_mortgage_0459_49_4",
+  "type": "judgment_principle",
+  "category": "mortgage",
+  "title": "فوائد الديون المرهونة",
+  "content": "المقرر طبقاً لنص المادة 226 من القانون التجارى أنه لا يقف سريان الفوائد إلا بالنسبة إلى الديون العادية أما الديون المضمونة برهن أو إمتياز أو إختصاص فتظل فوائد سارية على الرغم من الإفلاس ، فيجوز إذن للدائن المرتهن و أصحاب",
+  "keywords": [
+   "الإفلاس",
+   "التنفيذ",
+   "الرهن",
+   "عقد الرهن",
+   "فوائد الديون المرهونة",
+   "cassation",
+   "civil",
+   "mortgage",
+   "secured transactions",
+   "foreclosure",
+   "priority of liens",
+   "real estate"
+  ],
+  "citations": [
+   "طعن رقم 0459 لسنة 49"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "10-04-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0459",
+   "judicial_year": "49",
+   "office_volume": "31",
+   "page": "1056",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_mortgage_0459_49_4",
+   "domain": "civil_law",
+   "category": "mortgage",
+   "topic": "فوائد الديون المرهونة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0459",
+    "judicial_year": "49",
+    "office_volume": "31",
+    "page": "1056",
+    "session_date": "10-04-1980",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "الإفلاس",
+    "التنفيذ",
+    "الرهن",
+    "عقد الرهن",
+    "فوائد الديون المرهونة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر طبقاً لنص المادة 226 من القانون التجارى أنه لا يقف سريان الفوائد إلا بالنسبة إلى الديون العادية أما الديون المضمونة برهن أو إمتياز أو إختصاص فتظل فوائد سارية على الرغم من الإفلاس ، فيجوز إذن للدائن المرتهن و أصحاب",
+   "core_principles": [
+    "المقرر طبقاً لنص المادة 226 من القانون التجارى أنه لا يقف سريان الفوائد إلا بالنسبة إلى الديون العادية أما الديون المضمونة برهن أو إمتياز أو إختصاص فتظل فوائد سارية على الرغم من الإفلاس ، فيجوز إذن للدائن المرتهن و أصحاب حقوق الإمتياز الإحتجاج بالفوائد المستحقة - سواء كانت إتفاقية أو قانونية - فى مو"
+   ],
+   "judicial_rule": {
+    "short": "المقرر طبقاً لنص المادة 226 من القانون التجارى أنه لا يقف سريان الفوائد إلا بالنسبة إلى الديون العادية أما الديون المضمونة برهن أو إمتياز أو إختصاص فتظل فوائد سارية على الرغم من الإفلاس ، فيجوز إذن للدائن المرتهن و أصحاب",
+    "professional": "المقرر طبقاً لنص المادة 226 من القانون التجارى أنه لا يقف سريان الفوائد إلا بالنسبة إلى الديون العادية أما الديون المضمونة برهن أو إمتياز أو إختصاص فتظل فوائد سارية على الرغم من الإفلاس ، فيجوز إذن للدائن المرتهن و أصحاب حقوق الإمتياز الإحتجاج بالفوائد المستحقة - سواء كانت إتفاقية أو قانونية - فى مواجهة جماعة الدائنين، و كل ما فى الأمر أنه لا يجوز لهم التنفيذ بالفوائد المستحقة بعد شهر الإفلاس إلا على الأموال التى يقع عليها الرهن أو الإمتياز أو الإختصاص ."
+   },
+   "conditions": [
+    "Mortgage must be registered to bind third parties",
+    "Secured debt must be valid and existing"
+   ],
+   "exceptions": [],
+   "effects": [
+    "Secured creditor priority over unsecured creditors",
+    "Mortgagor loses property through foreclosure if debt unpaid"
+   ],
+   "practical_usage": [
+    "Cite to establish priority of mortgage rights.",
+    "Use in foreclosure and secured debt disputes."
+   ],
+   "common_disputes": [
+    "Foreclosure on mortgaged real estate",
+    "Priority between competing mortgagees"
+   ],
+   "related_topics": [
+    "secured transactions",
+    "foreclosure",
+    "priority of liens",
+    "real estate"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "mortgage",
+    "فوائد الديون المرهونة",
+    "عقد الرهن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

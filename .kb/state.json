@@ -1,0 +1,1225 @@
+{
+  "updated_at": "2026-07-19T20:04:26.120082+00:00",
+  "files": {
+    "knowledge/laws/labour/قانون_التأمين_للعاملين_المصرين_في_الخارج_رقم_50_لسنة_1978.json": {
+      "sha256": "f7dab41099496300b52d2fe5785714488c4298cae97a483ede04ae952284ac76",
+      "record_count": 50
+    },
+    "knowledge/laws/labour/قانون_العمل_الموحد_010.json": {
+      "sha256": "ef1ba83660f2507ab2870274dd4e1072f7962176a9bb35c2faba97170aaadd16",
+      "record_count": 359
+    },
+    "knowledge/laws/labour/قانون_العمل_الموحد_010_1.json": {
+      "sha256": "9127efa849c075eb92dabac93aa83906e08849f0bab12aff11bf74fc6a7bfa74",
+      "record_count": 359
+    },
+    "knowledge/laws/labour/قانون_النقابات_العمالية_رقم_12_لسنة_1995.json": {
+      "sha256": "fe9b3a6bdf9f5443bd2059ae5e390a53a26b717178f31590ff2d8d8cbfb73431",
+      "record_count": 57
+    },
+    "knowledge/laws/real_estate_rent/القانون_رقم_106_لسنة_1976_بشأن_تنظيم_وتوجيه_أعمال_البناء.json": {
+      "sha256": "2a6dc90ac779062e6ff7af72c3d89c91873294265fa1b130997271bc75477eaa",
+      "record_count": 49
+    },
+    "knowledge/laws/real_estate_rent/القانون_رقم_142_لسنة_1964_بنظام_السجل_العينى.json": {
+      "sha256": "aa80a9611933ffd0d90ec177966fc4a864b5e8318bd13269c259622e1d5c2c80",
+      "record_count": 75
+    },
+    "knowledge/laws/real_estate_rent/القانون_رقم_49_لسنة_1977.json": {
+      "sha256": "0608a11d2d9a8254be0353704db651824b01fe21cc184caab53bd7bdc49798e0",
+      "record_count": 193
+    },
+    "knowledge/laws/real_estate_rent/القانون_رقم_4_لسنة_1996.json": {
+      "sha256": "d9201bb2a604a14efdfb768ee944fca493f378560ed6247accdd2638aa5eb5c2",
+      "record_count": 4
+    },
+    "knowledge/laws/real_estate_rent/قانون_136_لسنة_1981.json": {
+      "sha256": "76efe620a80f9947ae3d324afd77435d0f118dae37f71a1bd3175d9adc9ce36d",
+      "record_count": 29
+    },
+    "knowledge/laws/real_estate_rent/قانون_التخطيط_العمراني.json": {
+      "sha256": "2ff5a1d489ce5b7ece48c6f8fd0e3ff2f43eab98fc4c8c126f5f4d4d6da22127",
+      "record_count": 8
+    },
+    "knowledge/laws/real_estate_rent/قانون_التمويل_العقارى.json": {
+      "sha256": "0f910cc66b9b833201c312fd03e26819b9cbd38cf7427596d80644534f60fdc4",
+      "record_count": 52
+    },
+    "knowledge/laws/real_estate_rent/قانون_المبانى.json": {
+      "sha256": "6413eb9d417609fb8316cc8b4266c17bc8e27eb1d8a7114be189335bcd6b1a15",
+      "record_count": 30
+    },
+    "knowledge/laws/real_estate_rent/قانون_ايجارات_6_لسنة_1996.json": {
+      "sha256": "26619100ceb403936c347940f38de4a814f2bce73028629c1e7de7b6b34505aa",
+      "record_count": 5
+    },
+    "knowledge/laws/real_estate_rent/قانون_رقم_10_لسنة_1990_بشأن_نزع_الملكية_للمنفعة_العامة.json": {
+      "sha256": "b9975bf9492c458ea1526d9e4559ad9f339e2d1caa852de826c3fc4b89a7de1d",
+      "record_count": 20
+    },
+    "knowledge/laws/real_estate_rent/قانون_رقم_114_لسنة_1946,_بتنظيم_الشهر_العقاري.json": {
+      "sha256": "db235999360a2186f54aeb93479405cd278c6cc94a657270b64e457d815d6ab1",
+      "record_count": 65
+    },
+    "knowledge/laws/real_estate_rent/قانون_رقم_14_لسنة_2002_بشأن_تأجير_الأماكن.json": {
+      "sha256": "73477c53c27fa83169451abf1531c95b84137f791bd5d31b70630ac95a668a59",
+      "record_count": 2
+    },
+    "knowledge/laws/real_estate_rent/قانون_رقم_5_لسنة_1996م_بشأن_تأجير_الأماكن.json": {
+      "sha256": "16dc64700c4f0f61bb765847baa11ac52a70791e35168aecd07b0621d6671c06",
+      "record_count": 6
+    },
+    "knowledge/laws/real_estate_rent/قر_مجلس_الشعب_القانون_الآتي_نصه_._وقد_اصدرناه__.json": {
+      "sha256": "b188458c8f24e856e5006c9f3d92a04c829a8ff8e8a4c23efa5964d965173e01",
+      "record_count": 23
+    },
+    "knowledge/laws/criminal/القانون_رقم_162_لسنة_1958_هو_قانون_الطوارئ..json": {
+      "sha256": "f3f7586cfa2bc16a0c817debc723e8654c472acb72238a9fcf27a6700a519951",
+      "record_count": 25
+    },
+    "knowledge/laws/criminal/الكتاب_الأول.json": {
+      "sha256": "d23ba74623849e6b9ba238ee19816efd78a921cf3de9e0deec99964c253c9df5",
+      "record_count": 478
+    },
+    "knowledge/laws/criminal/بالقانون_رقم_95_لسنة_2003م____.json": {
+      "sha256": "cb566bb8e369bd1efe893eb3905e69dad7306b067d6e40dba7ea76e0edd6d227",
+      "record_count": 494
+    },
+    "knowledge/laws/criminal/بالقانون_رقم_95_لسنة_2003م_____1.json": {
+      "sha256": "7e6b4b73d7fdeed33229c330198e59f66446226a6dad06ca5b29bbba41511a13",
+      "record_count": 494
+    },
+    "knowledge/laws/criminal/بالقانون_رقم_95_لسنة_2003م_____2.json": {
+      "sha256": "af114876be2d50d55e9c2556423f8fb5f6ecfc59489aa1274c0a07c17e2cc6fe",
+      "record_count": 494
+    },
+    "knowledge/laws/criminal/رقم_182_لسنة_1960_المعدل_بالقانون_رقم_122_لسنة_1989.json": {
+      "sha256": "6a1416ed7f5988c94d1ecbac3dc6502cd074b22c1a851d635418a8e6f2827361",
+      "record_count": 67
+    },
+    "knowledge/laws/criminal/قانون_الإجراءات_الجنائية_(طبقا_لاحدث_التعديلات_بالقانون_95_لسنة_2003).json": {
+      "sha256": "1d5708e445ec4b3285db15884bf36dd8113dcf43d21f25171aa5012b5ddd83fe",
+      "record_count": 39
+    },
+    "knowledge/laws/criminal/قانون_الحبس_الإحتياطى_الجديد.json": {
+      "sha256": "d98428f047339817957602468f6a548a2831f71de049f4fa23cea400b0c383da",
+      "record_count": 28
+    },
+    "knowledge/laws/criminal/قانون_السجون_المصري.json": {
+      "sha256": "c121d9df9852c5f6266ce93aff632b2846006f4d5c32eab42b1b8c76dc7bd4ce",
+      "record_count": 102
+    },
+    "knowledge/laws/criminal/قانون_العقوبات.json": {
+      "sha256": "a37085861e08ca4ac972d58b3bfdbd613e2ea39044250206abcaf682706966cc",
+      "record_count": 496
+    },
+    "knowledge/laws/criminal/قانون_المخدرات_.json": {
+      "sha256": "b992c61e9a485aaa127101936f433a895d7df0c29c45c23e9abfd07c06a4a61e",
+      "record_count": 67
+    },
+    "knowledge/laws/criminal/قانون_رقم_6_لسنة_2009_بتعديل_قانون_تنظيم_السجون.json": {
+      "sha256": "ae36d17f2826732d7f5b016c639e2050b0300144e8a2c6bfb3b68f14bf18b0f4",
+      "record_count": 1
+    },
+    "knowledge/laws/criminal/قانون_مكافحة_الارهاب_المضاف_لقانون_العقوبات.json": {
+      "sha256": "93480d288c44543316dcff634433bc4361e21108cb216e4c5838383c3d27a7e7",
+      "record_count": 1
+    },
+    "knowledge/laws/criminal/قانون_مكافحة_الدعارة.json": {
+      "sha256": "e846099b3e8ee8b8a14133b5448b1ed8ce5bb6604ba7c12c3a86e04002567f5c",
+      "record_count": 19
+    },
+    "knowledge/laws/criminal/قانون_مكافحة_الدعارة_رقم_10_لسنة_1961.json": {
+      "sha256": "d97abcbf937dc7bc75e664445a98ccb01293c254ea09f755a46844757487242f",
+      "record_count": 19
+    },
+    "knowledge/laws/criminal/كــود_قانون_العقوبات.json": {
+      "sha256": "47f73998f9b2537ece0137ba2e183ed59659279ab9a58babf9b302bf51269de8",
+      "record_count": 359
+    },
+    "knowledge/laws/criminal/كود_قانون_الأجراءات_الجنائية.json": {
+      "sha256": "0b75af38f71c745a897f172ae591b5865f9b900e1c1d6dbd4aa3a2cfce1c9cfa",
+      "record_count": 476
+    },
+    "knowledge/laws/criminal/كود_قانون_الإجراءات_الجنائية_المصري_كاملا_طبقا_لأحدث_التعديلات_بالقانون_95_لسنة_2003.json": {
+      "sha256": "618f8f0385f6a3896f774874248fe06fc32be96f35f901752477c302b76a5a23",
+      "record_count": 39
+    },
+    "knowledge/laws/criminal/كود_قانون_المخدرات.json": {
+      "sha256": "ba95ab8bd7b298ce723c939f418e343e1cf27a71649c03f01fbc41919a663907",
+      "record_count": 56
+    },
+    "knowledge/laws/education/قانون_101_لسنة_1992_بإنشاء_الجامعات_الخاصة.json": {
+      "sha256": "21bdb7b7dee44d715c1965463a61c377edc04d75a36c983681344b2f4e112727",
+      "record_count": 11
+    },
+    "knowledge/laws/education/قانون_رقم_82_لسنة_2006_بإنشاء_الهيئة_القومية_لضمان_جودة_التعليم_والإعتماد.json": {
+      "sha256": "6b0a8e96855395a6d594f7781c9da8e68075b19cb43db2eb89574c6c50e6bbd3",
+      "record_count": 25
+    },
+    "knowledge/laws/environment/قانون_حماية_البيئة.json": {
+      "sha256": "7f994585b991df9862453d8bfaa7937eac3ef69cd8588e6bcd49d830749928da",
+      "record_count": 103
+    },
+    "knowledge/laws/environment/قانون_رقم_4_لسنة_1994م_بإصدار_قانون_بشأن_البيئة.json": {
+      "sha256": "8911270c0c9d15214bfa2e52c1dcd8e93a1958cc072211deb704ae9e95e6fb1d",
+      "record_count": 82
+    },
+    "knowledge/laws/procedural/التعديلات_الاخيره_لقانون_المرافعات.json": {
+      "sha256": "b015c968ce61f16e186a954a30d4c5d78e75d4261decd6edd0c2454bdf2be4cb",
+      "record_count": 9
+    },
+    "knowledge/laws/procedural/قانون_Aالإثبـات_-__.json": {
+      "sha256": "7cbbac5c68ac38c3d0596c051666486690b339f9beb8bb514d0ee9c2a6e17565",
+      "record_count": 165
+    },
+    "knowledge/laws/procedural/قانون_Aالإثبـات_-___1.json": {
+      "sha256": "8ee15a9e1e9f7746da046c7717ae5b5d5bebb957719bdb310350919847e0ab2e",
+      "record_count": 165
+    },
+    "knowledge/laws/procedural/قانون_الإثبـات.json": {
+      "sha256": "d9f8d9e753c4310ff02da4002c433de78f43ac6cd27407d324dba2491c72da68",
+      "record_count": 165
+    },
+    "knowledge/laws/procedural/قانون_المرافعات.json": {
+      "sha256": "b7b725b1e84ca8d3db8ba52feaa576f6f8947617cf8155423fb5074d78995e2e",
+      "record_count": 502
+    },
+    "knowledge/laws/procedural/قانون_المرافعات____.json": {
+      "sha256": "393fc3f3d6af2e2c4b8058c1824bfc9e396b6f3f22aaa60c948870e4a6578782",
+      "record_count": 677
+    },
+    "knowledge/laws/procedural/قانون_النيابه_الأدارية.json": {
+      "sha256": "66be505ecc96040012f8f721f18e15001856113d5aff5c99b75e4d57e5fd13f1",
+      "record_count": 30
+    },
+    "knowledge/laws/procedural/قانون_النيابه_العامة.json": {
+      "sha256": "f7f5315bd42e487188351fa0a6bb4826fc48679ab9a34f3d4aff0146070a189d",
+      "record_count": 129
+    },
+    "knowledge/laws/procedural/قانون_رقم_13_لسنة_1968.json": {
+      "sha256": "77355e9235425adb1d747809e7da2dc5b3c862ad47cbc0e5956a154671f49dcf",
+      "record_count": 510
+    },
+    "knowledge/laws/procedural/مع_عدم_الاخلال_باحكام_قانون_المرافعات_او_القوانين_المنظمة_لبعض_انواع_البيوع__82a57bdf.json": {
+      "sha256": "c42f8966cfa29d283f003a0ef114093afd182fc9622b2e95f50005c93edf3126",
+      "record_count": 49
+    },
+    "knowledge/laws/public_procurement/قانون_تنظيم_المناقصات_والمزايدات.json": {
+      "sha256": "2196b28c4963829204305a65a56e50266e654ce79adfa0abf8d514b714e36520",
+      "record_count": 1
+    },
+    "knowledge/laws/investment_economic/قانون_ضمانات_وحوافز_الاستثمار_القانون_رقم_8_لسنة_1997.json": {
+      "sha256": "429c3b3fa9f8736ae19593846635aebfc6c3c24816dc47fce3913119dfb4e93c",
+      "record_count": 107
+    },
+    "knowledge/laws/insurance_social/قانون_التأمينات_الإجتماعية.json": {
+      "sha256": "ce931b13c9947863df17e6c92e5bb0727670d850dfaa60c3c66dc229d11930a5",
+      "record_count": 190
+    },
+    "knowledge/laws/insurance_social/قانون_رقم_32_لسنة_1975في_شأن_نظام_العلاج_التأميني_للعاملين_في_الحكومة_ووحدات.json": {
+      "sha256": "5fa6793d7e2f2e8d5f188f3ad9c4bb265f857f7a36f3c526e88f2926e799a522",
+      "record_count": 8
+    },
+    "knowledge/laws/insurance_social/موسوعة_التأمينات_الاجتماعية.json": {
+      "sha256": "89e7adfb0ecff82b9ab86ff8694178dc7b1cb98f4cb7dff6a4d53ebd7db3b667",
+      "record_count": 202
+    },
+    "knowledge/laws/tax/قانون_114_لسنة_2008.json": {
+      "sha256": "ab4a2460a31874fd8ceb64f7b9f8fb7e31d9ed1667dfa0344a223a3628966c37",
+      "record_count": 19
+    },
+    "knowledge/laws/tax/قانون_196_لسنة_2008بإصدار_قانون_الضريبة_على_العقارات_المبنية.json": {
+      "sha256": "76e0873b440ad15830239a1659be339a9e56b3eae1c360029b5da9a8aef786da",
+      "record_count": 57
+    },
+    "knowledge/laws/tax/قانون_الضريبة_العامة_على_المبيعات.json": {
+      "sha256": "9aa333c088e78fd03d240a198d5ffdfbd977288febbb5fbc2f3c982530b9b9d0",
+      "record_count": 56
+    },
+    "knowledge/laws/tax/قانون_الضريبة_على_الدخل_الصادر_بالقانون_رقم_(_91_)_لسنة_2005.json": {
+      "sha256": "4be4fff925c752e7bb0e7a6f44945e77d1e6680040e3fc4d1196f093724a57e8",
+      "record_count": 149
+    },
+    "knowledge/laws/intellectual_property/قانون_حماية_الملكية_الفكرية_رقم_82_2003.json": {
+      "sha256": "42763caf8976c19ae33a48c33a0aae5e8fb272e331c44193f2a122e991405dc5",
+      "record_count": 410
+    },
+    "knowledge/laws/commercial/1-_يكون_الملتزمون_معا_بدين_تجارى_متضامنين_فى_هذا_الدين_ما_لم_ينص_القانون_او_الاتفاق_على_غير_ذلك_..json": {
+      "sha256": "f0dab172bca591be4fbab3ae94337cf8ecfec352bf94a3d6e6e1c5726ef538c4",
+      "record_count": 252
+    },
+    "knowledge/laws/commercial/1_-_يعد_فى_حالة_افلاس_كل_تاجر_ملزم_بموجب_احكام_هذا_القانون_بامساك_دفاتر_تجارية__0b629d10.json": {
+      "sha256": "b77d791f6d5405efbfa5a96561400bb5f2b2f7f6b1e23304a38b0c0088c1750c",
+      "record_count": 222
+    },
+    "knowledge/laws/commercial/الأوراق_التجارية.json": {
+      "sha256": "2245c80e6ef6e222fd73f7c278aa1783e7ddd115f7630ea7fed8ebccfaa8f3d7",
+      "record_count": 171
+    },
+    "knowledge/laws/commercial/الفصل_الأول.json": {
+      "sha256": "efb196ce05d31fd97eb02c05cd35f6b65856b3bc03d8917df58664951dadba78",
+      "record_count": 33
+    },
+    "knowledge/laws/commercial/القانون_رقم_34_لسنة_1976_بشأن_السجل_التجارى.json": {
+      "sha256": "328773cfb07317843b837019bb69ac85a41c2a2a046007f2ccec4a2d39bc5cf8",
+      "record_count": 45
+    },
+    "knowledge/laws/commercial/بالقانون_رقم_205_لسنة_1990.json": {
+      "sha256": "71df214313ae33b1f7ddc3593f76ee949b3be3f4122eb17532f3b5fb2958915c",
+      "record_count": 2
+    },
+    "knowledge/laws/commercial/تسرى_احكام_هذا_القانون_على_الاعمال_التجارية_،_وعلى_كل_شخص_طبيعى_او_اعتبارى_تثبت_له_صفة_التاجر_..json": {
+      "sha256": "e5771441ade076b9f66b3cea6e4727f412c0a32afec36a8fe84f6a9ba03c86bd",
+      "record_count": 45
+    },
+    "knowledge/laws/commercial/قانون_التجارة_البحرية.json": {
+      "sha256": "67917bcb45c1de97576126427f0b15521a3c02b16191123fee936e7ce4d9ddf6",
+      "record_count": 197
+    },
+    "knowledge/laws/commercial/قانون_التوقيع_الألكتروني_المصري.json": {
+      "sha256": "89b6cde9bb7e553668b0db24371ca1fd560ce89ab93d1a89d201b03fd89e48e4",
+      "record_count": 29
+    },
+    "knowledge/laws/commercial/قانون_الشركات_159_لسنة_1981_المعدل_بالقانون_3_لسنة_1998.json": {
+      "sha256": "ae38a438e85466dbb97d80c1c6e0f992a45e4eb2a6703e80cd5628236a024c28",
+      "record_count": 189
+    },
+    "knowledge/laws/commercial/قانون_المحاكم_الاقتصادية_الصادر_بالقانون_رقم_120_لسنة_2008.json": {
+      "sha256": "909c534dbf28007d1b7812881795c8f77ad3dff4d38d9d2662b4695ec660fd3d",
+      "record_count": 12
+    },
+    "knowledge/laws/commercial/قانون_رقم_88_لسنة_2003_بإصدار_قانون_البنك_المركزى_والجهاز_المصرفى_والنقد.json": {
+      "sha256": "8a02808ef4e9e90d7db1c828ce98c8e59e575c1cb059d0aff2c2952e129ff258",
+      "record_count": 135
+    },
+    "knowledge/laws/commercial/قانون_شركات_قطاع_الأعمال_العام.json": {
+      "sha256": "29d49432f9764c78b7ca327dfc688d457c7ced5024dbff1bc460b2ee47496f09",
+      "record_count": 55
+    },
+    "knowledge/laws/commercial/مع_مراعاة_ما_تقرره_الفقرة_الثالثة_من_المادة_(361)_من_هذا_القانون_,_تسرى_احكام_هذ_7b50184b.json": {
+      "sha256": "a74d90b84b6b169796d9fdda45d7beb2e7d045c25fb7cc2494ace14dede060a2",
+      "record_count": 78
+    },
+    "knowledge/laws/commercial/يعد_فى_كل_محافظة_او_مدينة_يصدر_بتعيينها_قرار_من_وزير_التجارة_سجل_تجارى_او_اكث_3edd1de7.json": {
+      "sha256": "9be68bc6ee227b325d8def263e7895236632209e222d88d44a7f36693fe63adb",
+      "record_count": 25
+    },
+    "knowledge/laws/ngo_civil_society/قانون_الجمعيات_والمؤسسات_الأهلية_القانون_رقم_84_لسنة_2002.json": {
+      "sha256": "b97a1a4ee1f926c7cf5c7b747a3f497f31e453436cc4d489c2a0d5bd922642ff",
+      "record_count": 235
+    },
+    "knowledge/laws/media_communications/القانون_رقم_(10)_لسنة_2003_بإصدار_قانون_تنظيم_الاتصالات.json": {
+      "sha256": "311dd6fd1baa7b2226cc9b53ba0e575408a4ff5e7337658b6f758647cfbc5b82",
+      "record_count": 87
+    },
+    "knowledge/laws/media_communications/قانون_رقم_96_لسنة_1996_بشأن_تنظيم_الصحافة.json": {
+      "sha256": "36e5af90df3defb55ce4786058f9c61b5ede8d72bbbeede6326ecd0befafcc0d",
+      "record_count": 80
+    },
+    "knowledge/laws/media_communications/قانون_رقم_96_لسنة_1996بشأن_تنظيم_الصحافة.json": {
+      "sha256": "07bd27107b4cebf6e3d7001580053eabd13c45fc5de211fae5073e559540d284",
+      "record_count": 81
+    },
+    "knowledge/laws/civil/القانون_رقم_131_لسنة_1948_بإصدار_-=.json": {
+      "sha256": "aee9673f4382ef3e8ecb6dc32c5d2774d3f7e7b6c51260bbef3ee99339ab0996",
+      "record_count": 1094
+    },
+    "knowledge/laws/civil/القانون_رقم_131_لسنة_1948_بإصدار_-=_1.json": {
+      "sha256": "3789b70a3bcce8e50d56b535c4bb3708dabf5eb6cf7ef71d8981dff1b56923a0",
+      "record_count": 1094
+    },
+    "knowledge/laws/civil/القانون_رقم_131_لسنة_1948_بإصدار_القانون_المدني.json": {
+      "sha256": "ca795d84b4e561ad4beb89c4d59e38f4116953e2f65de33a4a200a24e3f6ed27",
+      "record_count": 1094
+    },
+    "knowledge/laws/civil/القانون_رقم_72_لسنة_2007.json": {
+      "sha256": "82787d788560c91e8c8ed2cdd59152837c1d60dec8983172b8840a693066e6b8",
+      "record_count": 20
+    },
+    "knowledge/laws/civil/المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية.json": {
+      "sha256": "720a5acced701a1cbb0fce084f670ee19e9c4910cbcb1be24a045b8bb27a29ae",
+      "record_count": 521
+    },
+    "knowledge/laws/civil/قانون_التحكيم_في_المواد_المدنية_والتجارية.json": {
+      "sha256": "d052e0382e68b4fa549fc52c222d57e29e64f784c8dfef334584459b96e8efe8",
+      "record_count": 65
+    },
+    "knowledge/laws/civil/قانون_المرافعات_المدنية_والتجارية_المصري.json": {
+      "sha256": "e1e2ede8cbd6960f236ad6778f52d5f90c68d043d4e18da462780907d57f30a6",
+      "record_count": 278
+    },
+    "knowledge/laws/civil/قانون_رقم_143_لسنة_1994.json": {
+      "sha256": "d7377f38f0f047806fc36cb4df879011b1105a42a72280b43be652f166b37c1e",
+      "record_count": 81
+    },
+    "knowledge/laws/civil/قانون_رقم_47_لسنة_1978.json": {
+      "sha256": "e8cb867ebf579a2fb8a2cf5ab39ea2ab387ef79ef933f40b7b1b99b77ba4f741",
+      "record_count": 113
+    },
+    "knowledge/laws/civil/قانون_رقم_5_لسنة_1991فى_شأن_الوظائف_المدنية_القيادية_فى_الجهاز_الإدارى_للدولة_والقطاع_العام.json": {
+      "sha256": "3585b457d345165c01cf9a36147a64e4db7b66f3d8cc37200d5f8dc1ec166629",
+      "record_count": 7
+    },
+    "knowledge/laws/civil/قانون_رقم_76_لسنة_2007بتعديل_بعض_أحكام_قانون_المرافعات_المدنية_و_التجارية.json": {
+      "sha256": "239e50346ac30e2f412dbcc2aa08b4478a3732decf96fff66a836d8196b19bec",
+      "record_count": 15
+    },
+    "knowledge/laws/civil/كود_القانون_المدنى.json": {
+      "sha256": "d989fad67f8c970778b6be3ab6b168de8b44e41dec7ab17a4ecadc61e48a9612",
+      "record_count": 1093
+    },
+    "knowledge/laws/civil/مادة_()___قرر_مجلس_الشيوخ_ومجلس_النواب_القانون_الآتي_نصه،_وقد_صدّقنا_عليه_وأصدرناه_.json": {
+      "sha256": "9c1e845860dfb9040adf7879f8e94cb71bff9c2b3ff1d7354cfc372e697f98ea",
+      "record_count": 1151
+    },
+    "knowledge/laws/constitutional/القانون_رقـم_48_لسنة_1979.json": {
+      "sha256": "d477492785bc833192c89e2449b64dec97103596c9b21644bf07ac32e973c554",
+      "record_count": 60
+    },
+    "knowledge/laws/constitutional/قانون_الأحزاب_المصرية.json": {
+      "sha256": "dd26a7a0b941f3eb1d96704d52f91fb6227a8dc347aa679d4e2bbb95067da4c5",
+      "record_count": 2
+    },
+    "knowledge/laws/constitutional/نص_دستور_جمهورية_مصر_العربية.json": {
+      "sha256": "547e331802ebb7c85c3b96d1845b4d863cb7f732e0805a9fe92e7dc321cba7cc",
+      "record_count": 212
+    },
+    "knowledge/laws/constitutional/وقانون_مباشرة_الحقوق_السياسية.json": {
+      "sha256": "e0cc5283030e405cd9bcce695eab464470a827757c4ded2f4488c47cea67e4c2",
+      "record_count": 81
+    },
+    "knowledge/laws/other/(كما_استبدلت_الفقرة_الاولى_من_المادة_بالقانون_رقم_165_لسنة_1981_).json": {
+      "sha256": "faa692692ff0230929b313625578049b173a1fae46c4e7e64f39a8d28d3a4fca",
+      "record_count": 37
+    },
+    "knowledge/laws/other/القانون_رقم_121_لسنة_2008_م.json": {
+      "sha256": "ebcf53e0e291da44312812120083c28dac2c2d07e1ab816c28fa083e4b768dff",
+      "record_count": 25
+    },
+    "knowledge/laws/other/القانون_رقم_45_لسنة_1969.json": {
+      "sha256": "180f8eda7aa5c3106156bdb263cc4b10f6ce432dd043946b6b3f6ffd0404af66",
+      "record_count": 81
+    },
+    "knowledge/laws/other/القرارات_الوزارية_الخاصة_بالإستيراد_والتصدير.json": {
+      "sha256": "10d4194a39a6a0ae958ce6c49f7c0aca213d44183b4dc91facfbb32a321d60f3",
+      "record_count": 38
+    },
+    "knowledge/laws/other/المواعيد_والمدد_القانونية.json": {
+      "sha256": "54d36df3a0fc4146b6e07b8e4b8739556bd77d0b5d5d3ee0df64e257d29393c7",
+      "record_count": 521
+    },
+    "knowledge/laws/other/قانون_العيب.json": {
+      "sha256": "2bcb3e0de40945f7ff10816cce89130d2d9c6892be525fbb02b004a814fe7198",
+      "record_count": 65
+    },
+    "knowledge/laws/other/قانون_الهجرة_ورعاية_المصريين_في_الخارج.json": {
+      "sha256": "bb8f6409b9da0a482b8ad20f536691c529a54b242a1f8ab05049a3c7c44e6e53",
+      "record_count": 48
+    },
+    "knowledge/laws/other/قانون_تنمية_التصدير.json": {
+      "sha256": "36f185220aa8c989e96547f1fbab1f99fd3afb47012849ac040de936b3add821",
+      "record_count": 10
+    },
+    "knowledge/laws/other/قانون_توفيق_الأوضاع.json": {
+      "sha256": "7eb3e6bb4ab3985cbca4edfab21c9cdecfee1ea07faccc13256f8be7b15b97a8",
+      "record_count": 14
+    },
+    "knowledge/laws/other/قانون_حظر_شرب_الخمر.json": {
+      "sha256": "eeb2203fa3e2b9af5fc4e2baff73b3ab916a0af8e3591e6639b442066f61428e",
+      "record_count": 11
+    },
+    "knowledge/laws/other/قانون_رقم_127_لسنة_1980.json": {
+      "sha256": "315d601baf7bd284a310eaf67379e1a5f4dd5b3c8aa56551b80488761c58081d",
+      "record_count": 61
+    },
+    "knowledge/laws/other/قانون_رقم_127_لسنة_1980_1.json": {
+      "sha256": "27c435ed4629e6150baff75727d42107f93e64d6dff1905568fc8143a9c1e257",
+      "record_count": 61
+    },
+    "knowledge/laws/other/قانون_رقم_13_لسنة_1979.json": {
+      "sha256": "c546f0b8cc98f06d1d686835dbc67665f04bda67eebf64474ed7cccc82288a0f",
+      "record_count": 34
+    },
+    "knowledge/laws/other/قانون_رقم_1_لسنة_1994فى_شأن_الوزن_والقياس_والكيل.json": {
+      "sha256": "d94b28bfae7cfc241787fa84abe01f2df5b266e8b0bb2f60c180a77b907cfcbc",
+      "record_count": 11
+    },
+    "knowledge/laws/other/قانون_رقم_25لسنة_1966.json": {
+      "sha256": "60336f4b3c02130df9b90075b3307a3e104cbf9fb0cb66619f00bdcd20f13895",
+      "record_count": 176
+    },
+    "knowledge/laws/other/قانون_رقم_25لسنة_1966_1.json": {
+      "sha256": "628758bdd3d90d6658337fe863a5c027afb60b52e0b3b103463a29ed88332336",
+      "record_count": 176
+    },
+    "knowledge/laws/other/قرار_رئيس_جمهورية_مصر_العربية_بالقانون_رقم_109_لسنة_1971فى_شأن_هيئة_الشرطة_(1)_(2).json": {
+      "sha256": "118c8a9559f18684535a5a63c48358a1549147975c569375d927e8d49ee2ea8f",
+      "record_count": 19
+    },
+    "knowledge/laws/other/لائحة_المأذونين.json": {
+      "sha256": "1b126c191ac5b733f35fab71072db6ee0b40b97d691b629a3b8df66aeeaa5478",
+      "record_count": 54
+    },
+    "knowledge/laws/health/القانون_رقم_127_لسنة_1955_فى_شأن_مزاولة_مهنة_الصيدلة.json": {
+      "sha256": "61a3824e411336602fcec6ea6fcbe98d9f96a39702b843a9510b1e4fb9353299",
+      "record_count": 88
+    },
+    "knowledge/laws/health/قانون_رقم_481_لسنة_1954في_شأن_مزاولة_مهنة_التوليد.json": {
+      "sha256": "1ba8d0b3b0c5a378fc1e25b2f33fe2db2a478dbe2ce15c69f568550e43f9e53e",
+      "record_count": 17
+    },
+    "knowledge/laws/health/قانون_مزاولة_مهنة_الصيدلة_رقم_127_لسنة_1955.json": {
+      "sha256": "5763ee8dd86b1d18e28bb8aea9305f4cca4bf0a9386c21266e2de67687271f94",
+      "record_count": 57
+    },
+    "knowledge/laws/municipal_public_works/القانون_رقم_84_لسنة_1968_بشأن_الطرق_العامة_المعدل.json": {
+      "sha256": "e006345e79a2b19434feac35fc2af7bfab1e283566f799636d4afcd7b5460ca5",
+      "record_count": 24
+    },
+    "knowledge/laws/family/القانون_رقم_154_لسنة_2004‏_بتعديل_بعض_أحكام_القانون_رقم_26_لسنة_1975‏بشأن_الجنسية_المصرية.json": {
+      "sha256": "947b0497cc22890adaeb5f4241b0b1a976fa7c949da436148518605d60b79306",
+      "record_count": 1
+    },
+    "knowledge/laws/family/القانون_رقم_25_لسنة_1920_م.json": {
+      "sha256": "c78f694f84988ec06c919962fdd56ca1d0ae90fded82cbbdf528d8fbe7e1e6f3",
+      "record_count": 173
+    },
+    "knowledge/laws/family/القانون_رقم_25_لسنة_1920_م_1.json": {
+      "sha256": "ce0a99edeffbfd9999280654170b482ca8461d9ea90162ac73b439a85d97e189",
+      "record_count": 173
+    },
+    "knowledge/laws/family/القانون_رقم___25__لسنة_1920بأحكام_النفقة_وبعض_مسائل_الاحوال_الشخصية_المعدل_بالقانون_رقم_100لسنة_1985.json": {
+      "sha256": "bc15343c6da20ed8c77fb54d32c7e0efb02c0fc13c90e90526314b86b0f2c4f3",
+      "record_count": 180
+    },
+    "knowledge/laws/family/قانون_الأحوال_الشخصية___رقم_25_لسنة_1929م.json": {
+      "sha256": "99fb18b3982528c707a87a47c5bcad1a57095fdeefc888d2dcefcd5c9d701b89",
+      "record_count": 32
+    },
+    "knowledge/laws/family/قانون_الاحوال_الشخصيه_و_يشمل.json": {
+      "sha256": "79e8d413507cb065cab5431fe72e8fbf825831a8878d6a4bad032104bfa80cc4",
+      "record_count": 151
+    },
+    "knowledge/laws/family/قانون_تنظيم_بعض_أوضاع_وإجراءات_التقاضىفى_مسائل_الأحوال_الشخصية.json": {
+      "sha256": "815914aa78c25981fe25f66781376eacedbfbd32f0e89d7c7edc2b501909f6ae",
+      "record_count": 79
+    },
+    "knowledge/laws/family/قانون_رقم_26_لسنة_1975_بشأن_الجنسية_المصرية.json": {
+      "sha256": "88d9cae3988dd4ca60a7d6bf7bfc7b5e4aee1b42c70ab3d2a0e8d86cfa8d34a9",
+      "record_count": 35
+    },
+    "knowledge/laws/family/قانون_رقم_4_لسنة_2005_بشان_سن_حضانة_الصغير.json": {
+      "sha256": "61db16492f04756e7349f9616d582be42313e481b6cfdc8e26993e487f9efed4",
+      "record_count": 1
+    },
+    "knowledge/laws/administrative/القانون_رقم_144_لسنة_بإصدارقانون_الجهاز_المركزى_للمحاسبات_1988.json": {
+      "sha256": "1cf56a96b8d21f8c0ffa35faec92090c898f3e5359f5046e049bc7d6bf8ef540",
+      "record_count": 32
+    },
+    "knowledge/laws/administrative/القانون_رقم_62_لسنة_1975_بشأن_الكسب_غير_المشروع.json": {
+      "sha256": "98d253e33c2dcd67e075b8df15cb5faa66dac08f69ebbd58373092b53e966da4",
+      "record_count": 47
+    },
+    "knowledge/laws/administrative/قانون_الحجز_الإداري.json": {
+      "sha256": "2aee90601189c7af0333c8808d221821c6b0fcf31a4ccdf111ab593e97b6b152",
+      "record_count": 71
+    },
+    "knowledge/laws/administrative/قانون_مجلس_الدولة.json": {
+      "sha256": "35069d663822b461575fcbce461e32210f5c8d3644238a2096d382f215d03748",
+      "record_count": 131
+    },
+    "knowledge/laws/administrative/وعلى_القانون_رقم_61_لسنة_1963_بإصدار_قانون_الهيئات_العامة__.json": {
+      "sha256": "842d4cc0d363e789860a116935ed4a09c64e47d864e83d1903acf5b41f26e200",
+      "record_count": 52
+    },
+    "knowledge/laws/religious_endowments/قانون_هيئة_الأوقاف_المصرية.json": {
+      "sha256": "6500c9a88c6145669a422302fe3d1c495faccb36c02f6240345e83469ef64b28",
+      "record_count": 13
+    },
+    "knowledge/laws/lawyers/قانون_اتحاد_المحامين_العرب.json": {
+      "sha256": "1657ac9971af0cf644328414cf8b2461239e4d17781a7df22197448ebfb82bd0",
+      "record_count": 74
+    },
+    "knowledge/laws/lawyers/قانون_المحاماة.json": {
+      "sha256": "8bab70b6bc7a57022509cf3533c5a4973e8de42636bb2804f9fdf73348bc26c5",
+      "record_count": 228
+    },
+    "knowledge/laws/lawyers/قرر_مجلس_العشب_القانون_الأتى_وقد_اصدرناه.json": {
+      "sha256": "e885395f41f18ae87ff458cbbaacebc9fdb55883e1bf4ea128fa7a2f12e07c31",
+      "record_count": 17
+    },
+    "knowledge/laws/customs/القرارات_الوزارية_الخاصة_بالجمارك.json": {
+      "sha256": "ecaab262591c94c1b967f511eb8d17010e22d25cfb247d6dc326a2dfd30a685c",
+      "record_count": 30
+    },
+    "knowledge/laws/customs/القرارات_الوزارية_الخاصة_بالجمارك_1.json": {
+      "sha256": "038c31f8f226c9a879e4e0fdc0368eea16837424a92a0c30392b84cdd0060e5b",
+      "record_count": 30
+    },
+    "knowledge/judgments/cassation/criminal/appeal.json": {
+      "sha256": "3c11615e36839c289e6af7a76ba31c3a0e846553daacfe0bbdf7b64d7ebc8c86",
+      "record_count": 893
+    },
+    "knowledge/judgments/cassation/criminal/bodily_harm.json": {
+      "sha256": "d7776b095f15148c03112334bd7a797ef91f1f4546ca7c6119c41cd86e097f19",
+      "record_count": 238
+    },
+    "knowledge/judgments/cassation/criminal/criminal_liability.json": {
+      "sha256": "a8ed2d4e212e6fe3a687df1c76f42052e00c8d73fbd78018a0e4f6eec17cbc11",
+      "record_count": 1249
+    },
+    "knowledge/judgments/cassation/criminal/destruction.json": {
+      "sha256": "154faa98a6bfd28b14099a54f02a69cfae5423a5d1000f1e970955561cff6c9c",
+      "record_count": 93
+    },
+    "knowledge/judgments/cassation/criminal/financial_crimes.json": {
+      "sha256": "b44a96a29baed0d245b51f7c662c9758c531540ce0c5d9fe2e12cf4d615b181b",
+      "record_count": 376
+    },
+    "knowledge/judgments/cassation/criminal/forgery.json": {
+      "sha256": "f2e9c20f9633500ebe95b1938f3b0d3e69ca1286b1ab4859f880175103514096",
+      "record_count": 838
+    },
+    "knowledge/judgments/cassation/criminal/homicide.json": {
+      "sha256": "49cd62d8ae9308682a5996cd24b5a07073a6763b41e88cc3b8081b6e20cecf3f",
+      "record_count": 593
+    },
+    "knowledge/judgments/cassation/criminal/morality_crimes.json": {
+      "sha256": "81b59434eb8242922b6c4bb26535eccacf9d1fde560b7db46f47cf2970e31fe0",
+      "record_count": 213
+    },
+    "knowledge/judgments/cassation/criminal/regulatory.json": {
+      "sha256": "dca3c3401d502cdbe8080ea75cac4bf0f2994da46868603f47a6781a39d2f41f",
+      "record_count": 653
+    },
+    "knowledge/judgments/cassation/criminal/sentencing.json": {
+      "sha256": "3321700be864e9a2cd474d01883f287fbaf921a61b07bc4858562911b6ab9c97",
+      "record_count": 985
+    },
+    "knowledge/judgments/cassation/criminal/smuggling.json": {
+      "sha256": "363835c22615b993efe3afa6cc22f623528ba2c020ba2395fb5c4efdcdd6f1f8",
+      "record_count": 436
+    },
+    "knowledge/judgments/cassation/criminal/theft.json": {
+      "sha256": "6a5198c07126fe0db9db657cfcdf6d3f42d9f869ade94eacfc28f87729c68764",
+      "record_count": 480
+    },
+    "knowledge/judgments/cassation/criminal/uncategorized_pool.json": {
+      "sha256": "db6e443ec077ebc5474cc0a98cc5d02959dc53bc219a373dcdb29e4024a0da7c",
+      "record_count": 1900
+    },
+    "knowledge/judgments/cassation/criminal/weapons.json": {
+      "sha256": "7e3cfcb2458ab02b745f8e7df827ee8ee0e4ebbea0d9980ddb4fe5ff8671d3b6",
+      "record_count": 132
+    },
+    "knowledge/judgments/cassation/criminal/criminal_judgment/judicial_year_00s.json": {
+      "sha256": "cc19604036792e167a10070ca4e397225f18fbc565b1f85a5180a15f2f1d728f",
+      "record_count": 202
+    },
+    "knowledge/judgments/cassation/criminal/criminal_judgment/judicial_year_10s.json": {
+      "sha256": "dc2c050367d40f25d0206acaffcd031d3742da9a3f0f40f9b2655287befdb053",
+      "record_count": 537
+    },
+    "knowledge/judgments/cassation/criminal/criminal_judgment/judicial_year_20s.json": {
+      "sha256": "5ef6da752b137a32faa005898fe3123a5b06af72a2a444af73fa259b0c791ac9",
+      "record_count": 906
+    },
+    "knowledge/judgments/cassation/criminal/criminal_judgment/judicial_year_30s.json": {
+      "sha256": "3ff0890466cf4f2942519cc73084becc6391e235e7f2d99f9ed6b122db53dd1f",
+      "record_count": 1145
+    },
+    "knowledge/judgments/cassation/criminal/criminal_judgment/judicial_year_40s.json": {
+      "sha256": "545abec38dd95be041940735154584e1dc7854b01df10a9e5a2f1204f01871cd",
+      "record_count": 1345
+    },
+    "knowledge/judgments/cassation/criminal/criminal_judgment/judicial_year_50s.json": {
+      "sha256": "ed13c42f4e9f2ccce9eba4331fc52fa00a373faa7f9c72c214121de5994f0886",
+      "record_count": 1461
+    },
+    "knowledge/judgments/cassation/criminal/criminal_judgment/judicial_year_60s.json": {
+      "sha256": "7eafe608b0a819848d735d98ef90fdf127473227a4b5a0b37aba9460d7a18fc1",
+      "record_count": 70
+    },
+    "knowledge/judgments/cassation/criminal/cassation_procedure/judicial_year_00s.json": {
+      "sha256": "22f05fba9d11d9cfecd5dd8244252805f69f23e5bbb6841c4d5f38e8487906d8",
+      "record_count": 87
+    },
+    "knowledge/judgments/cassation/criminal/cassation_procedure/judicial_year_10s.json": {
+      "sha256": "df7b0908384a9f6af314d02b3abbef610f12c734a21e553d416b8e88fa90a297",
+      "record_count": 202
+    },
+    "knowledge/judgments/cassation/criminal/cassation_procedure/judicial_year_20s.json": {
+      "sha256": "e1278f256fb253781bcdee3882ebb7c7dca38f6c8713bcee06bcd001980d0997",
+      "record_count": 518
+    },
+    "knowledge/judgments/cassation/criminal/cassation_procedure/judicial_year_30s.json": {
+      "sha256": "51c1d671a014b4e57606f33ab35c992b7f0c3cfb1c0663e9d0f1ce6202aad870",
+      "record_count": 536
+    },
+    "knowledge/judgments/cassation/criminal/cassation_procedure/judicial_year_40s.json": {
+      "sha256": "dfab22545b440229eaf2734c7d2793c8d872dca4e5f1783bb675977856b769b5",
+      "record_count": 716
+    },
+    "knowledge/judgments/cassation/criminal/cassation_procedure/judicial_year_50s.json": {
+      "sha256": "6cab3128b959dfaad833ad7de69523679732b6de6130102a690a4c39c0338802",
+      "record_count": 1033
+    },
+    "knowledge/judgments/cassation/criminal/cassation_procedure/judicial_year_60s.json": {
+      "sha256": "bcb4a6be6ceb45b7852f4c520ace6329cc87e8289f5fe2b7a838ea04464890e4",
+      "record_count": 58
+    },
+    "knowledge/judgments/cassation/criminal/evidence/judicial_year_00s.json": {
+      "sha256": "bc746fed2317acce1d2da27b7396f3de758ecfa1aa66413188987ee92fc1b2d4",
+      "record_count": 239
+    },
+    "knowledge/judgments/cassation/criminal/evidence/judicial_year_10s.json": {
+      "sha256": "7c6c09939bde9f235b947c616ed1794af10585b9a2f4aa7237e6af9b234670f6",
+      "record_count": 477
+    },
+    "knowledge/judgments/cassation/criminal/evidence/judicial_year_20s.json": {
+      "sha256": "e7fa48772efa757e0dc0af1538c0b739f506242b2ce9c06219d24ae865e27c30",
+      "record_count": 854
+    },
+    "knowledge/judgments/cassation/criminal/evidence/judicial_year_30s.json": {
+      "sha256": "a254ff69acd95f7475f35b54df6c2c89c9d0ea64270605dfa83e3f5d9ea9a396",
+      "record_count": 839
+    },
+    "knowledge/judgments/cassation/criminal/evidence/judicial_year_40s.json": {
+      "sha256": "d52133bccb2799ac066d7d937a2a3884e7629cb1c45cedf19ea8c8d2a9d54236",
+      "record_count": 945
+    },
+    "knowledge/judgments/cassation/criminal/evidence/judicial_year_50s.json": {
+      "sha256": "8fd79a08cfd4a90da3f50c06d5ef34b0c15a85144283cf926df662516ea32c15",
+      "record_count": 1087
+    },
+    "knowledge/judgments/cassation/criminal/evidence/judicial_year_60s.json": {
+      "sha256": "c354e0b2660283839234942965e5b9b9f71f9f7955924ac3ff2b565e6a34bdef",
+      "record_count": 153
+    },
+    "knowledge/judgments/cassation/civil/administrative_contracts.json": {
+      "sha256": "4989bb8cfa588f84c98c19203ce951c5004c07241a8ceb32a28b5d63f6ffadf9",
+      "record_count": 50
+    },
+    "knowledge/judgments/cassation/civil/administrative_decisions.json": {
+      "sha256": "4da3b1f74886b4d7222da961a5d068cc957f57a2d7225bd4861d1bc30bd66cbf",
+      "record_count": 47
+    },
+    "knowledge/judgments/cassation/civil/agency_contracts.json": {
+      "sha256": "2aba5cc6e9f22e949a55f399ec6b517a4542041d8e135cc70c717308432c5865",
+      "record_count": 16
+    },
+    "knowledge/judgments/cassation/civil/agriculture.json": {
+      "sha256": "daf4c7305f7430c72b591cba2949d69a7a938b48d460ddd18014e43dd0f5cee0",
+      "record_count": 159
+    },
+    "knowledge/judgments/cassation/civil/antiquities.json": {
+      "sha256": "8c315f059a98cdf7918454b5628c39750c59840957ee1aa5cfde3459c68a28f0",
+      "record_count": 3
+    },
+    "knowledge/judgments/cassation/civil/appeal.json": {
+      "sha256": "73b0d9087abf8817e17c73525a64235a5a5324383c5b299d1dfeef4527ca4ca4",
+      "record_count": 842
+    },
+    "knowledge/judgments/cassation/civil/arbitration.json": {
+      "sha256": "10313768d291f628ddb362d3780bb9a9f9bae4c4dc8f44ee15565e6846c80986",
+      "record_count": 92
+    },
+    "knowledge/judgments/cassation/civil/armed_forces.json": {
+      "sha256": "b7ba0faf93d1225704d5b1151666fdaa732f91e6320a98d517591caee4582ac4",
+      "record_count": 20
+    },
+    "knowledge/judgments/cassation/civil/attachment.json": {
+      "sha256": "4d270940a8d2e568183c38e017bf97bf0940aaa2069901c7a8352b0669e19888",
+      "record_count": 153
+    },
+    "knowledge/judgments/cassation/civil/auction.json": {
+      "sha256": "0485fa08910a3860cc727e0b9f88401d86c48bb2f79c06312130281a03dc82bc",
+      "record_count": 93
+    },
+    "knowledge/judgments/cassation/civil/banking.json": {
+      "sha256": "57d849c3a321825bc40e0a6e5e1ff348b54f0b9999da81a5dcf4eb56b094846c",
+      "record_count": 171
+    },
+    "knowledge/judgments/cassation/civil/cassation_rulings.json": {
+      "sha256": "23824836c3e5f758ceac989e502c7945403c89ca50b0a94c58e0f0449040581d",
+      "record_count": 395
+    },
+    "knowledge/judgments/cassation/civil/civil_procedure.json": {
+      "sha256": "46f37f2e202c211809fe1c417da54d56ba6ec2979fdb4b870205035eb8ccd097",
+      "record_count": 76
+    },
+    "knowledge/judgments/cassation/civil/co_ownership.json": {
+      "sha256": "2e34b2b0cbdf579108ba23fcdfbae0ebd3b8c81af768bd26881323874831b40a",
+      "record_count": 34
+    },
+    "knowledge/judgments/cassation/civil/commercial_acts.json": {
+      "sha256": "24617841fe19ed64252c364e4159be9a6468446b6510115a30389ec9f0cdfd31",
+      "record_count": 183
+    },
+    "knowledge/judgments/cassation/civil/companies.json": {
+      "sha256": "0e2bcbd005673031756913078e3a8d8cdc11d55f6c2d94677a9cfac0d62230b9",
+      "record_count": 201
+    },
+    "knowledge/judgments/cassation/civil/compensation.json": {
+      "sha256": "b57d0dae09e5676bc0ea75e3610382b1994e844f7a5d6566f428a16cd3b06b6c",
+      "record_count": 586
+    },
+    "knowledge/judgments/cassation/civil/constitutional.json": {
+      "sha256": "96463b9ae5a32127b65b3cbd9270340a9e377a14c043cd21fec5ee3233d7d255",
+      "record_count": 64
+    },
+    "knowledge/judgments/cassation/civil/construction_contracts.json": {
+      "sha256": "83781d9525f6fcf236e767a5cdb7fd586b67ada528d4601249a9bc549c2e5b48",
+      "record_count": 1
+    },
+    "knowledge/judgments/cassation/civil/construction_permits.json": {
+      "sha256": "f44d00ae10e490ae6ab88a9dfd2dfc3e7f5f9ce6103e1f372ffa2ade0f40895f",
+      "record_count": 37
+    },
+    "knowledge/judgments/cassation/civil/contracts_general.json": {
+      "sha256": "fdaefa9d84c494e4fd9a7e7ed86f5f0af7699627b2dc38ba8aeea613e884a635",
+      "record_count": 522
+    },
+    "knowledge/judgments/cassation/civil/copyright.json": {
+      "sha256": "aa30048e2d3a980f13d44d275f55bc0f9c96a90b035e22492954d5327baac55c",
+      "record_count": 20
+    },
+    "knowledge/judgments/cassation/civil/court_fees.json": {
+      "sha256": "dc9c5003b55c44bb1604e862ab8a0130e42cca8dba5de362a16c7d1e939db293",
+      "record_count": 203
+    },
+    "knowledge/judgments/cassation/civil/custom_usage.json": {
+      "sha256": "185a4cc72f94108db8578ff69e99b4731139000fa516ff53931516bf09136836",
+      "record_count": 12
+    },
+    "knowledge/judgments/cassation/civil/customs.json": {
+      "sha256": "9003f8ea04f160c0de6df503aafd5e6d18ccdc3333fc778d5528014beb77f9d6",
+      "record_count": 119
+    },
+    "knowledge/judgments/cassation/civil/debts.json": {
+      "sha256": "2a0854d6862e07ec9c62d1b55eca8aad6f1472f4112896fa1ea890ce7148387b",
+      "record_count": 5
+    },
+    "knowledge/judgments/cassation/civil/defects_of_consent.json": {
+      "sha256": "f5ee744e11f03f09dae2caee3d308c6caa1d2e1bba79fb3d3949520bff82da8d",
+      "record_count": 6
+    },
+    "knowledge/judgments/cassation/civil/defense.json": {
+      "sha256": "7f2ce7ab9476e7609531e0c78be56aa427d56cd10fcd36095b8c9871315989f4",
+      "record_count": 80
+    },
+    "knowledge/judgments/cassation/civil/domicile.json": {
+      "sha256": "272c2547cad53c5a4470535d0aced21ebc8c16fc9708dfa7b4a5b01252945999",
+      "record_count": 35
+    },
+    "knowledge/judgments/cassation/civil/education.json": {
+      "sha256": "2406ceeafb192ae55d0e198d8cbe2c36f3b27173b7140f7d640bf14fdc3e2b8b",
+      "record_count": 13
+    },
+    "knowledge/judgments/cassation/civil/employment_contracts.json": {
+      "sha256": "1b26cdd87642cf8a576a9b053ce019d7c731dd35acaed2d1ce8258dc14ecd103",
+      "record_count": 862
+    },
+    "knowledge/judgments/cassation/civil/enforcement.json": {
+      "sha256": "03a0777dda782166ef02cc51446f2d547e361ba87df67d33cb62dc319aa35e63",
+      "record_count": 206
+    },
+    "knowledge/judgments/cassation/civil/evidence.json": {
+      "sha256": "3f447215edb3ffb73e73c7fcc822acdac52bbc96f04ead5bb18a279f910ae79e",
+      "record_count": 1104
+    },
+    "knowledge/judgments/cassation/civil/ex_parte_orders.json": {
+      "sha256": "ff1049bd568613159c639963cbf0fd82572199ef6b5791d4b5c4f44f35f40bc4",
+      "record_count": 15
+    },
+    "knowledge/judgments/cassation/civil/expropriation.json": {
+      "sha256": "0857f9dd89f053da739914b59a94d8a5cdd73e4279304a4a20923716fc35130a",
+      "record_count": 2
+    },
+    "knowledge/judgments/cassation/civil/financial_guardianship.json": {
+      "sha256": "32bc972a62eb65daadf060b92cdc96712614eccef294a3beb031c112f4101860",
+      "record_count": 64
+    },
+    "knowledge/judgments/cassation/civil/general_civil.json": {
+      "sha256": "b8ead39037a7c12e3fda609e1562ccd4d54b6f9d8e7a9975bdebec8c9ac81d69",
+      "record_count": 694
+    },
+    "knowledge/judgments/cassation/civil/immunity.json": {
+      "sha256": "dd1feeb40c1096f84036aa4455d0a5e041f23c084ddbd3d670718ded0621c32a",
+      "record_count": 6
+    },
+    "knowledge/judgments/cassation/civil/inheritance.json": {
+      "sha256": "8338b26b557a401182bf80dcb5d74baa3f200c77ac254e42c67b5763a8e6747b",
+      "record_count": 157
+    },
+    "knowledge/judgments/cassation/civil/insolvency.json": {
+      "sha256": "8a09ea207abda48e246ddd972b8248379a947a6230272314138810709ed04e7f",
+      "record_count": 139
+    },
+    "knowledge/judgments/cassation/civil/insurance.json": {
+      "sha256": "9526d06d461714df5665820298f934c62eb8c4b23a49f5a20bfb2431ff426cf6",
+      "record_count": 97
+    },
+    "knowledge/judgments/cassation/civil/international_agreements.json": {
+      "sha256": "3a845fd3c97c25319385cb6bbd29e1c23b05041f2daa89662351021cec256c19",
+      "record_count": 47
+    },
+    "knowledge/judgments/cassation/civil/investment_law.json": {
+      "sha256": "aa05d81cd6aaa1d4c440423d8b2851e86adec5b063e255ea8b7e567833657d69",
+      "record_count": 4
+    },
+    "knowledge/judgments/cassation/civil/irrigation.json": {
+      "sha256": "530b2ca9aa2b56fb551fd1876b0ad69f15cc816e35fb3cc9c149f698cbae6e08",
+      "record_count": 14
+    },
+    "knowledge/judgments/cassation/civil/judgments.json": {
+      "sha256": "2c80cf23765ccd3c3b98ff3f39c7ec4100d6865d4ebfbd285d67c7111a95df89",
+      "record_count": 2147
+    },
+    "knowledge/judgments/cassation/civil/judiciary.json": {
+      "sha256": "eaec92c040e67dfe8ae01607960801f14906a16bee8b7a2d8eb0810ff5906f86",
+      "record_count": 119
+    },
+    "knowledge/judgments/cassation/civil/judiciary_requests.json": {
+      "sha256": "8fbcea73509462c578c5ba6c0644e053c1aada9897ac1312196a1a329e82c47c",
+      "record_count": 1018
+    },
+    "knowledge/judgments/cassation/civil/jurisdiction.json": {
+      "sha256": "00790e9f8ce28df2428949e621f192566f78866fe447b62f880ac93263dd3729",
+      "record_count": 354
+    },
+    "knowledge/judgments/cassation/civil/law_general.json": {
+      "sha256": "70cbc1cacd86737c8352aafa91e3403cb751841667bdc151f02bab95e46bfb0d",
+      "record_count": 326
+    },
+    "knowledge/judgments/cassation/civil/lease.json": {
+      "sha256": "2baad7e173531018f1944fdc09d2319355f8c47e634317dac16113fe0ae0be1a",
+      "record_count": 1713
+    },
+    "knowledge/judgments/cassation/civil/lease_contracts.json": {
+      "sha256": "2cea8a3303f53656789f11cca089bed8ea6c98b57c84d425a91e23275fe04d1e",
+      "record_count": 15
+    },
+    "knowledge/judgments/cassation/civil/legal_capacity.json": {
+      "sha256": "8d9cbc200c25bbdb675f0b95a94be32f1a0e048d9f823b4c1b51b2b98c018805",
+      "record_count": 105
+    },
+    "knowledge/judgments/cassation/civil/legal_entities.json": {
+      "sha256": "ac8173f956f42a3243ddefeb5ff8d068fbf7e643e8466d6afbac314da14b5168",
+      "record_count": 57
+    },
+    "knowledge/judgments/cassation/civil/licensing.json": {
+      "sha256": "5b8a4ed762be9e26d250f3fdc7131c376f77c52fdb5a096f5e0a5ae4291c2d0d",
+      "record_count": 6
+    },
+    "knowledge/judgments/cassation/civil/litigation.json": {
+      "sha256": "0afd6eb6d34b4b759c0a484b917a5a8c699dfac0f6b108be5d1b6a4f195973f2",
+      "record_count": 1380
+    },
+    "knowledge/judgments/cassation/civil/loan_for_use.json": {
+      "sha256": "edbf6761d4e5937b41561d77c3fae637926e433acd8b2fe4be79b3730f94b971",
+      "record_count": 1
+    },
+    "knowledge/judgments/cassation/civil/long_lease.json": {
+      "sha256": "871dbf76db5119af124a939ed1c0b97e3458e24c7e34a7c5dd17ba095d2815c2",
+      "record_count": 23
+    },
+    "knowledge/judgments/cassation/civil/maritime_transport.json": {
+      "sha256": "323f6e45a94f3a7546d103a3e8ca4259c462380451f18d9f90cc402156dcbe5d",
+      "record_count": 213
+    },
+    "knowledge/judgments/cassation/civil/mortgage.json": {
+      "sha256": "15f0e9a9075eb9fd2624084b44bdbba0f459efead002e4465291f03cdd2910cd",
+      "record_count": 32
+    },
+    "knowledge/judgments/cassation/civil/nationality.json": {
+      "sha256": "d967b3389cbf9644a84178d7691f36e73b97dd1db61587365522174b632e03f4",
+      "record_count": 24
+    },
+    "knowledge/judgments/cassation/civil/nullity.json": {
+      "sha256": "01ba2ba6cd6f1e095028b12480f8abf002f766a1b5286d76351822969d394c49",
+      "record_count": 89
+    },
+    "knowledge/judgments/cassation/civil/obligations.json": {
+      "sha256": "13c394b2e9a2836b895d651e157485037b6d2b657ed3cfacdcd62f1d0c4ccbc8",
+      "record_count": 226
+    },
+    "knowledge/judgments/cassation/civil/partition_contracts.json": {
+      "sha256": "18987995e89cfb8ac457a40bb8e98488d3fb541f794e0787edbc65ca183038c6",
+      "record_count": 88
+    },
+    "knowledge/judgments/cassation/civil/patents.json": {
+      "sha256": "671b6570769756fd06d46ba9026244abda31e7ee88c326b818ef41c361ea6b4f",
+      "record_count": 3
+    },
+    "knowledge/judgments/cassation/civil/payment_fulfillment.json": {
+      "sha256": "8829230a5644d7dec648f2b442d47a940557e400e217e167a74eb27d8b98e0c9",
+      "record_count": 38
+    },
+    "knowledge/judgments/cassation/civil/payment_orders.json": {
+      "sha256": "946858d7e8b3102060f5bb202912162e6ac1b62e07e694696017731f59088105",
+      "record_count": 50
+    },
+    "knowledge/judgments/cassation/civil/personal_status_muslim.json": {
+      "sha256": "8d459d6b72dc4eb3687245597541659ef9b360a06049b385127874497716c748",
+      "record_count": 852
+    },
+    "knowledge/judgments/cassation/civil/personal_status_nonmuslim.json": {
+      "sha256": "a5d06733fcc66645280abedaf076d49963c650809485dea686b88830b775491b",
+      "record_count": 244
+    },
+    "knowledge/judgments/cassation/civil/preemption.json": {
+      "sha256": "1d3859f558e19eaca93cd25acc06733562b35c0e1f1844593ad79cf321b9ead1",
+      "record_count": 370
+    },
+    "knowledge/judgments/cassation/civil/procedural_defenses.json": {
+      "sha256": "e8b6fc0453e51cc31023e58e192afa6cba8f72acfaeef093f737df2858b20c3d",
+      "record_count": 122
+    },
+    "knowledge/judgments/cassation/civil/professional_unions.json": {
+      "sha256": "9f99696c8c8bf8f5cba75c0d42adcd1e0fb47ca3714ddd0aa17f6dc09c7104d7",
+      "record_count": 53
+    },
+    "knowledge/judgments/cassation/civil/property_acquisition.json": {
+      "sha256": "9b3c1f8e9445da7076c9f24e1d06edd9401de98725b9c188dc6e371a46f115e4",
+      "record_count": 580
+    },
+    "knowledge/judgments/cassation/civil/property_rights.json": {
+      "sha256": "562926e88f1c41eea669af416d2614997c393bc432d10dd908ed87f7984f9623",
+      "record_count": 6
+    },
+    "knowledge/judgments/cassation/civil/public_order.json": {
+      "sha256": "fbb8b1b8bacb4da0ac43e3bd11e9a89ec7108fa2365fc364a06b7279b9e2e5d3",
+      "record_count": 14
+    },
+    "knowledge/judgments/cassation/civil/public_property.json": {
+      "sha256": "db1f175f73bc91967d51805a4ee01a926ecdbf1935b0155e1235edd68e32ad28",
+      "record_count": 83
+    },
+    "knowledge/judgments/cassation/civil/public_prosecution.json": {
+      "sha256": "efea6d068cd37fb49136ec3b3378d035a245e9b4b59ce1196192b53a7e0b8a41",
+      "record_count": 94
+    },
+    "knowledge/judgments/cassation/civil/public_utilities.json": {
+      "sha256": "011715fc6745328f758ba9bb9b1bc43c7a61b1ccd9cfb0866c357abcc2f418a1",
+      "record_count": 26
+    },
+    "knowledge/judgments/cassation/civil/real_estate_debt_settlement.json": {
+      "sha256": "9e8ca90bc9cc0f04496e8f82d6a4f12ada92874e206a929e9ecd2bd2d0ef0023",
+      "record_count": 26
+    },
+    "knowledge/judgments/cassation/civil/real_estate_registration.json": {
+      "sha256": "203c761914f3ca8f1727614ba35be151c95d94b3cec24d4de8bd8539c12306c5",
+      "record_count": 12
+    },
+    "knowledge/judgments/cassation/civil/receivership.json": {
+      "sha256": "b1d2c09bb63ca2d3b26ef8990281f5cf868979ea8fa9560bc66983418ecc8ee3",
+      "record_count": 183
+    },
+    "knowledge/judgments/cassation/civil/res_judicata.json": {
+      "sha256": "a570a0dece30c154dbebfb985f45f345c205fb34d1ea2a39f23422e0b59d9294",
+      "record_count": 320
+    },
+    "knowledge/judgments/cassation/civil/review_petition.json": {
+      "sha256": "ad09b27cb2b4322c923c304a85de61f93ea95930129081f4d9c97d5e95867425",
+      "record_count": 45
+    },
+    "knowledge/judgments/cassation/civil/right_of_view.json": {
+      "sha256": "c3e5e40ce2f9d6b96ca77d3eaf365b3e82d537cedca32a9fe401c40ba6039f2e",
+      "record_count": 2
+    },
+    "knowledge/judgments/cassation/civil/rights.json": {
+      "sha256": "64f26594905d4d47e93a5beba55cdcf6362176db384ee8e2ac707dacd68f32c0",
+      "record_count": 124
+    },
+    "knowledge/judgments/cassation/civil/sale_contracts.json": {
+      "sha256": "a2b0b954698809577f4ab22ae9ef33969fe3bddeded6d81ce33b0134306c0041",
+      "record_count": 560
+    },
+    "knowledge/judgments/cassation/civil/service_of_process.json": {
+      "sha256": "f4d5605fbd4f2030dd0d17dc01d881a9f15f4bddf96f72f1c9057dc22b68c4e0",
+      "record_count": 430
+    },
+    "knowledge/judgments/cassation/civil/settlement_contracts.json": {
+      "sha256": "2fe3ab5a2720ee99f8647a27b8e9aba1d27edc9a7841f512481086e04b5b71b7",
+      "record_count": 27
+    },
+    "knowledge/judgments/cassation/civil/sham_transactions.json": {
+      "sha256": "6a906e39f0bca1c46da5e25cf3f4ac86caccc782bceb0682096ba4f5b081a80c",
+      "record_count": 146
+    },
+    "knowledge/judgments/cassation/civil/solidarity.json": {
+      "sha256": "437a924d58594eb2ed1004e31a4dfcefafa458eef5ed90b0ca86ecdc191a0ddf",
+      "record_count": 22
+    },
+    "knowledge/judgments/cassation/civil/sovereignty_acts.json": {
+      "sha256": "1d24e1d966d030496c682c564e945f2bab49ec7e1d783d2ed64885b255de3f77",
+      "record_count": 11
+    },
+    "knowledge/judgments/cassation/civil/state_litigation.json": {
+      "sha256": "cf7790c8c45061683e0be12a6d8e139ba311db08f14309759c31f5ace93f2bb9",
+      "record_count": 22
+    },
+    "knowledge/judgments/cassation/civil/succession_rights.json": {
+      "sha256": "0365593a8030899da0d70ee8c0c85681b0c8429ad0550b61d118e7dc79a1798c",
+      "record_count": 17
+    },
+    "knowledge/judgments/cassation/civil/supply_contracts.json": {
+      "sha256": "96277b9d3383eaf0e6bba5c4830d033f8a825638d06fec05a68006aafef30e0f",
+      "record_count": 3
+    },
+    "knowledge/judgments/cassation/civil/supply_regulatory.json": {
+      "sha256": "b3c766da1113d9f48f1333444b971e34f724c9c6901954b4cb3aafffd3315edf",
+      "record_count": 41
+    },
+    "knowledge/judgments/cassation/civil/taxation.json": {
+      "sha256": "5617ecf5df64d7da7a39015ef6d8b94a8dc5d855c9b10a9af95a9279b2c3a3a5",
+      "record_count": 1022
+    },
+    "knowledge/judgments/cassation/civil/trademarks.json": {
+      "sha256": "2cf321f4cd1dd7bc59e8b41737211c2ceeebb89d16ba0dfb2129cba76e327efd",
+      "record_count": 37
+    },
+    "knowledge/judgments/cassation/civil/unforeseen_circumstances.json": {
+      "sha256": "cf33d1bd0849bd26241ec3c3c510112f4b0a3c848073f012982aac9f444850fb",
+      "record_count": 52
+    },
+    "knowledge/judgments/cassation/civil/unjust_enrichment.json": {
+      "sha256": "411d8de4f3f86f4c31b5e0bfbdc04fe2ff1e2a494cc7f83bdf94d7c623c484c7",
+      "record_count": 25
+    },
+    "knowledge/judgments/cassation/civil/urgent_judiciary.json": {
+      "sha256": "0e7a485ed8849818847b7ab92f63a259aca5cb5eee154614fc6847839c0f3cde",
+      "record_count": 64
+    },
+    "knowledge/judgments/cassation/civil/usufruct_revenue.json": {
+      "sha256": "cdbc75d8a42811f3e52b18bb1b3dd4bfe8209bdb632e8a3e1d7bfc1145af5f4f",
+      "record_count": 23
+    },
+    "knowledge/judgments/cassation/civil/waqf.json": {
+      "sha256": "d378687f8e758d8524d156ceba3df3beecb7fe431bdf59fb2cbe04c644c68079",
+      "record_count": 280
+    },
+    "knowledge/judgments/cassation/civil/wills.json": {
+      "sha256": "399d90a4a671503c8608aa1782d958d97c08852da44a901f380416ac02c23d4f",
+      "record_count": 87
+    },
+    "knowledge/principles/doctrine/civil_sanhouri_wasit_vol1.json": {
+      "sha256": "eae5dd096bfe383a40d87d9917f1b7773f8222bff59a8ce71d7891ad850a0533",
+      "record_count": 49
+    },
+    "knowledge/procedures/branch/administrative_procedures.json": {
+      "sha256": "2b399da6b094dd66343f71f42be9553e478c626a604daff3f811331f6b43c9a5",
+      "record_count": 3
+    },
+    "knowledge/procedures/branch/civil_procedures.json": {
+      "sha256": "af3c1ba81cc0a5c10c85c7cc386fb4bf784245d425c50a95c5ca6ed6edc88dbb",
+      "record_count": 3
+    },
+    "knowledge/procedures/branch/commercial_constitutional_procedures.json": {
+      "sha256": "21020eeba074b01019638248664dcdbfafbf5d6bb48658e437f1f6663d742ef6",
+      "record_count": 2
+    },
+    "knowledge/procedures/branch/criminal_procedures.json": {
+      "sha256": "daf910134fa8b1e60ffa72c0db25e7eda065f2cd084125cc7eeb1557688161c4",
+      "record_count": 3
+    },
+    "knowledge/procedures/branch/execution_procedures.json": {
+      "sha256": "ccbc96b219064c899d52102a31359febf577f26e74ce6cab0797af62cb8b4e7d",
+      "record_count": 2
+    },
+    "knowledge/procedures/branch/family_procedures.json": {
+      "sha256": "568b6c681c3179ea35ca66642b5ca59a50b95c6dec7347ed080dfeb20d2b3b68",
+      "record_count": 2
+    },
+    "knowledge/procedures/deep/ADMIN-DEEP-001-complaint-annulment.json": {
+      "sha256": "2bcbef046776ccda7314a8ab21c899b246979f32cf308f8e200901d34427ccf2",
+      "record_count": 1
+    },
+    "knowledge/procedures/deep/APPEAL-DEEP-001-appeals-cassation.json": {
+      "sha256": "7f1e2c567f4b647f886768da667e4bdd73bb1e15d54f06fa0a92fc034fa5e43b",
+      "record_count": 1
+    },
+    "knowledge/procedures/deep/CIVIL-DEEP-001-filing.json": {
+      "sha256": "af97cb3f157088bdf8d2f73e7e05c0516519eca057575aeb57d089ae3ccf8bec",
+      "record_count": 1
+    },
+    "knowledge/procedures/deep/CIVIL-DEEP-002-order-to-pay.json": {
+      "sha256": "2deaee3a0724241950caf47aa089fd870caf7ba3a2334267d763ed43703af23a",
+      "record_count": 1
+    },
+    "knowledge/procedures/deep/CRIM-DEEP-001-criminal-procedure.json": {
+      "sha256": "15ebfb7ebc8235d08bb5d64e9d8c81d2782dce51bd9ffe886bd16bc152dab919",
+      "record_count": 1
+    },
+    "knowledge/procedures/deep/EXEC-DEEP-001-attachment.json": {
+      "sha256": "ca8b8380f190fa2141dc99b17f56bcf3420624152ffbf1bad4207f334a964feb",
+      "record_count": 1
+    },
+    "knowledge/procedures/deep/EXEC-DEEP-002-enforcement.json": {
+      "sha256": "cf7aeaf79ce66cd22884c655bf3e8e81105fb10f0b91d0f69d676589a1cae93c",
+      "record_count": 1
+    },
+    "knowledge/procedures/deep/FAMILY-DEEP-001-family-court.json": {
+      "sha256": "99dd547e0042e0db6e5a0fc1707e844a9c58f756dfb9c606d8ab1a02467b51db",
+      "record_count": 1
+    },
+    "knowledge/procedures/deep/FAMILY-DEEP-002-all-documents.json": {
+      "sha256": "865a9d3ceaf9eb9101a00899f08ac5c72ee0b2014661409d90f7a97bf63b2bd3",
+      "record_count": 1
+    },
+    "knowledge/procedures/guides/legalflow_procedure_guides.json": {
+      "sha256": "b1dab100b5613ba0cb20fc3ae5a0b71894ab839169f01dcf95de2be0125ad88e",
+      "record_count": 50
+    },
+    "knowledge/deadlines/administrative_deadlines.json": {
+      "sha256": "f117127e2b24f474dc1d257a9955aff4a9f4ecd5a335b738f091be284692e069",
+      "record_count": 3
+    },
+    "knowledge/deadlines/appeal_deadlines.json": {
+      "sha256": "31f8959dfd64b55daa8bd64b6b15da9968bfe4a758e9109dec47ea1beeec4c0d",
+      "record_count": 4
+    },
+    "knowledge/deadlines/civil_law_deadlines.json": {
+      "sha256": "8c495013ccb979da82c6aeb41ddf72e4af4ec33de962b35e2f0227ca7a3cdd7d",
+      "record_count": 17
+    },
+    "knowledge/deadlines/commercial_deadlines.json": {
+      "sha256": "0a8c0b73d5c18b9d098433e992f7e0a7fba83f2bc00dfb97832042f658b7778c",
+      "record_count": 5
+    },
+    "knowledge/deadlines/constitutional_deadlines.json": {
+      "sha256": "e2258428b00eacb3edc1200ac42368e46cd4a37eb736665385a308a78d773b2d",
+      "record_count": 2
+    },
+    "knowledge/deadlines/criminal_deadlines.json": {
+      "sha256": "61c41ea57cda94164e9a223afd60e635a9b1094992756c902734d2e7f2cb068e",
+      "record_count": 12
+    },
+    "knowledge/deadlines/limitation_periods.json": {
+      "sha256": "0711c64a6e79d68778e0dedba165c9613f5473c55acf4b0e17aa972fb2c5d642",
+      "record_count": 3
+    },
+    "knowledge/deadlines/objection_deadlines.json": {
+      "sha256": "143bf0754685ae1fca256f33a12698dd6b060ac221f3a68ec4eb61796a089f40",
+      "record_count": 2
+    },
+    "knowledge/deadlines/personal_status_deadlines.json": {
+      "sha256": "0b73d12050ed610557ef095556e8fc9ef59e6f0358f1deaf74b4181e0ba89795",
+      "record_count": 4
+    },
+    "knowledge/deadlines/procedural_deadlines.json": {
+      "sha256": "b441ba10b23cb7f93a2108740f78b81ea66e281257df823d81c46d91d35f7736",
+      "record_count": 15
+    },
+    "knowledge/templates/legal_templates_library.json": {
+      "sha256": "672735ec906b2ccfbb4d54c08cb59a6e1702f9fbed87ce4f004772d618c3ac04",
+      "record_count": 7
+    },
+    "knowledge/defenses/جنائي.json": {
+      "sha256": "6999cafced0dcc6c33b27c49439178fb7222424c154fa6bb1894237b6be2624e",
+      "record_count": 42
+    }
+  }
+}

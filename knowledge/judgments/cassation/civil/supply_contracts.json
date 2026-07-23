@@ -1,0 +1,291 @@
+[
+ {
+  "id": "cass_civil_supply_contracts_0220_23_2",
+  "type": "judgment_principle",
+  "category": "supply_contracts",
+  "title": "ماهية التعهد بالتوريد",
+  "content": "التعهد بالتوريد ليس عقداً قائماً بذاته و لكنه يكون إلتزاماً يتضمنه عقد آخر من العقود المبينة فى القانون كعقد البيع و فيه يتعهد البائع بتسليم المبيع [ أو بتوريده ] فى المكان و الزمان المتفق عليهما فى العقد .",
+  "keywords": [
+   "العقد",
+   "عقد التوريد",
+   "ماهية التعهد بالتوريد",
+   "cassation",
+   "civil",
+   "supply_contracts",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0220 لسنة 23"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "27-06-1957",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0220",
+   "judicial_year": "23",
+   "office_volume": "08",
+   "page": "643",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_supply_contracts_0220_23_2",
+   "domain": "civil_law",
+   "category": "supply_contracts",
+   "topic": "ماهية التعهد بالتوريد",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0220",
+    "judicial_year": "23",
+    "office_volume": "08",
+    "page": "643",
+    "session_date": "27-06-1957",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "العقد",
+    "عقد التوريد",
+    "ماهية التعهد بالتوريد"
+   ],
+   "legal_articles": [],
+   "facts_summary": "التعهد بالتوريد ليس عقداً قائماً بذاته و لكنه يكون إلتزاماً يتضمنه عقد آخر من العقود المبينة فى القانون كعقد البيع و فيه يتعهد البائع بتسليم المبيع [ أو بتوريده ] فى المكان و الزمان المتفق عليهما فى العقد .",
+   "core_principles": [
+    "التعهد بالتوريد ليس عقداً قائماً بذاته و لكنه يكون إلتزاماً يتضمنه عقد آخر من العقود المبينة فى القانون كعقد البيع و فيه يتعهد البائع بتسليم المبيع [ أو بتوريده ] فى المكان و الزمان المتفق عليهما فى العقد"
+   ],
+   "judicial_rule": {
+    "short": "التعهد بالتوريد ليس عقداً قائماً بذاته و لكنه يكون إلتزاماً يتضمنه عقد آخر من العقود المبينة فى القانون كعقد البيع و فيه يتعهد البائع بتسليم المبيع [ أو بتوريده ] فى المكان و الزمان المتفق عليهما فى العقد",
+    "professional": "التعهد بالتوريد ليس عقداً قائماً بذاته و لكنه يكون إلتزاماً يتضمنه عقد آخر من العقود المبينة فى القانون كعقد البيع و فيه يتعهد البائع بتسليم المبيع [ أو بتوريده ] فى المكان و الزمان المتفق عليهما فى العقد ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "supply_contracts",
+    "ماهية التعهد بالتوريد",
+    "عقد التوريد"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_supply_contracts_0572_25_2",
+  "type": "judgment_principle",
+  "category": "supply_contracts",
+  "title": "مسئولية متعهد التوريد",
+  "content": "عقد توريد الأقطان عقد ملزما للجانبين وينبنى على ذلك أنه إذا استرد المشترى مادفعه من الثمن حق للمتعهد بالتوريد أن يمتنع عن الوفاء بالتزام المقابل و هو توريد القطن إعمالا للمادة 161 من القانون المدنى وبذلك يكون العقد قد فسخ",
+  "keywords": [
+   "العقد",
+   "الفسخ",
+   "عقد التوريد",
+   "مسئولية متعهد التوريد",
+   "cassation",
+   "civil",
+   "supply_contracts",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0572 لسنة 25"
+  ],
+  "related_ids": [
+   "cass_civil_supply_contracts_0227_30_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "06-04-1961",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0572",
+   "judicial_year": "25",
+   "office_volume": "12",
+   "page": "353",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_supply_contracts_0572_25_2",
+   "domain": "civil_law",
+   "category": "supply_contracts",
+   "topic": "مسئولية متعهد التوريد",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0572",
+    "judicial_year": "25",
+    "office_volume": "12",
+    "page": "353",
+    "session_date": "06-04-1961",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "العقد",
+    "الفسخ",
+    "عقد التوريد",
+    "مسئولية متعهد التوريد"
+   ],
+   "legal_articles": [],
+   "facts_summary": "عقد توريد الأقطان عقد ملزما للجانبين وينبنى على ذلك أنه إذا استرد المشترى مادفعه من الثمن حق للمتعهد بالتوريد أن يمتنع عن الوفاء بالتزام المقابل و هو توريد القطن إعمالا للمادة 161 من القانون المدنى وبذلك يكون العقد قد فسخ",
+   "core_principles": [
+    "و لا يغير من هذا النظر أن يكون المطعون عليه الأول \"المتعهد بالتوريد\" قد عرض إستعداده لتوريد الأقطان باسمه وباعتباره مالكا لها لأن العرض لا يعد عدولاً أو تنازل عن التمسك بالفسخ"
+   ],
+   "judicial_rule": {
+    "short": "و لا يغير من هذا النظر أن يكون المطعون عليه الأول \"المتعهد بالتوريد\" قد عرض إستعداده لتوريد الأقطان باسمه وباعتباره مالكا لها لأن العرض لا يعد عدولاً أو تنازل عن التمسك بالفسخ",
+    "professional": "عقد توريد الأقطان عقد ملزما للجانبين وينبنى على ذلك أنه إذا استرد المشترى مادفعه من الثمن حق للمتعهد بالتوريد أن يمتنع عن الوفاء بالتزام المقابل و هو توريد القطن إعمالا للمادة 161 من القانون المدنى وبذلك يكون العقد قد فسخ بفعل المشترى . و لا يغير من هذا النظر أن يكون المطعون عليه الأول \"المتعهد بالتوريد\" قد عرض إستعداده لتوريد الأقطان باسمه وباعتباره مالكا لها لأن العرض لا يعد عدولاً أو تنازل عن التمسك بالفسخ ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "supply_contracts",
+    "مسئولية متعهد التوريد",
+    "عقد التوريد"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_supply_contracts_0227_30_1",
+  "type": "judgment_principle",
+  "category": "supply_contracts",
+  "title": "مسئولية متعهد التوريد",
+  "content": "تنص المادة العاشرة من القانون رقم 165 لسنة 1955 على أن مجلس الدولة يفصل بهيئة قضاء إدارى دون غيره فى المنازعات الخاصة بعقود الإلزام والأشغال العامة والتوريد أو بأى عقد أدراى أخر . ومفاد عجز هذا النص أن عقد التوريد",
+  "keywords": [
+   "العقد",
+   "عقد التوريد",
+   "مسئولية متعهد التوريد",
+   "cassation",
+   "civil",
+   "supply_contracts",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0227 لسنة 30"
+  ],
+  "related_ids": [
+   "cass_civil_supply_contracts_0572_25_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 165/1955"
+   ],
+   "date": "19-10-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0227",
+   "judicial_year": "30",
+   "office_volume": "16",
+   "page": "893",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_supply_contracts_0227_30_1",
+   "domain": "civil_law",
+   "category": "supply_contracts",
+   "topic": "مسئولية متعهد التوريد",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0227",
+    "judicial_year": "30",
+    "office_volume": "16",
+    "page": "893",
+    "session_date": "19-10-1965",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "العقد",
+    "عقد التوريد",
+    "مسئولية متعهد التوريد"
+   ],
+   "legal_articles": [
+    "Law 165/1955"
+   ],
+   "facts_summary": "تنص المادة العاشرة من القانون رقم 165 لسنة 1955 على أن مجلس الدولة يفصل بهيئة قضاء إدارى دون غيره فى المنازعات الخاصة بعقود الإلزام والأشغال العامة والتوريد أو بأى عقد أدراى أخر . ومفاد عجز هذا النص أن عقد التوريد",
+   "core_principles": [
+    "أما إذا كان التعاقد على التوريد لا يحتوى على شروط إستثنائية غير مألوفه فىنطاق القانون الخاص وهى الشروط التى يتسم بها العقد الإدارى ويجب توافره لتكون مفصحة عن نية الإدا رة فى الأخذ بأسلوب القانون العام فى التعاقد فإنه لا يكون من عقود التوريد الإدارية المسماه فى المادة العاشرة سالفة الذكر والتى يختص ا"
+   ],
+   "judicial_rule": {
+    "short": "أما إذا كان التعاقد على التوريد لا يحتوى على شروط إستثنائية غير مألوفه فىنطاق القانون الخاص وهى الشروط التى يتسم بها العقد الإدارى ويجب توافره لتكون مفصحة عن نية الإدا رة فى الأخذ بأسلوب القانون العام فى التعاقد فإنه لا",
+    "professional": "تنص المادة العاشرة من القانون رقم 165 لسنة 1955 على أن مجلس الدولة يفصل بهيئة قضاء إدارى دون غيره فى المنازعات الخاصة بعقود الإلزام والأشغال العامة والتوريد أو بأى عقد أدراى أخر . ومفاد عجز هذا النص أن عقد التوريد ليس عقداً إدارياً على إطلاقه بتخصيص القانون و إنما يشترط لإسباغ هذه الصفة عليه أن يكون إدارياً بطبيعتة وخصائصة الذاتية وهو لا يكون كذلك إلا إذا أبرم مع إحدى جهات الإدارة بشأن توريد مادة لازمة لتسيير مرفق عام و إحتوى على شروط غير مألوفة فى القانون الخاص . أما إذا كان"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "supply_contracts",
+    "مسئولية متعهد التوريد",
+    "عقد التوريد"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

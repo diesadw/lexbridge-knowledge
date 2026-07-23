@@ -1,0 +1,93 @@
+[
+ {
+  "id": "cass_civil_loan_for_use_2449_52_1",
+  "type": "judgment_principle",
+  "category": "loan_for_use",
+  "title": "العارية الاولى",
+  "content": "حدد المشرع فى الفقرة الأولى من المادة 643 من القانون المدنى حالتين لإنتهاء العارية الأولى أن يتفق المتعاقدان على أجل معين فلا تنتهى إلا بإنتهاء ذلك الأجل ، و الثانية ألا يكون المتعاقدان قد إتفقا على أجل معين و لكنهما",
+  "keywords": [
+   "العارية الاولى",
+   "عقد العارية",
+   "cassation",
+   "civil",
+   "loan_for_use",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 2449 لسنة 52"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-05-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2449",
+   "judicial_year": "52",
+   "office_volume": "40",
+   "page": "384",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_loan_for_use_2449_52_1",
+   "domain": "civil_law",
+   "category": "loan_for_use",
+   "topic": "العارية الاولى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2449",
+    "judicial_year": "52",
+    "office_volume": "40",
+    "page": "384",
+    "session_date": "24-05-1989",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "العارية الاولى",
+    "عقد العارية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "حدد المشرع فى الفقرة الأولى من المادة 643 من القانون المدنى حالتين لإنتهاء العارية الأولى أن يتفق المتعاقدان على أجل معين فلا تنتهى إلا بإنتهاء ذلك الأجل ، و الثانية ألا يكون المتعاقدان قد إتفقا على أجل معين و لكنهما",
+   "core_principles": [
+    "حدد المشرع فى الفقرة الأولى من المادة 643 من القانون المدنى حالتين لإنتهاء العارية الأولى أن يتفق المتعاقدان على أجل معين فلا تنتهى إلا بإنتهاء ذلك الأجل ، و الثانية ألا يكون المتعاقدان قد إتفقا على أجل معين و لكنهما إتفقا على الغرض الذى أُعبر من أجُله الشئ فتنتهى العارية فى هذه الحالة بإنتهاء إستعم"
+   ],
+   "judicial_rule": {
+    "short": "حدد المشرع فى الفقرة الأولى من المادة 643 من القانون المدنى حالتين لإنتهاء العارية الأولى أن يتفق المتعاقدان على أجل معين فلا تنتهى إلا بإنتهاء ذلك الأجل ، و الثانية ألا يكون المتعاقدان قد إتفقا على أجل معين و لكنهما",
+    "professional": "حدد المشرع فى الفقرة الأولى من المادة 643 من القانون المدنى حالتين لإنتهاء العارية الأولى أن يتفق المتعاقدان على أجل معين فلا تنتهى إلا بإنتهاء ذلك الأجل ، و الثانية ألا يكون المتعاقدان قد إتفقا على أجل معين و لكنهما إتفقا على الغرض الذى أُعبر من أجُله الشئ فتنتهى العارية فى هذه الحالة بإنتهاء إستعمال الشئ فيما أُعبر من أجله ، أما الفقرة الثانية من المادة سالفة الذكر فقد حدد المشرع مجال إعمالها بألا تكون من الحالتين سالفتى الذكر فلا أجل محدد و لا غرض معين فتنتهى العارية فى هذ"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "loan_for_use",
+    "العارية الاولى",
+    "عقد العارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

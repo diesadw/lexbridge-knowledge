@@ -1,0 +1,98 @@
+[
+ {
+  "id": "cass_civil_construction_contracts_0208_21_1",
+  "type": "judgment_principle",
+  "category": "construction_contracts",
+  "title": "عقد مقاولة اشغال عامة",
+  "content": "العقد الذى تعقده الحكومة مع مقاول رست عليه مناقصة أشغال عامة سواء اعتبر عقدا مدنيا أم عقدا إداريا فان وصفه لا يحول دون القضاء بفسخه إذا أخل المقاول بالتزاماته المحدده له .",
+  "keywords": [
+   "العقد",
+   "عقد المقاولة",
+   "عقد مقاولة اشغال عامة",
+   "cassation",
+   "civil",
+   "construction_contracts",
+   "decennial liability",
+   "latent defects",
+   "subcontracting"
+  ],
+  "citations": [
+   "طعن رقم 0208 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_general_civil_0208_21_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-04-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0208",
+   "judicial_year": "21",
+   "office_volume": "05",
+   "page": "788",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_construction_contracts_0208_21_1",
+   "domain": "civil_law",
+   "category": "construction_contracts",
+   "topic": "عقد مقاولة اشغال عامة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0208",
+    "judicial_year": "21",
+    "office_volume": "05",
+    "page": "788",
+    "session_date": "22-04-1954",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "العقد",
+    "عقد المقاولة",
+    "عقد مقاولة اشغال عامة"
+   ],
+   "legal_articles": [],
+   "facts_summary": "العقد الذى تعقده الحكومة مع مقاول رست عليه مناقصة أشغال عامة سواء اعتبر عقدا مدنيا أم عقدا إداريا فان وصفه لا يحول دون القضاء بفسخه إذا أخل المقاول بالتزاماته المحدده له .",
+   "core_principles": [
+    "العقد الذى تعقده الحكومة مع مقاول رست عليه مناقصة أشغال عامة سواء اعتبر عقدا مدنيا أم عقدا إداريا فان وصفه لا يحول دون القضاء بفسخه إذا أخل المقاول بالتزاماته المحدده له"
+   ],
+   "judicial_rule": {
+    "short": "العقد الذى تعقده الحكومة مع مقاول رست عليه مناقصة أشغال عامة سواء اعتبر عقدا مدنيا أم عقدا إداريا فان وصفه لا يحول دون القضاء بفسخه إذا أخل المقاول بالتزاماته المحدده له",
+    "professional": "العقد الذى تعقده الحكومة مع مقاول رست عليه مناقصة أشغال عامة سواء اعتبر عقدا مدنيا أم عقدا إداريا فان وصفه لا يحول دون القضاء بفسخه إذا أخل المقاول بالتزاماته المحدده له ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "decennial liability",
+    "latent defects",
+    "subcontracting"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "construction_contracts",
+    "عقد مقاولة اشغال عامة",
+    "عقد المقاولة"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

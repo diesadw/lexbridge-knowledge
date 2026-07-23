@@ -1,0 +1,896 @@
+{
+  "platform": "LexBridge",
+  "version": "2.0.0",
+  "generated_at": "2026-05-21",
+  "last_updated": "2026-06-29",
+  "total_records": 67,
+  "files": [
+    "administrative_deadlines.json",
+    "appeal_deadlines.json",
+    "civil_law_deadlines.json",
+    "commercial_deadlines.json",
+    "constitutional_deadlines.json",
+    "criminal_deadlines.json",
+    "limitation_periods.json",
+    "objection_deadlines.json",
+    "personal_status_deadlines.json",
+    "procedural_deadlines.json"
+  ],
+  "by_category": {
+    "إداري": [
+      "ADM-0001",
+      "ADM-0002",
+      "ADM-0003"
+    ],
+    "إجراءات مدنية": [
+      "APP-0001",
+      "APP-0002",
+      "APP-0003",
+      "APP-0004",
+      "OBJ-0001",
+      "OBJ-0002",
+      "PROC-0001",
+      "PROC-0002",
+      "PROC-0003",
+      "PROC-0004",
+      "PROC-0005",
+      "PROC-0006",
+      "PROC-0007",
+      "PROC-0008",
+      "PROC-0009",
+      "PROC-0010",
+      "PROC-0011",
+      "PROC-0012",
+      "PROC-0013",
+      "PROC-0014",
+      "PROC-0015"
+    ],
+    "مدني": [
+      "CIV-0001",
+      "CIV-0002",
+      "CIV-0003",
+      "CIV-0004",
+      "CIV-0005",
+      "CIV-0006",
+      "CIV-0007",
+      "CIV-0008",
+      "CIV-0009",
+      "CIV-0010",
+      "CIV-0011",
+      "CIV-0012",
+      "CIV-0013",
+      "CIV-0014",
+      "CIV-0015",
+      "CIV-0016",
+      "CIV-0017",
+      "LIM-0002",
+      "LIM-0003"
+    ],
+    "تجاري": [
+      "COM-0001",
+      "COM-0002",
+      "COM-0003",
+      "COM-0004",
+      "COM-0005"
+    ],
+    "دستوري": [
+      "CONST-0001",
+      "CONST-0002"
+    ],
+    "جنائي": [
+      "CRIM-0001",
+      "CRIM-0002",
+      "CRIM-0003",
+      "CRIM-0004",
+      "CRIM-0005",
+      "CRIM-0006",
+      "CRIM-0007",
+      "CRIM-0008",
+      "CRIM-0009",
+      "CRIM-0010",
+      "CRIM-0011",
+      "CRIM-0012",
+      "LIM-0001"
+    ],
+    "أحوال شخصية": [
+      "PS-0001",
+      "PS-0002",
+      "PS-0003",
+      "PS-0004"
+    ]
+  },
+  "by_duration": {
+    "60 يوماً": [
+      "ADM-0001",
+      "PROC-0007",
+      "PROC-0013"
+    ],
+    "60 يوماً للتظلم + 60 يوماً انتظار الرد": [
+      "ADM-0002"
+    ],
+    "3 سنوات": [
+      "ADM-0003",
+      "CIV-0007",
+      "CIV-0012",
+      "PS-0002"
+    ],
+    "40 يوماً": [
+      "APP-0001",
+      "PROC-0008"
+    ],
+    "15 يوماً (عادي) / 8 أيام (مستعجل)": [
+      "APP-0002"
+    ],
+    "15 يوماً": [
+      "APP-0003",
+      "COM-0004"
+    ],
+    "6 أشهر": [
+      "APP-0004"
+    ],
+    "3 سنوات (حد أقصى 15 سنة من العقد)": [
+      "CIV-0001"
+    ],
+    "15 سنة": [
+      "CIV-0002",
+      "CIV-0004",
+      "LIM-0003"
+    ],
+    "3 سنوات (حد أقصى 15 سنة من الفعل)": [
+      "CIV-0003"
+    ],
+    "5 سنوات": [
+      "CIV-0005",
+      "CIV-0006"
+    ],
+    "سنة واحدة": [
+      "CIV-0008",
+      "CIV-0009",
+      "CIV-0011",
+      "CIV-0016"
+    ],
+    "10 سنوات ضمان + 3 سنوات تقادم": [
+      "CIV-0010"
+    ],
+    "8 أيام معارضة / 15 يوماً استئناف": [
+      "CIV-0013"
+    ],
+    "30 يوماً من الإخطار / 3 أشهر من تسجيل العقد": [
+      "CIV-0014"
+    ],
+    "15 سنة (5 سنوات بحسن نية مع سند صحيح)": [
+      "CIV-0015"
+    ],
+    "سنة واحدة من تسليم المبيع": [
+      "CIV-0017"
+    ],
+    "10 سنوات": [
+      "COM-0001"
+    ],
+    "3 سنوات (ضد المسحوب عليه) / سنة (ضد الساحب والمظهرين) / 6 أشهر (بين المظهرين)": [
+      "COM-0002"
+    ],
+    "يومي العمل التاليين للاستحقاق": [
+      "COM-0003"
+    ],
+    "30 يوماً (داخل مصر) / 90 يوماً (خارجها)": [
+      "COM-0005"
+    ],
+    "3 أشهر": [
+      "CONST-0001",
+      "CRIM-0001",
+      "PROC-0004"
+    ],
+    "15 يوماً للنشر": [
+      "CONST-0002"
+    ],
+    "10 سنوات (جناية) / 3 سنوات (جنحة) / سنة (مخالفة)": [
+      "CRIM-0002"
+    ],
+    "24 ساعة": [
+      "CRIM-0003"
+    ],
+    "4 أيام": [
+      "CRIM-0004"
+    ],
+    "6 أشهر (جنح) / 18 شهراً (جنايات تحقيق) / 24 شهراً (حد أقصى)": [
+      "CRIM-0005"
+    ],
+    "10 أيام": [
+      "CRIM-0006",
+      "CRIM-0007",
+      "CRIM-0010",
+      "OBJ-0001",
+      "PROC-0005"
+    ],
+    "30 يوماً": [
+      "CRIM-0008",
+      "PROC-0002"
+    ],
+    "20 سنة (إعدام/مؤبد) / 10 سنوات (جناية) / 3 سنوات (جنحة) / سنة (مخالفة)": [
+      "CRIM-0009"
+    ],
+    "8 أيام مثالي / 30 يوماً أقصى تحت طائلة البطلان": [
+      "CRIM-0011"
+    ],
+    "24 ساعة (إفراج/حبس) / 10 أيام (غيرها)": [
+      "CRIM-0012"
+    ],
+    "20 سنة إعدام/مؤبد / 10 سنوات جناية / 3 سنوات جنحة / سنة مخالفة": [
+      "LIM-0001"
+    ],
+    "15 سنة (عام) / 33 سنة (حقوق الإرث)": [
+      "LIM-0002"
+    ],
+    "8 أيام (ثم الدعوى الموضوعية خلال 8 أيام)": [
+      "OBJ-0002"
+    ],
+    "3 قروء / 3 أشهر (الآيسة) / وضع الحمل": [
+      "PS-0001"
+    ],
+    "سنة واحدة (رجعة) / لا تقادم (طلاق)": [
+      "PS-0003"
+    ],
+    "سنة من الولادة أو العلم بها": [
+      "PS-0004"
+    ],
+    "8 أيام": [
+      "PROC-0001",
+      "PROC-0011",
+      "PROC-0012"
+    ],
+    "5 أيام على الأقل": [
+      "PROC-0003"
+    ],
+    "40 يوماً (عادي) / 5 أيام (مستعجل) / 60 يوماً (النيابة)": [
+      "PROC-0006"
+    ],
+    "سنتان": [
+      "PROC-0009"
+    ],
+    "يوم واحد على الأقل": [
+      "PROC-0010"
+    ],
+    "15 يوماً (ابتدائي) / 8 أيام (جزئي) / 24 ساعة (مستعجل)": [
+      "PROC-0014"
+    ],
+    "90 يوماً": [
+      "PROC-0015"
+    ]
+  },
+  "by_law": {
+    "قانون مجلس الدولة": [
+      "ADM-0001",
+      "ADM-0002",
+      "ADM-0003"
+    ],
+    "قانون المرافعات": [
+      "APP-0001",
+      "APP-0002",
+      "APP-0003",
+      "APP-0004",
+      "OBJ-0001",
+      "OBJ-0002",
+      "PROC-0001",
+      "PROC-0002",
+      "PROC-0003",
+      "PROC-0004",
+      "PROC-0005",
+      "PROC-0006",
+      "PROC-0007",
+      "PROC-0008",
+      "PROC-0009",
+      "PROC-0010",
+      "PROC-0011",
+      "PROC-0012",
+      "PROC-0013",
+      "PROC-0014",
+      "PROC-0015"
+    ],
+    "القانون المدني": [
+      "CIV-0001",
+      "CIV-0002",
+      "CIV-0003",
+      "CIV-0004",
+      "CIV-0005",
+      "CIV-0006",
+      "CIV-0007",
+      "CIV-0008",
+      "CIV-0009",
+      "CIV-0010",
+      "CIV-0011",
+      "CIV-0012",
+      "CIV-0013",
+      "CIV-0014",
+      "CIV-0015",
+      "CIV-0016",
+      "CIV-0017",
+      "LIM-0002",
+      "LIM-0003"
+    ],
+    "قانون التجارة": [
+      "COM-0001",
+      "COM-0002",
+      "COM-0003",
+      "COM-0004",
+      "COM-0005"
+    ],
+    "قانون المحكمة الدستورية": [
+      "CONST-0001",
+      "CONST-0002"
+    ],
+    "الدستور المصري": [
+      "CONST-0001",
+      "CONST-0002"
+    ],
+    "قانون الإجراءات الجنائية": [
+      "CRIM-0001",
+      "CRIM-0002",
+      "CRIM-0003",
+      "CRIM-0004",
+      "CRIM-0005",
+      "CRIM-0006",
+      "CRIM-0007",
+      "CRIM-0008",
+      "CRIM-0009",
+      "CRIM-0010",
+      "CRIM-0011",
+      "CRIM-0012",
+      "LIM-0001"
+    ],
+    "قانون الأحوال الشخصية": [
+      "PS-0001",
+      "PS-0002",
+      "PS-0003",
+      "PS-0004"
+    ]
+  },
+  "by_deadline_type": {
+    "سقوط": [
+      "ADM-0001",
+      "CIV-0009",
+      "CIV-0014",
+      "CIV-0016",
+      "CRIM-0001",
+      "PROC-0009"
+    ],
+    "إجرائي": [
+      "ADM-0002",
+      "APP-0003",
+      "CIV-0013",
+      "COM-0004",
+      "CONST-0001",
+      "CRIM-0011",
+      "OBJ-0001",
+      "OBJ-0002",
+      "PROC-0001",
+      "PROC-0010",
+      "PROC-0014"
+    ],
+    "تقادم": [
+      "ADM-0003",
+      "CIV-0002",
+      "CIV-0003",
+      "CIV-0004",
+      "CIV-0005",
+      "CIV-0006",
+      "CIV-0007",
+      "CIV-0008",
+      "CIV-0011",
+      "CIV-0012",
+      "CIV-0017",
+      "COM-0001",
+      "COM-0002",
+      "CRIM-0002",
+      "CRIM-0009",
+      "LIM-0001",
+      "LIM-0003",
+      "PS-0002",
+      "PS-0003",
+      "PS-0004"
+    ],
+    "إجرائي - سقوط": [
+      "APP-0001",
+      "APP-0002",
+      "APP-0004",
+      "COM-0005",
+      "CRIM-0006",
+      "CRIM-0007",
+      "CRIM-0008",
+      "CRIM-0010",
+      "CRIM-0012",
+      "PROC-0002",
+      "PROC-0004",
+      "PROC-0005",
+      "PROC-0006",
+      "PROC-0007",
+      "PROC-0008",
+      "PROC-0011",
+      "PROC-0012",
+      "PROC-0013",
+      "PROC-0015"
+    ],
+    "تقادم - سقوط": [
+      "CIV-0001"
+    ],
+    "ضمان": [
+      "CIV-0010"
+    ],
+    "تقادم مكسب": [
+      "CIV-0015",
+      "LIM-0002"
+    ],
+    "إجرائي - شرط صحة": [
+      "COM-0003"
+    ],
+    "أثر قانوني": [
+      "CONST-0002"
+    ],
+    "ضمانة دستورية": [
+      "CRIM-0003"
+    ],
+    "ضمانة قانونية": [
+      "CRIM-0004",
+      "CRIM-0005"
+    ],
+    "مدة شرعية": [
+      "PS-0001"
+    ],
+    "إجرائي - شرط سابق": [
+      "PROC-0003"
+    ]
+  },
+  "critical_deadlines": [
+    {
+      "id": "CRIM-0003",
+      "title": "ميعاد إرسال المضبوط للنيابة",
+      "duration": "24 ساعة",
+      "duration_days": 1,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "الاحتجاز غير المشروع"
+    },
+    {
+      "id": "CRIM-0012",
+      "title": "ميعاد الطعن في أوامر قاضي التحقيق",
+      "duration": "24 ساعة (إفراج/حبس) / 10 أيام (غيرها)",
+      "duration_days": 1,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط حق الاستئناف"
+    },
+    {
+      "id": "COM-0003",
+      "title": "ميعاد الاحتجاج (البروتستو) على الكمبيالة",
+      "duration": "يومي العمل التاليين للاستحقاق",
+      "duration_days": 2,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط حق الرجوع على الساحب والمظهرين"
+    },
+    {
+      "id": "CRIM-0004",
+      "title": "مدة نفاذ أمر الحبس الاحتياطي من النيابة",
+      "duration": "4 أيام",
+      "duration_days": 4,
+      "risk_level": "مرتفع جداً",
+      "risk_if_missed": "الحبس غير مشروع"
+    },
+    {
+      "id": "CIV-0013",
+      "title": "ميعاد معارضة أحكام الإعسار",
+      "duration": "8 أيام معارضة / 15 يوماً استئناف",
+      "duration_days": 8,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "أحكام الإعسار تصبح نهائية"
+    },
+    {
+      "id": "OBJ-0002",
+      "title": "ميعاد الاعتراض على أمر الحجز لدى الغير",
+      "duration": "8 أيام (ثم الدعوى الموضوعية خلال 8 أيام)",
+      "duration_days": 8,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "بطلان الحجز"
+    },
+    {
+      "id": "PROC-0001",
+      "title": "ميعاد التظلم من أمر تقدير المصاريف",
+      "duration": "8 أيام",
+      "duration_days": 8,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط حق التظلم"
+    },
+    {
+      "id": "PROC-0011",
+      "title": "ميعاد إعلان المحجوز عليه بمحضر الحجز",
+      "duration": "8 أيام",
+      "duration_days": 8,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "اعتبار الحجز كأن لم يكن"
+    },
+    {
+      "id": "PROC-0012",
+      "title": "ميعاد رفع دعوى صحة الحجز",
+      "duration": "8 أيام",
+      "duration_days": 8,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "اعتبار الحجز كأن لم يكن"
+    },
+    {
+      "id": "CRIM-0006",
+      "title": "ميعاد المعارضة في الأحكام الجنائية الغيابية",
+      "duration": "10 أيام",
+      "duration_days": 10,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط حق المعارضة"
+    },
+    {
+      "id": "CRIM-0007",
+      "title": "ميعاد الاستئناف الجنائي في الجنح",
+      "duration": "10 أيام",
+      "duration_days": 10,
+      "risk_level": "مرتفع جداً",
+      "risk_if_missed": "سقوط الاستئناف"
+    },
+    {
+      "id": "CRIM-0010",
+      "title": "ميعاد الطعن في قرار لا وجه لإقامة الدعوى",
+      "duration": "10 أيام",
+      "duration_days": 10,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط حق الطعن"
+    },
+    {
+      "id": "PROC-0005",
+      "title": "ميعاد تظلم المدين من أمر الأداء",
+      "duration": "10 أيام",
+      "duration_days": 10,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط حق التظلم نهائياً"
+    },
+    {
+      "id": "APP-0002",
+      "title": "ميعاد المعارضة في الأحكام المدنية الغيابية",
+      "duration": "15 يوماً (عادي) / 8 أيام (مستعجل)",
+      "duration_days": 15,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط المعارضة"
+    },
+    {
+      "id": "COM-0004",
+      "title": "ميعاد الإفصاح عن التوقف عن الدفع",
+      "duration": "15 يوماً",
+      "duration_days": 15,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "الإفلاس بالتقصير"
+    },
+    {
+      "id": "CIV-0014",
+      "title": "تقادم دعوى الشفعة",
+      "duration": "30 يوماً من الإخطار / 3 أشهر من تسجيل العقد",
+      "duration_days": 30,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط حق الشفعة نهائياً"
+    },
+    {
+      "id": "COM-0005",
+      "title": "ميعاد تقديم طلبات الديون في الإفلاس",
+      "duration": "30 يوماً (داخل مصر) / 90 يوماً (خارجها)",
+      "duration_days": 30,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "عدم قبول الدين في التفليسة"
+    },
+    {
+      "id": "CRIM-0008",
+      "title": "ميعاد الطعن بالنقض الجنائي",
+      "duration": "30 يوماً",
+      "duration_days": 30,
+      "risk_level": "مرتفع جداً",
+      "risk_if_missed": "سقوط النقض"
+    },
+    {
+      "id": "APP-0001",
+      "title": "ميعاد استئناف أمر الأداء",
+      "duration": "40 يوماً",
+      "duration_days": 40,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط الاستئناف"
+    },
+    {
+      "id": "PROC-0006",
+      "title": "ميعاد الاستئناف (عادي ومستعجل)",
+      "duration": "40 يوماً (عادي) / 5 أيام (مستعجل) / 60 يوماً (النيابة)",
+      "duration_days": 40,
+      "risk_level": "مرتفع جداً",
+      "risk_if_missed": "سقوط الحق في الاستئناف"
+    },
+    {
+      "id": "ADM-0001",
+      "title": "ميعاد دعوى الإلغاء الإداري",
+      "duration": "60 يوماً",
+      "duration_days": 60,
+      "risk_level": "مرتفع جداً",
+      "risk_if_missed": "سقوط حق الطعن نهائياً"
+    },
+    {
+      "id": "ADM-0002",
+      "title": "ميعاد التظلم الإداري وأثره على ميعاد الطعن",
+      "duration": "60 يوماً للتظلم + 60 يوماً انتظار الرد",
+      "duration_days": 60,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "انقضاء ميعاد الطعن"
+    },
+    {
+      "id": "PROC-0007",
+      "title": "ميعاد الطعن بالنقض المدني",
+      "duration": "60 يوماً",
+      "duration_days": 60,
+      "risk_level": "مرتفع جداً",
+      "risk_if_missed": "سقوط الحق في الطعن"
+    },
+    {
+      "id": "PROC-0013",
+      "title": "ميعاد تجديد الدعوى من الشطب",
+      "duration": "60 يوماً",
+      "duration_days": 60,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "اعتبار الدعوى كأن لم تكن"
+    },
+    {
+      "id": "CRIM-0001",
+      "title": "ميعاد تقديم الشكوى الجنائية",
+      "duration": "3 أشهر",
+      "duration_days": 90,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "عدم قبول الشكوى"
+    },
+    {
+      "id": "PS-0001",
+      "title": "مدة العدة بعد الطلاق",
+      "duration": "3 قروء / 3 أشهر (الآيسة) / وضع الحمل",
+      "duration_days": 90,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "بطلان عقد الزواج الجديد خلال العدة"
+    },
+    {
+      "id": "PROC-0004",
+      "title": "ميعاد سقوط أمر الأداء لعدم الإعلان",
+      "duration": "3 أشهر",
+      "duration_days": 90,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "اعتبار الأمر والعريضة كأن لم يكونا"
+    },
+    {
+      "id": "PROC-0015",
+      "title": "ميعاد إيداع قائمة شروط البيع العقاري",
+      "duration": "90 يوماً",
+      "duration_days": 90,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "اعتبار تسجيل التنبيه كأن لم يكن"
+    },
+    {
+      "id": "CRIM-0005",
+      "title": "الحد الأقصى للحبس الاحتياطي",
+      "duration": "6 أشهر (جنح) / 18 شهراً (جنايات تحقيق) / 24 شهراً (حد أقصى)",
+      "duration_days": 180,
+      "risk_level": "مرتفع جداً",
+      "risk_if_missed": "استمرار الحبس غير المشروع"
+    },
+    {
+      "id": "CIV-0008",
+      "title": "تقادم حقوق التجار والعمال والخدم",
+      "duration": "سنة واحدة",
+      "duration_days": 365,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط الحق"
+    },
+    {
+      "id": "CIV-0009",
+      "title": "ميعاد رفع دعوى إبطال العقد لوقوع غبن",
+      "duration": "سنة واحدة",
+      "duration_days": 365,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "عدم قبول الدعوى"
+    },
+    {
+      "id": "CIV-0016",
+      "title": "تقادم دعاوى استرداد الحيازة",
+      "duration": "سنة واحدة",
+      "duration_days": 365,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط دعوى الحيازة"
+    },
+    {
+      "id": "CIV-0017",
+      "title": "تقادم دعوى ضمان العيب الخفي في البيع",
+      "duration": "سنة واحدة من تسليم المبيع",
+      "duration_days": 365,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط دعوى الضمان"
+    },
+    {
+      "id": "PS-0004",
+      "title": "ميعاد دعوى نسب المولود",
+      "duration": "سنة من الولادة أو العلم بها",
+      "duration_days": 365,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط دعوى نفي النسب"
+    },
+    {
+      "id": "PROC-0009",
+      "title": "ميعاد سقوط الخصومة",
+      "duration": "سنتان",
+      "duration_days": 730,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط الخصومة"
+    },
+    {
+      "id": "CIV-0001",
+      "title": "ميعاد سقوط الحق في طلب إبطال العقد",
+      "duration": "3 سنوات (حد أقصى 15 سنة من العقد)",
+      "duration_days": 1095,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط الحق في الإبطال نهائياً"
+    },
+    {
+      "id": "CIV-0003",
+      "title": "تقادم دعوى التعويض عن العمل غير المشروع",
+      "duration": "3 سنوات (حد أقصى 15 سنة من الفعل)",
+      "duration_days": 1095,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط دعوى التعويض"
+    },
+    {
+      "id": "COM-0002",
+      "title": "تقادم دعاوى الكمبيالة",
+      "duration": "3 سنوات (ضد المسحوب عليه) / سنة (ضد الساحب والمظهرين) / 6 أشهر (بين المظهرين)",
+      "duration_days": 1095,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط الدعوى الصرفية"
+    },
+    {
+      "id": "CIV-0010",
+      "title": "ضمان المقاولة العشري",
+      "duration": "10 سنوات ضمان + 3 سنوات تقادم",
+      "duration_days": 3650,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "سقوط دعوى الضمان"
+    },
+    {
+      "id": "CRIM-0002",
+      "title": "تقادم الدعوى الجنائية",
+      "duration": "10 سنوات (جناية) / 3 سنوات (جنحة) / سنة (مخالفة)",
+      "duration_days": 3650,
+      "risk_level": "مرتفع",
+      "risk_if_missed": "استمرار الملاحقة الجنائية"
+    }
+  ],
+  "summary": {
+    "مدني": 19,
+    "إجراءات مدنية": 21,
+    "جنائي": 13,
+    "تجاري": 5,
+    "إداري": 3,
+    "دستوري": 2,
+    "أحوال شخصية": 4,
+    "إجمالي": 67,
+    "مواعيد حرجة": 40
+  },
+  "topic_to_file": {
+    "مدني": "civil_law_deadlines.json",
+    "إجراءات مدنية": "procedural_deadlines.json",
+    "جنائي": "criminal_deadlines.json",
+    "استئناف": "appeal_deadlines.json",
+    "اعتراض": "objection_deadlines.json",
+    "دستوري": "constitutional_deadlines.json",
+    "أحوال شخصية": "personal_status_deadlines.json",
+    "تجاري": "commercial_deadlines.json",
+    "إداري": "administrative_deadlines.json",
+    "تقادم": "limitation_periods.json"
+  },
+  "record_file_map": {
+    "ADM-0001": "administrative_deadlines.json",
+    "ADM-0002": "administrative_deadlines.json",
+    "ADM-0003": "administrative_deadlines.json",
+    "APP-0001": "appeal_deadlines.json",
+    "APP-0002": "appeal_deadlines.json",
+    "APP-0003": "appeal_deadlines.json",
+    "APP-0004": "appeal_deadlines.json",
+    "CIV-0001": "civil_law_deadlines.json",
+    "CIV-0002": "civil_law_deadlines.json",
+    "CIV-0003": "civil_law_deadlines.json",
+    "CIV-0004": "civil_law_deadlines.json",
+    "CIV-0005": "civil_law_deadlines.json",
+    "CIV-0006": "civil_law_deadlines.json",
+    "CIV-0007": "civil_law_deadlines.json",
+    "CIV-0008": "civil_law_deadlines.json",
+    "CIV-0009": "civil_law_deadlines.json",
+    "CIV-0010": "civil_law_deadlines.json",
+    "CIV-0011": "civil_law_deadlines.json",
+    "CIV-0012": "civil_law_deadlines.json",
+    "CIV-0013": "civil_law_deadlines.json",
+    "CIV-0014": "civil_law_deadlines.json",
+    "CIV-0015": "civil_law_deadlines.json",
+    "CIV-0016": "civil_law_deadlines.json",
+    "CIV-0017": "civil_law_deadlines.json",
+    "COM-0001": "commercial_deadlines.json",
+    "COM-0002": "commercial_deadlines.json",
+    "COM-0003": "commercial_deadlines.json",
+    "COM-0004": "commercial_deadlines.json",
+    "COM-0005": "commercial_deadlines.json",
+    "CONST-0001": "constitutional_deadlines.json",
+    "CONST-0002": "constitutional_deadlines.json",
+    "CRIM-0001": "criminal_deadlines.json",
+    "CRIM-0002": "criminal_deadlines.json",
+    "CRIM-0003": "criminal_deadlines.json",
+    "CRIM-0004": "criminal_deadlines.json",
+    "CRIM-0005": "criminal_deadlines.json",
+    "CRIM-0006": "criminal_deadlines.json",
+    "CRIM-0007": "criminal_deadlines.json",
+    "CRIM-0008": "criminal_deadlines.json",
+    "CRIM-0009": "criminal_deadlines.json",
+    "CRIM-0010": "criminal_deadlines.json",
+    "CRIM-0011": "criminal_deadlines.json",
+    "CRIM-0012": "criminal_deadlines.json",
+    "LIM-0001": "limitation_periods.json",
+    "LIM-0002": "limitation_periods.json",
+    "LIM-0003": "limitation_periods.json",
+    "OBJ-0001": "objection_deadlines.json",
+    "OBJ-0002": "objection_deadlines.json",
+    "PS-0001": "personal_status_deadlines.json",
+    "PS-0002": "personal_status_deadlines.json",
+    "PS-0003": "personal_status_deadlines.json",
+    "PS-0004": "personal_status_deadlines.json",
+    "PROC-0001": "procedural_deadlines.json",
+    "PROC-0002": "procedural_deadlines.json",
+    "PROC-0003": "procedural_deadlines.json",
+    "PROC-0004": "procedural_deadlines.json",
+    "PROC-0005": "procedural_deadlines.json",
+    "PROC-0006": "procedural_deadlines.json",
+    "PROC-0007": "procedural_deadlines.json",
+    "PROC-0008": "procedural_deadlines.json",
+    "PROC-0009": "procedural_deadlines.json",
+    "PROC-0010": "procedural_deadlines.json",
+    "PROC-0011": "procedural_deadlines.json",
+    "PROC-0012": "procedural_deadlines.json",
+    "PROC-0013": "procedural_deadlines.json",
+    "PROC-0014": "procedural_deadlines.json",
+    "PROC-0015": "procedural_deadlines.json"
+  },
+  "quick_reference": {
+    "أقصر_مواعيد": [
+      "CRIM-0003",
+      "CRIM-0012",
+      "PROC-0010",
+      "COM-0003",
+      "CRIM-0004",
+      "PROC-0003",
+      "CIV-0013",
+      "CRIM-0011",
+      "OBJ-0002",
+      "PROC-0001"
+    ],
+    "مواعيد_24_ساعة": [
+      "CRIM-0003",
+      "CRIM-0012",
+      "PROC-0010"
+    ],
+    "مواعيد_3_أشهر": [
+      "CONST-0001",
+      "CRIM-0001",
+      "PS-0001",
+      "PROC-0004",
+      "PROC-0015"
+    ],
+    "مواعيد_60_يوم": [
+      "ADM-0001",
+      "ADM-0002",
+      "PROC-0007",
+      "PROC-0013"
+    ],
+    "تقادم_15_سنة": [
+      "CIV-0002",
+      "CIV-0004",
+      "CIV-0015",
+      "LIM-0002",
+      "LIM-0003"
+    ]
+  }
+}

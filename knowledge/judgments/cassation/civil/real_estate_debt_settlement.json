@@ -1,0 +1,2726 @@
+[
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0330_27_7",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر الصلح على نفاذ قرار لجنة التسوية",
+  "content": "متى كان عقد الصلح و التصديق عليه من المحكمة سابقين على قرار لجنة تسوية الديون العقارية و كان المدينون قد تقدموا بالدين موضوع الصلح ضمن الديون التى طلبوا من اللجنة تسويتها وفقا لأحكام القانون وكان قرار اللجنة قد تضمن الفصل",
+  "keywords": [
+   "اثر الصلح على نفاذ قرار لجنة التسوية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0330 لسنة 27"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-05-1963",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0330",
+   "judicial_year": "27",
+   "office_volume": "14",
+   "page": "719",
+   "paragraph_number": "7"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0330_27_7",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر الصلح على نفاذ قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0330",
+    "judicial_year": "27",
+    "office_volume": "14",
+    "page": "719",
+    "session_date": "23-05-1963",
+    "paragraph_number": "7"
+   },
+   "keywords": [
+    "اثر الصلح على نفاذ قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان عقد الصلح و التصديق عليه من المحكمة سابقين على قرار لجنة تسوية الديون العقارية و كان المدينون قد تقدموا بالدين موضوع الصلح ضمن الديون التى طلبوا من اللجنة تسويتها وفقا لأحكام القانون وكان قرار اللجنة قد تضمن الفصل",
+   "core_principles": [
+    "متى كان عقد الصلح و التصديق عليه من المحكمة سابقين على قرار لجنة تسوية الديون العقارية و كان المدينون قد تقدموا بالدين موضوع الصلح ضمن الديون التى طلبوا من اللجنة تسويتها وفقا لأحكام القانون وكان قرار اللجنة قد تضمن الفصل فى أمر هذا الدين باستبعاده من التوزيع فإنه لا يكون للصلح أثر على هذا القرار ما"
+   ],
+   "judicial_rule": {
+    "short": "متى كان عقد الصلح و التصديق عليه من المحكمة سابقين على قرار لجنة تسوية الديون العقارية و كان المدينون قد تقدموا بالدين موضوع الصلح ضمن الديون التى طلبوا من اللجنة تسويتها وفقا لأحكام القانون وكان قرار اللجنة قد تضمن الفصل",
+    "professional": "متى كان عقد الصلح و التصديق عليه من المحكمة سابقين على قرار لجنة تسوية الديون العقارية و كان المدينون قد تقدموا بالدين موضوع الصلح ضمن الديون التى طلبوا من اللجنة تسويتها وفقا لأحكام القانون وكان قرار اللجنة قد تضمن الفصل فى أمر هذا الدين باستبعاده من التوزيع فإنه لا يكون للصلح أثر على هذا القرار ما لم يثبت أن هذا الاتفاق \" الصلح \" قد ظل نافذا برضاء المدينين إلى ما بعد صدور قرار اللجنة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر الصلح على نفاذ قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0330_27_4",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تخلف الدائنين عن تقديم البيانات",
+  "content": "مقتضى الجزاء الذى تفرضه المادة 18 مكرر من القانون 12 لسنة 1942 المضافة بالقانون 143 لسنة 1944 على من يتخلف من الدائنين عن تقديم البيانات والمستندات الخاصة بدينه هو استبعاد هذا الدين من التوزيع ويكون حكم الدائنين الذين بحثت اللجنة",
+  "keywords": [
+   "اثر تخلف الدائنين عن تقديم البيانات",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0330 لسنة 27"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "23-05-1963",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0330",
+   "judicial_year": "27",
+   "office_volume": "14",
+   "page": "719",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0330_27_4",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تخلف الدائنين عن تقديم البيانات",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0330",
+    "judicial_year": "27",
+    "office_volume": "14",
+    "page": "719",
+    "session_date": "23-05-1963",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "اثر تخلف الدائنين عن تقديم البيانات",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "مقتضى الجزاء الذى تفرضه المادة 18 مكرر من القانون 12 لسنة 1942 المضافة بالقانون 143 لسنة 1944 على من يتخلف من الدائنين عن تقديم البيانات والمستندات الخاصة بدينه هو استبعاد هذا الدين من التوزيع ويكون حكم الدائنين الذين بحثت اللجنة",
+   "core_principles": [
+    "مقتضى الجزاء الذى تفرضه المادة 18 مكرر من القانون 12 لسنة 1942 المضافة بالقانون 143 لسنة 1944 على من يتخلف من الدائنين عن تقديم البيانات والمستندات الخاصة بدينه هو استبعاد هذا الدين من التوزيع ويكون حكم الدائنين الذين بحثت اللجنة ديونهم و لم يصبهم نصيب فى التوزيع طبقا لأحكام القانون"
+   ],
+   "judicial_rule": {
+    "short": "مقتضى الجزاء الذى تفرضه المادة 18 مكرر من القانون 12 لسنة 1942 المضافة بالقانون 143 لسنة 1944 على من يتخلف من الدائنين عن تقديم البيانات والمستندات الخاصة بدينه هو استبعاد هذا الدين من التوزيع ويكون حكم الدائنين الذين بحثت اللجنة",
+    "professional": "مقتضى الجزاء الذى تفرضه المادة 18 مكرر من القانون 12 لسنة 1942 المضافة بالقانون 143 لسنة 1944 على من يتخلف من الدائنين عن تقديم البيانات والمستندات الخاصة بدينه هو استبعاد هذا الدين من التوزيع ويكون حكم الدائنين الذين بحثت اللجنة ديونهم و لم يصبهم نصيب فى التوزيع طبقا لأحكام القانون ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تخلف الدائنين عن تقديم البيانات",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0059_17_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "إن القرار الصادر إنتهائيا من لجنة تسوية الديون العقارية فى حدود إختصاصها له حجية الأحكام الإنتهائية فلا يجوز الطعن فيه أمام المحاكم .",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0059 لسنة 17"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0530_35_2",
+   "cass_civil_real_estate_debt_settlement_0413_36_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-03-1950",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0059",
+   "judicial_year": "17",
+   "office_volume": "01",
+   "page": "350",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0059",
+    "judicial_year": "17",
+    "office_volume": "01",
+    "page": "350",
+    "session_date": "16-03-1950",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إن القرار الصادر إنتهائيا من لجنة تسوية الديون العقارية فى حدود إختصاصها له حجية الأحكام الإنتهائية فلا يجوز الطعن فيه أمام المحاكم .",
+   "core_principles": [
+    "إن القرار الصادر إنتهائيا من لجنة تسوية الديون العقارية فى حدود إختصاصها له حجية الأحكام الإنتهائية فلا يجوز الطعن فيه أمام المحاكم"
+   ],
+   "judicial_rule": {
+    "short": "إن القرار الصادر إنتهائيا من لجنة تسوية الديون العقارية فى حدود إختصاصها له حجية الأحكام الإنتهائية فلا يجوز الطعن فيه أمام المحاكم",
+    "professional": "إن القرار الصادر إنتهائيا من لجنة تسوية الديون العقارية فى حدود إختصاصها له حجية الأحكام الإنتهائية فلا يجوز الطعن فيه أمام المحاكم ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0013_19_3",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "قرار لجنة تسوية الديون العقارية بتخفيض الدين وتقسيطه لا يترتب عليه سقوط حق الدائن فى ضمان خوله إياه اتفاقه مع المدين على الانتفاع بأطيان لهذا الأخير و الاستيلاء من ريعها على القسط الذى يستحق له سنويا من الدين متى كان",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0013 لسنة 19"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0530_35_2",
+   "cass_civil_real_estate_debt_settlement_0413_36_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-02-1951",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0013",
+   "judicial_year": "19",
+   "office_volume": "02",
+   "page": "358",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0013",
+    "judicial_year": "19",
+    "office_volume": "02",
+    "page": "358",
+    "session_date": "22-02-1951",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "قرار لجنة تسوية الديون العقارية بتخفيض الدين وتقسيطه لا يترتب عليه سقوط حق الدائن فى ضمان خوله إياه اتفاقه مع المدين على الانتفاع بأطيان لهذا الأخير و الاستيلاء من ريعها على القسط الذى يستحق له سنويا من الدين متى كان",
+   "core_principles": [
+    "و من ثم فإن اعمال هذا الاتفاق لا محل للاعتراض عليه"
+   ],
+   "judicial_rule": {
+    "short": "و من ثم فإن اعمال هذا الاتفاق لا محل للاعتراض عليه",
+    "professional": "قرار لجنة تسوية الديون العقارية بتخفيض الدين وتقسيطه لا يترتب عليه سقوط حق الدائن فى ضمان خوله إياه اتفاقه مع المدين على الانتفاع بأطيان لهذا الأخير و الاستيلاء من ريعها على القسط الذى يستحق له سنويا من الدين متى كان هذا الاتفاق قد ظل نافذا بين الطرفين برضاء المدين إلى ما بعد صدور قرار اللجنة . و من ثم فإن اعمال هذا الاتفاق لا محل للاعتراض عليه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0320_21_1",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "نص المادة 26 من القانون رقم 143 لسنة 1944 قد أسبغ على المدينين الذين قبلت التسوية معهم حصانة فى أموالهم ليس فقط بالنسبة إلى الأموال التى كانت موضوع التسوية بل و فى كل مال آخر تؤول ملكيته إليهم عقب التسوية",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "الملكية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0320 لسنة 21"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0530_35_2",
+   "cass_civil_real_estate_debt_settlement_0413_36_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 26 (Law 143)",
+    "Law 143/1944"
+   ],
+   "date": "13-01-1955",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0320",
+   "judicial_year": "21",
+   "office_volume": "06",
+   "page": "486",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0320",
+    "judicial_year": "21",
+    "office_volume": "06",
+    "page": "486",
+    "session_date": "13-01-1955",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "الملكية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 26 (Law 143)",
+    "Law 143/1944"
+   ],
+   "facts_summary": "نص المادة 26 من القانون رقم 143 لسنة 1944 قد أسبغ على المدينين الذين قبلت التسوية معهم حصانة فى أموالهم ليس فقط بالنسبة إلى الأموال التى كانت موضوع التسوية بل و فى كل مال آخر تؤول ملكيته إليهم عقب التسوية",
+   "core_principles": [
+    "و إذن فمتى كان الواقع فى الدعوى هو أن التسوية قد قبلت مع المدين فان قرار لجنة التسوية وفقا للمادة المشار اليها يكون قد أبرأ ذمته من الديون التى عليه للدائنين و التى استبعدتها اللجنة فأصبحت علاقته بهم بالنسبة لهذه الديون منتهية و لا يجوز لهم بعد ذلك أن يحصلوا بمقتضاها على الاختصاصات التى أوقعوها على"
+   ],
+   "judicial_rule": {
+    "short": "و إذن فمتى كان الواقع فى الدعوى هو أن التسوية قد قبلت مع المدين فان قرار لجنة التسوية وفقا للمادة المشار اليها يكون قد أبرأ ذمته من الديون التى عليه للدائنين و التى استبعدتها اللجنة فأصبحت علاقته بهم بالنسبة لهذه",
+    "professional": "نص المادة 26 من القانون رقم 143 لسنة 1944 قد أسبغ على المدينين الذين قبلت التسوية معهم حصانة فى أموالهم ليس فقط بالنسبة إلى الأموال التى كانت موضوع التسوية بل و فى كل مال آخر تؤول ملكيته إليهم عقب التسوية أيا ما كان سبب الملكية و ذلك بالنسبة للديون السابقة على التسوية . و إذن فمتى كان الواقع فى الدعوى هو أن التسوية قد قبلت مع المدين فان قرار لجنة التسوية وفقا للمادة المشار اليها يكون قد أبرأ ذمته من الديون التى عليه للدائنين و التى استبعدتها اللجنة فأصبحت علاقته بهم بالنسبة ل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0028",
+   "القانون_المدني__file_0171__art_0028",
+   "القانون_الدنى__file_0215__art_0028",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0169",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0321",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0503",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0026",
+   "كود_القانون_المدنى__file_0205__art_0026",
+   "القانون_المدني__file_0110__art_0028"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0211_23_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "المستفاد من عبارات القانون الخاص بتسوية الديون العقارية أن التسوية تقصر على الأراضى الزراعية و المبانى الملحقة بها و ليس سكن المزارع إلا ملحقا بالعقار الذى شملته التسوية مما يعتبر داخلاً فيها حتماً و بحكم القانون سواء ذكر فى طلب",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0211 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0530_35_2",
+   "cass_civil_real_estate_debt_settlement_0413_36_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "15-11-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0211",
+   "judicial_year": "23",
+   "office_volume": "07",
+   "page": "905",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0211",
+    "judicial_year": "23",
+    "office_volume": "07",
+    "page": "905",
+    "session_date": "15-11-1956",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المستفاد من عبارات القانون الخاص بتسوية الديون العقارية أن التسوية تقصر على الأراضى الزراعية و المبانى الملحقة بها و ليس سكن المزارع إلا ملحقا بالعقار الذى شملته التسوية مما يعتبر داخلاً فيها حتماً و بحكم القانون سواء ذكر فى طلب",
+   "core_principles": [
+    "المستفاد من عبارات القانون الخاص بتسوية الديون العقارية أن التسوية تقصر على الأراضى الزراعية و المبانى الملحقة بها و ليس سكن المزارع إلا ملحقا بالعقار الذى شملته التسوية مما يعتبر داخلاً فيها حتماً و بحكم القانون سواء ذكر فى طلب التسوية أو لم يذكر"
+   ],
+   "judicial_rule": {
+    "short": "المستفاد من عبارات القانون الخاص بتسوية الديون العقارية أن التسوية تقصر على الأراضى الزراعية و المبانى الملحقة بها و ليس سكن المزارع إلا ملحقا بالعقار الذى شملته التسوية مما يعتبر داخلاً فيها حتماً و بحكم القانون سواء ذكر فى طلب",
+    "professional": "المستفاد من عبارات القانون الخاص بتسوية الديون العقارية أن التسوية تقصر على الأراضى الزراعية و المبانى الملحقة بها و ليس سكن المزارع إلا ملحقا بالعقار الذى شملته التسوية مما يعتبر داخلاً فيها حتماً و بحكم القانون سواء ذكر فى طلب التسوية أو لم يذكر."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0330_27_5",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "تقضى المادة 26 من القانون 12 لسنة 1942 بعد تعديلها بالقانون 143 لسنة 1944 بأن قرار لجنة تسوية الديون العقارية يبرىء من ذمة المدين من كافة الديون التى تزيد على 70% من قيمة عقاراته حسب قرار اللجنة لغاية يوم صدوره",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "التنفيذ",
+   "الملكية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0330 لسنة 27"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0530_35_2",
+   "cass_civil_real_estate_debt_settlement_0413_36_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 26 (Law 12)",
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "23-05-1963",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0330",
+   "judicial_year": "27",
+   "office_volume": "14",
+   "page": "719",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0330",
+    "judicial_year": "27",
+    "office_volume": "14",
+    "page": "719",
+    "session_date": "23-05-1963",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "التنفيذ",
+    "الملكية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 26 (Law 12)",
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "تقضى المادة 26 من القانون 12 لسنة 1942 بعد تعديلها بالقانون 143 لسنة 1944 بأن قرار لجنة تسوية الديون العقارية يبرىء من ذمة المدين من كافة الديون التى تزيد على 70% من قيمة عقاراته حسب قرار اللجنة لغاية يوم صدوره",
+   "core_principles": [
+    "و قد قصد المشرع بذلك أن يسبغ على المدينين الذين قبلت اللجنة نهائيا تسوية ديونهم حصانة فى أموالهم ليس فقط بالنسبة إلى الأموال التى كانت موضوع التسوية بل وفى كل مال آخر تؤول ملكيته إليهم عقب التسوية أيا كان سبب هذه الملكية و من ثم فما دام الدين سابقا على تاريخ تقديم طلب التسوية فإن قرار اللجنة الذى صد"
+   ],
+   "judicial_rule": {
+    "short": "و قد قصد المشرع بذلك أن يسبغ على المدينين الذين قبلت اللجنة نهائيا تسوية ديونهم حصانة فى أموالهم ليس فقط بالنسبة إلى الأموال التى كانت موضوع التسوية بل وفى كل مال آخر تؤول ملكيته إليهم عقب التسوية أيا كان سبب",
+    "professional": "تقضى المادة 26 من القانون 12 لسنة 1942 بعد تعديلها بالقانون 143 لسنة 1944 بأن قرار لجنة تسوية الديون العقارية يبرىء من ذمة المدين من كافة الديون التى تزيد على 70% من قيمة عقاراته حسب قرار اللجنة لغاية يوم صدوره و يعتبر ذلك القرار منهيا لكل علاقة بين المدين ودائنيه السابقة ديونهم على تاريخ تقديم طلب التسوية . و قد قصد المشرع بذلك أن يسبغ على المدينين الذين قبلت اللجنة نهائيا تسوية ديونهم حصانة فى أموالهم ليس فقط بالنسبة إلى الأموال التى كانت موضوع التسوية بل وفى كل مال آخر تؤو"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0028",
+   "القانون_المدني__file_0171__art_0028",
+   "القانون_الدنى__file_0215__art_0028",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0169",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0321",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0503",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0026",
+   "كود_القانون_المدنى__file_0205__art_0026",
+   "القانون_المدني__file_0110__art_0028"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0369_30_1",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "جرى قضاء محكمة النقض بأن للجنه تسويه الديون العقارية - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدلة بالقانون رقم 143 لسنة 1944 إختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0369 لسنة 30"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0530_35_2",
+   "cass_civil_real_estate_debt_settlement_0413_36_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "08-04-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0369",
+   "judicial_year": "30",
+   "office_volume": "16",
+   "page": "459",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0369",
+    "judicial_year": "30",
+    "office_volume": "16",
+    "page": "459",
+    "session_date": "08-04-1965",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "جرى قضاء محكمة النقض بأن للجنه تسويه الديون العقارية - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدلة بالقانون رقم 143 لسنة 1944 إختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون",
+   "core_principles": [
+    "جرى قضاء محكمة النقض بأن للجنه تسويه الديون العقارية - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدلة بالقانون رقم 143 لسنة 1944 إختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض بعض الديون و إستبعاد البعض الأخر و تقدير نسبة ما يختص به كل دائن من"
+   ],
+   "judicial_rule": {
+    "short": "جرى قضاء محكمة النقض بأن للجنه تسويه الديون العقارية - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدلة بالقانون رقم 143 لسنة 1944 إختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون",
+    "professional": "جرى قضاء محكمة النقض بأن للجنه تسويه الديون العقارية - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدلة بالقانون رقم 143 لسنة 1944 إختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض بعض الديون و إستبعاد البعض الأخر و تقدير نسبة ما يختص به كل دائن من أصحاب الديون المخفضة فى التوزيع و شروط سدادها 0و القرارات التى تصدرها اللجنة فى ذلك كله لها حجية تلزم المدين و الدائنين السابقة ديونهم على تاريخ تقديم طلب التسوية فلا يجوز الطعن ف"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0369_30_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "يبين من مراحل التشريع التى مر بها تعديل المادة 26من القانون رقم 12 لسنة 1942 - المعدل بالقانون رقم 143 لسنة 1944 انه قد قصد بهذا التعديل أن يكون قرار لجنة تسوية الديون العقارية مبرئاً لزمة المدين من كافة الديون",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "التنفيذ",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0369 لسنة 30"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0530_35_2",
+   "cass_civil_real_estate_debt_settlement_0413_36_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "08-04-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0369",
+   "judicial_year": "30",
+   "office_volume": "16",
+   "page": "459",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0369",
+    "judicial_year": "30",
+    "office_volume": "16",
+    "page": "459",
+    "session_date": "08-04-1965",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "التنفيذ",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "يبين من مراحل التشريع التى مر بها تعديل المادة 26من القانون رقم 12 لسنة 1942 - المعدل بالقانون رقم 143 لسنة 1944 انه قد قصد بهذا التعديل أن يكون قرار لجنة تسوية الديون العقارية مبرئاً لزمة المدين من كافة الديون",
+   "core_principles": [
+    "يبين من مراحل التشريع التى مر بها تعديل المادة 26من القانون رقم 12 لسنة 1942 - المعدل بالقانون رقم 143 لسنة 1944 انه قد قصد بهذا التعديل أن يكون قرار لجنة تسوية الديون العقارية مبرئاً لزمة المدين من كافة الديون التى لم يحدد لأصحابها نصيب فى التوزيع و منهياً لكل علاقة بين المدين و دائنيه السابقة ديون"
+   ],
+   "judicial_rule": {
+    "short": "يبين من مراحل التشريع التى مر بها تعديل المادة 26من القانون رقم 12 لسنة 1942 - المعدل بالقانون رقم 143 لسنة 1944 انه قد قصد بهذا التعديل أن يكون قرار لجنة تسوية الديون العقارية مبرئاً لزمة المدين من كافة الديون",
+    "professional": "يبين من مراحل التشريع التى مر بها تعديل المادة 26من القانون رقم 12 لسنة 1942 - المعدل بالقانون رقم 143 لسنة 1944 انه قد قصد بهذا التعديل أن يكون قرار لجنة تسوية الديون العقارية مبرئاً لزمة المدين من كافة الديون التى لم يحدد لأصحابها نصيب فى التوزيع و منهياً لكل علاقة بين المدين و دائنيه السابقة ديونهم على تاريخ تقديم طلب السوية بحيث يمتنع عليهم التنفيذ بديونهم تلك بأى طريق من طرق التنفيذ ليس فقط على عقارات المدين التى إنتفعت بالتسوية بل وعلى كل مال آخر تؤول ملكيته إليه بعد صد"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0530_35_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "مؤدى نص المادة 26 من القانون رقم 12 لسنة 1942 بعد تعديلها بالقانون رقم 143 لسنة 1944 حسبما يبين من مراحل التشريع التى مر بها التعديل و من المناقشات البرلمانية التى دارت فى مجلس النواب و الشيوخ بشأن هذا التعديل",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "التنفيذ",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0530 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0413_36_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 26 (Law 12)",
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "10-03-1970",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0530",
+   "judicial_year": "35",
+   "office_volume": "21",
+   "page": "417",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0530_35_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0530",
+    "judicial_year": "35",
+    "office_volume": "21",
+    "page": "417",
+    "session_date": "10-03-1970",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "التنفيذ",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 26 (Law 12)",
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "مؤدى نص المادة 26 من القانون رقم 12 لسنة 1942 بعد تعديلها بالقانون رقم 143 لسنة 1944 حسبما يبين من مراحل التشريع التى مر بها التعديل و من المناقشات البرلمانية التى دارت فى مجلس النواب و الشيوخ بشأن هذا التعديل",
+   "core_principles": [
+    "مؤدى نص المادة 26 من القانون رقم 12 لسنة 1942 بعد تعديلها بالقانون رقم 143 لسنة 1944 حسبما يبين من مراحل التشريع التى مر بها التعديل و من المناقشات البرلمانية التى دارت فى مجلس النواب و الشيوخ بشأن هذا التعديل ، أنه قصد به أن يكون قرار اللجنة مبرئا لذمة المدين من كافه الديون التى لم يحدد لأصحابها نص"
+   ],
+   "judicial_rule": {
+    "short": "مؤدى نص المادة 26 من القانون رقم 12 لسنة 1942 بعد تعديلها بالقانون رقم 143 لسنة 1944 حسبما يبين من مراحل التشريع التى مر بها التعديل و من المناقشات البرلمانية التى دارت فى مجلس النواب و الشيوخ بشأن هذا التعديل",
+    "professional": "مؤدى نص المادة 26 من القانون رقم 12 لسنة 1942 بعد تعديلها بالقانون رقم 143 لسنة 1944 حسبما يبين من مراحل التشريع التى مر بها التعديل و من المناقشات البرلمانية التى دارت فى مجلس النواب و الشيوخ بشأن هذا التعديل ، أنه قصد به أن يكون قرار اللجنة مبرئا لذمة المدين من كافه الديون التى لم يحدد لأصحابها نصيب فى التوزيع و السابقة على تاريخ تقديم طلب التسوية بحيث يمتنع عليها التنفيذ بديونهم تلك بأى طريق من طرق التنفيذ ، ليس فقط على عقارات المدين التى إنتفعت بالتسوية ، بل و على كل مال"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0028",
+   "القانون_المدني__file_0171__art_0028",
+   "القانون_الدنى__file_0215__art_0028",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0169",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0321",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0503",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0026",
+   "كود_القانون_المدنى__file_0205__art_0026",
+   "القانون_المدني__file_0110__art_0028"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0413_36_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "إذا أوجبت المادة 15 من القانون رقم 12 لسنة 1942 على المدين أن يقدم طلب التخفيض إلى لجنة تسوية الديون العقارية مصحوباً ببيان تفصيلى بالديون العقارية و العادية يذكر فيه جملة الديون أصلاً و الفوائد محتسبة لغاية 1941/12/31 ، كما",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0413 لسنة 36"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0530_35_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 15 (Law 12)",
+    "Law 12/1942"
+   ],
+   "date": "08-02-1973",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0413",
+   "judicial_year": "36",
+   "office_volume": "24",
+   "page": "161",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0413_36_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0413",
+    "judicial_year": "36",
+    "office_volume": "24",
+    "page": "161",
+    "session_date": "08-02-1973",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 15 (Law 12)",
+    "Law 12/1942"
+   ],
+   "facts_summary": "إذا أوجبت المادة 15 من القانون رقم 12 لسنة 1942 على المدين أن يقدم طلب التخفيض إلى لجنة تسوية الديون العقارية مصحوباً ببيان تفصيلى بالديون العقارية و العادية يذكر فيه جملة الديون أصلاً و الفوائد محتسبة لغاية 1941/12/31 ، كما",
+   "core_principles": [
+    "إذا أوجبت المادة 15 من القانون رقم 12 لسنة 1942 على المدين أن يقدم طلب التخفيض إلى لجنة تسوية الديون العقارية مصحوباً ببيان تفصيلى بالديون العقارية و العادية يذكر فيه جملة الديون أصلاً و الفوائد محتسبة لغاية 1941/12/31 ، كما أوجبت المادة الثانية من لائحة الإجراءات الصادرة تنفيذاً للقانون المذكور على"
+   ],
+   "judicial_rule": {
+    "short": "إذا أوجبت المادة 15 من القانون رقم 12 لسنة 1942 على المدين أن يقدم طلب التخفيض إلى لجنة تسوية الديون العقارية مصحوباً ببيان تفصيلى بالديون العقارية و العادية يذكر فيه جملة الديون أصلاً و الفوائد محتسبة لغاية 1941/12/31 ، كما",
+    "professional": "إذا أوجبت المادة 15 من القانون رقم 12 لسنة 1942 على المدين أن يقدم طلب التخفيض إلى لجنة تسوية الديون العقارية مصحوباً ببيان تفصيلى بالديون العقارية و العادية يذكر فيه جملة الديون أصلاً و الفوائد محتسبة لغاية 1941/12/31 ، كما أوجبت المادة الثانية من لائحة الإجراءات الصادرة تنفيذاً للقانون المذكور على الدائن أن يقدم للجنة فى خلال الخمسة عشر يوماً التالية لإعلانه بتقديم طلب التسوية بياناً تفصيلياً بديونه من رأس مال و فوائد محتسبة لغاية 1941/12/31 ، فإنه لا جدال فى أن هذا البيان"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0017",
+   "القانون_المدني__file_0171__art_0017",
+   "القانون_الدنى__file_0215__art_0017",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0066",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0167",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0376",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0509",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0015",
+   "كود_القانون_المدنى__file_0205__art_0015",
+   "القانون_المدني__file_0110__art_0017"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0591_47_1",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اثر تسوية الديون العقارية",
+  "content": "مفاد المواد 24 ، 25 ، 26 ، من القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 بشأن تسويه الديون العقارية - و على ما جرى به قضاء هذه المحكمة - أن المشرع منح لجنه تسوية الديون",
+  "keywords": [
+   "اثر تسوية الديون العقارية",
+   "التنفيذ",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0591 لسنة 47"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_2",
+   "cass_civil_real_estate_debt_settlement_0013_19_3",
+   "cass_civil_real_estate_debt_settlement_0320_21_1",
+   "cass_civil_real_estate_debt_settlement_0211_23_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_5",
+   "cass_civil_real_estate_debt_settlement_0369_30_1",
+   "cass_civil_real_estate_debt_settlement_0369_30_2",
+   "cass_civil_real_estate_debt_settlement_0530_35_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "18-03-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0591",
+   "judicial_year": "47",
+   "office_volume": "32",
+   "page": "851",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0591_47_1",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اثر تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0591",
+    "judicial_year": "47",
+    "office_volume": "32",
+    "page": "851",
+    "session_date": "18-03-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اثر تسوية الديون العقارية",
+    "التنفيذ",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "مفاد المواد 24 ، 25 ، 26 ، من القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 بشأن تسويه الديون العقارية - و على ما جرى به قضاء هذه المحكمة - أن المشرع منح لجنه تسوية الديون",
+   "core_principles": [
+    "مفاد المواد 24 ، 25 ، 26 ، من القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 بشأن تسويه الديون العقارية - و على ما جرى به قضاء هذه المحكمة - أن المشرع منح لجنه تسوية الديون العقارية إختصاصاً نهائياً فى حصر ديون طالبى التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض"
+   ],
+   "judicial_rule": {
+    "short": "مفاد المواد 24 ، 25 ، 26 ، من القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 بشأن تسويه الديون العقارية - و على ما جرى به قضاء هذه المحكمة - أن المشرع منح لجنه تسوية الديون",
+    "professional": "مفاد المواد 24 ، 25 ، 26 ، من القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 بشأن تسويه الديون العقارية - و على ما جرى به قضاء هذه المحكمة - أن المشرع منح لجنه تسوية الديون العقارية إختصاصاً نهائياً فى حصر ديون طالبى التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض بعض الديون و إستبعاد البعض الآخر و تقدير نسبة ما يختص به كل دائن من أصحاب الديون المخفضة فى التوزيع و شروط سدادها و القرارات التى تصدرها اللجنة فى ذلك لها حجيه تلزم المدين و الدائن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اثر تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0059_17_1",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اختصاص لجنة تسوية الديون العقارية",
+  "content": "إن القانون رقم 3 لسنة 1939 الخاص بتسوية الديون العقارية إذ جعل من شروط قبول طلب تسوية الديون أن يكون المدين من غير التجار ، و ناط بلجنة تسوية الديون العقارية المشكلة وفقاً للمادة 10 منه الفصل فى قبول الطلب",
+  "keywords": [
+   "اختصاص لجنة تسوية الديون العقارية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0059 لسنة 17"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0037_18_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_1",
+   "cass_civil_real_estate_debt_settlement_0530_35_1",
+   "cass_civil_real_estate_debt_settlement_0591_47_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 3/1939"
+   ],
+   "date": "16-03-1950",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0059",
+   "judicial_year": "17",
+   "office_volume": "01",
+   "page": "350",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0059_17_1",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اختصاص لجنة تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0059",
+    "judicial_year": "17",
+    "office_volume": "01",
+    "page": "350",
+    "session_date": "16-03-1950",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اختصاص لجنة تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 3/1939"
+   ],
+   "facts_summary": "إن القانون رقم 3 لسنة 1939 الخاص بتسوية الديون العقارية إذ جعل من شروط قبول طلب تسوية الديون أن يكون المدين من غير التجار ، و ناط بلجنة تسوية الديون العقارية المشكلة وفقاً للمادة 10 منه الفصل فى قبول الطلب",
+   "core_principles": [
+    "ذلك أن هذه المادة لا توجب الإحالة إلا فى حالات بينتها على سبيل الحصر ، وهى النزاع فى وجود الدين أو صحته أو طبيعته وليس منها المنازعة فى صفة المدين أهو تاجر أم غير تاجر التى جعلها القانون شرطاً من شروط قبول الطلب"
+   ],
+   "judicial_rule": {
+    "short": "ذلك أن هذه المادة لا توجب الإحالة إلا فى حالات بينتها على سبيل الحصر ، وهى النزاع فى وجود الدين أو صحته أو طبيعته وليس منها المنازعة فى صفة المدين أهو تاجر أم غير تاجر التى جعلها القانون شرطاً من",
+    "professional": "إن القانون رقم 3 لسنة 1939 الخاص بتسوية الديون العقارية إذ جعل من شروط قبول طلب تسوية الديون أن يكون المدين من غير التجار ، و ناط بلجنة تسوية الديون العقارية المشكلة وفقاً للمادة 10 منه الفصل فى قبول الطلب أو رفضه فقد خولها بذلك سلطة البت فى توافر أو عدم توافر هذه الشروط ، ومن ثم لا يصح القول بأن هذه اللجنة إذا ما إعتبرت المدين طالب التسوية من غير التجار ويحق له الإستفادة من قانون التسوية رغم الإعتراض على ذلك تكون قد خرجت عن نطاق ولايتها . كما لا يصح القول بأنه كان يتعين على"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اختصاص لجنة تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0037_18_1",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اختصاص لجنة تسوية الديون العقارية",
+  "content": "إن للجنة تسوية الديون العقارية - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 - إختصاصاً نهائياً فى حصر ديون طالب التسوية الجائزة تسويتها و تقدير قيمة العقارات التى يملكها ، و إعمال حكم القانون",
+  "keywords": [
+   "اختصاص لجنة تسوية الديون العقارية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0037 لسنة 18"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_1",
+   "cass_civil_real_estate_debt_settlement_0530_35_1",
+   "cass_civil_real_estate_debt_settlement_0591_47_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "24-11-1949",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0037",
+   "judicial_year": "18",
+   "office_volume": "01",
+   "page": "29",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0037_18_1",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اختصاص لجنة تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0037",
+    "judicial_year": "18",
+    "office_volume": "01",
+    "page": "29",
+    "session_date": "24-11-1949",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اختصاص لجنة تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "إن للجنة تسوية الديون العقارية - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 - إختصاصاً نهائياً فى حصر ديون طالب التسوية الجائزة تسويتها و تقدير قيمة العقارات التى يملكها ، و إعمال حكم القانون",
+   "core_principles": [
+    "و يترتب على ذلك أن كل حكم يصدر على خلاف هذا القرار يتعين نقضه وفقاً للمادة 11 من قانون محكمة النقض التى تقابلها المادة 426 من قانون المرافعات الحالى"
+   ],
+   "judicial_rule": {
+    "short": "و يترتب على ذلك أن كل حكم يصدر على خلاف هذا القرار يتعين نقضه وفقاً للمادة 11 من قانون محكمة النقض التى تقابلها المادة 426 من قانون المرافعات الحالى",
+    "professional": "إن للجنة تسوية الديون العقارية - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 - إختصاصاً نهائياً فى حصر ديون طالب التسوية الجائزة تسويتها و تقدير قيمة العقارات التى يملكها ، و إعمال حكم القانون فى تخفيض بعض الديون و محو البعض الآخر ، و تقدير نسبة ما يختص به كل دائن من أصحاب الديون المخفضة فى التوزيع و شروط سدادها . و القرارات التى تصدرها اللجنة فى ذلك لها حجية تلزم المدين و الدائنين السابقة ديونهم على تاريخ تقديم طلب التسوية فلا يجوز الطعن فيها أمام"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اختصاص لجنة تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0246_22_1",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اختصاص لجنة تسوية الديون العقارية",
+  "content": "إن القانون رقم 12 لسنة 1942 خاص بتسوية الديون العقارية و لا شأن للجنة التسوية بالفصل فى ملكية الأفراد إذ يبين من نصوص المواد 10 و 11 و 12 من القانون المذكور و الوراد فى خصوص ما يترتب على قبول",
+  "keywords": [
+   "اختصاص لجنة تسوية الديون العقارية",
+   "الفسخ",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0246 لسنة 22"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_1",
+   "cass_civil_real_estate_debt_settlement_0037_18_1",
+   "cass_civil_real_estate_debt_settlement_0530_35_1",
+   "cass_civil_real_estate_debt_settlement_0591_47_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942"
+   ],
+   "date": "29-12-1955",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0246",
+   "judicial_year": "22",
+   "office_volume": "06",
+   "page": "1635",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0246_22_1",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اختصاص لجنة تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0246",
+    "judicial_year": "22",
+    "office_volume": "06",
+    "page": "1635",
+    "session_date": "29-12-1955",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اختصاص لجنة تسوية الديون العقارية",
+    "الفسخ",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942"
+   ],
+   "facts_summary": "إن القانون رقم 12 لسنة 1942 خاص بتسوية الديون العقارية و لا شأن للجنة التسوية بالفصل فى ملكية الأفراد إذ يبين من نصوص المواد 10 و 11 و 12 من القانون المذكور و الوراد فى خصوص ما يترتب على قبول",
+   "core_principles": [
+    "وإذن فمتى كان النزاع فى الدعوى لا يقوم على فسخ للعقد بسبب عدم دفع الثمن بل إنصب على بطلان عقد البيع لصوريته صورية مطلقه فلا علاقة لذلك بموضوع التسوية وقانونها"
+   ],
+   "judicial_rule": {
+    "short": "وإذن فمتى كان النزاع فى الدعوى لا يقوم على فسخ للعقد بسبب عدم دفع الثمن بل إنصب على بطلان عقد البيع لصوريته صورية مطلقه فلا علاقة لذلك بموضوع التسوية وقانونها",
+    "professional": "إن القانون رقم 12 لسنة 1942 خاص بتسوية الديون العقارية و لا شأن للجنة التسوية بالفصل فى ملكية الأفراد إذ يبين من نصوص المواد 10 و 11 و 12 من القانون المذكور و الوراد فى خصوص ما يترتب على قبول التسوية نهائيا أنه ليس من بينها اعتبار تقريرات المدين خاصاً بملكية الأطيان موضوع التسوية أن لها حجية على الكافة و إذا كان قد نص بالمادة 11 من القانون المشار إليه على أنه يترتب على التسوية نهائيا حرمان البائع للمدين من استعمال حقه فى الفسخ فمقصود به حالات تخلف المدين عن الوفاء بإلتزامه كم"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اختصاص لجنة تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0530_35_1",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اختصاص لجنة تسوية الديون العقارية",
+  "content": "لجنه تسوية الديون العقارية لها - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 - اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض بعض",
+  "keywords": [
+   "اختصاص لجنة تسوية الديون العقارية",
+   "الضمان",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0530 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_1",
+   "cass_civil_real_estate_debt_settlement_0037_18_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_1",
+   "cass_civil_real_estate_debt_settlement_0591_47_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "10-03-1970",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0530",
+   "judicial_year": "35",
+   "office_volume": "21",
+   "page": "417",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0530_35_1",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اختصاص لجنة تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0530",
+    "judicial_year": "35",
+    "office_volume": "21",
+    "page": "417",
+    "session_date": "10-03-1970",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اختصاص لجنة تسوية الديون العقارية",
+    "الضمان",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "لجنه تسوية الديون العقارية لها - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 - اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض بعض",
+   "core_principles": [
+    "لجنه تسوية الديون العقارية لها - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 - اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض بعض الديون و استبعاد البعض الآخر ، و تقدير نسبة ما يختص به كل دائن من أصحاب الديون المخف"
+   ],
+   "judicial_rule": {
+    "short": "لجنه تسوية الديون العقارية لها - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 - اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض بعض",
+    "professional": "لجنه تسوية الديون العقارية لها - وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 - اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها و إعمال حكم القانون فى تخفيض بعض الديون و استبعاد البعض الآخر ، و تقدير نسبة ما يختص به كل دائن من أصحاب الديون المخفضة على التوزيع و شروط سدادها ، و القرارات التى تصدرها اللجنة فى ذلك كله لها حجيه تلزم المدين و الدائنين السابقة ديونهم على تاريخ تقديم طلب التسوية ، فلا يجوز الطعن فيها أمام أية جه"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اختصاص لجنة تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0591_47_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "اختصاص لجنة تسوية الديون العقارية",
+  "content": "المشرع فى القانون ر قم 12 لسنة 1942 المعدل بالقانون 143 لسنة 1944 منح تسوية الديون العقارية إختصاصاً نهائياً فيما خصها بنظره من مسائل تتصل بتسوية الديون العقارية و أسبغ على قراراتها من الأثر و الحجية ما للأحكام النهائية من",
+  "keywords": [
+   "اختصاص لجنة تسوية الديون العقارية",
+   "البطلان",
+   "التنفيذ",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0591 لسنة 47"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0059_17_1",
+   "cass_civil_real_estate_debt_settlement_0037_18_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_1",
+   "cass_civil_real_estate_debt_settlement_0530_35_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 143/1944"
+   ],
+   "date": "18-03-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0591",
+   "judicial_year": "47",
+   "office_volume": "32",
+   "page": "851",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0591_47_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "اختصاص لجنة تسوية الديون العقارية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0591",
+    "judicial_year": "47",
+    "office_volume": "32",
+    "page": "851",
+    "session_date": "18-03-1981",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اختصاص لجنة تسوية الديون العقارية",
+    "البطلان",
+    "التنفيذ",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 143/1944"
+   ],
+   "facts_summary": "المشرع فى القانون ر قم 12 لسنة 1942 المعدل بالقانون 143 لسنة 1944 منح تسوية الديون العقارية إختصاصاً نهائياً فيما خصها بنظره من مسائل تتصل بتسوية الديون العقارية و أسبغ على قراراتها من الأثر و الحجية ما للأحكام النهائية من",
+   "core_principles": [
+    "المشرع فى القانون ر قم 12 لسنة 1942 المعدل بالقانون 143 لسنة 1944 منح تسوية الديون العقارية إختصاصاً نهائياً فيما خصها بنظره من مسائل تتصل بتسوية الديون العقارية و أسبغ على قراراتها من الأثر و الحجية ما للأحكام النهائية من طبيعة و آثار قانونية ، مما يستتبع أن يكون لتلك القرارات أثر هذه الأحكام من إك"
+   ],
+   "judicial_rule": {
+    "short": "المشرع فى القانون ر قم 12 لسنة 1942 المعدل بالقانون 143 لسنة 1944 منح تسوية الديون العقارية إختصاصاً نهائياً فيما خصها بنظره من مسائل تتصل بتسوية الديون العقارية و أسبغ على قراراتها من الأثر و الحجية ما للأحكام النهائية من",
+    "professional": "المشرع فى القانون ر قم 12 لسنة 1942 المعدل بالقانون 143 لسنة 1944 منح تسوية الديون العقارية إختصاصاً نهائياً فيما خصها بنظره من مسائل تتصل بتسوية الديون العقارية و أسبغ على قراراتها من الأثر و الحجية ما للأحكام النهائية من طبيعة و آثار قانونية ، مما يستتبع أن يكون لتلك القرارات أثر هذه الأحكام من إكتساب القوة التنفيذية فتدخل بهذا المعنى فى مدلول الأحكام التى عناها نص المادة 280 من قانون المرافعات و إعتبرها من السندات التنفيذية ، و من ثم يجب إرفاق قرار تلك اللجنة بقائمة شروط ا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "اختصاص لجنة تسوية الديون العقارية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0037_18_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "الطعن فى قرار لجنة التسوية",
+  "content": "إذا تقدم أحد المدينين المتضامنين إلى لجنة تسوية الديون العقارية فقبلت طلبه وقررت تخفيض الدين فلا يجوز لورثة المدين الآخر أن يحتجوا بهذا القرار و لا أن يطعنوا فى الحكم الصادر على خلافه .",
+  "keywords": [
+   "الطعن فى قرار لجنة التسوية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0037 لسنة 18"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0211_23_3",
+   "cass_civil_real_estate_debt_settlement_0211_23_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_6",
+   "cass_civil_real_estate_debt_settlement_0369_30_3",
+   "cass_civil_real_estate_debt_settlement_484_39_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-11-1949",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0037",
+   "judicial_year": "18",
+   "office_volume": "01",
+   "page": "29",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0037_18_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "الطعن فى قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0037",
+    "judicial_year": "18",
+    "office_volume": "01",
+    "page": "29",
+    "session_date": "24-11-1949",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا تقدم أحد المدينين المتضامنين إلى لجنة تسوية الديون العقارية فقبلت طلبه وقررت تخفيض الدين فلا يجوز لورثة المدين الآخر أن يحتجوا بهذا القرار و لا أن يطعنوا فى الحكم الصادر على خلافه .",
+   "core_principles": [
+    "إذا تقدم أحد المدينين المتضامنين إلى لجنة تسوية الديون العقارية فقبلت طلبه وقررت تخفيض الدين فلا يجوز لورثة المدين الآخر أن يحتجوا بهذا القرار و لا أن يطعنوا فى الحكم الصادر على خلافه"
+   ],
+   "judicial_rule": {
+    "short": "إذا تقدم أحد المدينين المتضامنين إلى لجنة تسوية الديون العقارية فقبلت طلبه وقررت تخفيض الدين فلا يجوز لورثة المدين الآخر أن يحتجوا بهذا القرار و لا أن يطعنوا فى الحكم الصادر على خلافه",
+    "professional": "إذا تقدم أحد المدينين المتضامنين إلى لجنة تسوية الديون العقارية فقبلت طلبه وقررت تخفيض الدين فلا يجوز لورثة المدين الآخر أن يحتجوا بهذا القرار و لا أن يطعنوا فى الحكم الصادر على خلافه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0211_23_3",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "الطعن فى قرار لجنة التسوية",
+  "content": "متى كان الحكم الصادر بالدين سابقاً على قرار التسوية و قائمة التوزيع النهائية فإن القرار الذى صدر فى هذه التسوية يسرى عليه و يقف فى سبيل أى إجراء من إجراءات التنفيذ بأى طريقة من الطرق القانونية كطريقة الإعتراض على قائمة",
+  "keywords": [
+   "التنفيذ",
+   "الطعن فى قرار لجنة التسوية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0211 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0037_18_2",
+   "cass_civil_real_estate_debt_settlement_0211_23_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_6",
+   "cass_civil_real_estate_debt_settlement_0369_30_3",
+   "cass_civil_real_estate_debt_settlement_484_39_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "15-11-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0211",
+   "judicial_year": "23",
+   "office_volume": "07",
+   "page": "905",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0211_23_3",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "الطعن فى قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0211",
+    "judicial_year": "23",
+    "office_volume": "07",
+    "page": "905",
+    "session_date": "15-11-1956",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "التنفيذ",
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "متى كان الحكم الصادر بالدين سابقاً على قرار التسوية و قائمة التوزيع النهائية فإن القرار الذى صدر فى هذه التسوية يسرى عليه و يقف فى سبيل أى إجراء من إجراءات التنفيذ بأى طريقة من الطرق القانونية كطريقة الإعتراض على قائمة",
+   "core_principles": [
+    "متى كان الحكم الصادر بالدين سابقاً على قرار التسوية و قائمة التوزيع النهائية فإن القرار الذى صدر فى هذه التسوية يسرى عليه و يقف فى سبيل أى إجراء من إجراءات التنفيذ بأى طريقة من الطرق القانونية كطريقة الإعتراض على قائمة شروط البيع"
+   ],
+   "judicial_rule": {
+    "short": "متى كان الحكم الصادر بالدين سابقاً على قرار التسوية و قائمة التوزيع النهائية فإن القرار الذى صدر فى هذه التسوية يسرى عليه و يقف فى سبيل أى إجراء من إجراءات التنفيذ بأى طريقة من الطرق القانونية كطريقة الإعتراض على قائمة",
+    "professional": "متى كان الحكم الصادر بالدين سابقاً على قرار التسوية و قائمة التوزيع النهائية فإن القرار الذى صدر فى هذه التسوية يسرى عليه و يقف فى سبيل أى إجراء من إجراءات التنفيذ بأى طريقة من الطرق القانونية كطريقة الإعتراض على قائمة شروط البيع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0211_23_1",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "الطعن فى قرار لجنة التسوية",
+  "content": "إذا تراخى الدائن أو سكت عن إستعمال الرخصة التى و فرها له القانون فى حينها للإعتراض لدى لجنة تسوية الديون العقارية على حصر الديون و تقدير متلكات المدين و تحرير قائمة التوزيع النهائية سقط حقه فى إثارتها و أصبح قرار",
+  "keywords": [
+   "الطعن فى قرار لجنة التسوية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0211 لسنة 23"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0037_18_2",
+   "cass_civil_real_estate_debt_settlement_0211_23_3",
+   "cass_civil_real_estate_debt_settlement_0246_22_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_6",
+   "cass_civil_real_estate_debt_settlement_0369_30_3",
+   "cass_civil_real_estate_debt_settlement_484_39_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "15-11-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0211",
+   "judicial_year": "23",
+   "office_volume": "07",
+   "page": "905",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0211_23_1",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "الطعن فى قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0211",
+    "judicial_year": "23",
+    "office_volume": "07",
+    "page": "905",
+    "session_date": "15-11-1956",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا تراخى الدائن أو سكت عن إستعمال الرخصة التى و فرها له القانون فى حينها للإعتراض لدى لجنة تسوية الديون العقارية على حصر الديون و تقدير متلكات المدين و تحرير قائمة التوزيع النهائية سقط حقه فى إثارتها و أصبح قرار",
+   "core_principles": [
+    "و من ثم فلا محل للقول بحصول غش أو تدليس من المدين لأن هذا القول يكون قد فات أونه"
+   ],
+   "judicial_rule": {
+    "short": "و من ثم فلا محل للقول بحصول غش أو تدليس من المدين لأن هذا القول يكون قد فات أونه",
+    "professional": "إذا تراخى الدائن أو سكت عن إستعمال الرخصة التى و فرها له القانون فى حينها للإعتراض لدى لجنة تسوية الديون العقارية على حصر الديون و تقدير متلكات المدين و تحرير قائمة التوزيع النهائية سقط حقه فى إثارتها و أصبح قرار الطعن و مبناه . و من ثم فلا محل للقول بحصول غش أو تدليس من المدين لأن هذا القول يكون قد فات أونه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0246_22_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "الطعن فى قرار لجنة التسوية",
+  "content": "لا يجوز للمشترى التحدى بقبول طلبه فى لجنة تسوية الديون العقارية فى عدم جواز الطعن فى عقده بالصورية ذلك أن المادة 24 من القانون رقم 12 لسنة 1942 نصت على أن قرار لجنة تسوية الديون العقارية غير القابل للطعن هو",
+  "keywords": [
+   "الطعن فى قرار لجنة التسوية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0246 لسنة 22"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0037_18_2",
+   "cass_civil_real_estate_debt_settlement_0211_23_3",
+   "cass_civil_real_estate_debt_settlement_0211_23_1",
+   "cass_civil_real_estate_debt_settlement_0330_27_6",
+   "cass_civil_real_estate_debt_settlement_0369_30_3",
+   "cass_civil_real_estate_debt_settlement_484_39_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 24 (Law 12)",
+    "Law 12/1942"
+   ],
+   "date": "29-12-1955",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0246",
+   "judicial_year": "22",
+   "office_volume": "06",
+   "page": "1635",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0246_22_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "الطعن فى قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0246",
+    "judicial_year": "22",
+    "office_volume": "06",
+    "page": "1635",
+    "session_date": "29-12-1955",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 24 (Law 12)",
+    "Law 12/1942"
+   ],
+   "facts_summary": "لا يجوز للمشترى التحدى بقبول طلبه فى لجنة تسوية الديون العقارية فى عدم جواز الطعن فى عقده بالصورية ذلك أن المادة 24 من القانون رقم 12 لسنة 1942 نصت على أن قرار لجنة تسوية الديون العقارية غير القابل للطعن هو",
+   "core_principles": [
+    "لا يجوز للمشترى التحدى بقبول طلبه فى لجنة تسوية الديون العقارية فى عدم جواز الطعن فى عقده بالصورية ذلك أن المادة 24 من القانون رقم 12 لسنة 1942 نصت على أن قرار لجنة تسوية الديون العقارية غير القابل للطعن هو الذى يتعلق بتحديد المبالغ المستحقة للدائنين و شروط تسديدها و ما جاء فى قائمة التوزيع خاصا بذل"
+   ],
+   "judicial_rule": {
+    "short": "لا يجوز للمشترى التحدى بقبول طلبه فى لجنة تسوية الديون العقارية فى عدم جواز الطعن فى عقده بالصورية ذلك أن المادة 24 من القانون رقم 12 لسنة 1942 نصت على أن قرار لجنة تسوية الديون العقارية غير القابل للطعن هو",
+    "professional": "لا يجوز للمشترى التحدى بقبول طلبه فى لجنة تسوية الديون العقارية فى عدم جواز الطعن فى عقده بالصورية ذلك أن المادة 24 من القانون رقم 12 لسنة 1942 نصت على أن قرار لجنة تسوية الديون العقارية غير القابل للطعن هو الذى يتعلق بتحديد المبالغ المستحقة للدائنين و شروط تسديدها و ما جاء فى قائمة التوزيع خاصا بذلك ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0026",
+   "القانون_المدني__file_0171__art_0026",
+   "القانون_الدنى__file_0215__art_0026",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0168",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0319",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0379",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0024",
+   "كود_القانون_المدنى__file_0205__art_0024",
+   "القانون_المدني__file_0110__art_0026"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0330_27_6",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "الطعن فى قرار لجنة التسوية",
+  "content": "مجال بحث ما إذا كان دين الدائنين يزيد أو لا يزيد على ال 70% من قيمة عقارات المدين المخصصة للتوزيع إنما يكون أمام لجنة تسوية الديون العقارية ، فإذا فوت الدائنون على أنفسهم هذه الفرصة وأصدرت اللجنة وفى حدود اختصاصها",
+  "keywords": [
+   "الطعن فى قرار لجنة التسوية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0330 لسنة 27"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0037_18_2",
+   "cass_civil_real_estate_debt_settlement_0211_23_3",
+   "cass_civil_real_estate_debt_settlement_0211_23_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_2",
+   "cass_civil_real_estate_debt_settlement_0369_30_3",
+   "cass_civil_real_estate_debt_settlement_484_39_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "23-05-1963",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0330",
+   "judicial_year": "27",
+   "office_volume": "14",
+   "page": "719",
+   "paragraph_number": "6"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0330_27_6",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "الطعن فى قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0330",
+    "judicial_year": "27",
+    "office_volume": "14",
+    "page": "719",
+    "session_date": "23-05-1963",
+    "paragraph_number": "6"
+   },
+   "keywords": [
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "مجال بحث ما إذا كان دين الدائنين يزيد أو لا يزيد على ال 70% من قيمة عقارات المدين المخصصة للتوزيع إنما يكون أمام لجنة تسوية الديون العقارية ، فإذا فوت الدائنون على أنفسهم هذه الفرصة وأصدرت اللجنة وفى حدود اختصاصها",
+   "core_principles": [
+    "مجال بحث ما إذا كان دين الدائنين يزيد أو لا يزيد على ال 70% من قيمة عقارات المدين المخصصة للتوزيع إنما يكون أمام لجنة تسوية الديون العقارية ، فإذا فوت الدائنون على أنفسهم هذه الفرصة وأصدرت اللجنة وفى حدود اختصاصها قرارها المتضمن استبعاد دينهم و انقضى ميعاد التظلم لديها فى هذا القرار طبقا للمادة 24 م"
+   ],
+   "judicial_rule": {
+    "short": "مجال بحث ما إذا كان دين الدائنين يزيد أو لا يزيد على ال 70% من قيمة عقارات المدين المخصصة للتوزيع إنما يكون أمام لجنة تسوية الديون العقارية ، فإذا فوت الدائنون على أنفسهم هذه الفرصة وأصدرت اللجنة وفى حدود اختصاصها",
+    "professional": "مجال بحث ما إذا كان دين الدائنين يزيد أو لا يزيد على ال 70% من قيمة عقارات المدين المخصصة للتوزيع إنما يكون أمام لجنة تسوية الديون العقارية ، فإذا فوت الدائنون على أنفسهم هذه الفرصة وأصدرت اللجنة وفى حدود اختصاصها قرارها المتضمن استبعاد دينهم و انقضى ميعاد التظلم لديها فى هذا القرار طبقا للمادة 24 من القانون 12 لسنة 1942 المعدل بالقانون 143 لسنة 1944 صار هذا القرار نهائيا و تكون له حجية الأحكام النهائية و يمتنع تبعا لذلك الجدل فيه أمام المحاكم ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_0369_30_3",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "الطعن فى قرار لجنة التسوية",
+  "content": "إذ تنص المادة 15 من القانون رقم 12 لسنة 1942 على إنه \" إذا نازع أحد الدائنين أو المدينين فى وجود الدين أو صحته ورأت اللجنة إحالة النزاع إلى المحكمة توقف النظر فى الطلب [كطلب التسويه] وتحيل اللجنة القضية إلى",
+  "keywords": [
+   "الطعن فى قرار لجنة التسوية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0369 لسنة 30"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0037_18_2",
+   "cass_civil_real_estate_debt_settlement_0211_23_3",
+   "cass_civil_real_estate_debt_settlement_0211_23_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_6",
+   "cass_civil_real_estate_debt_settlement_484_39_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Civil Code Art. 15 (Law 12)",
+    "Law 12/1942"
+   ],
+   "date": "08-04-1965",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0369",
+   "judicial_year": "30",
+   "office_volume": "16",
+   "page": "459",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_0369_30_3",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "الطعن فى قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0369",
+    "judicial_year": "30",
+    "office_volume": "16",
+    "page": "459",
+    "session_date": "08-04-1965",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Civil Code Art. 15 (Law 12)",
+    "Law 12/1942"
+   ],
+   "facts_summary": "إذ تنص المادة 15 من القانون رقم 12 لسنة 1942 على إنه \" إذا نازع أحد الدائنين أو المدينين فى وجود الدين أو صحته ورأت اللجنة إحالة النزاع إلى المحكمة توقف النظر فى الطلب [كطلب التسويه] وتحيل اللجنة القضية إلى",
+   "core_principles": [
+    "\" فإن مفاد ذلك أن إحالة النزاع إلى المحكمة فى حالة المنازعة فى وجود الدين أو صحتة ليس واجباً على اللجنة و إنما هو أمر جوازى متروك لتقديرها فإذا لم تر اللجنة إستعمال هذه الرخصة و حددت مقدار الدين ثم قررت إستبعاده من التوزيع لأن صاحبه لم يصبه نصيب فى هذا التوزيع طبقاً لأحكام القانون و مضى ميعاد التظلم"
+   ],
+   "judicial_rule": {
+    "short": "\" فإن مفاد ذلك أن إحالة النزاع إلى المحكمة فى حالة المنازعة فى وجود الدين أو صحتة ليس واجباً على اللجنة و إنما هو أمر جوازى متروك لتقديرها فإذا لم تر اللجنة إستعمال هذه الرخصة و حددت مقدار الدين ثم",
+    "professional": "إذ تنص المادة 15 من القانون رقم 12 لسنة 1942 على إنه \" إذا نازع أحد الدائنين أو المدينين فى وجود الدين أو صحته ورأت اللجنة إحالة النزاع إلى المحكمة توقف النظر فى الطلب [كطلب التسويه] وتحيل اللجنة القضية إلى المحكمة الإبتدائية المختصة ....\" فإن مفاد ذلك أن إحالة النزاع إلى المحكمة فى حالة المنازعة فى وجود الدين أو صحتة ليس واجباً على اللجنة و إنما هو أمر جوازى متروك لتقديرها فإذا لم تر اللجنة إستعمال هذه الرخصة و حددت مقدار الدين ثم قررت إستبعاده من التوزيع لأن صاحبه لم يصبه ن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [
+   "القانون_المدني__file_0066__art_0017",
+   "القانون_المدني__file_0171__art_0017",
+   "القانون_الدنى__file_0215__art_0017",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0066",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0167",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0376",
+   "المواعيد_والمدد_القانونية_في_القـانون_المدني_وفق_أحدث_التعديلات_التشريعية__file_0198__art_0509",
+   "قانون_التحكيم_في_المواد_المدنية_والتجارية__file_0178__art_0015",
+   "كود_القانون_المدنى__file_0205__art_0015",
+   "القانون_المدني__file_0110__art_0017"
+  ],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_484_39_2",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "الطعن فى قرار لجنة التسوية",
+  "content": "جرى قضاء هذه المحكمة علىأن للجنة تسوية الديون العقارية وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها ، و إعمال حكم القانون",
+  "keywords": [
+   "الطعن فى قرار لجنة التسوية",
+   "تسوية الديون العقارية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 484 لسنة 39"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_0037_18_2",
+   "cass_civil_real_estate_debt_settlement_0211_23_3",
+   "cass_civil_real_estate_debt_settlement_0211_23_1",
+   "cass_civil_real_estate_debt_settlement_0246_22_2",
+   "cass_civil_real_estate_debt_settlement_0330_27_6",
+   "cass_civil_real_estate_debt_settlement_0369_30_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "08-02-1973",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "484",
+   "judicial_year": "39",
+   "office_volume": "24",
+   "page": "201",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_484_39_2",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "الطعن فى قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "484",
+    "judicial_year": "39",
+    "office_volume": "24",
+    "page": "201",
+    "session_date": "08-02-1973",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "جرى قضاء هذه المحكمة علىأن للجنة تسوية الديون العقارية وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها ، و إعمال حكم القانون",
+   "core_principles": [
+    "جرى قضاء هذه المحكمة علىأن للجنة تسوية الديون العقارية وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها ، و إعمال حكم القانون فى تخفيض بعض الديون و إستبعاد البعض الآخر ، و تقدير نسبة ما يختص به كل دائن"
+   ],
+   "judicial_rule": {
+    "short": "جرى قضاء هذه المحكمة علىأن للجنة تسوية الديون العقارية وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها ، و إعمال حكم القانون",
+    "professional": "جرى قضاء هذه المحكمة علىأن للجنة تسوية الديون العقارية وفقاً لأحكام القانون رقم 12 لسنة 1942 المعدل بالقانون رقم 143 لسنة 1944 اختصاصاً نهائياً فى حصر ديون طالب التسوية و تقدير قيمة العقارات التى يملكها ، و إعمال حكم القانون فى تخفيض بعض الديون و إستبعاد البعض الآخر ، و تقدير نسبة ما يختص به كل دائن من أصحاب الديون المخفضة فى التوزيع و شروط سدادها ، و القرارات التى تصدرها اللجنة فى ذلك كله لها حجية تلزم المدين و الدائنين السابقة ديونهم على تاريخ تقديم طلب التسوية ، فلا يجوز ا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "الطعن فى قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_484_39_3",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "نهائية قرار لجنة التسوية",
+  "content": "إنه و قد جرى نص الفقرة الرابعة من المادة السابعة من القانون رقم 12 لسنة 1942 المعدلة بالقانون رقم 143 لسنة 1944 على أنه \" إلى ان تفصل اللجنة نهائياً فى موضوع الطلب يدفع المدينون كل سنة لحساب هذه الأقساط",
+  "keywords": [
+   "تسوية الديون العقارية",
+   "نهائية قرار لجنة التسوية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 484 لسنة 39"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_484_39_4"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "date": "08-02-1973",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "484",
+   "judicial_year": "39",
+   "office_volume": "24",
+   "page": "201",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_484_39_3",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "نهائية قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "484",
+    "judicial_year": "39",
+    "office_volume": "24",
+    "page": "201",
+    "session_date": "08-02-1973",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "تسوية الديون العقارية",
+    "نهائية قرار لجنة التسوية"
+   ],
+   "legal_articles": [
+    "Law 12/1942",
+    "Law 143/1944"
+   ],
+   "facts_summary": "إنه و قد جرى نص الفقرة الرابعة من المادة السابعة من القانون رقم 12 لسنة 1942 المعدلة بالقانون رقم 143 لسنة 1944 على أنه \" إلى ان تفصل اللجنة نهائياً فى موضوع الطلب يدفع المدينون كل سنة لحساب هذه الأقساط",
+   "core_principles": [
+    "5% من قيمة العقارات حسب التقديرات الواردة فى طلبه"
+   ],
+   "judicial_rule": {
+    "short": "5% من قيمة العقارات حسب التقديرات الواردة فى طلبه",
+    "professional": "إنه و قد جرى نص الفقرة الرابعة من المادة السابعة من القانون رقم 12 لسنة 1942 المعدلة بالقانون رقم 143 لسنة 1944 على أنه \" إلى ان تفصل اللجنة نهائياً فى موضوع الطلب يدفع المدينون كل سنة لحساب هذه الأقساط مبلغاً يعادل 4.5% من قيمة العقارات حسب التقديرات الواردة فى طلباتهم \" كما نصت المادة 24 من ذات القانون على أن \" تحدد اللجنة المبالغ للدائنين بعد التسوية و شروط تسديدها طبقاً لأحكام هذا القانون ، و تعد قائمة التوزيع و تعلن للدائنين و المدين بخطاب مسجل بعلم الوصول ، و لكل ذى شأن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "نهائية قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_real_estate_debt_settlement_484_39_4",
+  "type": "judgment_principle",
+  "category": "real_estate_debt_settlement",
+  "title": "نهائية قرار لجنة التسوية",
+  "content": "لم يحرم قانون تسوية الديون العقارية المدين من سداد دينه جميعه دفعة واحدة رغم تقسيطه .",
+  "keywords": [
+   "تسوية الديون العقارية",
+   "نهائية قرار لجنة التسوية",
+   "cassation",
+   "civil",
+   "real_estate_debt_settlement",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 484 لسنة 39"
+  ],
+  "related_ids": [
+   "cass_civil_real_estate_debt_settlement_484_39_3"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "08-02-1973",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "484",
+   "judicial_year": "39",
+   "office_volume": "24",
+   "page": "201",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_real_estate_debt_settlement_484_39_4",
+   "domain": "civil_law",
+   "category": "real_estate_debt_settlement",
+   "topic": "نهائية قرار لجنة التسوية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "484",
+    "judicial_year": "39",
+    "office_volume": "24",
+    "page": "201",
+    "session_date": "08-02-1973",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "تسوية الديون العقارية",
+    "نهائية قرار لجنة التسوية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لم يحرم قانون تسوية الديون العقارية المدين من سداد دينه جميعه دفعة واحدة رغم تقسيطه .",
+   "core_principles": [
+    "لم يحرم قانون تسوية الديون العقارية المدين من سداد دينه جميعه دفعة واحدة رغم تقسيطه"
+   ],
+   "judicial_rule": {
+    "short": "لم يحرم قانون تسوية الديون العقارية المدين من سداد دينه جميعه دفعة واحدة رغم تقسيطه",
+    "professional": "لم يحرم قانون تسوية الديون العقارية المدين من سداد دينه جميعه دفعة واحدة رغم تقسيطه ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "real_estate_debt_settlement",
+    "نهائية قرار لجنة التسوية",
+    "تسوية الديون العقارية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

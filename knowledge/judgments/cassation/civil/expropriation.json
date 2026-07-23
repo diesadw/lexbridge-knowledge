@@ -1,0 +1,201 @@
+[
+ {
+  "id": "cass_civil_expropriation_0051_34_2",
+  "type": "judgment_principle",
+  "category": "expropriation",
+  "title": "اثر نزع ملكية العين المؤجرة للمنفعة العامة",
+  "content": "يترتب على نزع ملكية العين المؤجرة للمنفعة العامة انفساخ عقد الإيجار من تلقاء نفسه لاستحالة تنفيذه بسبب إنعدام المحل لسبب أجنبى .",
+  "keywords": [
+   "اثر نزع ملكية العين المؤجرة للمنفعة العامة",
+   "الإيجار",
+   "نزع الملكية",
+   "cassation",
+   "civil",
+   "expropriation",
+   "public property",
+   "compensation",
+   "compulsory acquisition"
+  ],
+  "citations": [
+   "طعن رقم 0051 لسنة 34"
+  ],
+  "related_ids": [
+   "cass_civil_general_civil_0051_34_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-05-1967",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0051",
+   "judicial_year": "34",
+   "office_volume": "18",
+   "page": "1129",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_expropriation_0051_34_2",
+   "domain": "civil_law",
+   "category": "expropriation",
+   "topic": "اثر نزع ملكية العين المؤجرة للمنفعة العامة",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0051",
+    "judicial_year": "34",
+    "office_volume": "18",
+    "page": "1129",
+    "session_date": "25-05-1967",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اثر نزع ملكية العين المؤجرة للمنفعة العامة",
+    "الإيجار",
+    "نزع الملكية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "يترتب على نزع ملكية العين المؤجرة للمنفعة العامة انفساخ عقد الإيجار من تلقاء نفسه لاستحالة تنفيذه بسبب إنعدام المحل لسبب أجنبى .",
+   "core_principles": [
+    "يترتب على نزع ملكية العين المؤجرة للمنفعة العامة انفساخ عقد الإيجار من تلقاء نفسه لاستحالة تنفيذه بسبب إنعدام المحل لسبب أجنبى"
+   ],
+   "judicial_rule": {
+    "short": "يترتب على نزع ملكية العين المؤجرة للمنفعة العامة انفساخ عقد الإيجار من تلقاء نفسه لاستحالة تنفيذه بسبب إنعدام المحل لسبب أجنبى",
+    "professional": "يترتب على نزع ملكية العين المؤجرة للمنفعة العامة انفساخ عقد الإيجار من تلقاء نفسه لاستحالة تنفيذه بسبب إنعدام المحل لسبب أجنبى ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite on adequacy of compensation in compulsory acquisition.",
+    "Challenge procedural defects in expropriation."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "public property",
+    "compensation",
+    "compulsory acquisition"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "expropriation",
+    "اثر نزع ملكية العين المؤجرة للمنفعة العامة",
+    "نزع الملكية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_expropriation_0014_33_2",
+  "type": "judgment_principle",
+  "category": "expropriation",
+  "title": "اجراءات نزع الملكية",
+  "content": "إستيلاء الحكومة على الأطيان محل النزاع دون أن تتخذ إجراءات نزع الملكية يعد - و على ما جرى به قضاء محكمة النقض - بمثابة غصب .",
+  "keywords": [
+   "اجراءات نزع الملكية",
+   "الملكية",
+   "نزع الملكية",
+   "cassation",
+   "civil",
+   "expropriation",
+   "public property",
+   "compensation",
+   "compulsory acquisition"
+  ],
+  "citations": [
+   "طعن رقم 0014 لسنة 33"
+  ],
+  "related_ids": [
+   "cass_civil_general_civil_0178_19_1",
+   "cass_civil_general_civil_0077_21_1",
+   "cass_civil_general_civil_0114_27_1",
+   "cass_civil_general_civil_0040_32_1",
+   "cass_civil_general_civil_0040_32_2",
+   "cass_civil_general_civil_0351_32_2",
+   "cass_civil_general_civil_0014_33_2",
+   "cass_civil_general_civil_0014_33_5"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "27-02-1968",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0014",
+   "judicial_year": "33",
+   "office_volume": "19",
+   "page": "368",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_expropriation_0014_33_2",
+   "domain": "civil_law",
+   "category": "expropriation",
+   "topic": "اجراءات نزع الملكية",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0014",
+    "judicial_year": "33",
+    "office_volume": "19",
+    "page": "368",
+    "session_date": "27-02-1968",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "اجراءات نزع الملكية",
+    "الملكية",
+    "نزع الملكية"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إستيلاء الحكومة على الأطيان محل النزاع دون أن تتخذ إجراءات نزع الملكية يعد - و على ما جرى به قضاء محكمة النقض - بمثابة غصب .",
+   "core_principles": [
+    "إستيلاء الحكومة على الأطيان محل النزاع دون أن تتخذ إجراءات نزع الملكية يعد - و على ما جرى به قضاء محكمة النقض - بمثابة غصب"
+   ],
+   "judicial_rule": {
+    "short": "إستيلاء الحكومة على الأطيان محل النزاع دون أن تتخذ إجراءات نزع الملكية يعد - و على ما جرى به قضاء محكمة النقض - بمثابة غصب",
+    "professional": "إستيلاء الحكومة على الأطيان محل النزاع دون أن تتخذ إجراءات نزع الملكية يعد - و على ما جرى به قضاء محكمة النقض - بمثابة غصب ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite on adequacy of compensation in compulsory acquisition.",
+    "Challenge procedural defects in expropriation."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "public property",
+    "compensation",
+    "compulsory acquisition"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "expropriation",
+    "اجراءات نزع الملكية",
+    "نزع الملكية"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

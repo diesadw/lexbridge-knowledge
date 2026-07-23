@@ -1,0 +1,3462 @@
+[
+ {
+  "id": "cass_civil_domicile_0617_48_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "اعتبار المحل التجارى موطن اعمال",
+  "content": "تجيز المادة 41 مدنى إعتبار محل التجارة - بالنسبة للأعمال المتعلقة بها - موطناً للتاجر بجانب موطنه الأصلى للحكمة التى أفصح عنها الشارع من أن قاعدة تعدد الموطن تعتد بالأمر الواقع و تستجيب لحاجة المتعاملين و كان موطن الأعمال يعتبر",
+  "keywords": [
+   "اعتبار المحل التجارى موطن اعمال",
+   "الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0617 لسنة 48"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "22-06-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0617",
+   "judicial_year": "48",
+   "office_volume": "32",
+   "page": "1898",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0617_48_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "اعتبار المحل التجارى موطن اعمال",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0617",
+    "judicial_year": "48",
+    "office_volume": "32",
+    "page": "1898",
+    "session_date": "22-06-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "اعتبار المحل التجارى موطن اعمال",
+    "الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تجيز المادة 41 مدنى إعتبار محل التجارة - بالنسبة للأعمال المتعلقة بها - موطناً للتاجر بجانب موطنه الأصلى للحكمة التى أفصح عنها الشارع من أن قاعدة تعدد الموطن تعتد بالأمر الواقع و تستجيب لحاجة المتعاملين و كان موطن الأعمال يعتبر",
+   "core_principles": [
+    "تجيز المادة 41 مدنى إعتبار محل التجارة - بالنسبة للأعمال المتعلقة بها - موطناً للتاجر بجانب موطنه الأصلى للحكمة التى أفصح عنها الشارع من أن قاعدة تعدد الموطن تعتد بالأمر الواقع و تستجيب لحاجة المتعاملين و كان موطن الأعمال يعتبر قائماً ما بقى النشاط الجارى مستمراً و له مظهره الواقعى الذى يدل عليه و ا"
+   ],
+   "judicial_rule": {
+    "short": "تجيز المادة 41 مدنى إعتبار محل التجارة - بالنسبة للأعمال المتعلقة بها - موطناً للتاجر بجانب موطنه الأصلى للحكمة التى أفصح عنها الشارع من أن قاعدة تعدد الموطن تعتد بالأمر الواقع و تستجيب لحاجة المتعاملين و كان موطن الأعمال يعتبر",
+    "professional": "تجيز المادة 41 مدنى إعتبار محل التجارة - بالنسبة للأعمال المتعلقة بها - موطناً للتاجر بجانب موطنه الأصلى للحكمة التى أفصح عنها الشارع من أن قاعدة تعدد الموطن تعتد بالأمر الواقع و تستجيب لحاجة المتعاملين و كان موطن الأعمال يعتبر قائماً ما بقى النشاط الجارى مستمراً و له مظهره الواقعى الذى يدل عليه و الذى تستخلصه محكمة الموضوع من أوراق الدعوى و ظروفها بما لها من سلطة تقديرية و حسبها أن تورد فى حكمها الأدلة المسوغة إستخلاصها ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "اعتبار المحل التجارى موطن اعمال",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0544_44_3",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "اعتبار مكتب المحامى موطن اعمال",
+  "content": "جواز إعتبار مكتب المحامى موطن أعمال له بوصفه المكان الذى يباشر فيه مهنته على نحو ما نصت عليه المادة 41 من القانون المدنى ، على أن ذلك يقتصر على الأعمال المتعلقة به و المتصلة بمهنته و عمله فيه كمحام و",
+  "keywords": [
+   "اعتبار مكتب المحامى موطن اعمال",
+   "الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0544 لسنة 44"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-01-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0544",
+   "judicial_year": "44",
+   "office_volume": "30",
+   "page": "299",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0544_44_3",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "اعتبار مكتب المحامى موطن اعمال",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0544",
+    "judicial_year": "44",
+    "office_volume": "30",
+    "page": "299",
+    "session_date": "20-01-1979",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "اعتبار مكتب المحامى موطن اعمال",
+    "الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "جواز إعتبار مكتب المحامى موطن أعمال له بوصفه المكان الذى يباشر فيه مهنته على نحو ما نصت عليه المادة 41 من القانون المدنى ، على أن ذلك يقتصر على الأعمال المتعلقة به و المتصلة بمهنته و عمله فيه كمحام و",
+   "core_principles": [
+    "لما كان ذلك ، فإنه لا يستقيم - فى صحيح القانون - إعتبار مكتب المحامى موطناً لموكليه فى مفهوم ما نصت عليه المادتان 40 و 41 من القانون المدنى"
+   ],
+   "judicial_rule": {
+    "short": "لما كان ذلك ، فإنه لا يستقيم - فى صحيح القانون - إعتبار مكتب المحامى موطناً لموكليه فى مفهوم ما نصت عليه المادتان 40 و 41 من القانون المدنى",
+    "professional": "جواز إعتبار مكتب المحامى موطن أعمال له بوصفه المكان الذى يباشر فيه مهنته على نحو ما نصت عليه المادة 41 من القانون المدنى ، على أن ذلك يقتصر على الأعمال المتعلقة به و المتصلة بمهنته و عمله فيه كمحام و من ثم فلا يتعداها إلى ما يتعلق بغيرها من الأعمال أو بغيره من الأشخاص . لما كان ذلك ، فإنه لا يستقيم - فى صحيح القانون - إعتبار مكتب المحامى موطناً لموكليه فى مفهوم ما نصت عليه المادتان 40 و 41 من القانون المدنى ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "اعتبار مكتب المحامى موطن اعمال",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0516_42_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "الموطن الاصلى",
+  "content": "تنص المادة 2/12 من قانون المرافعات على أنه إذا ألغى الخصم موطنه الأصلى أو المختار و لم يجبر خصمه بذلك صح إعلانه فيه و تسليم الصورة عند الإقتضاء إلى جهة الإدارة طبقاً للمادة السابقة ، و إذ كان الثابت أن",
+  "keywords": [
+   "الموطن",
+   "الموطن الاصلى",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0516 لسنة 42"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-03-1976",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0516",
+   "judicial_year": "42",
+   "office_volume": "27",
+   "page": "742",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0516_42_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "الموطن الاصلى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0516",
+    "judicial_year": "42",
+    "office_volume": "27",
+    "page": "742",
+    "session_date": "23-03-1976",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الموطن",
+    "الموطن الاصلى"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تنص المادة 2/12 من قانون المرافعات على أنه إذا ألغى الخصم موطنه الأصلى أو المختار و لم يجبر خصمه بذلك صح إعلانه فيه و تسليم الصورة عند الإقتضاء إلى جهة الإدارة طبقاً للمادة السابقة ، و إذ كان الثابت أن",
+   "core_principles": [
+    "تنص المادة 2/12 من قانون المرافعات على أنه إذا ألغى الخصم موطنه الأصلى أو المختار و لم يجبر خصمه بذلك صح إعلانه فيه و تسليم الصورة عند الإقتضاء إلى جهة الإدارة طبقاً للمادة السابقة ، و إذ كان الثابت أن المطعون عليها الثالثة لم تعلن بصحيفة الإستئناف فى موطنها الأصلى و لم تسلم صورة الإعلان إلى مواجهة"
+   ],
+   "judicial_rule": {
+    "short": "تنص المادة 2/12 من قانون المرافعات على أنه إذا ألغى الخصم موطنه الأصلى أو المختار و لم يجبر خصمه بذلك صح إعلانه فيه و تسليم الصورة عند الإقتضاء إلى جهة الإدارة طبقاً للمادة السابقة ، و إذ كان الثابت أن",
+    "professional": "تنص المادة 2/12 من قانون المرافعات على أنه إذا ألغى الخصم موطنه الأصلى أو المختار و لم يجبر خصمه بذلك صح إعلانه فيه و تسليم الصورة عند الإقتضاء إلى جهة الإدارة طبقاً للمادة السابقة ، و إذ كان الثابت أن المطعون عليها الثالثة لم تعلن بصحيفة الإستئناف فى موطنها الأصلى و لم تسلم صورة الإعلان إلى مواجهة الإدارة عملاً بنص الفقرة سالفة الذكر ، بل قامت الطاعنة بإعلانها للنيابة فى 1971/12/8 أى بعد أكثر من ثلاثة أشهر من تاريخ تقديم الصحيفة إلى قلم الكتاب ، فإن النعى - بأن المطعون عليها"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "الموطن الاصلى",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0473_36_3",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "الموطن المختار",
+  "content": "إذا كان الثابت من صحيفة الدعوى الإبتدائية ، و من الحكم الصادر فيها أن الطاعنين حددا موطنهما القانونى ، و كان الطاعنان لم يقدما ما يدل على أن موطنهما هو غير الموطن الذى تم إعلان الإستئناف إليهما فيه . فإن",
+  "keywords": [
+   "الموطن",
+   "الموطن المختار",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0473 لسنة 36"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0093_37_1",
+   "cass_civil_domicile_0093_37_2",
+   "cass_civil_domicile_1070_48_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-05-1971",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0473",
+   "judicial_year": "36",
+   "office_volume": "22",
+   "page": "681",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0473_36_3",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "الموطن المختار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0473",
+    "judicial_year": "36",
+    "office_volume": "22",
+    "page": "681",
+    "session_date": "25-05-1971",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الموطن",
+    "الموطن المختار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إذا كان الثابت من صحيفة الدعوى الإبتدائية ، و من الحكم الصادر فيها أن الطاعنين حددا موطنهما القانونى ، و كان الطاعنان لم يقدما ما يدل على أن موطنهما هو غير الموطن الذى تم إعلان الإستئناف إليهما فيه . فإن",
+   "core_principles": [
+    "فإن النعى ببطلان الإجراءات لإعلان صحيفة الإستئناف فى غير موطنهما القانونى يضحى عارياً عن الدليل"
+   ],
+   "judicial_rule": {
+    "short": "فإن النعى ببطلان الإجراءات لإعلان صحيفة الإستئناف فى غير موطنهما القانونى يضحى عارياً عن الدليل",
+    "professional": "إذا كان الثابت من صحيفة الدعوى الإبتدائية ، و من الحكم الصادر فيها أن الطاعنين حددا موطنهما القانونى ، و كان الطاعنان لم يقدما ما يدل على أن موطنهما هو غير الموطن الذى تم إعلان الإستئناف إليهما فيه . فإن النعى ببطلان الإجراءات لإعلان صحيفة الإستئناف فى غير موطنهما القانونى يضحى عارياً عن الدليل ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "الموطن المختار",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0093_37_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "الموطن المختار",
+  "content": "ليس فى القانون ما يمنع من أن يتخذ الشخص من موطنه التجارى موطناً مختاراً لتنفيذ عمل قانونى معين ، و فى هذه الحالة لا يترتب على تغيير الموطن التجارى تغيير الموطن المختار لهذا العمل ، ما لم يفصح صاحبه عن",
+  "keywords": [
+   "الشركة",
+   "العقد",
+   "الموطن",
+   "الموطن المختار",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0093 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0473_36_3",
+   "cass_civil_domicile_0093_37_2",
+   "cass_civil_domicile_1070_48_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-12-1971",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0093",
+   "judicial_year": "37",
+   "office_volume": "22",
+   "page": "1071",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0093_37_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "الموطن المختار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0093",
+    "judicial_year": "37",
+    "office_volume": "22",
+    "page": "1071",
+    "session_date": "21-12-1971",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الشركة",
+    "العقد",
+    "الموطن",
+    "الموطن المختار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "ليس فى القانون ما يمنع من أن يتخذ الشخص من موطنه التجارى موطناً مختاراً لتنفيذ عمل قانونى معين ، و فى هذه الحالة لا يترتب على تغيير الموطن التجارى تغيير الموطن المختار لهذا العمل ، ما لم يفصح صاحبه عن",
+   "core_principles": [
+    "و إذ كانت المادة 43 من القانون المدنى تشترط الكتابة لإثبات الموطن المختار ، فإن أى تغيير لهذا الموطن ينبفى الإفصاح عنه بالكتابة ،و لا يغير من ذلك ما يثيره الطاعن من علم الشركة المطعون ضدها بتغيير الطاعن لموطنه التجارى الوارد بالعقد طالما أن الطاعن لم يفصح كتابة عن إرادته فى إتخاذ هذا الموطن الجديد م"
+   ],
+   "judicial_rule": {
+    "short": "و إذ كانت المادة 43 من القانون المدنى تشترط الكتابة لإثبات الموطن المختار ، فإن أى تغيير لهذا الموطن ينبفى الإفصاح عنه بالكتابة ،و لا يغير من ذلك ما يثيره الطاعن من علم الشركة المطعون ضدها بتغيير الطاعن لموطنه التجارى",
+    "professional": "ليس فى القانون ما يمنع من أن يتخذ الشخص من موطنه التجارى موطناً مختاراً لتنفيذ عمل قانونى معين ، و فى هذه الحالة لا يترتب على تغيير الموطن التجارى تغيير الموطن المختار لهذا العمل ، ما لم يفصح صاحبه عن رغبته فى تغييره . و إذ كانت المادة 43 من القانون المدنى تشترط الكتابة لإثبات الموطن المختار ، فإن أى تغيير لهذا الموطن ينبفى الإفصاح عنه بالكتابة ،و لا يغير من ذلك ما يثيره الطاعن من علم الشركة المطعون ضدها بتغيير الطاعن لموطنه التجارى الوارد بالعقد طالما أن الطاعن لم يفصح كتابة"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "الموطن المختار",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0093_37_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "الموطن المختار",
+  "content": "وصول التعبير عن الإرادة إلى من وجه إليه يعتبر قرينة على العلم به إلا إذ أثبت به وقت وصوله ، و كان عدم العلم لا يرجع إلى خطأ منه . و إذ كان الثابت من الحكم المطعون فيه أن الشركة",
+  "keywords": [
+   "الإرادة",
+   "الشركة",
+   "العقد",
+   "الموطن",
+   "الموطن المختار",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0093 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0473_36_3",
+   "cass_civil_domicile_0093_37_1",
+   "cass_civil_domicile_1070_48_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "21-12-1971",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0093",
+   "judicial_year": "37",
+   "office_volume": "22",
+   "page": "1071",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0093_37_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "الموطن المختار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0093",
+    "judicial_year": "37",
+    "office_volume": "22",
+    "page": "1071",
+    "session_date": "21-12-1971",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الإرادة",
+    "الشركة",
+    "العقد",
+    "الموطن",
+    "الموطن المختار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "وصول التعبير عن الإرادة إلى من وجه إليه يعتبر قرينة على العلم به إلا إذ أثبت به وقت وصوله ، و كان عدم العلم لا يرجع إلى خطأ منه . و إذ كان الثابت من الحكم المطعون فيه أن الشركة",
+   "core_principles": [
+    "و إذ كان الثابت من الحكم المطعون فيه أن الشركة المطعون ضدها قد أرسلت للطاعن إخطار بالبريد المسجل على موطنه المختار المبين بالعقد مفصحة عن إدارتها فى عدم تجديد التعاقد لمدة أخرى ، و أن الطاعن هو الذى تسبب بخطئه فى عدم العلم بمضمون هذا الإخطار عند وصوله حيث ترك موطنه المختار المبين فى العقد دون أن يخط"
+   ],
+   "judicial_rule": {
+    "short": "و إذ كان الثابت من الحكم المطعون فيه أن الشركة المطعون ضدها قد أرسلت للطاعن إخطار بالبريد المسجل على موطنه المختار المبين بالعقد مفصحة عن إدارتها فى عدم تجديد التعاقد لمدة أخرى ، و أن الطاعن هو الذى تسبب بخطئه",
+    "professional": "وصول التعبير عن الإرادة إلى من وجه إليه يعتبر قرينة على العلم به إلا إذ أثبت به وقت وصوله ، و كان عدم العلم لا يرجع إلى خطأ منه . و إذ كان الثابت من الحكم المطعون فيه أن الشركة المطعون ضدها قد أرسلت للطاعن إخطار بالبريد المسجل على موطنه المختار المبين بالعقد مفصحة عن إدارتها فى عدم تجديد التعاقد لمدة أخرى ، و أن الطاعن هو الذى تسبب بخطئه فى عدم العلم بمضمون هذا الإخطار عند وصوله حيث ترك موطنه المختار المبين فى العقد دون أن يخطر الشركة المطعون ضدها كتابة بتغييره ، فإن الحكم ال"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "الموطن المختار",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_1070_48_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "الموطن المختار",
+  "content": "مفاد نص المادتين 1/10 من قانون المرافعات و 1/43 من القانون المدنى ، هو جواز إعلان الخصم فى الموطن المختار لتنفيذ عمل قانونى معين متى كان هذا الموطن المختار ثابتاً بالكتابة و كان الإعلان متعلقاً بهذا العمل ، ما لم",
+  "keywords": [
+   "الموطن",
+   "الموطن المختار",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 1070 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0473_36_3",
+   "cass_civil_domicile_0093_37_1",
+   "cass_civil_domicile_0093_37_2"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "18-01-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "1070",
+   "judicial_year": "48",
+   "office_volume": "30",
+   "page": "293",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_1070_48_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "الموطن المختار",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "1070",
+    "judicial_year": "48",
+    "office_volume": "30",
+    "page": "293",
+    "session_date": "18-01-1979",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "الموطن المختار"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد نص المادتين 1/10 من قانون المرافعات و 1/43 من القانون المدنى ، هو جواز إعلان الخصم فى الموطن المختار لتنفيذ عمل قانونى معين متى كان هذا الموطن المختار ثابتاً بالكتابة و كان الإعلان متعلقاً بهذا العمل ، ما لم",
+   "core_principles": [
+    "مفاد نص المادتين 1/10 من قانون المرافعات و 1/43 من القانون المدنى ، هو جواز إعلان الخصم فى الموطن المختار لتنفيذ عمل قانونى معين متى كان هذا الموطن المختار ثابتاً بالكتابة و كان الإعلان متعلقاً بهذا العمل ، ما لم يفصح المراد إعلانه كتابة عن إلغاء هذا الموطن ، و إذ كان الثابت بالأوراق أن إعلان الطاعن"
+   ],
+   "judicial_rule": {
+    "short": "مفاد نص المادتين 1/10 من قانون المرافعات و 1/43 من القانون المدنى ، هو جواز إعلان الخصم فى الموطن المختار لتنفيذ عمل قانونى معين متى كان هذا الموطن المختار ثابتاً بالكتابة و كان الإعلان متعلقاً بهذا العمل ، ما لم",
+    "professional": "مفاد نص المادتين 1/10 من قانون المرافعات و 1/43 من القانون المدنى ، هو جواز إعلان الخصم فى الموطن المختار لتنفيذ عمل قانونى معين متى كان هذا الموطن المختار ثابتاً بالكتابة و كان الإعلان متعلقاً بهذا العمل ، ما لم يفصح المراد إعلانه كتابة عن إلغاء هذا الموطن ، و إذ كان الثابت بالأوراق أن إعلان الطاعنين بصحيفة الدعوى و جه إليهم فى مكتب وكيلهم المطعون عليه الثانى المتفق على إعتباره موطناً مختاراً لهم بالمحرر سند الدعوى و المبرم بين المطعون عليه الأول و المطعون عليه الثانى بصفته"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "الموطن المختار",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0186_19_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "موطن الشخص كما عرفته المادة 40 من القانون المدنى هو المكان الذى يقيم فيه عادة ومن ثم لايعتبر المكان الذى يباشر فيه الموظف عمله موطنا له . و إذن فمتى كان الواقع هو أن المطعون عليه أعلن بتقرير الطعن فى",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0186 لسنة 19"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1",
+   "cass_civil_domicile_0049_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "07-02-1952",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0186",
+   "judicial_year": "19",
+   "office_volume": "03",
+   "page": "444",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0186_19_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0186",
+    "judicial_year": "19",
+    "office_volume": "03",
+    "page": "444",
+    "session_date": "07-02-1952",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "موطن الشخص كما عرفته المادة 40 من القانون المدنى هو المكان الذى يقيم فيه عادة ومن ثم لايعتبر المكان الذى يباشر فيه الموظف عمله موطنا له . و إذن فمتى كان الواقع هو أن المطعون عليه أعلن بتقرير الطعن فى",
+   "core_principles": [
+    "و إذن فمتى كان الواقع هو أن المطعون عليه أعلن بتقرير الطعن فى مكان وظيفته بإعتباره مأموراً لإصلاحية الرجال مخاطبا مع أحد الموظفين معه لغيابه مع أن الدعوى أقيمت عليه بصفته الشخصية فإن هذا الإعلان يكون قد وقع باطلا"
+   ],
+   "judicial_rule": {
+    "short": "و إذن فمتى كان الواقع هو أن المطعون عليه أعلن بتقرير الطعن فى مكان وظيفته بإعتباره مأموراً لإصلاحية الرجال مخاطبا مع أحد الموظفين معه لغيابه مع أن الدعوى أقيمت عليه بصفته الشخصية فإن هذا الإعلان يكون قد وقع باطلا",
+    "professional": "موطن الشخص كما عرفته المادة 40 من القانون المدنى هو المكان الذى يقيم فيه عادة ومن ثم لايعتبر المكان الذى يباشر فيه الموظف عمله موطنا له . و إذن فمتى كان الواقع هو أن المطعون عليه أعلن بتقرير الطعن فى مكان وظيفته بإعتباره مأموراً لإصلاحية الرجال مخاطبا مع أحد الموظفين معه لغيابه مع أن الدعوى أقيمت عليه بصفته الشخصية فإن هذا الإعلان يكون قد وقع باطلا ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_004_24_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "حددت المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و هو تصوير واقعى لفكرة الموطن يرتكز على الإقامة الفعلية على نحو من الاستقرار يبلغ أن يكون عادة مع قيام النية على ذلك وهو",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 004 لسنة 24"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1",
+   "cass_civil_domicile_0049_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "16-12-1954",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "004",
+   "judicial_year": "24",
+   "office_volume": "06",
+   "page": "336",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_004_24_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "004",
+    "judicial_year": "24",
+    "office_volume": "06",
+    "page": "336",
+    "session_date": "16-12-1954",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "حددت المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و هو تصوير واقعى لفكرة الموطن يرتكز على الإقامة الفعلية على نحو من الاستقرار يبلغ أن يكون عادة مع قيام النية على ذلك وهو",
+   "core_principles": [
+    "حددت المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و هو تصوير واقعى لفكرة الموطن يرتكز على الإقامة الفعلية على نحو من الاستقرار يبلغ أن يكون عادة مع قيام النية على ذلك وهو أمر يستقل بتقديره قاضى الموضوع"
+   ],
+   "judicial_rule": {
+    "short": "حددت المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و هو تصوير واقعى لفكرة الموطن يرتكز على الإقامة الفعلية على نحو من الاستقرار يبلغ أن يكون عادة مع قيام النية على ذلك وهو",
+    "professional": "حددت المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و هو تصوير واقعى لفكرة الموطن يرتكز على الإقامة الفعلية على نحو من الاستقرار يبلغ أن يكون عادة مع قيام النية على ذلك وهو أمر يستقل بتقديره قاضى الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_004_25_10",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "المقصود بتعريف الموطن فى المادة 1/40 من القانون المدنى إنما هو الموطن فى القانون الداخلى إلا أنه فى تحديد الإختصاص الخارجى يطبق قاضى الموضوع قانونه الداخلى بشأن الموطن .",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 004 لسنة 25"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1",
+   "cass_civil_domicile_0049_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "12-01-1956",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "004",
+   "judicial_year": "25",
+   "office_volume": "07",
+   "page": "74",
+   "paragraph_number": "10"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_004_25_10",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "004",
+    "judicial_year": "25",
+    "office_volume": "07",
+    "page": "74",
+    "session_date": "12-01-1956",
+    "paragraph_number": "10"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقصود بتعريف الموطن فى المادة 1/40 من القانون المدنى إنما هو الموطن فى القانون الداخلى إلا أنه فى تحديد الإختصاص الخارجى يطبق قاضى الموضوع قانونه الداخلى بشأن الموطن .",
+   "core_principles": [
+    "المقصود بتعريف الموطن فى المادة 1/40 من القانون المدنى إنما هو الموطن فى القانون الداخلى إلا أنه فى تحديد الإختصاص الخارجى يطبق قاضى الموضوع قانونه الداخلى بشأن الموطن"
+   ],
+   "judicial_rule": {
+    "short": "المقصود بتعريف الموطن فى المادة 1/40 من القانون المدنى إنما هو الموطن فى القانون الداخلى إلا أنه فى تحديد الإختصاص الخارجى يطبق قاضى الموضوع قانونه الداخلى بشأن الموطن",
+    "professional": "المقصود بتعريف الموطن فى المادة 1/40 من القانون المدنى إنما هو الموطن فى القانون الداخلى إلا أنه فى تحديد الإختصاص الخارجى يطبق قاضى الموضوع قانونه الداخلى بشأن الموطن ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0078_32_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الموطن الأصلى كما عرفته المادة 41 من القانون المدنى هو المكان الذى يقيم فيه الشخص عادة . وهذا الوصف لاينطبق على منزل العائلة إلا إذا ثبتت إقامتة الشخص المراد إعلانه فيه على وجه الإعتياد والإستقرار فإذا أعتبر الحكم المطعون فيه",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0078 لسنة 32"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1",
+   "cass_civil_domicile_0049_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "10-03-1966",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0078",
+   "judicial_year": "32",
+   "office_volume": "17",
+   "page": "551",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0078_32_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0078",
+    "judicial_year": "32",
+    "office_volume": "17",
+    "page": "551",
+    "session_date": "10-03-1966",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الموطن الأصلى كما عرفته المادة 41 من القانون المدنى هو المكان الذى يقيم فيه الشخص عادة . وهذا الوصف لاينطبق على منزل العائلة إلا إذا ثبتت إقامتة الشخص المراد إعلانه فيه على وجه الإعتياد والإستقرار فإذا أعتبر الحكم المطعون فيه",
+   "core_principles": [
+    "وهذا الوصف لاينطبق على منزل العائلة إلا إذا ثبتت إقامتة الشخص المراد إعلانه فيه على وجه الإعتياد والإستقرار فإذا أعتبر الحكم المطعون فيه منزل العائلة موطناً للطاعنين يجوز توجيه إعلان الحكم المستأنف فيه بغير إثبات إقامتهم فيه فإنه يكون قد أخطأ فى القانون"
+   ],
+   "judicial_rule": {
+    "short": "وهذا الوصف لاينطبق على منزل العائلة إلا إذا ثبتت إقامتة الشخص المراد إعلانه فيه على وجه الإعتياد والإستقرار فإذا أعتبر الحكم المطعون فيه منزل العائلة موطناً للطاعنين يجوز توجيه إعلان الحكم المستأنف فيه بغير إثبات إقامتهم فيه فإنه يكون قد",
+    "professional": "الموطن الأصلى كما عرفته المادة 41 من القانون المدنى هو المكان الذى يقيم فيه الشخص عادة . وهذا الوصف لاينطبق على منزل العائلة إلا إذا ثبتت إقامتة الشخص المراد إعلانه فيه على وجه الإعتياد والإستقرار فإذا أعتبر الحكم المطعون فيه منزل العائلة موطناً للطاعنين يجوز توجيه إعلان الحكم المستأنف فيه بغير إثبات إقامتهم فيه فإنه يكون قد أخطأ فى القانون ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0034_33_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "تقدير قيام عنصر الإستقرار ونية الإستيطان اللازم توافرهما فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع .",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0034 لسنة 33"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1",
+   "cass_civil_domicile_0049_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "26-05-1966",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0034",
+   "judicial_year": "33",
+   "office_volume": "17",
+   "page": "1271",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0034_33_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0034",
+    "judicial_year": "33",
+    "office_volume": "17",
+    "page": "1271",
+    "session_date": "26-05-1966",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقدير قيام عنصر الإستقرار ونية الإستيطان اللازم توافرهما فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع .",
+   "core_principles": [
+    "تقدير قيام عنصر الإستقرار ونية الإستيطان اللازم توافرهما فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع"
+   ],
+   "judicial_rule": {
+    "short": "تقدير قيام عنصر الإستقرار ونية الإستيطان اللازم توافرهما فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع",
+    "professional": "تقدير قيام عنصر الإستقرار ونية الإستيطان اللازم توافرهما فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_073_35_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "تحديد المادة 40 من القانون المدنى للموطن بأنه المكان الذى يقيم فيه الشخص عادة هو - و على ما جرى به قضاء محكمة النقض - تصوير واقعى يرتكز على الإقامة الفعلية ، و مؤدى ذلك ألا يعد المكان الذى يتلقى",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 073 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1",
+   "cass_civil_domicile_0049_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "27-05-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "073",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "802",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_073_35_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "073",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "802",
+    "session_date": "27-05-1969",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تحديد المادة 40 من القانون المدنى للموطن بأنه المكان الذى يقيم فيه الشخص عادة هو - و على ما جرى به قضاء محكمة النقض - تصوير واقعى يرتكز على الإقامة الفعلية ، و مؤدى ذلك ألا يعد المكان الذى يتلقى",
+   "core_principles": [
+    "تحديد المادة 40 من القانون المدنى للموطن بأنه المكان الذى يقيم فيه الشخص عادة هو - و على ما جرى به قضاء محكمة النقض - تصوير واقعى يرتكز على الإقامة الفعلية ، و مؤدى ذلك ألا يعد المكان الذى يتلقى فيه الطالب العلم - دون أن يقيم فيه - موطنا له"
+   ],
+   "judicial_rule": {
+    "short": "تحديد المادة 40 من القانون المدنى للموطن بأنه المكان الذى يقيم فيه الشخص عادة هو - و على ما جرى به قضاء محكمة النقض - تصوير واقعى يرتكز على الإقامة الفعلية ، و مؤدى ذلك ألا يعد المكان الذى يتلقى",
+    "professional": "تحديد المادة 40 من القانون المدنى للموطن بأنه المكان الذى يقيم فيه الشخص عادة هو - و على ما جرى به قضاء محكمة النقض - تصوير واقعى يرتكز على الإقامة الفعلية ، و مؤدى ذلك ألا يعد المكان الذى يتلقى فيه الطالب العلم - دون أن يقيم فيه - موطنا له ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_073_35_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "تقدير عنصر الإستقرار ونية الإستيطان اللأزم توافرها فى الموطن هو - و على ما جرى به قضاء محكمة النقض - من الأمور الواقعية التى يقررها قاضى الموضوع .",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 073 لسنة 35"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_011_37_1",
+   "cass_civil_domicile_0049_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "27-05-1969",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "073",
+   "judicial_year": "35",
+   "office_volume": "20",
+   "page": "802",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_073_35_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "073",
+    "judicial_year": "35",
+    "office_volume": "20",
+    "page": "802",
+    "session_date": "27-05-1969",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقدير عنصر الإستقرار ونية الإستيطان اللأزم توافرها فى الموطن هو - و على ما جرى به قضاء محكمة النقض - من الأمور الواقعية التى يقررها قاضى الموضوع .",
+   "core_principles": [
+    "تقدير عنصر الإستقرار ونية الإستيطان اللأزم توافرها فى الموطن هو - و على ما جرى به قضاء محكمة النقض - من الأمور الواقعية التى يقررها قاضى الموضوع"
+   ],
+   "judicial_rule": {
+    "short": "تقدير عنصر الإستقرار ونية الإستيطان اللأزم توافرها فى الموطن هو - و على ما جرى به قضاء محكمة النقض - من الأمور الواقعية التى يقررها قاضى الموضوع",
+    "professional": "تقدير عنصر الإستقرار ونية الإستيطان اللأزم توافرها فى الموطن هو - و على ما جرى به قضاء محكمة النقض - من الأمور الواقعية التى يقررها قاضى الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_011_37_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الرأى عند فقهاء الشريعة الإسلامية ، على أن الموطن الأصلى هو موطن الإنسان فى بلدته ، أو فى بلدة أخرى أتخذها دار توطن فيها مع أهله و ولده ، و ليس فى قصده الارتحال عنها ، و أن هذا الموطن",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 011 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_0049_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "25-11-1970",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "011",
+   "judicial_year": "37",
+   "office_volume": "21",
+   "page": "1161",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_011_37_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "011",
+    "judicial_year": "37",
+    "office_volume": "21",
+    "page": "1161",
+    "session_date": "25-11-1970",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الرأى عند فقهاء الشريعة الإسلامية ، على أن الموطن الأصلى هو موطن الإنسان فى بلدته ، أو فى بلدة أخرى أتخذها دار توطن فيها مع أهله و ولده ، و ليس فى قصده الارتحال عنها ، و أن هذا الموطن",
+   "core_principles": [
+    "الرأى عند فقهاء الشريعة الإسلامية ، على أن الموطن الأصلى هو موطن الإنسان فى بلدته ، أو فى بلدة أخرى أتخذها دار توطن فيها مع أهله و ولده ، و ليس فى قصده الارتحال عنها ، و أن هذا الموطن يحتمل التعدد و لا ينتقص بموطن السكن ، و هو ما استلهمه المشرع حين نص فى المادة 205 من لائحة ترتيب المحاكم الشرعية على"
+   ],
+   "judicial_rule": {
+    "short": "الرأى عند فقهاء الشريعة الإسلامية ، على أن الموطن الأصلى هو موطن الإنسان فى بلدته ، أو فى بلدة أخرى أتخذها دار توطن فيها مع أهله و ولده ، و ليس فى قصده الارتحال عنها ، و أن هذا الموطن",
+    "professional": "الرأى عند فقهاء الشريعة الإسلامية ، على أن الموطن الأصلى هو موطن الإنسان فى بلدته ، أو فى بلدة أخرى أتخذها دار توطن فيها مع أهله و ولده ، و ليس فى قصده الارتحال عنها ، و أن هذا الموطن يحتمل التعدد و لا ينتقص بموطن السكن ، و هو ما استلهمه المشرع حين نص فى المادة 205 من لائحة ترتيب المحاكم الشرعية على أن \"محل الإقامه هو البلد الذى يقطنه الشخص على وجه يعتبر مقيما فيه عادة \""
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0049_37_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "لا وجه لما يثيره الطاعن من أن الحكم لم يدلل على قيام عنصر الإستقرار و نية الإستيطان اللازم توافرهما فى الموطن ، إذ أن ذلك من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع 0",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0049 لسنة 37"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "09-11-1971",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0049",
+   "judicial_year": "37",
+   "office_volume": "22",
+   "page": "872",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0049_37_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0049",
+    "judicial_year": "37",
+    "office_volume": "22",
+    "page": "872",
+    "session_date": "09-11-1971",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لا وجه لما يثيره الطاعن من أن الحكم لم يدلل على قيام عنصر الإستقرار و نية الإستيطان اللازم توافرهما فى الموطن ، إذ أن ذلك من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع 0",
+   "core_principles": [
+    "لا وجه لما يثيره الطاعن من أن الحكم لم يدلل على قيام عنصر الإستقرار و نية الإستيطان اللازم توافرهما فى الموطن ، إذ أن ذلك من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع 0"
+   ],
+   "judicial_rule": {
+    "short": "لا وجه لما يثيره الطاعن من أن الحكم لم يدلل على قيام عنصر الإستقرار و نية الإستيطان اللازم توافرهما فى الموطن ، إذ أن ذلك من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع 0",
+    "professional": "لا وجه لما يثيره الطاعن من أن الحكم لم يدلل على قيام عنصر الإستقرار و نية الإستيطان اللازم توافرهما فى الموطن ، إذ أن ذلك من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع 0"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0589_42_4",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "لئن كان تقدير كفاية بيان الموطن الأصلى للمدعى فى صحيفة الدعوى أو عدم كفايته ، هو من مسائل الواقع التى يستقل بها قاضى الموضوع إلا أنه يجب أن يقيم قضاءه على أسباب سائغة تكفى لحمله ، و لما 0كان الثابت",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0589 لسنة 42"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "18-11-1976",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0589",
+   "judicial_year": "42",
+   "office_volume": "27",
+   "page": "1619",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0589_42_4",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0589",
+    "judicial_year": "42",
+    "office_volume": "27",
+    "page": "1619",
+    "session_date": "18-11-1976",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "لئن كان تقدير كفاية بيان الموطن الأصلى للمدعى فى صحيفة الدعوى أو عدم كفايته ، هو من مسائل الواقع التى يستقل بها قاضى الموضوع إلا أنه يجب أن يقيم قضاءه على أسباب سائغة تكفى لحمله ، و لما 0كان الثابت",
+   "core_principles": [
+    "فإن الحكم يكون مشوباً بالقصور فى التسبيب"
+   ],
+   "judicial_rule": {
+    "short": "فإن الحكم يكون مشوباً بالقصور فى التسبيب",
+    "professional": "لئن كان تقدير كفاية بيان الموطن الأصلى للمدعى فى صحيفة الدعوى أو عدم كفايته ، هو من مسائل الواقع التى يستقل بها قاضى الموضوع إلا أنه يجب أن يقيم قضاءه على أسباب سائغة تكفى لحمله ، و لما 0كان الثابت من بيان المطعون عليهم لموطنهم الأصلى فى صحيفة إفتتاح الدعوى أنهم إقتصروا على ذكر أنهم \" من بندر منفلوط \" و إذ كان الحكم المطعون فيه رغم منازعة الطاعنة فى كفاية هذا البيان قد إستدل على كفايته بسبق تسليم الخطابات المرسلة من مكتب الخبير إلى المطعون عليهم و التى لم يوضح على مظاريفها عن"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0036_45_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "النص فى المادة 40 من القانون المدنى على أن ,, الموطن هو المكان الذى يقيم فيه الشخص عادة . . . . يدل على أن المشروع أعتد بالتصوير الواقعى للموطن - و على ما جاء بالمذكرة الإيضاحية - إستجابة للحاجات",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0036 لسنة 45"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "01-06-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0036",
+   "judicial_year": "45",
+   "office_volume": "28",
+   "page": "1354",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0036_45_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0036",
+    "judicial_year": "45",
+    "office_volume": "28",
+    "page": "1354",
+    "session_date": "01-06-1977",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "النص فى المادة 40 من القانون المدنى على أن ,, الموطن هو المكان الذى يقيم فيه الشخص عادة . . . . يدل على أن المشروع أعتد بالتصوير الواقعى للموطن - و على ما جاء بالمذكرة الإيضاحية - إستجابة للحاجات",
+   "core_principles": [
+    "يدل على أن المشروع أعتد بالتصوير الواقعى للموطن - و على ما جاء بالمذكرة الإيضاحية - إستجابة للحاجات العملية و إتساقاً مع المبادىء المقررة فى الشريعة الإسلامية التى أفصحت عنها المادة 20 من لائحة ترتيب المحاكم الشرعية ، فلم يفرق بين الموطن و بين محل الإقامة العادى ، و جعل المعول عليه فى تعيينه الإقامة"
+   ],
+   "judicial_rule": {
+    "short": "يدل على أن المشروع أعتد بالتصوير الواقعى للموطن - و على ما جاء بالمذكرة الإيضاحية - إستجابة للحاجات العملية و إتساقاً مع المبادىء المقررة فى الشريعة الإسلامية التى أفصحت عنها المادة 20 من لائحة ترتيب المحاكم الشرعية ، فلم يفرق",
+    "professional": "النص فى المادة 40 من القانون المدنى على أن ,, الموطن هو المكان الذى يقيم فيه الشخص عادة . . . . يدل على أن المشروع أعتد بالتصوير الواقعى للموطن - و على ما جاء بالمذكرة الإيضاحية - إستجابة للحاجات العملية و إتساقاً مع المبادىء المقررة فى الشريعة الإسلامية التى أفصحت عنها المادة 20 من لائحة ترتيب المحاكم الشرعية ، فلم يفرق بين الموطن و بين محل الإقامة العادى ، و جعل المعول عليه فى تعيينه الإقامة المستقرة بمعنى أنه يشترط فى الموطن أن يقيم فيه الشخص و أن تكون إقامته بصفة مستقرة و"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0036_45_3",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الموطن وفق المادة 40 من القانون المدنى أنما يتناول معناه فى نطاق القانون الداخلى بأعتباره رابطة بين الشخص و مكان معين بالذات فى الأقليم الذى يقيم فيه عادة ، دون اعتداد بما إذا كان الشخص الذى يحدد موطنة بمقتضاها ينتمى",
+  "keywords": [
+   "الجنسية",
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0036 لسنة 45"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "01-06-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0036",
+   "judicial_year": "45",
+   "office_volume": "28",
+   "page": "1354",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0036_45_3",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0036",
+    "judicial_year": "45",
+    "office_volume": "28",
+    "page": "1354",
+    "session_date": "01-06-1977",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الجنسية",
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الموطن وفق المادة 40 من القانون المدنى أنما يتناول معناه فى نطاق القانون الداخلى بأعتباره رابطة بين الشخص و مكان معين بالذات فى الأقليم الذى يقيم فيه عادة ، دون اعتداد بما إذا كان الشخص الذى يحدد موطنة بمقتضاها ينتمى",
+   "core_principles": [
+    "الموطن وفق المادة 40 من القانون المدنى أنما يتناول معناه فى نطاق القانون الداخلى بأعتباره رابطة بين الشخص و مكان معين بالذات فى الأقليم الذى يقيم فيه عادة ، دون اعتداد بما إذا كان الشخص الذى يحدد موطنة بمقتضاها ينتمى إلى جنسية الدولة التى توطن فيها أم لا ، و يختلف عن فكرة الموطن فى القانون الدولى ال"
+   ],
+   "judicial_rule": {
+    "short": "الموطن وفق المادة 40 من القانون المدنى أنما يتناول معناه فى نطاق القانون الداخلى بأعتباره رابطة بين الشخص و مكان معين بالذات فى الأقليم الذى يقيم فيه عادة ، دون اعتداد بما إذا كان الشخص الذى يحدد موطنة بمقتضاها ينتمى",
+    "professional": "الموطن وفق المادة 40 من القانون المدنى أنما يتناول معناه فى نطاق القانون الداخلى بأعتباره رابطة بين الشخص و مكان معين بالذات فى الأقليم الذى يقيم فيه عادة ، دون اعتداد بما إذا كان الشخص الذى يحدد موطنة بمقتضاها ينتمى إلى جنسية الدولة التى توطن فيها أم لا ، و يختلف عن فكرة الموطن فى القانون الدولى الخاص التى تبنى على صلة تقوم بين الشخص و بين أقليم دوله معينة مؤسسة على الجنسية ، تغلب عليها العلاقة الروحية و تخضع لمبدأ السيادة الأقليمية و تراعى فيها الإعتبارات السياسية و يترتب ع"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_38_45_4",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الرأى عند فقهاء الشريعة الإسلامية - و طبقاً لما جرى به قضاء هذه المحكمة - أن الموطن الأصلى هو موطن الإنسان فى بلدته أو بلدة أخرى إتخذها داراً توطن فيه مع أهله و ولده ، و ليس فى قصده الإرتحال",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 38 لسنة 45"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "12-01-1977",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "38",
+   "judicial_year": "45",
+   "office_volume": "28",
+   "page": "232",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_38_45_4",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "38",
+    "judicial_year": "45",
+    "office_volume": "28",
+    "page": "232",
+    "session_date": "12-01-1977",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الرأى عند فقهاء الشريعة الإسلامية - و طبقاً لما جرى به قضاء هذه المحكمة - أن الموطن الأصلى هو موطن الإنسان فى بلدته أو بلدة أخرى إتخذها داراً توطن فيه مع أهله و ولده ، و ليس فى قصده الإرتحال",
+   "core_principles": [
+    "الرأى عند فقهاء الشريعة الإسلامية - و طبقاً لما جرى به قضاء هذه المحكمة - أن الموطن الأصلى هو موطن الإنسان فى بلدته أو بلدة أخرى إتخذها داراً توطن فيه مع أهله و ولده ، و ليس فى قصده الإرتحال عنها ، و هذا الموطن يحتمل التعدد و لا ينتقص بموطن السكن وفقاً لنص المادة العشرين من لائحة ترتيب المحاكم الشرع"
+   ],
+   "judicial_rule": {
+    "short": "الرأى عند فقهاء الشريعة الإسلامية - و طبقاً لما جرى به قضاء هذه المحكمة - أن الموطن الأصلى هو موطن الإنسان فى بلدته أو بلدة أخرى إتخذها داراً توطن فيه مع أهله و ولده ، و ليس فى قصده الإرتحال",
+    "professional": "الرأى عند فقهاء الشريعة الإسلامية - و طبقاً لما جرى به قضاء هذه المحكمة - أن الموطن الأصلى هو موطن الإنسان فى بلدته أو بلدة أخرى إتخذها داراً توطن فيه مع أهله و ولده ، و ليس فى قصده الإرتحال عنها ، و هذا الموطن يحتمل التعدد و لا ينتقص بموطن السكن وفقاً لنص المادة العشرين من لائحة ترتيب المحاكم الشرعية من أن \" محل الإقامة هو البلد الذى يقطنه الشخص على وجه يعتبر مقيماً فيه عادة \" ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0144_45_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار على وجه يتحقق به شرط الإعتياد و لو تخللها",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0144 لسنة 45"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "06-12-1978",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0144",
+   "judicial_year": "45",
+   "office_volume": "29",
+   "page": "1850",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0144_45_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0144",
+    "judicial_year": "45",
+    "office_volume": "29",
+    "page": "1850",
+    "session_date": "06-12-1978",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار على وجه يتحقق به شرط الإعتياد و لو تخللها",
+   "core_principles": [
+    "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار على وجه يتحقق به شرط الإعتياد و لو تخللها فترات غيبة متقاربة أو متباعدة ، إلا أن تقدير قيام عنصر الإستقرار و نية الإستيطان اللازم توافرها فى الموطن إسته"
+   ],
+   "judicial_rule": {
+    "short": "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار على وجه يتحقق به شرط الإعتياد و لو تخللها",
+    "professional": "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار على وجه يتحقق به شرط الإعتياد و لو تخللها فترات غيبة متقاربة أو متباعدة ، إلا أن تقدير قيام عنصر الإستقرار و نية الإستيطان اللازم توافرها فى الموطن إستهداء بالمعايير السالفة من الأمور الواقعية التى تخضع لسلطة قاضى الموضوع بإعتبارها مسألة تقديرية معقب عليه فيها لمحكمة النقض متى كان إستخلاصه سائغاً و له مأخذه من الأوراق ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0544_44_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "إن ما أفصحت عنه المذكرة الإيضاحية لنص المادة 214 من قانون المرافعات من أن المقصود بلفظ الموطن - دون وصف فى المادة المذكورة هو الموطن العام للشخص وفقاً لأحكام القانون المدنى و ذلك رغبة فى توحيد المصطلحات فى قانون الموضوع",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0544 لسنة 44"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-01-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0544",
+   "judicial_year": "44",
+   "office_volume": "30",
+   "page": "299",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0544_44_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0544",
+    "judicial_year": "44",
+    "office_volume": "30",
+    "page": "299",
+    "session_date": "20-01-1979",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "إن ما أفصحت عنه المذكرة الإيضاحية لنص المادة 214 من قانون المرافعات من أن المقصود بلفظ الموطن - دون وصف فى المادة المذكورة هو الموطن العام للشخص وفقاً لأحكام القانون المدنى و ذلك رغبة فى توحيد المصطلحات فى قانون الموضوع",
+   "core_principles": [
+    "إن ما أفصحت عنه المذكرة الإيضاحية لنص المادة 214 من قانون المرافعات من أن المقصود بلفظ الموطن - دون وصف فى المادة المذكورة هو الموطن العام للشخص وفقاً لأحكام القانون المدنى و ذلك رغبة فى توحيد المصطلحات فى قانون الموضوع و قانون الإجراءات ، و إذ كان لموطن كما عنت به المادة 40 من القانون المدنى هو الم"
+   ],
+   "judicial_rule": {
+    "short": "إن ما أفصحت عنه المذكرة الإيضاحية لنص المادة 214 من قانون المرافعات من أن المقصود بلفظ الموطن - دون وصف فى المادة المذكورة هو الموطن العام للشخص وفقاً لأحكام القانون المدنى و ذلك رغبة فى توحيد المصطلحات فى قانون الموضوع",
+    "professional": "إن ما أفصحت عنه المذكرة الإيضاحية لنص المادة 214 من قانون المرافعات من أن المقصود بلفظ الموطن - دون وصف فى المادة المذكورة هو الموطن العام للشخص وفقاً لأحكام القانون المدنى و ذلك رغبة فى توحيد المصطلحات فى قانون الموضوع و قانون الإجراءات ، و إذ كان لموطن كما عنت به المادة 40 من القانون المدنى هو المكان الذى يقيم فيه الشخص عادة فإنه يكون بذاته - و على ما جرى به قضاء هذه المحكمة - المقصود بالموطن الذى أوجبت المادة 214 من قانون المرافعات أن يلتزم إعلان الطعن فيه للخصم ، و لما كا"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0103_48_3",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "نصت المادة 40 من القانون المدنى على أن الموطن هو المكان الذى يقيم فيه الشخص عادة فقد دلت على أن المشرع لم يفرق بين الموطن و محل الإقامة العادى و جعل المعول عليه فى تعيينه الإقامة المستقرة بمعنى أنه يشترط",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0103 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "13-12-1979",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0103",
+   "judicial_year": "48",
+   "office_volume": "30",
+   "page": "261",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0103_48_3",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0103",
+    "judicial_year": "48",
+    "office_volume": "30",
+    "page": "261",
+    "session_date": "13-12-1979",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "نصت المادة 40 من القانون المدنى على أن الموطن هو المكان الذى يقيم فيه الشخص عادة فقد دلت على أن المشرع لم يفرق بين الموطن و محل الإقامة العادى و جعل المعول عليه فى تعيينه الإقامة المستقرة بمعنى أنه يشترط",
+   "core_principles": [
+    "نصت المادة 40 من القانون المدنى على أن الموطن هو المكان الذى يقيم فيه الشخص عادة فقد دلت على أن المشرع لم يفرق بين الموطن و محل الإقامة العادى و جعل المعول عليه فى تعيينه الإقامة المستقرة بمعنى أنه يشترط فى الموطن أن يقيم فيه الشخص و أن تكون إقامته بصفة مستمرة و على وجه يتحقق فيه شرط الإعتياد و لو ل"
+   ],
+   "judicial_rule": {
+    "short": "نصت المادة 40 من القانون المدنى على أن الموطن هو المكان الذى يقيم فيه الشخص عادة فقد دلت على أن المشرع لم يفرق بين الموطن و محل الإقامة العادى و جعل المعول عليه فى تعيينه الإقامة المستقرة بمعنى أنه يشترط",
+    "professional": "نصت المادة 40 من القانون المدنى على أن الموطن هو المكان الذى يقيم فيه الشخص عادة فقد دلت على أن المشرع لم يفرق بين الموطن و محل الإقامة العادى و جعل المعول عليه فى تعيينه الإقامة المستقرة بمعنى أنه يشترط فى الموطن أن يقيم فيه الشخص و أن تكون إقامته بصفة مستمرة و على وجه يتحقق فيه شرط الإعتياد و لو لم تكن مستمرة تتخللها فترات غيبة متقاربة أو متباعدة ، و أن تقدير عنصر الإستقرار و نية الإستيطان اللازم توافرهما فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0386_43_5",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "تقدير عنصر و نية الإستيطان اللازم توافرها فى الموطن ، هو من الأمور الواقعية التى يستقل بتقدرها قاضى الموضوع و لا رقابة عليه فى ذلك من محكمة النقض ، ما دام قد أقام قضاءه على أسباب سائغة .",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0386 لسنة 43"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "18-11-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0386",
+   "judicial_year": "43",
+   "office_volume": "31",
+   "page": "1910",
+   "paragraph_number": "5"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0386_43_5",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0386",
+    "judicial_year": "43",
+    "office_volume": "31",
+    "page": "1910",
+    "session_date": "18-11-1980",
+    "paragraph_number": "5"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تقدير عنصر و نية الإستيطان اللازم توافرها فى الموطن ، هو من الأمور الواقعية التى يستقل بتقدرها قاضى الموضوع و لا رقابة عليه فى ذلك من محكمة النقض ، ما دام قد أقام قضاءه على أسباب سائغة .",
+   "core_principles": [
+    "تقدير عنصر و نية الإستيطان اللازم توافرها فى الموطن ، هو من الأمور الواقعية التى يستقل بتقدرها قاضى الموضوع و لا رقابة عليه فى ذلك من محكمة النقض ، ما دام قد أقام قضاءه على أسباب سائغة"
+   ],
+   "judicial_rule": {
+    "short": "تقدير عنصر و نية الإستيطان اللازم توافرها فى الموطن ، هو من الأمور الواقعية التى يستقل بتقدرها قاضى الموضوع و لا رقابة عليه فى ذلك من محكمة النقض ، ما دام قد أقام قضاءه على أسباب سائغة",
+    "professional": "تقدير عنصر و نية الإستيطان اللازم توافرها فى الموطن ، هو من الأمور الواقعية التى يستقل بتقدرها قاضى الموضوع و لا رقابة عليه فى ذلك من محكمة النقض ، ما دام قد أقام قضاءه على أسباب سائغة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_045_48_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الموطن الأصلى طبقاً للرأى السائد فى فقة الشريعة الإسلامية هو و على ما جرى به قضاء محكمة النقض موطن الشخص فى بلدته أو فى بلدة أخرى إتخذها داراً توطن فيها مع أهله و ولده و ليس فى قصده الإرتحال عنها",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 045 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-12-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "045",
+   "judicial_year": "48",
+   "office_volume": "31",
+   "page": "2115",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_045_48_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "045",
+    "judicial_year": "48",
+    "office_volume": "31",
+    "page": "2115",
+    "session_date": "23-12-1980",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الموطن الأصلى طبقاً للرأى السائد فى فقة الشريعة الإسلامية هو و على ما جرى به قضاء محكمة النقض موطن الشخص فى بلدته أو فى بلدة أخرى إتخذها داراً توطن فيها مع أهله و ولده و ليس فى قصده الإرتحال عنها",
+   "core_principles": [
+    "و هو ما إستلهمه المشرع حين نص فى المادة 20 من لائحة ترتيب المحاكم الشرعية على أن \" محل الإقامة هو البلد الذى يقطنه الشخص على وجه يعتبر مقيماً فيه عادة"
+   ],
+   "judicial_rule": {
+    "short": "و هو ما إستلهمه المشرع حين نص فى المادة 20 من لائحة ترتيب المحاكم الشرعية على أن \" محل الإقامة هو البلد الذى يقطنه الشخص على وجه يعتبر مقيماً فيه عادة",
+    "professional": "الموطن الأصلى طبقاً للرأى السائد فى فقة الشريعة الإسلامية هو و على ما جرى به قضاء محكمة النقض موطن الشخص فى بلدته أو فى بلدة أخرى إتخذها داراً توطن فيها مع أهله و ولده و ليس فى قصده الإرتحال عنها ، و أن هذا الموطن يحتمل التعدد و لا ينتقض بموطن السكن . و هو ما إستلهمه المشرع حين نص فى المادة 20 من لائحة ترتيب المحاكم الشرعية على أن \" محل الإقامة هو البلد الذى يقطنه الشخص على وجه يعتبر مقيماً فيه عادة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_045_48_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "جرى قضاء محكمة النقض على أن تقدير عنصر الإستقرار و نية الإستيطان من مسائل الواقع التى يستقل بتقديرها قاضى الموضوع .",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 045 لسنة 48"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "23-12-1980",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "045",
+   "judicial_year": "48",
+   "office_volume": "31",
+   "page": "2115",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_045_48_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "045",
+    "judicial_year": "48",
+    "office_volume": "31",
+    "page": "2115",
+    "session_date": "23-12-1980",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "جرى قضاء محكمة النقض على أن تقدير عنصر الإستقرار و نية الإستيطان من مسائل الواقع التى يستقل بتقديرها قاضى الموضوع .",
+   "core_principles": [
+    "جرى قضاء محكمة النقض على أن تقدير عنصر الإستقرار و نية الإستيطان من مسائل الواقع التى يستقل بتقديرها قاضى الموضوع"
+   ],
+   "judicial_rule": {
+    "short": "جرى قضاء محكمة النقض على أن تقدير عنصر الإستقرار و نية الإستيطان من مسائل الواقع التى يستقل بتقديرها قاضى الموضوع",
+    "professional": "جرى قضاء محكمة النقض على أن تقدير عنصر الإستقرار و نية الإستيطان من مسائل الواقع التى يستقل بتقديرها قاضى الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0332_47_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الموطن وفقاً لنص المادة 40 من القانون المدنى هو المكان الذى يقيم فيه الشخص عادة . و يجوز أن يكون للشخص فى وقت واحد أكثر من موطن . و أن قضاء هذه المحكمة قد جرى على أن تقدير قيام عنصر",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0332 لسنة 47"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "04-06-1981",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0332",
+   "judicial_year": "47",
+   "office_volume": "32",
+   "page": "1698",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0332_47_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0332",
+    "judicial_year": "47",
+    "office_volume": "32",
+    "page": "1698",
+    "session_date": "04-06-1981",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الموطن وفقاً لنص المادة 40 من القانون المدنى هو المكان الذى يقيم فيه الشخص عادة . و يجوز أن يكون للشخص فى وقت واحد أكثر من موطن . و أن قضاء هذه المحكمة قد جرى على أن تقدير قيام عنصر",
+   "core_principles": [
+    "و أن قضاء هذه المحكمة قد جرى على أن تقدير قيام عنصر الإستقرار و نية الإستيطان اللازم توافرها فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع"
+   ],
+   "judicial_rule": {
+    "short": "و أن قضاء هذه المحكمة قد جرى على أن تقدير قيام عنصر الإستقرار و نية الإستيطان اللازم توافرها فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع",
+    "professional": "الموطن وفقاً لنص المادة 40 من القانون المدنى هو المكان الذى يقيم فيه الشخص عادة . و يجوز أن يكون للشخص فى وقت واحد أكثر من موطن . و أن قضاء هذه المحكمة قد جرى على أن تقدير قيام عنصر الإستقرار و نية الإستيطان اللازم توافرها فى الموطن من الأمور الواقعية التى يستقل بتقديرها قاضى الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0223_49_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "تحديد المكان الذى يقيم الشخص فيه عادة إقامة فعلية على نحو من الإستقرار بما يتحقق به الموطن الذى عرفته المادة 40 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الأمور الواقعية التى تخضع",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0223 لسنة 49"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "17-02-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0223",
+   "judicial_year": "49",
+   "office_volume": "34",
+   "page": "491",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0223_49_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0223",
+    "judicial_year": "49",
+    "office_volume": "34",
+    "page": "491",
+    "session_date": "17-02-1983",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تحديد المكان الذى يقيم الشخص فيه عادة إقامة فعلية على نحو من الإستقرار بما يتحقق به الموطن الذى عرفته المادة 40 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الأمور الواقعية التى تخضع",
+   "core_principles": [
+    "تحديد المكان الذى يقيم الشخص فيه عادة إقامة فعلية على نحو من الإستقرار بما يتحقق به الموطن الذى عرفته المادة 40 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الأمور الواقعية التى تخضع لسلطة قاضى الموضوع بإعتبارها مسألة تقديرية لا معقب عليه فيها من محكمة النقض متى كان إستخلاصه سائغاً و"
+   ],
+   "judicial_rule": {
+    "short": "تحديد المكان الذى يقيم الشخص فيه عادة إقامة فعلية على نحو من الإستقرار بما يتحقق به الموطن الذى عرفته المادة 40 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الأمور الواقعية التى تخضع",
+    "professional": "تحديد المكان الذى يقيم الشخص فيه عادة إقامة فعلية على نحو من الإستقرار بما يتحقق به الموطن الذى عرفته المادة 40 من القانون المدنى هو - و على ما جرى به قضاء هذه المحكمة - من الأمور الواقعية التى تخضع لسلطة قاضى الموضوع بإعتبارها مسألة تقديرية لا معقب عليه فيها من محكمة النقض متى كان إستخلاصه سائغاً و له مأخذه من الأوراق ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0030_52_1",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الموطن الأصلى طبقاً للرأى السائد فى الفقه الإسلامى - و على ما جرى به قضاء هذه المحكمة - موطن الإنسان فى بلدته أو فى بلدة أخرى أتخذها داراً توطن فيها مع أهله و ليس فى قصده الارتحال عنها و إن",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0030 لسنة 52"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "24-05-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0030",
+   "judicial_year": "52",
+   "office_volume": "34",
+   "page": "1285",
+   "paragraph_number": "1"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0030_52_1",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0030",
+    "judicial_year": "52",
+    "office_volume": "34",
+    "page": "1285",
+    "session_date": "24-05-1983",
+    "paragraph_number": "1"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الموطن الأصلى طبقاً للرأى السائد فى الفقه الإسلامى - و على ما جرى به قضاء هذه المحكمة - موطن الإنسان فى بلدته أو فى بلدة أخرى أتخذها داراً توطن فيها مع أهله و ليس فى قصده الارتحال عنها و إن",
+   "core_principles": [
+    "الموطن الأصلى طبقاً للرأى السائد فى الفقه الإسلامى - و على ما جرى به قضاء هذه المحكمة - موطن الإنسان فى بلدته أو فى بلدة أخرى أتخذها داراً توطن فيها مع أهله و ليس فى قصده الارتحال عنها و إن هذا الموطن يحتمل التعدد و لا ينتقص بموطن السكنى ، و هو ما إستلهمه المشرع فى المادة 20 من لائحة ترتيب المحاكم ا"
+   ],
+   "judicial_rule": {
+    "short": "الموطن الأصلى طبقاً للرأى السائد فى الفقه الإسلامى - و على ما جرى به قضاء هذه المحكمة - موطن الإنسان فى بلدته أو فى بلدة أخرى أتخذها داراً توطن فيها مع أهله و ليس فى قصده الارتحال عنها و إن",
+    "professional": "الموطن الأصلى طبقاً للرأى السائد فى الفقه الإسلامى - و على ما جرى به قضاء هذه المحكمة - موطن الإنسان فى بلدته أو فى بلدة أخرى أتخذها داراً توطن فيها مع أهله و ليس فى قصده الارتحال عنها و إن هذا الموطن يحتمل التعدد و لا ينتقص بموطن السكنى ، و هو ما إستلهمه المشرع فى المادة 20 من لائحة ترتيب المحاكم الشرعية ، و تقدير قيام عنصر الإستقرار بنية الإستيطان من مسائل الواقع الذى يستقل بتقديرها قاضى الموضوع ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0810_52_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "المقرر فى قضاء هذه المحكمة أن إستخلاص توافر الإقامة من مسائل الواقع التى تستقل بتقديرها محكمة الموضوع دون معقب عليها من محكمة النقض متى أقامت قضاءها على أسباب سائغة .",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0810 لسنة 52"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "20-06-1983",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0810",
+   "judicial_year": "52",
+   "office_volume": "34",
+   "page": "1440",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0810_52_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0810",
+    "judicial_year": "52",
+    "office_volume": "34",
+    "page": "1440",
+    "session_date": "20-06-1983",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "المقرر فى قضاء هذه المحكمة أن إستخلاص توافر الإقامة من مسائل الواقع التى تستقل بتقديرها محكمة الموضوع دون معقب عليها من محكمة النقض متى أقامت قضاءها على أسباب سائغة .",
+   "core_principles": [
+    "المقرر فى قضاء هذه المحكمة أن إستخلاص توافر الإقامة من مسائل الواقع التى تستقل بتقديرها محكمة الموضوع دون معقب عليها من محكمة النقض متى أقامت قضاءها على أسباب سائغة"
+   ],
+   "judicial_rule": {
+    "short": "المقرر فى قضاء هذه المحكمة أن إستخلاص توافر الإقامة من مسائل الواقع التى تستقل بتقديرها محكمة الموضوع دون معقب عليها من محكمة النقض متى أقامت قضاءها على أسباب سائغة",
+    "professional": "المقرر فى قضاء هذه المحكمة أن إستخلاص توافر الإقامة من مسائل الواقع التى تستقل بتقديرها محكمة الموضوع دون معقب عليها من محكمة النقض متى أقامت قضاءها على أسباب سائغة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0995_52_3",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار ، و على وجه يتحقق به شروط الإعتياد ،",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0995 لسنة 52"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "05-05-1988",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0995",
+   "judicial_year": "52",
+   "office_volume": "39",
+   "page": "908",
+   "paragraph_number": "3"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0995_52_3",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0995",
+    "judicial_year": "52",
+    "office_volume": "39",
+    "page": "908",
+    "session_date": "05-05-1988",
+    "paragraph_number": "3"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار ، و على وجه يتحقق به شروط الإعتياد ،",
+   "core_principles": [
+    "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار ، و على وجه يتحقق به شروط الإعتياد ، و كان تقدير قيام عنصر الإستقرار و نية الإستيطان اللازم توافرهما فى الموطن إستهداء بالمعايير السالفة من الأمور الواق"
+   ],
+   "judicial_rule": {
+    "short": "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار ، و على وجه يتحقق به شروط الإعتياد ،",
+    "professional": "مفاد المادة 40 من القانون المدنى - و على ما جرى به قضاء هذه المحكمة - أن الموطن هو المكان الذى يقيم فيه الشخص عادة إقامة فعلية على نحو من الإستقرار ، و على وجه يتحقق به شروط الإعتياد ، و كان تقدير قيام عنصر الإستقرار و نية الإستيطان اللازم توافرهما فى الموطن إستهداء بالمعايير السالفة من الأمور الواقعية التى تخضع لسلطان قاضى الموضوع بإعتبارها مسألة تقديرية لا معقب عليه فيها لمحكمة النقض متى كان إستخلاصه سائغا و له مأخذه من الأوراق ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0042_55_4",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الموطن الأصلى فى فقة الشريعة الإسلامية - و على ما جرى به قضاء هذه المحكمة - هو موطن الإنسان فى بلدته أو فى بلدة أخرى إتخذها داراً إستوطن فيها مع أهله و ولده و ليس بقصد الإرتحال منها و أن",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0042 لسنة 55"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-04-1988",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0042",
+   "judicial_year": "55",
+   "office_volume": "39",
+   "page": "674",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0042_55_4",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0042",
+    "judicial_year": "55",
+    "office_volume": "39",
+    "page": "674",
+    "session_date": "19-04-1988",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الموطن الأصلى فى فقة الشريعة الإسلامية - و على ما جرى به قضاء هذه المحكمة - هو موطن الإنسان فى بلدته أو فى بلدة أخرى إتخذها داراً إستوطن فيها مع أهله و ولده و ليس بقصد الإرتحال منها و أن",
+   "core_principles": [
+    "من مسائل الواقع التى يستقل بتقديرها قاضى الموضوع متى كان إستخلاصه سائغاً"
+   ],
+   "judicial_rule": {
+    "short": "من مسائل الواقع التى يستقل بتقديرها قاضى الموضوع متى كان إستخلاصه سائغاً",
+    "professional": "الموطن الأصلى فى فقة الشريعة الإسلامية - و على ما جرى به قضاء هذه المحكمة - هو موطن الإنسان فى بلدته أو فى بلدة أخرى إتخذها داراً إستوطن فيها مع أهله و ولده و ليس بقصد الإرتحال منها و أن هذا الموطن يحتمل التعدد و لا ينتقص بموطن السكن و هو ما إستلهمة المشرع حين نص فى المادة 20 من لائحة ترتيب المحاكم الشرعية على أن \" محل الإقامة هو البلد الذى يقطنه الشخص على وجه يعتبر مقيماً عادة فيه \" . فلم يفرق بين الموطن و محل الإقامة العادى و جعل المعول فى تعيينة الإقامة فيه بصفة مستقرة و ل"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_2003_53_4",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "تعرف المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و يشترط لوجوده أن يتوافر فيه عنصر الإستقرار و نية الإستيطان و لو لم تكن الإقامة مستمرة تتخللها فترات غيبة متقاربة أو متباعدة ،",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 2003 لسنة 53"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "06-04-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2003",
+   "judicial_year": "53",
+   "office_volume": "40",
+   "page": "43",
+   "paragraph_number": "4"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_2003_53_4",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2003",
+    "judicial_year": "53",
+    "office_volume": "40",
+    "page": "43",
+    "session_date": "06-04-1989",
+    "paragraph_number": "4"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "تعرف المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و يشترط لوجوده أن يتوافر فيه عنصر الإستقرار و نية الإستيطان و لو لم تكن الإقامة مستمرة تتخللها فترات غيبة متقاربة أو متباعدة ،",
+   "core_principles": [
+    "تعرف المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و يشترط لوجوده أن يتوافر فيه عنصر الإستقرار و نية الإستيطان و لو لم تكن الإقامة مستمرة تتخللها فترات غيبة متقاربة أو متباعدة ، و طبقاً للفقرة الثانية من هذه المادة يجوز أن يكون للشخص أكثر من موطن فى وقت واحد ، و تقدير"
+   ],
+   "judicial_rule": {
+    "short": "تعرف المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و يشترط لوجوده أن يتوافر فيه عنصر الإستقرار و نية الإستيطان و لو لم تكن الإقامة مستمرة تتخللها فترات غيبة متقاربة أو متباعدة ،",
+    "professional": "تعرف المادة 40 من القانون المدنى الموطن بأنه هو المكان الذى يقيم فيه الشخص عادة ، و يشترط لوجوده أن يتوافر فيه عنصر الإستقرار و نية الإستيطان و لو لم تكن الإقامة مستمرة تتخللها فترات غيبة متقاربة أو متباعدة ، و طبقاً للفقرة الثانية من هذه المادة يجوز أن يكون للشخص أكثر من موطن فى وقت واحد ، و تقدير وجود الموطن و بيان تفرده و تعدده من الأمور الواقعية التى يستقل بها قاضى الموضوع بلا معقب متى كان إستخلاصه سائغاً ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_2696_56_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "ماهية الموطن",
+  "content": "الموطن الأصلى قد يتعدد فى وقت واحد وفقاً لنص المادة 2/40 من القانون المدنى ، لما كان ذلك و كان البين من الأوراق أن الطاعنة لم يسبق لها الحضور أمام محكمة الإستئناف و لم تقدم مذكرة بدفاعها فقام المطعون ضده",
+  "keywords": [
+   "الموطن",
+   "ماهية الموطن",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 2696 لسنة 56"
+  ],
+  "related_ids": [
+   "cass_civil_domicile_0186_19_1",
+   "cass_civil_domicile_004_24_1",
+   "cass_civil_domicile_004_25_10",
+   "cass_civil_domicile_0078_32_2",
+   "cass_civil_domicile_0034_33_1",
+   "cass_civil_domicile_073_35_1",
+   "cass_civil_domicile_073_35_2",
+   "cass_civil_domicile_011_37_1"
+  ],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": null,
+   "date": "19-04-1989",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "2696",
+   "judicial_year": "56",
+   "office_volume": "40",
+   "page": "142",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_2696_56_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "ماهية الموطن",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "2696",
+    "judicial_year": "56",
+    "office_volume": "40",
+    "page": "142",
+    "session_date": "19-04-1989",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الموطن",
+    "ماهية الموطن"
+   ],
+   "legal_articles": [],
+   "facts_summary": "الموطن الأصلى قد يتعدد فى وقت واحد وفقاً لنص المادة 2/40 من القانون المدنى ، لما كان ذلك و كان البين من الأوراق أن الطاعنة لم يسبق لها الحضور أمام محكمة الإستئناف و لم تقدم مذكرة بدفاعها فقام المطعون ضده",
+   "core_principles": [
+    "\" و من ثم فإن توجيه ورقة إعلانها بالحكم إلى عين النزاع بإعتبارها موطناً أصلياً لها يكون إجراء صحيحاً منتجاً لكافة آثاره و لا يقدح فى ذلك أن يكون لها موطناً آخر بالخارج حسبما تقرر بمذكرة دفاعها إذ ليس هناك ما يمنع قانوناً من أن يكون لها أكثر من موطن أصلى فى وقت واحد ، لما كان ذلك ، و كانت الطاعنة لم"
+   ],
+   "judicial_rule": {
+    "short": "\" و من ثم فإن توجيه ورقة إعلانها بالحكم إلى عين النزاع بإعتبارها موطناً أصلياً لها يكون إجراء صحيحاً منتجاً لكافة آثاره و لا يقدح فى ذلك أن يكون لها موطناً آخر بالخارج حسبما تقرر بمذكرة دفاعها إذ ليس هناك",
+    "professional": "الموطن الأصلى قد يتعدد فى وقت واحد وفقاً لنص المادة 2/40 من القانون المدنى ، لما كان ذلك و كان البين من الأوراق أن الطاعنة لم يسبق لها الحضور أمام محكمة الإستئناف و لم تقدم مذكرة بدفاعها فقام المطعون ضده \" المحكوم له \"بإعلانها بالحكم المطعون فيه فى محل إقامتها بعين النزاع بتاريخ 1988/3/2 مخاطباً مع مأمور القسم لرفضه إستلام صورة الإعلان و إذا كان الثابت بالأوراق أن المطعون ضده سبق له إعلان الطاعنة بصحيفة الدعوى و بصحيفة الإستئناف فى ذلك الموطن كما إتخذته الطاعنة موطناً لها بصح"
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "ماهية الموطن",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "cass_civil_domicile_0242_35_2",
+  "type": "judgment_principle",
+  "category": "domicile",
+  "title": "موطن الاجنبى",
+  "content": "تحديد موطن الأجنبى فى حكم المادة الثانية من القانون رقم 99 لسنة 1949 سواء بإتخاذه مصر محلاً لإقامته الرئيسية أو لوجود مصالحه الرئيسية بها ، هو مما يستقل به قاضى الموضوع متى أقام قضاءه على أسباب سائغة .",
+  "keywords": [
+   "الموطن",
+   "موطن الاجنبى",
+   "cassation",
+   "civil",
+   "domicile",
+   "civil law",
+   "Egyptian civil code"
+  ],
+  "citations": [
+   "طعن رقم 0242 لسنة 35"
+  ],
+  "related_ids": [],
+  "metadata": {
+   "source": "Egyptian Court of Cassation - Civil",
+   "law_number": null,
+   "article_number": [
+    "Law 99/1949"
+   ],
+   "date": "14-02-1973",
+   "court": "Egyptian Court of Cassation",
+   "confidence": "high",
+   "domain": "civil_law",
+   "case_number": "0242",
+   "judicial_year": "35",
+   "office_volume": "24",
+   "page": "235",
+   "paragraph_number": "2"
+  },
+  "source_fields": {
+   "id": "cass_civil_domicile_0242_35_2",
+   "domain": "civil_law",
+   "category": "domicile",
+   "topic": "موطن الاجنبى",
+   "judgment_reference": {
+    "court": "Egyptian Court of Cassation",
+    "case_number": "0242",
+    "judicial_year": "35",
+    "office_volume": "24",
+    "page": "235",
+    "session_date": "14-02-1973",
+    "paragraph_number": "2"
+   },
+   "keywords": [
+    "الموطن",
+    "موطن الاجنبى"
+   ],
+   "legal_articles": [
+    "Law 99/1949"
+   ],
+   "facts_summary": "تحديد موطن الأجنبى فى حكم المادة الثانية من القانون رقم 99 لسنة 1949 سواء بإتخاذه مصر محلاً لإقامته الرئيسية أو لوجود مصالحه الرئيسية بها ، هو مما يستقل به قاضى الموضوع متى أقام قضاءه على أسباب سائغة .",
+   "core_principles": [
+    "تحديد موطن الأجنبى فى حكم المادة الثانية من القانون رقم 99 لسنة 1949 سواء بإتخاذه مصر محلاً لإقامته الرئيسية أو لوجود مصالحه الرئيسية بها ، هو مما يستقل به قاضى الموضوع متى أقام قضاءه على أسباب سائغة"
+   ],
+   "judicial_rule": {
+    "short": "تحديد موطن الأجنبى فى حكم المادة الثانية من القانون رقم 99 لسنة 1949 سواء بإتخاذه مصر محلاً لإقامته الرئيسية أو لوجود مصالحه الرئيسية بها ، هو مما يستقل به قاضى الموضوع متى أقام قضاءه على أسباب سائغة",
+    "professional": "تحديد موطن الأجنبى فى حكم المادة الثانية من القانون رقم 99 لسنة 1949 سواء بإتخاذه مصر محلاً لإقامته الرئيسية أو لوجود مصالحه الرئيسية بها ، هو مما يستقل به قاضى الموضوع متى أقام قضاءه على أسباب سائغة ."
+   },
+   "conditions": [],
+   "exceptions": [],
+   "effects": [],
+   "practical_usage": [
+    "Cite as binding precedent before Egyptian courts.",
+    "Use in pleadings on this civil law issue."
+   ],
+   "common_disputes": [
+    "Disputes on this civil law issue before Egyptian courts."
+   ],
+   "related_topics": [
+    "civil law",
+    "cassation",
+    "Egyptian civil code"
+   ],
+   "retrieval_tags": [
+    "cassation",
+    "civil",
+    "domicile",
+    "موطن الاجنبى",
+    "الموطن"
+   ],
+   "confidence": "high"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]

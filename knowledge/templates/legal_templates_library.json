@@ -1,0 +1,634 @@
+[
+ {
+  "id": "TPL-CIVIL-001",
+  "type": "template",
+  "category": "مدني",
+  "title": "صحيفة دعوى مدنية عامة",
+  "content": "",
+  "keywords": [],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "مكتبة النماذج القانونية الجاهزة — LexBridge V2",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": null,
+   "confidence": null,
+   "branch": "مدني"
+  },
+  "source_fields": {
+   "template_id": "TPL-CIVIL-001",
+   "name": "صحيفة دعوى مدنية عامة",
+   "branch": "مدني",
+   "procedure_id": "CIVIL-DEEP-001",
+   "fields": [
+    {
+     "field": "court_name",
+     "label": "اسم المحكمة",
+     "type": "text"
+    },
+    {
+     "field": "plaintiff_name",
+     "label": "اسم المدعي بالكامل",
+     "type": "text"
+    },
+    {
+     "field": "plaintiff_job",
+     "label": "مهنة/وظيفة المدعي",
+     "type": "text"
+    },
+    {
+     "field": "plaintiff_address",
+     "label": "موطن المدعي",
+     "type": "text"
+    },
+    {
+     "field": "plaintiff_elected_address",
+     "label": "الموطن المختار (إن كان مقيماً خارج البلدة)",
+     "type": "text"
+    },
+    {
+     "field": "defendant_name",
+     "label": "اسم المدعى عليه",
+     "type": "text"
+    },
+    {
+     "field": "defendant_job",
+     "label": "مهنة/وظيفة المدعى عليه",
+     "type": "text"
+    },
+    {
+     "field": "defendant_address",
+     "label": "موطن المدعى عليه",
+     "type": "text"
+    },
+    {
+     "field": "facts",
+     "label": "وقائع الدعوى",
+     "type": "textarea"
+    },
+    {
+     "field": "legal_grounds",
+     "label": "الأسانيد القانونية",
+     "type": "textarea"
+    },
+    {
+     "field": "requests",
+     "label": "الطلبات الختامية",
+     "type": "textarea"
+    },
+    {
+     "field": "date",
+     "label": "تاريخ تقديم الصحيفة",
+     "type": "date"
+    }
+   ],
+   "auto_includes": [
+    "صيغة بنود المادة 65 مرافعات",
+    "طلب إلزام المدعى عليه بالمصاريف وأتعاب المحاماة"
+   ],
+   "template_body": "بسم الله الرحمن الرحيم\n\nمحكمة {court_name}\n\nصحيفة دعوى\n\nمن / {plaintiff_name} — {plaintiff_job} — المقيم بـ {plaintiff_address} ومختار الإقامة {plaintiff_elected_address}\n\nضد / {defendant_name} — {defendant_job} — المقيم بـ {defendant_address}\n\nالموضوع ووقائع الدعوى:\n{facts}\n\nالأسانيد القانونية:\n{legal_grounds}\n\nبناءً على ما تقدم؛ يلتمس المدعي من عدالة المحكمة الموقرة الحكم له بـ:\n{requests}\nوإلزام المدعى عليه بالمصاريف وأتعاب المحاماة.\n\nوالله ولي التوفيق\n{date}"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "TPL-CIVIL-002",
+  "type": "template",
+  "category": "مدني",
+  "title": "عريضة أمر أداء",
+  "content": "",
+  "keywords": [],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "مكتبة النماذج القانونية الجاهزة — LexBridge V2",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": null,
+   "confidence": null,
+   "branch": "مدني"
+  },
+  "source_fields": {
+   "template_id": "TPL-CIVIL-002",
+   "name": "عريضة أمر أداء",
+   "branch": "مدني",
+   "procedure_id": "CIVIL-DEEP-002",
+   "fields": [
+    {
+     "field": "judge_title",
+     "label": "السيد المستشار / القاضي الوقتي",
+     "type": "text"
+    },
+    {
+     "field": "court_name",
+     "label": "اسم المحكمة",
+     "type": "text"
+    },
+    {
+     "field": "creditor_name",
+     "label": "اسم الدائن الطالب",
+     "type": "text"
+    },
+    {
+     "field": "creditor_address",
+     "label": "موطن الدائن",
+     "type": "text"
+    },
+    {
+     "field": "debtor_name",
+     "label": "اسم المدين",
+     "type": "text"
+    },
+    {
+     "field": "debtor_address",
+     "label": "موطن المدين",
+     "type": "text"
+    },
+    {
+     "field": "debt_amount",
+     "label": "مقدار الدين بالأرقام والحروف",
+     "type": "text"
+    },
+    {
+     "field": "debt_source",
+     "label": "سبب الدين (عقد / شيك / سند / إيجار)",
+     "type": "text"
+    },
+    {
+     "field": "debt_date",
+     "label": "تاريخ استحقاق الدين",
+     "type": "date"
+    },
+    {
+     "field": "notice_date",
+     "label": "تاريخ التكليف بالوفاء",
+     "type": "date"
+    },
+    {
+     "field": "notice_method",
+     "label": "طريقة التكليف (بريد مسجل / محضر)",
+     "type": "text"
+    }
+   ],
+   "auto_includes": [
+    "النص على إيداع نسختين متطابقتين",
+    "الموطن المختار",
+    "طلب إلصاق الأمر على النسختين"
+   ],
+   "template_body": "بسم الله الرحمن الرحيم\n\nالسيد المستشار رئيس الدائرة المدنية بـ {court_name}\n\nطلب أمر أداء\n\nأتشرف بعرض الآتي على سيادتكم:\n\nأنا / {creditor_name} — المقيم بـ {creditor_address}\n\nضد / {debtor_name} — المقيم بـ {debtor_address}\n\nيداين المدعى عليه المذكور مبلغ {debt_amount} جنيهاً ({debt_amount_words}) ناشئ عن {debt_source}، واستحق السداد بتاريخ {debt_date}.\n\nوقد كلَّفت المدين بالوفاء بتاريخ {notice_date} بموجب {notice_method} وانقضت مدة الخمسة أيام المقررة قانوناً دون سداد.\n\nلذا يلتمس الطالب الأمر بإلزام المدين بأداء المبلغ المطالَب به والمصاريف القضائية.\n\n{date}\n\n(نسخة أولى) — (نسخة ثانية متطابقة)"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "TPL-ADMIN-001",
+  "type": "template",
+  "category": "إداري",
+  "title": "عريضة التظلم الإداري الوجوبي",
+  "content": "",
+  "keywords": [],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "مكتبة النماذج القانونية الجاهزة — LexBridge V2",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": null,
+   "confidence": null,
+   "branch": "إداري"
+  },
+  "source_fields": {
+   "template_id": "TPL-ADMIN-001",
+   "name": "عريضة التظلم الإداري الوجوبي",
+   "branch": "إداري",
+   "procedure_id": "ADMIN-DEEP-001",
+   "fields": [
+    {
+     "field": "authority_name",
+     "label": "اسم الجهة المُتظلَّم إليها",
+     "type": "text"
+    },
+    {
+     "field": "petitioner_name",
+     "label": "اسم المتظلم",
+     "type": "text"
+    },
+    {
+     "field": "petitioner_job",
+     "label": "وظيفة المتظلم ودرجته",
+     "type": "text"
+    },
+    {
+     "field": "petitioner_dept",
+     "label": "جهة العمل",
+     "type": "text"
+    },
+    {
+     "field": "decision_number",
+     "label": "رقم القرار المطعون فيه",
+     "type": "text"
+    },
+    {
+     "field": "decision_date",
+     "label": "تاريخ القرار",
+     "type": "date"
+    },
+    {
+     "field": "decision_content",
+     "label": "مضمون القرار",
+     "type": "textarea"
+    },
+    {
+     "field": "knowledge_date",
+     "label": "تاريخ العلم بالقرار",
+     "type": "date"
+    },
+    {
+     "field": "defects",
+     "label": "وجه العيب القانوني في القرار",
+     "type": "textarea"
+    },
+    {
+     "field": "request",
+     "label": "الطلب (سحب / تعديل / إلغاء)",
+     "type": "text"
+    }
+   ],
+   "auto_includes": [
+    "خانة الدمغة القانونية",
+    "الإشارة للصيغة المعتمدة (قرار 72/1973)",
+    "تاريخ التقديم"
+   ],
+   "template_body": "السيد / رئيس {authority_name} المحترم\n\nتحية طيبة وبعد،\n\nتظلم\n\nمقدمه / {petitioner_name} — {petitioner_job} — {petitioner_dept}\n\nمن القرار رقم {decision_number} الصادر بتاريخ {decision_date} والقاضي بـ: {decision_content}\n\nوقد علم المتظلم بهذا القرار بتاريخ {knowledge_date}.\n\nأسباب التظلم:\n{defects}\n\nلذا يلتمس المتظلم من سيادتكم:\n{request}\n\nتفضلوا بقبول فائق الاحترام\n{date}\n\n[دمغة قانونية]"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "TPL-FAMILY-001",
+  "type": "template",
+  "category": "أحوال شخصية",
+  "title": "عريضة دعوى خلع",
+  "content": "",
+  "keywords": [],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "مكتبة النماذج القانونية الجاهزة — LexBridge V2",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": null,
+   "confidence": null,
+   "branch": "أحوال شخصية"
+  },
+  "source_fields": {
+   "template_id": "TPL-FAMILY-001",
+   "name": "عريضة دعوى خلع",
+   "branch": "أحوال شخصية",
+   "procedure_id": "FAMILY-DEEP-001",
+   "fields": [
+    {
+     "field": "court_name",
+     "label": "اسم محكمة الأسرة المختصة",
+     "type": "text"
+    },
+    {
+     "field": "settlement_number",
+     "label": "رقم التسوية",
+     "type": "text"
+    },
+    {
+     "field": "settlement_date",
+     "label": "تاريخ التسوية",
+     "type": "date"
+    },
+    {
+     "field": "wife_name",
+     "label": "اسم الزوجة (المدعية)",
+     "type": "text"
+    },
+    {
+     "field": "wife_id",
+     "label": "رقم قومي الزوجة",
+     "type": "text"
+    },
+    {
+     "field": "wife_address",
+     "label": "عنوان الزوجة",
+     "type": "text"
+    },
+    {
+     "field": "husband_name",
+     "label": "اسم الزوج (المدعى عليه)",
+     "type": "text"
+    },
+    {
+     "field": "husband_address",
+     "label": "عنوان الزوج",
+     "type": "text"
+    },
+    {
+     "field": "marriage_date",
+     "label": "تاريخ عقد الزواج",
+     "type": "date"
+    },
+    {
+     "field": "marriage_doc_number",
+     "label": "رقم وثيقة الزواج",
+     "type": "text"
+    },
+    {
+     "field": "mahr_amount",
+     "label": "مقدار مقدم الصداق",
+     "type": "text"
+    },
+    {
+     "field": "children_details",
+     "label": "بيانات الأطفال إن وجدوا",
+     "type": "textarea"
+    }
+   ],
+   "auto_includes": [
+    "رقم ميكروفيلم الزوج",
+    "دمغة المحاماة 2 جنيه",
+    "التنازل الصريح عن جميع الحقوق المالية",
+    "طلب رد مقدم الصداق"
+   ],
+   "template_body": "بسم الله الرحمن الرحيم\n\nمحكمة الأسرة — {court_name}\nرقم التسوية: {settlement_number} بتاريخ {settlement_date}\n\nعريضة دعوى خلع\n\nمن / السيدة {wife_name} — رقم قومي {wife_id} — المقيمة بـ {wife_address}\nبوكالة / [اسم المحامي وعنوانه]\n\nضد / السيد {husband_name} — المقيم بـ {husband_address}\n\nأتشرف بعرض الآتي:\n\nالمدعية تربطها بالمدعى عليه علاقة زوجية بموجب وثيقة الزواج رقم {marriage_doc_number} المبرمة بتاريخ {marriage_date}، وقد بلغ مقدم الصداق {mahr_amount} جنيهاً.\n\nغير أن الحياة الزوجية باتت متعذرة واستحالت إقامة حياة مشتركة بين الطرفين، وهو ما تُقرِّر معه المدعية صراحةً خلعها من عصمة المدعى عليه مع تنازلها عن جميع حقوقها المالية الشرعية المترتبة على هذا الزواج ومقابل رد مقدم الصداق البالغ {mahr_amount} جنيهاً.\n\nبناءً على ذلك؛ تلتمس المدعية الحكم بتطليقها من المدعى عليه طلاقاً خلعياً مع إلزامه بالمصاريف القضائية.\n\nوالله ولي التوفيق\n{date}\n\n[دمغة محاماة 2 جنيه]"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "TPL-EXEC-001",
+  "type": "template",
+  "category": "تنفيذ",
+  "title": "عريضة طلب حجز تحفظي",
+  "content": "",
+  "keywords": [],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "مكتبة النماذج القانونية الجاهزة — LexBridge V2",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": null,
+   "confidence": null,
+   "branch": "تنفيذ"
+  },
+  "source_fields": {
+   "template_id": "TPL-EXEC-001",
+   "name": "عريضة طلب حجز تحفظي",
+   "branch": "تنفيذ",
+   "procedure_id": "EXEC-DEEP-001",
+   "fields": [
+    {
+     "field": "judge_title",
+     "label": "السيد قاضي الأمور الوقتية",
+     "type": "text"
+    },
+    {
+     "field": "court_name",
+     "label": "اسم المحكمة",
+     "type": "text"
+    },
+    {
+     "field": "creditor_name",
+     "label": "اسم الدائن الطالب",
+     "type": "text"
+    },
+    {
+     "field": "creditor_address",
+     "label": "عنوان الدائن",
+     "type": "text"
+    },
+    {
+     "field": "debtor_name",
+     "label": "اسم المدين",
+     "type": "text"
+    },
+    {
+     "field": "debtor_address",
+     "label": "عنوان المدين",
+     "type": "text"
+    },
+    {
+     "field": "debt_amount",
+     "label": "قيمة الدين",
+     "type": "text"
+    },
+    {
+     "field": "debt_source",
+     "label": "مصدر الدين / السند",
+     "type": "text"
+    },
+    {
+     "field": "assets_description",
+     "label": "وصف الأموال المراد الحجز عليها ومواقعها",
+     "type": "textarea"
+    },
+    {
+     "field": "urgency_reason",
+     "label": "أسباب الاستعجال / الخشية من التهريب",
+     "type": "textarea"
+    }
+   ],
+   "template_body": "بسم الله الرحمن الرحيم\n\nالسيد المستشار / قاضي الأمور الوقتية بـ {court_name}\n\nطلب أمر بحجز تحفظي\n\nمقدم من / {creditor_name} المقيم بـ {creditor_address}\n\nضد / {debtor_name} المقيم بـ {debtor_address}\n\nالموضوع:\n\nيداين المدعى عليه الطالبَ بمبلغ {debt_amount} جنيهاً ناشئاً عن {debt_source}، وتوجد خشية جدية من {urgency_reason}.\n\nالأموال المراد الحجز عليها:\n{assets_description}\n\nلذا يلتمس الطالب الأمر بتوقيع الحجز التحفظي على الأموال المذكورة ضماناً لهذا الدين.\n\n{date}"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "TPL-CRIM-001",
+  "type": "template",
+  "category": "جنائي",
+  "title": "شكوى جنائية",
+  "content": "",
+  "keywords": [],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "مكتبة النماذج القانونية الجاهزة — LexBridge V2",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": null,
+   "confidence": null,
+   "branch": "جنائي"
+  },
+  "source_fields": {
+   "template_id": "TPL-CRIM-001",
+   "name": "شكوى جنائية",
+   "branch": "جنائي",
+   "procedure_id": "CRIM-DEEP-001",
+   "fields": [
+    {
+     "field": "prosecution_office",
+     "label": "اسم النيابة العامة المختصة",
+     "type": "text"
+    },
+    {
+     "field": "victim_name",
+     "label": "اسم المجني عليه",
+     "type": "text"
+    },
+    {
+     "field": "victim_address",
+     "label": "عنوان المجني عليه",
+     "type": "text"
+    },
+    {
+     "field": "suspect_name",
+     "label": "اسم المتهم (إن كان معروفاً)",
+     "type": "text"
+    },
+    {
+     "field": "crime_description",
+     "label": "وصف الجريمة",
+     "type": "textarea"
+    },
+    {
+     "field": "crime_date",
+     "label": "تاريخ ومكان وقوع الجريمة",
+     "type": "text"
+    },
+    {
+     "field": "knowledge_date",
+     "label": "تاريخ علم المجني عليه بالجريمة وبمرتكبها",
+     "type": "date"
+    },
+    {
+     "field": "evidence",
+     "label": "الأدلة والشواهد المتوفرة",
+     "type": "textarea"
+    },
+    {
+     "field": "civil_claim",
+     "label": "هل يُراد الادعاء مدنياً؟ وكم مبلغ التعويض؟",
+     "type": "text"
+    }
+   ],
+   "auto_includes": [
+    "التنبيه على ميعاد الشكوى (3 أشهر من العلم)",
+    "توقيع المجني عليه أو وكيله الخاص"
+   ],
+   "template_body": "بسم الله الرحمن الرحيم\n\nالسيد المحترم / رئيس نيابة {prosecution_office}\n\nشكوى\n\nمقدمة من / {victim_name} المقيم بـ {victim_address}\n\nضد / {suspect_name}\n\nالوقائع:\n\nبتاريخ {crime_date} ارتكب المُشكو منه الجريمة الآتية:\n{crime_description}\n\nعلم المجني عليه بهذه الجريمة وبمرتكبها بتاريخ {knowledge_date}.\n\nالأدلة والشواهد:\n{evidence}\n\nلذا يلتمس المجني عليه التحقيق في هذه الوقائع واتخاذ الإجراءات القانونية اللازمة.\n\n{civil_claim_note}\n\nالتوقيع: {victim_name}\n{date}"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ },
+ {
+  "id": "TPL-APPEAL-001",
+  "type": "template",
+  "category": "مدني",
+  "title": "صحيفة استئناف مدني",
+  "content": "",
+  "keywords": [],
+  "citations": [],
+  "related_ids": [],
+  "metadata": {
+   "source": "مكتبة النماذج القانونية الجاهزة — LexBridge V2",
+   "law_number": null,
+   "article_number": null,
+   "date": null,
+   "court": null,
+   "confidence": null,
+   "branch": "مدني"
+  },
+  "source_fields": {
+   "template_id": "TPL-APPEAL-001",
+   "name": "صحيفة استئناف مدني",
+   "branch": "مدني",
+   "procedure_id": "APPEAL-DEEP-001",
+   "fields": [
+    {
+     "field": "appeal_court",
+     "label": "محكمة الاستئناف المختصة",
+     "type": "text"
+    },
+    {
+     "field": "appellant_name",
+     "label": "اسم المستأنِف",
+     "type": "text"
+    },
+    {
+     "field": "appellant_address",
+     "label": "عنوان المستأنِف",
+     "type": "text"
+    },
+    {
+     "field": "appellee_name",
+     "label": "اسم المستأنَف عليه",
+     "type": "text"
+    },
+    {
+     "field": "appellee_address",
+     "label": "عنوان المستأنَف عليه",
+     "type": "text"
+    },
+    {
+     "field": "judgment_number",
+     "label": "رقم الحكم المستأنَف وتاريخه ومحكمته",
+     "type": "text"
+    },
+    {
+     "field": "judgment_date",
+     "label": "تاريخ صدور الحكم أو إعلانه",
+     "type": "date"
+    },
+    {
+     "field": "appeal_grounds",
+     "label": "أوجه الاستئناف (القانونية والواقعية)",
+     "type": "textarea"
+    },
+    {
+     "field": "appeal_requests",
+     "label": "طلبات الاستئناف",
+     "type": "textarea"
+    }
+   ],
+   "auto_includes": [
+    "تنبيه: ميعاد الاستئناف 40 يوماً من صدور/إعلان الحكم",
+    "طلب قبول الاستئناف شكلاً وموضوعاً",
+    "طلب إلزام المستأنَف عليه بالمصاريف"
+   ],
+   "template_body": "بسم الله الرحمن الرحيم\n\nمحكمة استئناف {appeal_court}\n\nصحيفة استئناف\n\nمن / {appellant_name} — المقيم بـ {appellant_address}\n\nضد / {appellee_name} — المقيم بـ {appellee_address}\n\nيستأنف المستأنِف الحكم الصادر في القضية رقم {judgment_number} بتاريخ {judgment_date}.\n\nأوجه الاستئناف:\n{appeal_grounds}\n\nبناءً على ما تقدم؛ يلتمس المستأنِف الحكم بـ:\nأولاً: قبول الاستئناف شكلاً لرفعه في الميعاد.\nثانياً: في الموضوع: {appeal_requests}\nثالثاً: إلزام المستأنَف عليه بالمصاريف وأتعاب المحاماة.\n\nوالله ولي التوفيق\n{date}"
+  },
+  "related_articles": [],
+  "related_judgments": [],
+  "related_defenses": [],
+  "related_procedures": [],
+  "related_contracts": [],
+  "related_principles": []
+ }
+]
