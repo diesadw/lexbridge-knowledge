@@ -1,0 +1,50 @@
+[
+ {
+  "after_role": "main_instrument",
+  "before_role": "issuing_law_provisions",
+  "confirmed_by": null,
+  "evidence": {
+   "corroborated_by_file_without_prefix": "knowledge/laws/civil/كود_القانون_المدنى.json",
+   "issuing_law_text_markers_in_prefix": [
+    "يلغي",
+    "يعمل به",
+    "الجريدة الرسمية"
+   ],
+   "numbering_restart": true
+  },
+  "file": "knowledge/laws/civil/القانون_رقم_131_لسنة_1948_بإصدار_-=.json",
+  "start_index": 2
+ },
+ {
+  "after_role": "main_instrument",
+  "before_role": "issuing_law_provisions",
+  "confirmed_by": null,
+  "evidence": {
+   "corroborated_by_file_without_prefix": "knowledge/laws/civil/كود_القانون_المدنى.json",
+   "issuing_law_text_markers_in_prefix": [
+    "يلغي",
+    "يعمل به",
+    "الجريدة الرسمية"
+   ],
+   "numbering_restart": true
+  },
+  "file": "knowledge/laws/civil/القانون_رقم_131_لسنة_1948_بإصدار_-=_1.json",
+  "start_index": 2
+ },
+ {
+  "after_role": "main_instrument",
+  "before_role": "issuing_law_provisions",
+  "confirmed_by": null,
+  "evidence": {
+   "corroborated_by_file_without_prefix": "knowledge/laws/civil/كود_القانون_المدنى.json",
+   "issuing_law_text_markers_in_prefix": [
+    "يلغي",
+    "يعمل به",
+    "الجريدة الرسمية"
+   ],
+   "numbering_restart": true
+  },
+  "file": "knowledge/laws/civil/القانون_رقم_131_لسنة_1948_بإصدار_القانون_المدني.json",
+  "start_index": 2
+ }
+]
