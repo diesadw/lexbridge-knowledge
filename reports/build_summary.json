@@ -1,0 +1,51 @@
+{
+ "base": "3.0.0-rc1",
+ "import_date": "2026-11-25",
+ "intake": {
+  "archive_sha256": "80a1a9e78bd4c9fb5967d0373fe7c46b08be53047e617aa24a254940f8b74dc9",
+  "articles": 16597,
+  "articles_issuing": 641,
+  "articles_main": 15956,
+  "files_not_covered": 247,
+  "intake_open_review_items": 722,
+  "laws": 386,
+  "not_covered_by_reason": {
+   "not exported: header of a later article found inside article text": 14,
+   "not exported: multi-law file": 11,
+   "not exported: no articles detected": 6,
+   "not exported: no_number_in_heading": 74,
+   "not exported: unresolved numbering": 36,
+   "not processed: PDF text layer unreliable (presentation-form letters / broken font map)": 14,
+   "not processed: scanned PDF (needs OCR)": 67,
+   "skipped: unreadable (encoding garbage)": 5
+  },
+  "source_files": 674
+ },
+ "judgment_law_refs": {
+  "legacy_refs": 24937,
+  "not_remapped": 12518,
+  "remapped_to_intake": 12419
+ },
+ "judgments_fulltext": {
+  "branch": {
+   "civil": 64,
+   "crim": 11
+  },
+  "canonical_records": 75,
+  "merged_identical_duplicates": 1,
+  "raw_in_docx": 76,
+  "variant_groups": 1
+ },
+ "legacy_laws": {
+  "article_records": 19310,
+  "articles_with_intake_replacement": 9641,
+  "instruments": 105,
+  "status": {
+   "legacy_not_replaced": 73,
+   "partially_covered_by_intake": 1,
+   "superseded_by_intake": 31
+  }
+ },
+ "release": "3.1.0-rc1",
+ "review_items_total": 1338
+}

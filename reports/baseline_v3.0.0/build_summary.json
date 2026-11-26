@@ -1,0 +1,48 @@
+{
+ "archives": {
+  "egypt_law_sha256": "bb831e4fb4490ae8fbd9478ffb52887d47bbd4156890fb817437b900f5df18b6",
+  "egypt_law_source_commit": "a9a9f589c7537c1ff1796795ac87efbbd042c95a",
+  "lexbridge_sha256": "514ed03f1c44a0ae9b111faca045417bfc8b8f12ddb29e5ee90139ba5ba97c7e"
+ },
+ "egypt_constitution": {
+  "ar": 258,
+  "en": 255
+ },
+ "import_date": "2026-11-23",
+ "judgments": {
+  "canonical_records": 42482,
+  "legacy_id_collisions": 31,
+  "merged_groups": 1367,
+  "potential_duplicate_candidates": 87,
+  "raw_records": 44190,
+  "redundant_records_merged": 1708,
+  "status_by_raw_record": {
+   "collision_resolved": 66,
+   "identity_incomplete": 323,
+   "merged_duplicate": 3075,
+   "unique": 40726
+  }
+ },
+ "laws": {
+  "article_records": 19310,
+  "boundaries_probable_issuing_prefix": 3,
+  "canonical_law_number_null": 65,
+  "canonical_law_number_populated": 40,
+  "editions": 135,
+  "instruments": 105,
+  "instruments_with_multiple_editions": 18,
+  "numbering_boundaries_flagged": 86,
+  "raw_files": 139,
+  "raw_records": 21093
+ },
+ "pipeline_version": "pilot-0.1",
+ "release": "3.0.0-rc1",
+ "review_items": 552,
+ "small_collections": {
+  "deadlines": 67,
+  "defenses": 42,
+  "principles": 49,
+  "procedures": 74,
+  "templates": 7
+ }
+}

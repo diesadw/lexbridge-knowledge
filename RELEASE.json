@@ -1,0 +1,7 @@
+{
+ "release": "3.1.0-rc1",
+ "base": "3.0.0-rc1",
+ "status": "release_candidate_not_deployed",
+ "validation": "30/30",
+ "touches_production": false
+}

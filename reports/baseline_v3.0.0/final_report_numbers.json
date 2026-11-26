@@ -1,0 +1,34 @@
+{
+ "totals": {
+  "raw": 65522,
+  "canonical": 62544
+ },
+ "unclassified_unlinked": {
+  "judgments_uncategorized": 192,
+  "judgments_without_any_relation": 771,
+  "judgments_without_law_link": 37799,
+  "judgments_without_citation": 10450,
+  "judgment_to_law_refs_unresolved": 0,
+  "law_articles_referenced_by_anything": 3085,
+  "law_articles_total": 19310,
+  "instruments_canonical_identity_null": 65,
+  "instruments_multi_edition": 18,
+  "boundaries_unconfirmed": 86,
+  "defenses_title_only": 42,
+  "defenses_without_judgments": 0,
+  "templates_without_valid_procedure_link": 0
+ },
+ "before": {
+  "uncategorized": 1900,
+  "no_relation": 771,
+  "no_law_link": 39229,
+  "no_citation": 11418
+ },
+ "judgment_numbering": {
+  "records": 42482,
+  "with_case_and_year": 42482,
+  "citation_label": 42452,
+  "conflicts": 30,
+  "distinct_judgments": 21125
+ }
+}

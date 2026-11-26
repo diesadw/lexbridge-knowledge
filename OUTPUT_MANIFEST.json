@@ -1,0 +1,23 @@
+{
+ "canonical/deadlines/deadlines.jsonl.gz": "4c8f22e111fe1774e7ac1d79b03bac8c5d45b4ad66aaa7f3bc477e2c064ee2cd",
+ "canonical/defenses/defenses.jsonl.gz": "ad5de00f6fbe988ecade8507b94dfe20e924ff11dfeacbe005b38140bd03f547",
+ "canonical/judgments/judgment_principles.jsonl.gz": "635da3d6540f2e6365526040426745ca6519092bcd2426ea186e4475c636ed4d",
+ "canonical/judgments/judgments_fulltext.jsonl.gz": "f4e99b71dc2a7db9936206eda376d861170f6d962bb17724d549b463fa248c96",
+ "canonical/legislation/articles_egypt_law_constitution.jsonl.gz": "28a61f39e967717d1c217d0632973c8467e06f20eb3fa80944cf2c05a3b281b3",
+ "canonical/legislation/articles_law_intake.jsonl.gz": "5b912d9a482db9324d985462458b89b8ee9773704c4fb7a69b49dec514b67210",
+ "canonical/legislation/articles_lexbridge.jsonl.gz": "36f313b6e08602aab6debc107ced3f2143b66109993cbaf558192a7563f89b29",
+ "canonical/legislation/instruments.jsonl.gz": "0a7bf7ea252a6d8725ee17dc7071463c5e97244c74168d13faba6383d7c7e1a7",
+ "canonical/principles/principles.jsonl.gz": "b906aa716ebb640f84e859972df3904a9bcf48ef71279a43d6bb311ab038e5c3",
+ "canonical/procedures/procedures.jsonl.gz": "7c9cdb79e50a9a55a3a647579e9e050dd9b1003c1b0c624ec61a78e5e2350556",
+ "canonical/templates/templates.jsonl.gz": "912254abb6ac087139d5885cfdec91c63d86709721e497902120fddfbbf107ae",
+ "mappings/judgment_fulltext_source_map.csv.gz": "28b4b6f9ea7002bace2ed1b282e0ffe48149acc5b4ed43e6213191b36176160f",
+ "mappings/judgment_id_map.csv.gz": "fa9d5933362d286011bc6f9d56845d92893e135ea689499839c7740710aca4b5",
+ "mappings/law_article_remap_legacy_to_intake.csv.gz": "7ca84a7135c7293f33fbf9b7000862ce9a2e380ada18bba5b97d1f55ff0586d9",
+ "mappings/law_id_map.csv.gz": "937092d4f1e649f303ae8df7951a3357b0c35901f98a4ac32baf409dc407533b",
+ "mappings/other_collections_id_map.csv.gz": "1f311c767841efd39411da84a481317cbfef0542b4c5c760d52b98ff0a0aa670",
+ "reports/build_summary.json": "79c9664e50a36543718720d68d4a006e23f0855c218c96942fb4ec76374f54da",
+ "reports/constitution_count_reconciliation.json": "9854761a829394614141a0d42a019fd4514ee3986028fcf33b6cd0d1b49003c8",
+ "reports/human_review_items.jsonl.gz": "eaede30dde7b407ced2e8734811609fc49cd0aa3f70d761ab3b56524b97b04ab",
+ "reports/intake_not_exported.json": "28f689f6b17236b7168a9f1a2b34656932769bd163bb503ed7592f5757360afa",
+ "reports/numbering_boundaries.json": "a4493d3b1698f5372f415e34d7fa3759139708215d3520e2d2e728c39298f654"
+}

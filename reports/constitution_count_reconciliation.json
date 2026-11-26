@@ -1,0 +1,83 @@
+{
+ "ar": {
+  "folder": "dustur",
+  "md_files_excluding_README": 258,
+  "preamble": 1,
+  "numbered": 254,
+  "numbered_unique": 254,
+  "numbered_range": [
+   1,
+   254
+  ],
+  "numbered_gaps": [],
+  "bis_files": [
+   "art-150-bis",
+   "art-241-bis",
+   "art-244-bis"
+  ],
+  "unrecognised_files": [],
+  "arithmetic": "1 + 254 + 3 = 258",
+  "readme_article_rows": 257
+ },
+ "en": {
+  "folder": "constitution",
+  "md_files_excluding_README": 255,
+  "preamble": 1,
+  "numbered": 254,
+  "numbered_unique": 254,
+  "numbered_range": [
+   1,
+   254
+  ],
+  "numbered_gaps": [],
+  "bis_files": [],
+  "unrecognised_files": [],
+  "arithmetic": "1 + 254 + 0 = 255",
+  "readme_article_rows": 254
+ },
+ "upstream_versions_json_units": {
+  "constitution": [
+   255
+  ],
+  "dustur": [
+   258
+  ]
+ },
+ "english_bis_embedded_in_parent": {
+  "150": true,
+  "241": true,
+  "244": true
+ },
+ "arabic_articles_with_identical_text_to_another": 0,
+ "canonical": {
+  "total": 513,
+  "ar": 258,
+  "en": 255,
+  "duplicate_ids": [],
+  "ar_by_kind": {
+   "preamble": 1,
+   "numbered": 254,
+   "bis": 3
+  },
+  "en_by_kind": {
+   "preamble": 1,
+   "numbered": 254
+  },
+  "link_status": {
+   "linked_same_key": 255,
+   "embedded_in_parent_article": 3
+  }
+ },
+ "lexbridge_constitution_file": {
+  "records": 212,
+  "unique_canonical_numbers": 212,
+  "non_plain_integers": [
+   "192-bis"
+  ],
+  "integer_range": [
+   1,
+   211
+  ]
+ },
+ "verdict": "RECONCILED: no article missing or double-counted"
+}
